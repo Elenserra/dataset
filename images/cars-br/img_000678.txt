@@ -1,0 +1,4 @@
+type: car
+plate: QQR8453
+layout: Brazilian
+corners: 548,390 671,390 670,430 551,428

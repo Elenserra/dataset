@@ -1,0 +1,4 @@
+type: car
+plate: PPV4400
+layout: Brazilian
+corners: 1004,107 1086,105 1088,132 1004,134

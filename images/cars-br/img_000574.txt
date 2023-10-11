@@ -1,0 +1,4 @@
+type: car
+plate: ODG5452
+layout: Brazilian
+corners: 586,351 709,348 711,390 588,393

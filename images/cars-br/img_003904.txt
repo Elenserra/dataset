@@ -1,0 +1,4 @@
+type: car
+plate: OVO1820
+layout: Brazilian
+corners: 697,280 810,280 812,320 698,321

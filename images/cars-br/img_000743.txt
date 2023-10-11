@@ -1,0 +1,4 @@
+type: car
+plate: MSE9111
+layout: Brazilian
+corners: 544,439 677,438 680,484 548,484

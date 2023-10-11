@@ -1,0 +1,4 @@
+type: car
+plate: MQZ2688
+layout: Brazilian
+corners: 665,262 781,263 781,303 666,302

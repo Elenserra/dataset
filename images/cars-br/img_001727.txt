@@ -1,0 +1,4 @@
+type: car
+plate: PPP9250
+layout: Brazilian
+corners: 559,237 663,237 664,274 559,274

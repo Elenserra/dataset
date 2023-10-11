@@ -1,0 +1,4 @@
+type: car
+plate: ODM1836
+layout: Brazilian
+corners: 343,536 500,539 502,597 342,593

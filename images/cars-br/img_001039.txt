@@ -1,0 +1,4 @@
+type: car
+plate: AXO4550
+layout: Brazilian
+corners: 618,245 717,244 718,279 618,280

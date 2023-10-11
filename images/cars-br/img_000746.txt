@@ -1,0 +1,4 @@
+type: car
+plate: MSG7196
+layout: Brazilian
+corners: 450,391 591,386 592,437 453,439

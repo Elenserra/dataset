@@ -1,0 +1,4 @@
+type: car
+plate: FSH5743
+layout: Brazilian
+corners: 516,391 638,392 641,432 518,431

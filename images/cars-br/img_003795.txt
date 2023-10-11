@@ -1,0 +1,4 @@
+type: car
+plate: MQJ9338
+layout: Brazilian
+corners: 770,369 907,367 911,414 770,415

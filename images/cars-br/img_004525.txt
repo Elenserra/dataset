@@ -1,0 +1,4 @@
+type: car
+plate: ODF9181
+layout: Brazilian
+corners: 809,325 939,322 944,363 813,367

@@ -1,0 +1,4 @@
+type: car
+plate: PPA3984
+layout: Brazilian
+corners: 749,151 858,145 862,184 751,189

@@ -1,0 +1,4 @@
+type: car
+plate: PPE5615
+layout: Brazilian
+corners: 544,346 660,348 659,389 543,388

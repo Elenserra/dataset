@@ -1,0 +1,4 @@
+type: car
+plate: ODK0873
+layout: Brazilian
+corners: 678,285 781,285 782,318 680,318

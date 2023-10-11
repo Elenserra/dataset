@@ -1,0 +1,4 @@
+type: car
+plate: PPO5037
+layout: Brazilian
+corners: 748,341 884,338 887,386 750,386

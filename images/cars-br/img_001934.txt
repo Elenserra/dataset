@@ -1,0 +1,4 @@
+type: car
+plate: HCY2358
+layout: Brazilian
+corners: 833,320 961,321 961,362 834,362

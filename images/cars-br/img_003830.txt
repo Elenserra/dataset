@@ -1,0 +1,4 @@
+type: car
+plate: LRF1048
+layout: Brazilian
+corners: 767,342 902,340 906,388 769,392

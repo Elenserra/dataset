@@ -1,0 +1,4 @@
+type: car
+plate: DWK3417
+layout: Brazilian
+corners: 756,351 894,348 898,395 759,397

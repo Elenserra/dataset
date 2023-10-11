@@ -1,0 +1,4 @@
+type: car
+plate: MQG1833
+layout: Brazilian
+corners: 910,247 1023,245 1025,285 908,287

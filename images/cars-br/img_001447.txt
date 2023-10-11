@@ -1,0 +1,4 @@
+type: car
+plate: PPW3275
+layout: Brazilian
+corners: 651,278 755,276 755,312 650,313

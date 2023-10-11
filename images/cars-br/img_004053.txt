@@ -1,0 +1,4 @@
+type: car
+plate: PPF0690
+layout: Brazilian
+corners: 808,291 936,289 940,331 811,335

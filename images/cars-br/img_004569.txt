@@ -1,0 +1,4 @@
+type: car
+plate: PYR2725
+layout: Brazilian
+corners: 824,331 957,330 959,375 824,377

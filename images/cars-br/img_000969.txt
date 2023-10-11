@@ -1,0 +1,4 @@
+type: car
+plate: PPS0718
+layout: Brazilian
+corners: 533,395 665,396 664,442 533,442

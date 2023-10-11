@@ -1,0 +1,4 @@
+type: car
+plate: PPO0598
+layout: Brazilian
+corners: 871,313 1005,311 1008,358 871,360

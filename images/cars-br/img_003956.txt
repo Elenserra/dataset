@@ -1,0 +1,4 @@
+type: car
+plate: MCM0133
+layout: Brazilian
+corners: 770,289 899,283 902,329 772,332

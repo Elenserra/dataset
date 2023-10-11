@@ -1,0 +1,4 @@
+type: car
+plate: QRC0395
+layout: Brazilian
+corners: 682,253 782,252 783,286 683,287

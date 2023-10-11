@@ -1,0 +1,4 @@
+type: car
+plate: MSV6051
+layout: Brazilian
+corners: 542,383 670,383 671,425 546,425

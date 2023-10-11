@@ -1,0 +1,4 @@
+type: car
+plate: PPU0729
+layout: Brazilian
+corners: 531,308 655,306 659,347 533,349

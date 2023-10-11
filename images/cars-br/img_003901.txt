@@ -1,0 +1,4 @@
+type: car
+plate: MSB1096
+layout: Brazilian
+corners: 533,379 661,378 667,423 533,422

@@ -1,0 +1,4 @@
+type: car
+plate: ODO7980
+layout: Brazilian
+corners: 769,186 857,184 858,217 769,218

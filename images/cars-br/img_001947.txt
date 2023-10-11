@@ -1,0 +1,4 @@
+type: car
+plate: OVF6320
+layout: Brazilian
+corners: 724,170 804,171 805,196 724,195

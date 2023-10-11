@@ -1,0 +1,4 @@
+type: car
+plate: MSY4727
+layout: Brazilian
+corners: 879,154 976,150 979,185 879,187

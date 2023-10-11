@@ -1,0 +1,4 @@
+type: car
+plate: MRP3429
+layout: Brazilian
+corners: 737,305 859,301 862,345 738,347

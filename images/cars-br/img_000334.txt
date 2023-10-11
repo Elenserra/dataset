@@ -1,0 +1,4 @@
+type: car
+plate: PPE0807
+layout: Brazilian
+corners: 540,378 664,375 667,423 539,424

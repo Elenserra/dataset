@@ -1,0 +1,4 @@
+type: car
+plate: MQC2272
+layout: Brazilian
+corners: 823,309 953,309 956,355 824,354

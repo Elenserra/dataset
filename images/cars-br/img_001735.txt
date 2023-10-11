@@ -1,0 +1,4 @@
+type: car
+plate: OYH2574
+layout: Brazilian
+corners: 545,377 669,375 670,419 546,420

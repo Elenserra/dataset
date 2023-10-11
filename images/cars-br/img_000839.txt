@@ -1,0 +1,4 @@
+type: car
+plate: MTU2839
+layout: Brazilian
+corners: 548,365 667,365 669,407 550,405

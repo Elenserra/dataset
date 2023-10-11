@@ -1,0 +1,4 @@
+type: car
+plate: KON3026
+layout: Brazilian
+corners: 565,400 692,401 693,443 566,442

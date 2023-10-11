@@ -1,0 +1,4 @@
+type: car
+plate: OVL3574
+layout: Brazilian
+corners: 770,354 908,357 908,401 770,399

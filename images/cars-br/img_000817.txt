@@ -1,0 +1,4 @@
+type: car
+plate: QOH1908
+layout: Brazilian
+corners: 524,386 656,385 658,429 528,430

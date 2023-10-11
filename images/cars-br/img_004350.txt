@@ -1,0 +1,4 @@
+type: car
+plate: QPN6140
+layout: Brazilian
+corners: 826,328 956,326 960,372 827,373

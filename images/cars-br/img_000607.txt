@@ -1,0 +1,4 @@
+type: car
+plate: ODB9073
+layout: Brazilian
+corners: 577,386 699,386 698,429 575,429

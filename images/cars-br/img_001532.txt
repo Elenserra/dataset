@@ -1,0 +1,4 @@
+type: car
+plate: DMM4969
+layout: Brazilian
+corners: 552,388 679,389 680,432 552,431

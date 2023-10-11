@@ -1,0 +1,4 @@
+type: car
+plate: MTD2910
+layout: Brazilian
+corners: 799,352 932,353 935,397 800,395

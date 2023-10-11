@@ -1,0 +1,4 @@
+type: car
+plate: AYO8215
+layout: Brazilian
+corners: 715,235 813,232 814,266 716,268

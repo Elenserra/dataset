@@ -1,0 +1,4 @@
+type: car
+plate: PZO6838
+layout: Brazilian
+corners: 1012,124 1099,120 1102,150 1014,153

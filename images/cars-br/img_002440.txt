@@ -1,0 +1,4 @@
+type: car
+plate: MTU1392
+layout: Brazilian
+corners: 497,273 628,272 631,316 500,316

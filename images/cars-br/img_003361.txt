@@ -1,0 +1,4 @@
+type: car
+plate: PPB5272
+layout: Brazilian
+corners: 632,315 757,315 757,359 634,357

@@ -1,0 +1,4 @@
+type: car
+plate: KVR5711
+layout: Brazilian
+corners: 786,345 918,344 922,388 787,388

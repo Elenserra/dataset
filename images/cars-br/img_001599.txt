@@ -1,0 +1,4 @@
+type: car
+plate: ODR5073
+layout: Brazilian
+corners: 591,365 711,365 713,407 593,407

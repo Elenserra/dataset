@@ -1,0 +1,4 @@
+type: car
+plate: ODT6140
+layout: Brazilian
+corners: 652,330 780,333 781,378 653,374

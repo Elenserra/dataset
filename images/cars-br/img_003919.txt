@@ -1,0 +1,4 @@
+type: car
+plate: MSW2688
+layout: Brazilian
+corners: 912,263 1028,260 1031,299 913,301

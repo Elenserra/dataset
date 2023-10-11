@@ -1,0 +1,4 @@
+type: car
+plate: PPT7096
+layout: Brazilian
+corners: 259,512 408,520 408,575 261,564

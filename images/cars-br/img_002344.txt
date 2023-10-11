@@ -1,0 +1,4 @@
+type: car
+plate: MSX9073
+layout: Brazilian
+corners: 518,284 641,283 643,325 521,327

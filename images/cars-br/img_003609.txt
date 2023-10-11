@@ -1,0 +1,4 @@
+type: car
+plate: MTF1823
+layout: Brazilian
+corners: 824,323 939,323 943,362 826,363

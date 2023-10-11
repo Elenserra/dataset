@@ -1,0 +1,4 @@
+type: car
+plate: PPM1391
+layout: Brazilian
+corners: 647,315 755,315 755,354 648,354

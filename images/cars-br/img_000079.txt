@@ -1,0 +1,4 @@
+type: car
+plate: MRO2620
+layout: Brazilian
+corners: 580,412 703,413 704,454 580,453

@@ -1,0 +1,4 @@
+type: car
+plate: OIF5165
+layout: Brazilian
+corners: 842,318 971,316 974,363 843,364

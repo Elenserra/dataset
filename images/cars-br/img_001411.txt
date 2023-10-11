@@ -1,0 +1,4 @@
+type: car
+plate: ODO2628
+layout: Brazilian
+corners: 535,387 661,387 662,430 536,431

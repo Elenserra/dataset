@@ -1,0 +1,4 @@
+type: car
+plate: QNN6738
+layout: Brazilian
+corners: 506,415 634,417 635,454 509,453

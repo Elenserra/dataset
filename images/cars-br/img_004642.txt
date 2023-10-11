@@ -1,0 +1,4 @@
+type: car
+plate: HOA6280
+layout: Brazilian
+corners: 854,313 986,312 986,358 854,358

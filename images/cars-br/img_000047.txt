@@ -1,0 +1,4 @@
+type: car
+plate: MTZ0181
+layout: Brazilian
+corners: 531,412 655,412 656,454 532,452

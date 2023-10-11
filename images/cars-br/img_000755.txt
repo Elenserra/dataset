@@ -1,0 +1,4 @@
+type: car
+plate: MQS0330
+layout: Brazilian
+corners: 506,444 637,445 640,486 509,484

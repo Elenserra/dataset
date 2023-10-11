@@ -1,0 +1,4 @@
+type: car
+plate: BEN1491
+layout: Brazilian
+corners: 800,232 902,231 904,264 802,265

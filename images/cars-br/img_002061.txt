@@ -1,0 +1,4 @@
+type: car
+plate: LLI6801
+layout: Brazilian
+corners: 690,232 792,231 793,266 691,267

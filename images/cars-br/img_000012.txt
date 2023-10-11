@@ -1,0 +1,4 @@
+type: car
+plate: MTP9115
+layout: Brazilian
+corners: 622,423 743,419 746,457 623,459

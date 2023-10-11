@@ -1,0 +1,4 @@
+type: car
+plate: ODR4735
+layout: Brazilian
+corners: 836,25 899,24 900,46 836,46

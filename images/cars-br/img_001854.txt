@@ -1,0 +1,4 @@
+type: car
+plate: GGU9469
+layout: Brazilian
+corners: 673,223 769,222 770,255 674,256

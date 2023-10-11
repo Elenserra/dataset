@@ -1,0 +1,4 @@
+type: car
+plate: LQQ9882
+layout: Brazilian
+corners: 773,345 907,344 910,390 775,391

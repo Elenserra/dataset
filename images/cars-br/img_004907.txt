@@ -1,0 +1,4 @@
+type: car
+plate: PPT3062
+layout: Brazilian
+corners: 955,194 1061,192 1064,229 955,230

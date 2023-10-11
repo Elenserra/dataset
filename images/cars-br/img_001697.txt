@@ -1,0 +1,4 @@
+type: car
+plate: PPJ9301
+layout: Brazilian
+corners: 422,485 569,488 571,540 424,536

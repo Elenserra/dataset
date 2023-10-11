@@ -1,0 +1,4 @@
+type: car
+plate: FPT2388
+layout: Brazilian
+corners: 598,301 722,302 724,345 600,345

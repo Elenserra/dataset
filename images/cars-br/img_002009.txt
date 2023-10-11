@@ -1,0 +1,4 @@
+type: car
+plate: PPW7609
+layout: Brazilian
+corners: 497,420 620,422 621,463 497,461

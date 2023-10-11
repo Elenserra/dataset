@@ -1,0 +1,4 @@
+type: car
+plate: MRJ3434
+layout: Brazilian
+corners: 754,335 881,334 885,378 756,378

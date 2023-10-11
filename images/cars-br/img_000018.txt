@@ -1,0 +1,4 @@
+type: car
+plate: PPY1001
+layout: Brazilian
+corners: 579,371 707,370 709,411 581,414

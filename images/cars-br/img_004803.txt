@@ -1,0 +1,4 @@
+type: car
+plate: MSM5358
+layout: Brazilian
+corners: 913,233 1020,229 1022,266 914,269

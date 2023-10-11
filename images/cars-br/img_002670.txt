@@ -1,0 +1,4 @@
+type: car
+plate: QRC0917
+layout: Brazilian
+corners: 648,315 777,315 780,357 650,356

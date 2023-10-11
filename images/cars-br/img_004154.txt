@@ -1,0 +1,4 @@
+type: car
+plate: FMW0839
+layout: Brazilian
+corners: 791,325 920,327 924,370 792,368

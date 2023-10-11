@@ -1,0 +1,4 @@
+type: car
+plate: MRS0956
+layout: Brazilian
+corners: 719,240 814,241 815,272 719,271

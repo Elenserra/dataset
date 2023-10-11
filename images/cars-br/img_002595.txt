@@ -1,0 +1,4 @@
+type: car
+plate: MRY7639
+layout: Brazilian
+corners: 759,154 862,149 866,182 763,186

@@ -1,0 +1,4 @@
+type: car
+plate: MSS2875
+layout: Brazilian
+corners: 563,356 683,357 684,398 564,396

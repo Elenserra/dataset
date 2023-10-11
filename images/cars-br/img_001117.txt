@@ -1,0 +1,4 @@
+type: car
+plate: PPY3697
+layout: Brazilian
+corners: 661,306 773,307 773,344 662,344

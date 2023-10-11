@@ -1,0 +1,4 @@
+type: car
+plate: ODS4263
+layout: Brazilian
+corners: 788,323 906,321 909,362 788,364

@@ -1,0 +1,4 @@
+type: car
+plate: AYN2397
+layout: Brazilian
+corners: 791,274 913,270 914,315 791,315

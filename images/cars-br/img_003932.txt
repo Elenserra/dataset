@@ -1,0 +1,4 @@
+type: car
+plate: QPW7955
+layout: Brazilian
+corners: 968,192 1071,189 1072,223 968,226

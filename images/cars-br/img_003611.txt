@@ -1,0 +1,4 @@
+type: car
+plate: DGA9115
+layout: Brazilian
+corners: 785,353 924,353 928,401 786,402

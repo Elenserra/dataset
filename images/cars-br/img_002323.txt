@@ -1,0 +1,4 @@
+type: car
+plate: MPI9809
+layout: Brazilian
+corners: 325,500 484,502 487,556 328,555

@@ -1,0 +1,4 @@
+type: car
+plate: MTE5376
+layout: Brazilian
+corners: 503,423 631,422 634,466 506,465

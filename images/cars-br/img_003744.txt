@@ -1,0 +1,4 @@
+type: car
+plate: MSV9304
+layout: Brazilian
+corners: 749,348 884,348 887,393 750,394

@@ -1,0 +1,4 @@
+type: car
+plate: PPC5148
+layout: Brazilian
+corners: 554,400 681,399 682,442 553,442

@@ -1,0 +1,4 @@
+type: car
+plate: MTZ6860
+layout: Brazilian
+corners: 700,295 822,297 822,339 701,336

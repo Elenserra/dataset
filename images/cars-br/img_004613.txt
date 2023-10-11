@@ -1,0 +1,4 @@
+type: car
+plate: PPA1050
+layout: Brazilian
+corners: 715,299 841,298 842,343 715,343

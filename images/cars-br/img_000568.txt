@@ -1,0 +1,4 @@
+type: car
+plate: QNR5824
+layout: Brazilian
+corners: 432,400 557,401 556,442 432,441

@@ -1,0 +1,4 @@
+type: car
+plate: MTE1705
+layout: Brazilian
+corners: 486,355 597,356 597,397 485,395

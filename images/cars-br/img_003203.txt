@@ -1,0 +1,4 @@
+type: car
+plate: ODS3172
+layout: Brazilian
+corners: 703,258 820,261 820,300 704,297

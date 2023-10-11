@@ -1,0 +1,4 @@
+type: car
+plate: ODS6119
+layout: Brazilian
+corners: 662,320 789,320 791,363 665,362

@@ -1,0 +1,4 @@
+type: car
+plate: PPM1238
+layout: Brazilian
+corners: 840,295 959,294 963,333 840,333

@@ -1,0 +1,4 @@
+type: car
+plate: JOK7866
+layout: Brazilian
+corners: 535,396 665,396 665,444 535,443

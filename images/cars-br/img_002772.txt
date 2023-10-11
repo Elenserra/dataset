@@ -1,0 +1,4 @@
+type: car
+plate: ODG5897
+layout: Brazilian
+corners: 597,335 727,340 728,384 598,379

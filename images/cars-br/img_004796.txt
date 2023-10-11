@@ -1,0 +1,4 @@
+type: car
+plate: PPO8840
+layout: Brazilian
+corners: 744,288 886,285 888,336 746,337

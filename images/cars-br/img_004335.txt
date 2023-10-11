@@ -1,0 +1,4 @@
+type: car
+plate: PPW9916
+layout: Brazilian
+corners: 891,228 1002,224 1004,263 892,266

@@ -1,0 +1,4 @@
+type: car
+plate: OVF4736
+layout: Brazilian
+corners: 747,210 858,211 860,248 748,247

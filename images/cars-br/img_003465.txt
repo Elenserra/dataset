@@ -1,0 +1,4 @@
+type: car
+plate: HBR4108
+layout: Brazilian
+corners: 759,313 888,312 893,357 761,357

@@ -1,0 +1,4 @@
+type: car
+plate: MPX2832
+layout: Brazilian
+corners: 525,384 651,385 651,430 525,428

@@ -1,0 +1,4 @@
+type: car
+plate: MQH6337
+layout: Brazilian
+corners: 451,272 573,269 576,311 454,315

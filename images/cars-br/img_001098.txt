@@ -1,0 +1,4 @@
+type: car
+plate: MSF2975
+layout: Brazilian
+corners: 586,326 698,326 699,364 587,364

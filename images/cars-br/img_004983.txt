@@ -1,0 +1,4 @@
+type: car
+plate: QPT6935
+layout: Brazilian
+corners: 682,358 816,366 815,413 681,403

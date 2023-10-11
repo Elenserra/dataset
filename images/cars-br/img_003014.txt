@@ -1,0 +1,4 @@
+type: car
+plate: ODF5652
+layout: Brazilian
+corners: 685,325 814,328 817,370 686,367

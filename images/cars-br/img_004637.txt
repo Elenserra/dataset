@@ -1,0 +1,4 @@
+type: car
+plate: MTK4670
+layout: Brazilian
+corners: 834,315 960,311 963,355 836,358

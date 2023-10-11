@@ -1,0 +1,4 @@
+type: car
+plate: QWV4663
+layout: Brazilian
+corners: 860,280 982,278 984,321 859,323

@@ -1,0 +1,4 @@
+type: car
+plate: MKI9203
+layout: Brazilian
+corners: 763,351 898,352 900,396 764,398

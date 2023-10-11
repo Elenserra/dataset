@@ -1,0 +1,4 @@
+type: car
+plate: EFV0889
+layout: Brazilian
+corners: 670,259 764,258 765,288 671,289

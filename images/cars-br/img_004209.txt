@@ -1,0 +1,4 @@
+type: car
+plate: JSK7937
+layout: Brazilian
+corners: 963,117 1043,115 1046,144 964,147

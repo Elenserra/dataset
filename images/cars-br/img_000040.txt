@@ -1,0 +1,4 @@
+type: car
+plate: MPP7123
+layout: Brazilian
+corners: 646,354 744,354 745,385 646,385

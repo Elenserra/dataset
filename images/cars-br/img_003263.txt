@@ -1,0 +1,4 @@
+type: car
+plate: MTY6419
+layout: Brazilian
+corners: 751,322 885,320 885,365 752,366

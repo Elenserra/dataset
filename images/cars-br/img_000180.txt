@@ -1,0 +1,4 @@
+type: car
+plate: MQX8097
+layout: Brazilian
+corners: 605,327 711,327 712,359 604,359

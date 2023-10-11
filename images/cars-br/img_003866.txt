@@ -1,0 +1,4 @@
+type: car
+plate: HJA9003
+layout: Brazilian
+corners: 759,334 888,331 892,374 763,377

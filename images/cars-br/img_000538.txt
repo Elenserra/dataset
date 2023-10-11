@@ -1,0 +1,4 @@
+type: car
+plate: MTT3856
+layout: Brazilian
+corners: 671,246 767,243 770,278 673,279

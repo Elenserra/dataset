@@ -1,0 +1,4 @@
+type: car
+plate: PPE5451
+layout: Brazilian
+corners: 528,414 658,415 659,460 528,459

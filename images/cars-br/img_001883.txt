@@ -1,0 +1,4 @@
+type: car
+plate: GSW6100
+layout: Brazilian
+corners: 560,419 694,420 695,463 560,462

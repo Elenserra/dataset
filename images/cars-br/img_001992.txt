@@ -1,0 +1,4 @@
+type: car
+plate: GYS8753
+layout: Brazilian
+corners: 812,290 922,288 925,317 816,317

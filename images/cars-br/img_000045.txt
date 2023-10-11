@@ -1,0 +1,4 @@
+type: car
+plate: LQT5979
+layout: Brazilian
+corners: 574,401 697,400 698,438 575,439

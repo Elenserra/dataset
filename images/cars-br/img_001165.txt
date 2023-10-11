@@ -1,0 +1,4 @@
+type: car
+plate: MSQ4244
+layout: Brazilian
+corners: 608,328 724,329 724,371 610,368

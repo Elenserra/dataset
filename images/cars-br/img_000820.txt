@@ -1,0 +1,4 @@
+type: car
+plate: MRQ5441
+layout: Brazilian
+corners: 500,434 628,436 629,481 501,478

@@ -1,0 +1,4 @@
+type: car
+plate: MPR6555
+layout: Brazilian
+corners: 768,336 886,333 893,368 771,370

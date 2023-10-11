@@ -1,0 +1,4 @@
+type: car
+plate: PPB3578
+layout: Brazilian
+corners: 901,158 994,155 995,188 901,190

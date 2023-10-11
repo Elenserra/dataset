@@ -1,0 +1,4 @@
+type: car
+plate: KPH8532
+layout: Brazilian
+corners: 744,221 856,219 857,256 745,258

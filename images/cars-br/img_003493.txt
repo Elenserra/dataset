@@ -1,0 +1,4 @@
+type: car
+plate: OYH3829
+layout: Brazilian
+corners: 828,336 961,333 965,381 829,382

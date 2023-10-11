@@ -1,0 +1,4 @@
+type: car
+plate: ODF5623
+layout: Brazilian
+corners: 684,286 805,288 805,331 682,326

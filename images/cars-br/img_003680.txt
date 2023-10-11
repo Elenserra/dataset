@@ -1,0 +1,4 @@
+type: car
+plate: OVF6191
+layout: Brazilian
+corners: 788,371 919,371 925,414 789,411

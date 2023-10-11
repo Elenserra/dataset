@@ -1,0 +1,4 @@
+type: car
+plate: OVH8037
+layout: Brazilian
+corners: 491,389 622,391 622,435 493,434

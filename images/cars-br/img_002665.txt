@@ -1,0 +1,4 @@
+type: car
+plate: MQR9776
+layout: Brazilian
+corners: 687,307 810,307 811,348 688,349

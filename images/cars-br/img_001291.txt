@@ -1,0 +1,4 @@
+type: car
+plate: MRC8892
+layout: Brazilian
+corners: 490,374 624,374 626,423 492,424

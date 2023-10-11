@@ -1,0 +1,4 @@
+type: car
+plate: PPV6820
+layout: Brazilian
+corners: 777,339 911,334 915,379 778,380

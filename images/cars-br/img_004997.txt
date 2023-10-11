@@ -1,0 +1,4 @@
+type: car
+plate: LMA1638
+layout: Brazilian
+corners: 654,272 786,278 786,322 655,315

@@ -1,0 +1,4 @@
+type: car
+plate: QPJ0938
+layout: Brazilian
+corners: 669,266 771,267 772,301 670,299

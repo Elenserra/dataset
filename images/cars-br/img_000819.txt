@@ -1,0 +1,4 @@
+type: car
+plate: PPP7169
+layout: Brazilian
+corners: 461,369 589,369 590,413 463,413

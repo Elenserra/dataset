@@ -1,0 +1,4 @@
+type: car
+plate: MQU5385
+layout: Brazilian
+corners: 238,490 402,498 402,558 239,547

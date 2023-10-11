@@ -1,0 +1,4 @@
+type: car
+plate: DOO0157
+layout: Brazilian
+corners: 777,309 911,307 911,354 778,355

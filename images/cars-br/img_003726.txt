@@ -1,0 +1,4 @@
+type: car
+plate: KQF8012
+layout: Brazilian
+corners: 841,301 971,296 972,342 839,344

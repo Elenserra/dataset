@@ -1,0 +1,4 @@
+type: car
+plate: LWH5659
+layout: Brazilian
+corners: 620,273 744,271 751,307 627,310

@@ -1,0 +1,4 @@
+type: car
+plate: OVL5278
+layout: Brazilian
+corners: 801,330 936,329 940,374 803,376

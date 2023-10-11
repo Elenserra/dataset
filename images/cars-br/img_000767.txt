@@ -1,0 +1,4 @@
+type: car
+plate: MRF1160
+layout: Brazilian
+corners: 511,448 644,452 646,497 512,494

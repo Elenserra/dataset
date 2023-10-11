@@ -1,0 +1,4 @@
+type: car
+plate: MPQ7553
+layout: Brazilian
+corners: 591,399 716,396 719,436 593,439

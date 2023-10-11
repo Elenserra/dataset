@@ -1,0 +1,4 @@
+type: car
+plate: MSF1046
+layout: Brazilian
+corners: 576,413 702,412 703,455 576,456

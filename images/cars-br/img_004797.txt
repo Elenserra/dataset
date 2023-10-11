@@ -1,0 +1,4 @@
+type: car
+plate: MSJ4077
+layout: Brazilian
+corners: 800,340 936,337 938,386 802,386

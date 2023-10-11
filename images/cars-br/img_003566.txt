@@ -1,0 +1,4 @@
+type: car
+plate: MHG7583
+layout: Brazilian
+corners: 752,360 887,357 892,399 755,403

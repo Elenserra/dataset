@@ -1,0 +1,4 @@
+type: car
+plate: ASM5257
+layout: Brazilian
+corners: 417,393 550,393 553,442 421,439

@@ -1,0 +1,4 @@
+type: car
+plate: OYK7720
+layout: Brazilian
+corners: 634,289 745,292 749,327 638,324

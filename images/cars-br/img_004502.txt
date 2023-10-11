@@ -1,0 +1,4 @@
+type: car
+plate: QPQ7623
+layout: Brazilian
+corners: 771,335 901,330 906,376 775,378

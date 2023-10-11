@@ -1,0 +1,4 @@
+type: car
+plate: ODT7199
+layout: Brazilian
+corners: 745,133 832,131 832,162 745,163

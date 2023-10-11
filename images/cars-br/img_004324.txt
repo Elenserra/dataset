@@ -1,0 +1,4 @@
+type: car
+plate: OUS1848
+layout: Brazilian
+corners: 749,331 883,327 885,375 749,376

@@ -1,0 +1,4 @@
+type: car
+plate: JMI3822
+layout: Brazilian
+corners: 739,251 853,254 855,294 739,291

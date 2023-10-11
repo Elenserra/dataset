@@ -1,0 +1,4 @@
+type: car
+plate: MSO3345
+layout: Brazilian
+corners: 788,372 928,366 925,411 784,420

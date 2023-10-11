@@ -1,0 +1,4 @@
+type: car
+plate: QQH1292
+layout: Brazilian
+corners: 1064,51 1130,49 1131,72 1065,74

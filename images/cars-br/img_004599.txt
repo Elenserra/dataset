@@ -1,0 +1,4 @@
+type: car
+plate: MRX0894
+layout: Brazilian
+corners: 822,323 951,321 956,363 822,366

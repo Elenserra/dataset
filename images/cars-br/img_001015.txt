@@ -1,0 +1,4 @@
+type: car
+plate: MTA7952
+layout: Brazilian
+corners: 545,384 667,382 669,422 547,423

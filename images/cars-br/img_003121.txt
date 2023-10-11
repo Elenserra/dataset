@@ -1,0 +1,4 @@
+type: car
+plate: PAC2868
+layout: Brazilian
+corners: 608,295 747,295 749,341 612,339

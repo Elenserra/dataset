@@ -1,0 +1,4 @@
+type: car
+plate: MRZ1196
+layout: Brazilian
+corners: 747,334 877,332 878,379 748,380

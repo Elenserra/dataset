@@ -1,0 +1,4 @@
+type: car
+plate: ODN9474
+layout: Brazilian
+corners: 873,294 997,292 1000,335 873,337

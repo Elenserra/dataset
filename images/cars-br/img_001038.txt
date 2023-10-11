@@ -1,0 +1,4 @@
+type: car
+plate: MSP0881
+layout: Brazilian
+corners: 511,407 646,404 647,453 513,455

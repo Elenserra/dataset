@@ -1,0 +1,4 @@
+type: car
+plate: OXJ7818
+layout: Brazilian
+corners: 507,379 628,378 629,421 508,419

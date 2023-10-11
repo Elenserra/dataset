@@ -1,0 +1,4 @@
+type: car
+plate: MSN9894
+layout: Brazilian
+corners: 879,281 1001,279 1004,320 880,321

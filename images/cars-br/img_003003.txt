@@ -1,0 +1,4 @@
+type: car
+plate: EPK6958
+layout: Brazilian
+corners: 694,343 820,344 819,387 695,385

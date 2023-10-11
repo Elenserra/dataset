@@ -1,0 +1,4 @@
+type: car
+plate: OCZ8482
+layout: Brazilian
+corners: 718,277 829,278 830,315 719,312

@@ -1,0 +1,4 @@
+type: car
+plate: CPR0890
+layout: Brazilian
+corners: 844,270 960,275 957,313 842,309

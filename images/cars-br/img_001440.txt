@@ -1,0 +1,4 @@
+type: car
+plate: PWP8711
+layout: Brazilian
+corners: 565,332 679,331 680,368 565,369

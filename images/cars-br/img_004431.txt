@@ -1,0 +1,4 @@
+type: car
+plate: BTR6222
+layout: Brazilian
+corners: 767,230 881,227 885,266 768,268

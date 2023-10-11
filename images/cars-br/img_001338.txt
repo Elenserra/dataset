@@ -1,0 +1,4 @@
+type: car
+plate: LVD0684
+layout: Brazilian
+corners: 512,371 639,370 639,416 512,414

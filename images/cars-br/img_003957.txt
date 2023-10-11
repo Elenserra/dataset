@@ -1,0 +1,4 @@
+type: car
+plate: PPC1037
+layout: Brazilian
+corners: 933,75 1024,73 1027,104 936,107

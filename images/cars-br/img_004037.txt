@@ -1,0 +1,4 @@
+type: car
+plate: PPR9998
+layout: Brazilian
+corners: 1015,124 1099,122 1101,152 1016,154

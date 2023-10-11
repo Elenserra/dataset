@@ -1,0 +1,4 @@
+type: car
+plate: ODG4873
+layout: Brazilian
+corners: 498,294 622,293 623,335 499,336

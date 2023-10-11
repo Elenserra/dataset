@@ -1,0 +1,4 @@
+type: car
+plate: MPB2848
+layout: Brazilian
+corners: 633,243 766,235 776,286 638,291

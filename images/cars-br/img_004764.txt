@@ -1,0 +1,4 @@
+type: car
+plate: OCX5436
+layout: Brazilian
+corners: 804,333 934,328 939,371 804,375

@@ -1,0 +1,4 @@
+type: car
+plate: KXM7479
+layout: Brazilian
+corners: 705,270 822,266 831,303 709,306

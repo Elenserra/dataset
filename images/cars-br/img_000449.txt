@@ -1,0 +1,4 @@
+type: car
+plate: PPL5527
+layout: Brazilian
+corners: 477,389 598,386 601,428 480,430

@@ -1,0 +1,4 @@
+type: car
+plate: DNE4018
+layout: Brazilian
+corners: 849,346 982,343 985,386 851,390

@@ -1,0 +1,4 @@
+type: car
+plate: MSS5436
+layout: Brazilian
+corners: 552,394 677,397 677,441 553,437

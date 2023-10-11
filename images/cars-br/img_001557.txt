@@ -1,0 +1,4 @@
+type: car
+plate: QRD3004
+layout: Brazilian
+corners: 292,424 424,430 423,481 289,474

@@ -1,0 +1,4 @@
+type: car
+plate: MQP3904
+layout: Brazilian
+corners: 712,326 843,325 849,369 714,370

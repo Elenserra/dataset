@@ -1,0 +1,4 @@
+type: car
+plate: QRD5027
+layout: Brazilian
+corners: 555,393 682,391 684,433 556,433

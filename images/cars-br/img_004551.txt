@@ -1,0 +1,4 @@
+type: car
+plate: ODG6256
+layout: Brazilian
+corners: 809,304 931,305 933,347 809,345

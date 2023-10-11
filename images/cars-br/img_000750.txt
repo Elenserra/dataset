@@ -1,0 +1,4 @@
+type: car
+plate: MTG9026
+layout: Brazilian
+corners: 555,448 682,447 684,489 557,491

@@ -1,0 +1,4 @@
+type: car
+plate: MSM2979
+layout: Brazilian
+corners: 539,393 664,394 664,435 540,435

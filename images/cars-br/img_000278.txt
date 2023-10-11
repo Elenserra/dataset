@@ -1,0 +1,4 @@
+type: car
+plate: NSA2861
+layout: Brazilian
+corners: 460,502 600,503 599,552 460,549

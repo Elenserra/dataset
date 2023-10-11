@@ -1,0 +1,4 @@
+type: car
+plate: MPJ4743
+layout: Brazilian
+corners: 605,342 721,341 722,379 606,382

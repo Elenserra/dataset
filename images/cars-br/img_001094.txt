@@ -1,0 +1,4 @@
+type: car
+plate: ODL5427
+layout: Brazilian
+corners: 633,288 740,287 742,323 636,323

@@ -1,0 +1,4 @@
+type: car
+plate: OYH6830
+layout: Brazilian
+corners: 818,75 883,74 884,97 819,98

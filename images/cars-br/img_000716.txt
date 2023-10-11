@@ -1,0 +1,4 @@
+type: car
+plate: PPV7264
+layout: Brazilian
+corners: 520,376 645,378 645,420 521,419

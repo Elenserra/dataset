@@ -1,0 +1,4 @@
+type: car
+plate: LRE2424
+layout: Brazilian
+corners: 696,268 811,268 812,307 697,305

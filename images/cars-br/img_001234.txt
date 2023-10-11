@@ -1,0 +1,4 @@
+type: car
+plate: QQI7423
+layout: Brazilian
+corners: 581,348 692,349 693,385 581,384

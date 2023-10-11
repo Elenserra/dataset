@@ -1,0 +1,4 @@
+type: car
+plate: AXM5171
+layout: Brazilian
+corners: 538,428 662,429 664,472 540,471

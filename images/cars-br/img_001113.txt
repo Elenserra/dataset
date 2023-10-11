@@ -1,0 +1,4 @@
+type: car
+plate: OYF3651
+layout: Brazilian
+corners: 563,392 688,392 689,438 564,436

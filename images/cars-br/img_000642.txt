@@ -1,0 +1,4 @@
+type: car
+plate: MRW0022
+layout: Brazilian
+corners: 846,321 974,319 977,363 848,364

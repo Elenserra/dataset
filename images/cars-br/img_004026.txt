@@ -1,0 +1,4 @@
+type: car
+plate: AZO0429
+layout: Brazilian
+corners: 963,196 1064,194 1067,229 962,232

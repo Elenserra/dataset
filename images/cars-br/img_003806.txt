@@ -1,0 +1,4 @@
+type: car
+plate: MQB3076
+layout: Brazilian
+corners: 832,122 930,113 938,145 837,155

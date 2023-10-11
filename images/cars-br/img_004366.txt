@@ -1,0 +1,4 @@
+type: car
+plate: OWW4642
+layout: Brazilian
+corners: 774,298 912,293 917,342 775,346

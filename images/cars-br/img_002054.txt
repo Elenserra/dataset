@@ -1,0 +1,4 @@
+type: car
+plate: OCX2966
+layout: Brazilian
+corners: 550,350 676,351 676,395 550,395

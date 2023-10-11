@@ -1,0 +1,4 @@
+type: car
+plate: OYJ8571
+layout: Brazilian
+corners: 882,271 1006,270 1006,312 883,313

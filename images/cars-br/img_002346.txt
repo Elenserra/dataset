@@ -1,0 +1,4 @@
+type: car
+plate: MTQ7765
+layout: Brazilian
+corners: 504,344 626,347 629,387 505,386

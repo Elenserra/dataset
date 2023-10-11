@@ -1,0 +1,4 @@
+type: car
+plate: LPP5181
+layout: Brazilian
+corners: 717,361 852,360 856,407 718,407

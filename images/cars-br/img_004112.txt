@@ -1,0 +1,4 @@
+type: car
+plate: PUB0305
+layout: Brazilian
+corners: 812,331 945,329 948,377 813,377

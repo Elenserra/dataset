@@ -1,0 +1,4 @@
+type: car
+plate: ODO2523
+layout: Brazilian
+corners: 624,369 756,373 760,416 628,413

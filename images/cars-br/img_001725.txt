@@ -1,0 +1,4 @@
+type: car
+plate: PPN6969
+layout: Brazilian
+corners: 762,158 845,157 846,185 763,185

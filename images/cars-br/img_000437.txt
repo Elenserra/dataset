@@ -1,0 +1,4 @@
+type: car
+plate: MSE3200
+layout: Brazilian
+corners: 600,391 723,393 723,437 598,436

@@ -1,0 +1,4 @@
+type: car
+plate: PPP4766
+layout: Brazilian
+corners: 744,112 834,112 835,143 745,143

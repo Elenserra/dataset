@@ -1,0 +1,4 @@
+type: car
+plate: MRP7201
+layout: Brazilian
+corners: 845,297 973,296 978,341 846,342

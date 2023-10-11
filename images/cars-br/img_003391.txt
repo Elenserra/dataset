@@ -1,0 +1,4 @@
+type: car
+plate: MTE0324
+layout: Brazilian
+corners: 666,339 788,344 790,382 665,376

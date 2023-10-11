@@ -1,0 +1,4 @@
+type: car
+plate: KZG4329
+layout: Brazilian
+corners: 550,429 680,430 684,472 552,468

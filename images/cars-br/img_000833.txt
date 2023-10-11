@@ -1,0 +1,4 @@
+type: car
+plate: MQA2936
+layout: Brazilian
+corners: 535,348 653,349 652,390 536,389

@@ -1,0 +1,4 @@
+type: car
+plate: MRS5571
+layout: Brazilian
+corners: 811,286 945,284 946,329 811,331

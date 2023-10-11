@@ -1,0 +1,4 @@
+type: car
+plate: PPQ2277
+layout: Brazilian
+corners: 725,246 822,248 822,278 726,277

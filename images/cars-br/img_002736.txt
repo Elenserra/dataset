@@ -1,0 +1,4 @@
+type: car
+plate: PPP4521
+layout: Brazilian
+corners: 859,50 943,49 944,75 860,76

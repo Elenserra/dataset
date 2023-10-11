@@ -1,0 +1,4 @@
+type: car
+plate: PAR2765
+layout: Brazilian
+corners: 1066,36 1135,33 1137,52 1067,55

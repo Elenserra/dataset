@@ -1,0 +1,4 @@
+type: car
+plate: QRB1024
+layout: Brazilian
+corners: 620,266 723,266 725,301 620,302

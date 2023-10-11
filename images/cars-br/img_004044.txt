@@ -1,0 +1,4 @@
+type: car
+plate: PPL7391
+layout: Brazilian
+corners: 859,294 983,290 986,332 860,336

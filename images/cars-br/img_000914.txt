@@ -1,0 +1,4 @@
+type: car
+plate: MSH2275
+layout: Brazilian
+corners: 537,311 654,313 653,353 537,350

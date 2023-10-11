@@ -1,0 +1,4 @@
+type: car
+plate: QRB0114
+layout: Brazilian
+corners: 568,409 695,410 697,454 569,452

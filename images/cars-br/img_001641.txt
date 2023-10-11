@@ -1,0 +1,4 @@
+type: car
+plate: MSA2218
+layout: Brazilian
+corners: 505,394 636,398 638,444 508,441

@@ -1,0 +1,4 @@
+type: car
+plate: PPW7560
+layout: Brazilian
+corners: 598,323 717,326 719,372 599,368

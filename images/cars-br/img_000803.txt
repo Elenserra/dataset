@@ -1,0 +1,4 @@
+type: car
+plate: MSP5057
+layout: Brazilian
+corners: 577,383 705,384 705,428 578,429

@@ -1,0 +1,4 @@
+type: car
+plate: ODR9030
+layout: Brazilian
+corners: 821,277 941,273 944,315 822,318

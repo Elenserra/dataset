@@ -1,0 +1,4 @@
+type: car
+plate: ODK9040
+layout: Brazilian
+corners: 805,140 896,140 897,172 805,171

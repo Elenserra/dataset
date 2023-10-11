@@ -1,0 +1,4 @@
+type: car
+plate: PPN5664
+layout: Brazilian
+corners: 894,232 1005,231 1007,268 895,270

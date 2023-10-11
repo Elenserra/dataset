@@ -1,0 +1,4 @@
+type: car
+plate: PPW7385
+layout: Brazilian
+corners: 760,55 837,52 838,78 760,80

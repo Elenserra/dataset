@@ -1,0 +1,4 @@
+type: car
+plate: PPB7779
+layout: Brazilian
+corners: 820,373 958,367 962,416 822,419

@@ -1,0 +1,4 @@
+type: car
+plate: MSY2306
+layout: Brazilian
+corners: 729,223 824,222 824,255 730,254

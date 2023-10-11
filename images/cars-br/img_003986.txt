@@ -1,0 +1,4 @@
+type: car
+plate: HNW2057
+layout: Brazilian
+corners: 776,401 922,399 925,449 776,450

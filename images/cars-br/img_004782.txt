@@ -1,0 +1,4 @@
+type: car
+plate: DQX5819
+layout: Brazilian
+corners: 781,359 918,355 922,403 782,404

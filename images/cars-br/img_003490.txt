@@ -1,0 +1,4 @@
+type: car
+plate: MPP4198
+layout: Brazilian
+corners: 972,133 1056,131 1058,161 973,162

@@ -1,0 +1,4 @@
+type: car
+plate: HOB5712
+layout: Brazilian
+corners: 770,311 899,308 901,354 772,354

@@ -1,0 +1,4 @@
+type: car
+plate: JPW1666
+layout: Brazilian
+corners: 475,352 602,353 603,398 478,397

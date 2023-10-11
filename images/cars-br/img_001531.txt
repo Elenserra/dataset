@@ -1,0 +1,4 @@
+type: car
+plate: PPZ2122
+layout: Brazilian
+corners: 527,390 655,389 656,435 527,433

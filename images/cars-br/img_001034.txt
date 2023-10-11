@@ -1,0 +1,4 @@
+type: car
+plate: OVI6283
+layout: Brazilian
+corners: 535,391 661,394 662,437 535,434

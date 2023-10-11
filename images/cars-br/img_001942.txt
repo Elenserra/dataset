@@ -1,0 +1,4 @@
+type: car
+plate: MTY0063
+layout: Brazilian
+corners: 529,421 658,422 660,467 530,465

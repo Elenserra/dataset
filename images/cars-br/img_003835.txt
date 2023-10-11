@@ -1,0 +1,4 @@
+type: car
+plate: ODK1545
+layout: Brazilian
+corners: 850,294 973,292 976,335 850,335

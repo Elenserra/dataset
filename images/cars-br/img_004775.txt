@@ -1,0 +1,4 @@
+type: car
+plate: GYC7322
+layout: Brazilian
+corners: 846,331 978,330 981,375 849,375

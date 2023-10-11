@@ -1,0 +1,4 @@
+type: car
+plate: PPW0977
+layout: Brazilian
+corners: 411,583 577,584 578,643 412,640

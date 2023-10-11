@@ -1,0 +1,4 @@
+type: car
+plate: ODP6379
+layout: Brazilian
+corners: 822,329 953,325 955,371 823,374

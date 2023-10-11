@@ -1,0 +1,4 @@
+type: car
+plate: QPZ5133
+layout: Brazilian
+corners: 799,351 934,349 937,394 800,394

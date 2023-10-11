@@ -1,0 +1,4 @@
+type: car
+plate: QUS8043
+layout: Brazilian
+corners: 691,316 822,324 820,368 689,360

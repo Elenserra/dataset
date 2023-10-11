@@ -1,0 +1,4 @@
+type: car
+plate: OUV1240
+layout: Brazilian
+corners: 845,287 966,283 969,323 845,327

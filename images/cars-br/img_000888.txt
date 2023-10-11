@@ -1,0 +1,4 @@
+type: car
+plate: PPQ7901
+layout: Brazilian
+corners: 483,407 615,407 618,451 489,451

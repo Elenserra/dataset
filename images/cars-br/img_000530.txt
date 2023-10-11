@@ -1,0 +1,4 @@
+type: car
+plate: MTE5140
+layout: Brazilian
+corners: 515,353 632,354 633,392 515,391

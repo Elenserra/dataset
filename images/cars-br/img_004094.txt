@@ -1,0 +1,4 @@
+type: car
+plate: MPW5596
+layout: Brazilian
+corners: 814,337 948,337 950,384 815,382

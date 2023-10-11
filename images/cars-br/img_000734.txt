@@ -1,0 +1,4 @@
+type: car
+plate: ODS5989
+layout: Brazilian
+corners: 498,406 624,406 629,450 501,449

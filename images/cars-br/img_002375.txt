@@ -1,0 +1,4 @@
+type: car
+plate: ODG3065
+layout: Brazilian
+corners: 494,271 622,268 625,309 496,314

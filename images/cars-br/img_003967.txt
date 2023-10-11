@@ -1,0 +1,4 @@
+type: car
+plate: OVL9107
+layout: Brazilian
+corners: 996,161 1090,159 1091,191 998,193

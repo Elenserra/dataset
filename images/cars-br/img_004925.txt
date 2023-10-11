@@ -1,0 +1,4 @@
+type: car
+plate: OVI9623
+layout: Brazilian
+corners: 1068,74 1136,71 1137,96 1068,98

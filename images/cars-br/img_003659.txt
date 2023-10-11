@@ -1,0 +1,4 @@
+type: car
+plate: HCH2010
+layout: Brazilian
+corners: 850,227 975,225 978,264 852,267

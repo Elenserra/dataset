@@ -1,0 +1,4 @@
+type: car
+plate: MTR4471
+layout: Brazilian
+corners: 777,219 888,215 893,248 782,251

@@ -1,0 +1,4 @@
+type: car
+plate: PPB6700
+layout: Brazilian
+corners: 810,350 941,347 945,393 813,393

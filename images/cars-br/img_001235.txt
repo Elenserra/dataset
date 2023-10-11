@@ -1,0 +1,4 @@
+type: car
+plate: MSR2924
+layout: Brazilian
+corners: 559,385 681,385 683,426 560,427

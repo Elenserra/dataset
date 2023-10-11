@@ -1,0 +1,4 @@
+type: car
+plate: PPO8331
+layout: Brazilian
+corners: 808,157 902,158 903,192 807,190

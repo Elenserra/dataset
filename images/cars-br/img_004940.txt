@@ -1,0 +1,4 @@
+type: car
+plate: MUK6869
+layout: Brazilian
+corners: 917,236 1027,232 1029,269 917,272

@@ -1,0 +1,4 @@
+type: car
+plate: LOY6261
+layout: Brazilian
+corners: 748,296 877,298 878,342 748,340

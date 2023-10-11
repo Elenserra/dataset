@@ -1,0 +1,4 @@
+type: car
+plate: MTT9989
+layout: Brazilian
+corners: 711,317 833,316 836,359 714,361

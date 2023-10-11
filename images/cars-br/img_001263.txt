@@ -1,0 +1,4 @@
+type: car
+plate: MSV8187
+layout: Brazilian
+corners: 568,408 695,409 696,450 569,449

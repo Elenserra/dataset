@@ -1,0 +1,4 @@
+type: car
+plate: KLB5590
+layout: Brazilian
+corners: 496,358 621,357 622,400 497,401

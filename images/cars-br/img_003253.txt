@@ -1,0 +1,4 @@
+type: car
+plate: JWY4148
+layout: Brazilian
+corners: 851,260 968,258 969,298 852,299

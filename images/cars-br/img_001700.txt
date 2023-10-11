@@ -1,0 +1,4 @@
+type: car
+plate: OVK3888
+layout: Brazilian
+corners: 413,341 540,343 540,388 413,385

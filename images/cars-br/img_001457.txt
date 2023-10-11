@@ -1,0 +1,4 @@
+type: car
+plate: MSM3569
+layout: Brazilian
+corners: 708,221 802,221 802,253 708,253

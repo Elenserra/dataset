@@ -1,0 +1,4 @@
+type: car
+plate: FLO2110
+layout: Brazilian
+corners: 772,357 905,355 908,398 773,400

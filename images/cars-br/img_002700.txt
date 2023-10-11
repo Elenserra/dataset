@@ -1,0 +1,4 @@
+type: car
+plate: OYG1205
+layout: Brazilian
+corners: 875,64 960,62 963,90 876,92

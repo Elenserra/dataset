@@ -1,0 +1,4 @@
+type: car
+plate: PPO4393
+layout: Brazilian
+corners: 566,381 689,382 689,430 566,428

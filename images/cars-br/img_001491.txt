@@ -1,0 +1,4 @@
+type: car
+plate: PPW7561
+layout: Brazilian
+corners: 507,346 619,346 619,384 507,384

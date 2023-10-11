@@ -1,0 +1,4 @@
+type: car
+plate: PPE8865
+layout: Brazilian
+corners: 809,346 949,341 952,388 812,392

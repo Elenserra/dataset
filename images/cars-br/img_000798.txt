@@ -1,0 +1,4 @@
+type: car
+plate: ODF8178
+layout: Brazilian
+corners: 479,413 607,414 609,456 481,456

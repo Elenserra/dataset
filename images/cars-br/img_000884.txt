@@ -1,0 +1,4 @@
+type: car
+plate: OVF7371
+layout: Brazilian
+corners: 568,410 696,409 697,455 567,454

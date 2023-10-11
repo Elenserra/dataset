@@ -1,0 +1,4 @@
+type: car
+plate: PWA6224
+layout: Brazilian
+corners: 432,445 557,447 558,488 434,484

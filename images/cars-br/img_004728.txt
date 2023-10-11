@@ -1,0 +1,4 @@
+type: car
+plate: MQO1384
+layout: Brazilian
+corners: 750,321 875,318 879,362 752,362

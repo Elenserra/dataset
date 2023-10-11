@@ -1,0 +1,4 @@
+type: car
+plate: HAQ9821
+layout: Brazilian
+corners: 728,312 857,310 860,353 728,356

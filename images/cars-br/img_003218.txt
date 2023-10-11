@@ -1,0 +1,4 @@
+type: car
+plate: PVI5901
+layout: Brazilian
+corners: 626,323 746,325 746,365 630,362

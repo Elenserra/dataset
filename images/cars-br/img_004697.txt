@@ -1,0 +1,4 @@
+type: car
+plate: QQT8226
+layout: Brazilian
+corners: 1053,51 1120,49 1123,71 1055,74

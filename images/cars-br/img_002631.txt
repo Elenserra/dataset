@@ -1,0 +1,4 @@
+type: car
+plate: PPX5165
+layout: Brazilian
+corners: 620,272 732,274 733,312 621,309

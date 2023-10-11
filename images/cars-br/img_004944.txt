@@ -1,0 +1,4 @@
+type: car
+plate: MTD6812
+layout: Brazilian
+corners: 824,158 933,155 936,192 826,197

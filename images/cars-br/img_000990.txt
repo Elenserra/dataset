@@ -1,0 +1,4 @@
+type: car
+plate: MSU6323
+layout: Brazilian
+corners: 574,400 702,400 704,444 576,444

@@ -1,0 +1,4 @@
+type: car
+plate: PPT7130
+layout: Brazilian
+corners: 686,253 792,253 793,291 687,291

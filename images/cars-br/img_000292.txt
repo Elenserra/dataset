@@ -1,0 +1,4 @@
+type: car
+plate: HAK9425
+layout: Brazilian
+corners: 529,429 659,430 660,476 530,477

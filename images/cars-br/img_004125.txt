@@ -1,0 +1,4 @@
+type: car
+plate: ODS9035
+layout: Brazilian
+corners: 798,321 928,319 932,364 797,366

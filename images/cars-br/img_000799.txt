@@ -1,0 +1,4 @@
+type: car
+plate: MSB9511
+layout: Brazilian
+corners: 485,388 608,388 609,431 488,431

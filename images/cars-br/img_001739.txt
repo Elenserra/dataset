@@ -1,0 +1,4 @@
+type: car
+plate: MPC0937
+layout: Brazilian
+corners: 551,392 674,395 676,438 552,437

@@ -1,0 +1,4 @@
+type: car
+plate: KOX2814
+layout: Brazilian
+corners: 793,316 919,316 922,361 794,359

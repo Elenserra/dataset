@@ -1,0 +1,4 @@
+type: car
+plate: QQR5957
+layout: Brazilian
+corners: 608,326 722,327 723,366 608,366

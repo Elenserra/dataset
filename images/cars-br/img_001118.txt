@@ -1,0 +1,4 @@
+type: car
+plate: ODI2379
+layout: Brazilian
+corners: 561,376 681,377 682,419 561,417

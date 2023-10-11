@@ -1,0 +1,4 @@
+type: car
+plate: MRU1598
+layout: Brazilian
+corners: 603,329 720,333 721,370 603,368

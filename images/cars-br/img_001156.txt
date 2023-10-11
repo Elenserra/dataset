@@ -1,0 +1,4 @@
+type: car
+plate: PPO6642
+layout: Brazilian
+corners: 584,347 699,346 701,384 586,385

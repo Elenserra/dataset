@@ -1,0 +1,4 @@
+type: car
+plate: PVH1495
+layout: Brazilian
+corners: 543,409 674,409 675,454 543,454

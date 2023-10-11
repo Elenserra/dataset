@@ -1,0 +1,4 @@
+type: car
+plate: OVE2382
+layout: Brazilian
+corners: 638,279 745,276 746,312 639,316

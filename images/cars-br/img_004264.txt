@@ -1,0 +1,4 @@
+type: car
+plate: OVI2473
+layout: Brazilian
+corners: 829,327 965,324 967,371 829,373

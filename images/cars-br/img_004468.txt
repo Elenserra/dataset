@@ -1,0 +1,4 @@
+type: car
+plate: QBW1218
+layout: Brazilian
+corners: 780,344 912,338 919,384 784,392

@@ -1,0 +1,4 @@
+type: car
+plate: OYF6247
+layout: Brazilian
+corners: 482,386 606,388 605,431 482,428

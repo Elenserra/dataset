@@ -1,0 +1,4 @@
+type: car
+plate: MSL0386
+layout: Brazilian
+corners: 491,300 602,302 603,338 492,337

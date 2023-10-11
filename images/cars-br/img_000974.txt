@@ -1,0 +1,4 @@
+type: car
+plate: EUV4667
+layout: Brazilian
+corners: 563,331 677,331 676,370 563,369

@@ -1,0 +1,4 @@
+type: car
+plate: PPP4197
+layout: Brazilian
+corners: 619,348 746,351 748,395 621,391

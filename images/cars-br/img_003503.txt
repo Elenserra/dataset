@@ -1,0 +1,4 @@
+type: car
+plate: OFD3013
+layout: Brazilian
+corners: 795,320 929,318 933,364 798,365

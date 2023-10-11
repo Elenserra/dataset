@@ -1,0 +1,4 @@
+type: car
+plate: PPU6314
+layout: Brazilian
+corners: 644,317 764,318 765,361 645,357

@@ -1,0 +1,4 @@
+type: car
+plate: PPP7137
+layout: Brazilian
+corners: 813,80 902,80 902,110 815,109

@@ -1,0 +1,4 @@
+type: car
+plate: PPO0839
+layout: Brazilian
+corners: 679,336 804,336 805,377 680,375

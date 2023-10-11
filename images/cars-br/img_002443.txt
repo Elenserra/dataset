@@ -1,0 +1,4 @@
+type: car
+plate: OYJ3900
+layout: Brazilian
+corners: 451,242 564,241 567,279 453,283

@@ -1,0 +1,4 @@
+type: car
+plate: LSE1695
+layout: Brazilian
+corners: 501,433 630,433 632,478 502,476

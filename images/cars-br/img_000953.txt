@@ -1,0 +1,4 @@
+type: car
+plate: PVD3867
+layout: Brazilian
+corners: 532,416 661,418 662,460 534,458

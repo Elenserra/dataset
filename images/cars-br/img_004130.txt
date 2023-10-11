@@ -1,0 +1,4 @@
+type: car
+plate: OMA0283
+layout: Brazilian
+corners: 833,345 971,341 972,389 836,390

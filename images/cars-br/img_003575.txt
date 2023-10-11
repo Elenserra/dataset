@@ -1,0 +1,4 @@
+type: car
+plate: PPN9199
+layout: Brazilian
+corners: 775,342 909,338 913,383 777,387

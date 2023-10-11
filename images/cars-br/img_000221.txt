@@ -1,0 +1,4 @@
+type: car
+plate: OCY9703
+layout: Brazilian
+corners: 532,365 658,364 658,404 533,406

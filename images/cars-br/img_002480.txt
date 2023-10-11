@@ -1,0 +1,4 @@
+type: car
+plate: PPV6223
+layout: Brazilian
+corners: 481,299 610,295 613,341 484,343

@@ -1,0 +1,4 @@
+type: car
+plate: MTW3591
+layout: Brazilian
+corners: 582,380 703,380 706,421 583,421

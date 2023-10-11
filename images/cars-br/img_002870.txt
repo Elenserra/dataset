@@ -1,0 +1,4 @@
+type: car
+plate: MQN1780
+layout: Brazilian
+corners: 842,135 922,135 923,163 844,162

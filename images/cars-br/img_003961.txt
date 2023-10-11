@@ -1,0 +1,4 @@
+type: car
+plate: QRB9435
+layout: Brazilian
+corners: 1075,95 1147,91 1149,117 1075,120

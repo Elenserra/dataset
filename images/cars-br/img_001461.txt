@@ -1,0 +1,4 @@
+type: car
+plate: MRL3604
+layout: Brazilian
+corners: 715,216 806,213 806,242 715,245

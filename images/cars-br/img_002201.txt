@@ -1,0 +1,4 @@
+type: car
+plate: OYK0631
+layout: Brazilian
+corners: 837,242 958,237 960,278 840,281

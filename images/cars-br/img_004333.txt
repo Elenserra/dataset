@@ -1,0 +1,4 @@
+type: car
+plate: FPQ0829
+layout: Brazilian
+corners: 757,345 888,344 890,388 757,390

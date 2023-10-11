@@ -1,0 +1,4 @@
+type: car
+plate: ALZ9782
+layout: Brazilian
+corners: 537,428 668,433 668,475 538,470

@@ -1,0 +1,4 @@
+type: car
+plate: JPE2677
+layout: Brazilian
+corners: 813,394 952,393 956,437 814,437

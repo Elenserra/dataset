@@ -1,0 +1,4 @@
+type: car
+plate: MSP8728
+layout: Brazilian
+corners: 914,211 1015,207 1017,244 915,246

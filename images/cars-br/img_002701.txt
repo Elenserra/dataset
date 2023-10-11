@@ -1,0 +1,4 @@
+type: car
+plate: PPN2471
+layout: Brazilian
+corners: 627,202 737,202 738,239 628,239

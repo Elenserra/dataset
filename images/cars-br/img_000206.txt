@@ -1,0 +1,4 @@
+type: car
+plate: ODP8769
+layout: Brazilian
+corners: 584,342 698,343 699,379 585,379

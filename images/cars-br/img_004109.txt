@@ -1,0 +1,4 @@
+type: car
+plate: MTC5918
+layout: Brazilian
+corners: 734,395 877,393 880,443 735,442

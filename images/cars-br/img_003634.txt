@@ -1,0 +1,4 @@
+type: car
+plate: PPD2507
+layout: Brazilian
+corners: 854,256 968,254 970,292 854,294

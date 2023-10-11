@@ -1,0 +1,4 @@
+type: car
+plate: MML6926
+layout: Brazilian
+corners: 499,290 608,290 609,329 501,329

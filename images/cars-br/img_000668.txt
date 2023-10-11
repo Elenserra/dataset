@@ -1,0 +1,4 @@
+type: car
+plate: OCV7476
+layout: Brazilian
+corners: 463,374 600,373 606,414 468,415

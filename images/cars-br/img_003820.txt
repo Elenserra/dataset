@@ -1,0 +1,4 @@
+type: car
+plate: ODI4731
+layout: Brazilian
+corners: 729,312 858,310 861,355 728,357

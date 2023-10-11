@@ -1,0 +1,4 @@
+type: car
+plate: PPG3724
+layout: Brazilian
+corners: 511,404 637,403 639,444 516,446

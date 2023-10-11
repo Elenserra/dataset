@@ -1,0 +1,4 @@
+type: car
+plate: PPS8274
+layout: Brazilian
+corners: 532,424 659,424 660,468 532,468

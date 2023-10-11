@@ -1,0 +1,4 @@
+type: car
+plate: FQZ8341
+layout: Brazilian
+corners: 718,247 841,243 846,283 724,285

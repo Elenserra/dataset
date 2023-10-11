@@ -1,0 +1,4 @@
+type: car
+plate: AJS8928
+layout: Brazilian
+corners: 631,266 775,258 776,307 633,315

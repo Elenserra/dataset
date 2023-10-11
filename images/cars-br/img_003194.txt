@@ -1,0 +1,4 @@
+type: car
+plate: PPK9896
+layout: Brazilian
+corners: 596,199 715,201 714,241 596,239

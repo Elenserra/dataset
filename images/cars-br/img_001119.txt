@@ -1,0 +1,4 @@
+type: car
+plate: MQF8526
+layout: Brazilian
+corners: 644,303 752,303 754,337 646,336

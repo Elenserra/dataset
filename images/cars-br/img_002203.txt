@@ -1,0 +1,4 @@
+type: car
+plate: MTZ7706
+layout: Brazilian
+corners: 508,355 627,357 627,400 509,397

@@ -1,0 +1,4 @@
+type: car
+plate: PXH0309
+layout: Brazilian
+corners: 192,579 367,588 369,648 198,638

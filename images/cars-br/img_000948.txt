@@ -1,0 +1,4 @@
+type: car
+plate: OWJ3885
+layout: Brazilian
+corners: 575,378 699,378 700,420 576,419

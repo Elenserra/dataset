@@ -1,0 +1,4 @@
+type: car
+plate: MTM4102
+layout: Brazilian
+corners: 572,449 699,452 700,495 573,492

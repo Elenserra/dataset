@@ -1,0 +1,4 @@
+type: car
+plate: PPX6383
+layout: Brazilian
+corners: 830,322 960,319 964,365 829,367

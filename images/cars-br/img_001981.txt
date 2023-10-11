@@ -1,0 +1,4 @@
+type: car
+plate: OCZ6223
+layout: Brazilian
+corners: 503,365 630,365 631,408 505,406

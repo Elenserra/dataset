@@ -1,0 +1,4 @@
+type: car
+plate: MRT0071
+layout: Brazilian
+corners: 746,333 872,329 877,374 748,376

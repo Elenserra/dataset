@@ -1,0 +1,4 @@
+type: car
+plate: LOK4280
+layout: Brazilian
+corners: 1027,129 1111,125 1115,154 1030,158

@@ -1,0 +1,4 @@
+type: car
+plate: PPM7375
+layout: Brazilian
+corners: 549,380 666,380 667,417 549,418

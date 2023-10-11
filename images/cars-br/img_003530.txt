@@ -1,0 +1,4 @@
+type: car
+plate: MPJ6102
+layout: Brazilian
+corners: 795,333 931,329 933,375 794,379

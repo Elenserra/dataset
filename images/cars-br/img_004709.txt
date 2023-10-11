@@ -1,0 +1,4 @@
+type: car
+plate: MTV2316
+layout: Brazilian
+corners: 882,300 1005,295 1009,336 883,341

@@ -1,0 +1,4 @@
+type: car
+plate: PPF2550
+layout: Brazilian
+corners: 991,118 1073,116 1075,145 991,146

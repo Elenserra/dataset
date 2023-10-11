@@ -1,0 +1,4 @@
+type: car
+plate: OYK0882
+layout: Brazilian
+corners: 978,99 1057,97 1059,124 979,128

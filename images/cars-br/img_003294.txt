@@ -1,0 +1,4 @@
+type: car
+plate: MTZ3672
+layout: Brazilian
+corners: 627,341 761,343 762,389 629,388

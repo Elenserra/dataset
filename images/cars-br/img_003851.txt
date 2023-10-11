@@ -1,0 +1,4 @@
+type: car
+plate: QRB1831
+layout: Brazilian
+corners: 862,311 992,310 996,355 863,356

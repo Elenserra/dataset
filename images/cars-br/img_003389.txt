@@ -1,0 +1,4 @@
+type: car
+plate: ODL2854
+layout: Brazilian
+corners: 650,346 780,348 782,393 653,391

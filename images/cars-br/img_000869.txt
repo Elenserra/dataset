@@ -1,0 +1,4 @@
+type: car
+plate: OYF3809
+layout: Brazilian
+corners: 469,423 599,426 598,472 467,469

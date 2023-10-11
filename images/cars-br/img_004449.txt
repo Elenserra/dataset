@@ -1,0 +1,4 @@
+type: car
+plate: MSF8112
+layout: Brazilian
+corners: 836,334 966,331 969,378 835,380

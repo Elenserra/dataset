@@ -1,0 +1,4 @@
+type: car
+plate: ODI7421
+layout: Brazilian
+corners: 734,283 867,280 870,326 736,325

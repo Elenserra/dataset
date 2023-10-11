@@ -1,0 +1,4 @@
+type: car
+plate: MPJ1907
+layout: Brazilian
+corners: 485,382 619,382 620,430 486,429

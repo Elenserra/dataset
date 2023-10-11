@@ -1,0 +1,4 @@
+type: car
+plate: OMG9116
+layout: Brazilian
+corners: 742,296 877,294 878,340 743,340

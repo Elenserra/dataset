@@ -1,0 +1,4 @@
+type: car
+plate: BAO4362
+layout: Brazilian
+corners: 881,239 992,236 993,271 881,275

@@ -1,0 +1,4 @@
+type: car
+plate: LOL1575
+layout: Brazilian
+corners: 764,334 889,331 893,373 765,376

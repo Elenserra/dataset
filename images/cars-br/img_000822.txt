@@ -1,0 +1,4 @@
+type: car
+plate: MSO8911
+layout: Brazilian
+corners: 537,392 662,392 664,436 537,436

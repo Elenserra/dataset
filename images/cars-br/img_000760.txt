@@ -1,0 +1,4 @@
+type: car
+plate: PPX8664
+layout: Brazilian
+corners: 522,382 649,382 651,425 526,425

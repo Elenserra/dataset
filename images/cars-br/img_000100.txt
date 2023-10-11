@@ -1,0 +1,4 @@
+type: car
+plate: OVH6633
+layout: Brazilian
+corners: 483,348 608,349 610,390 484,390

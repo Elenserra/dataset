@@ -1,0 +1,4 @@
+type: car
+plate: EVG8074
+layout: Brazilian
+corners: 784,265 921,262 924,304 784,306

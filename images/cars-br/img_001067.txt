@@ -1,0 +1,4 @@
+type: car
+plate: QEZ0198
+layout: Brazilian
+corners: 559,340 677,340 679,381 561,380

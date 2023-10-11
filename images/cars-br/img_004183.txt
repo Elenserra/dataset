@@ -1,0 +1,4 @@
+type: car
+plate: MSS2744
+layout: Brazilian
+corners: 862,243 982,239 985,281 863,283

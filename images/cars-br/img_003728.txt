@@ -1,0 +1,4 @@
+type: car
+plate: LOL5949
+layout: Brazilian
+corners: 883,298 1006,296 1007,336 882,335

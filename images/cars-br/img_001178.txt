@@ -1,0 +1,4 @@
+type: car
+plate: PPA8020
+layout: Brazilian
+corners: 559,402 686,402 688,444 562,445

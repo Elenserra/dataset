@@ -1,0 +1,4 @@
+type: car
+plate: ODH7694
+layout: Brazilian
+corners: 863,285 980,282 983,322 865,324

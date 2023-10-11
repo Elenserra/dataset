@@ -1,0 +1,4 @@
+type: car
+plate: KWK6703
+layout: Brazilian
+corners: 792,314 922,316 923,362 793,361

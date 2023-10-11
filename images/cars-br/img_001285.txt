@@ -1,0 +1,4 @@
+type: car
+plate: MTZ7906
+layout: Brazilian
+corners: 490,407 614,408 615,450 491,449

@@ -1,0 +1,4 @@
+type: car
+plate: LLD5377
+layout: Brazilian
+corners: 788,301 919,297 920,343 788,347

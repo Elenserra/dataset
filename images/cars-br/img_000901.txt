@@ -1,0 +1,4 @@
+type: car
+plate: PPE2447
+layout: Brazilian
+corners: 532,374 655,374 655,419 533,418

@@ -1,0 +1,4 @@
+type: car
+plate: ODR8577
+layout: Brazilian
+corners: 646,294 756,295 755,332 646,331

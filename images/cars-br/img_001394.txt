@@ -1,0 +1,4 @@
+type: car
+plate: ODS6880
+layout: Brazilian
+corners: 377,399 500,403 501,448 379,443

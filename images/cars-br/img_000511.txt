@@ -1,0 +1,4 @@
+type: car
+plate: OYH9045
+layout: Brazilian
+corners: 723,164 801,162 802,190 722,192

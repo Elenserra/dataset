@@ -1,0 +1,4 @@
+type: car
+plate: PPW9610
+layout: Brazilian
+corners: 643,293 750,292 751,331 644,330

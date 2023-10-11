@@ -1,0 +1,4 @@
+type: car
+plate: LUW1449
+layout: Brazilian
+corners: 460,424 590,428 590,474 460,470

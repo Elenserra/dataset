@@ -1,0 +1,4 @@
+type: car
+plate: ODB5746
+layout: Brazilian
+corners: 543,406 668,408 670,451 546,449

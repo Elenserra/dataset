@@ -1,0 +1,4 @@
+type: car
+plate: PPQ7420
+layout: Brazilian
+corners: 729,335 858,342 858,386 728,377

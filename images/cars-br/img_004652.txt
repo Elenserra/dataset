@@ -1,0 +1,4 @@
+type: car
+plate: EUG1885
+layout: Brazilian
+corners: 970,235 1078,232 1080,269 971,271

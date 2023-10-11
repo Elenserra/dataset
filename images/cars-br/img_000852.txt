@@ -1,0 +1,4 @@
+type: car
+plate: MSL6508
+layout: Brazilian
+corners: 623,290 729,291 729,327 623,326

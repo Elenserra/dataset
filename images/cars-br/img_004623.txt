@@ -1,0 +1,4 @@
+type: car
+plate: ODJ0554
+layout: Brazilian
+corners: 833,317 962,312 966,355 834,359

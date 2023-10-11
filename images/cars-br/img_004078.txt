@@ -1,0 +1,4 @@
+type: car
+plate: ODB1956
+layout: Brazilian
+corners: 827,337 959,338 961,383 827,382

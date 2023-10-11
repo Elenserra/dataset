@@ -1,0 +1,4 @@
+type: car
+plate: MTX2278
+layout: Brazilian
+corners: 795,331 927,328 930,372 798,374

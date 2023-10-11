@@ -1,0 +1,4 @@
+type: car
+plate: GQS3698
+layout: Brazilian
+corners: 991,138 1074,135 1075,163 992,166

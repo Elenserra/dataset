@@ -1,0 +1,4 @@
+type: car
+plate: MSB0344
+layout: Brazilian
+corners: 565,386 688,387 688,432 566,430

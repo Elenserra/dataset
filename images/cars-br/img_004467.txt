@@ -1,0 +1,4 @@
+type: car
+plate: OQE9566
+layout: Brazilian
+corners: 791,375 929,373 935,419 794,421

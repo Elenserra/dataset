@@ -1,0 +1,4 @@
+type: car
+plate: OCV6027
+layout: Brazilian
+corners: 566,311 671,310 672,345 567,345

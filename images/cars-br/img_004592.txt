@@ -1,0 +1,4 @@
+type: car
+plate: LTD6965
+layout: Brazilian
+corners: 817,350 949,348 954,394 819,396

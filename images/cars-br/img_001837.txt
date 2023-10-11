@@ -1,0 +1,4 @@
+type: car
+plate: OVJ0320
+layout: Brazilian
+corners: 709,203 800,203 802,235 710,235

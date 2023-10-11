@@ -1,0 +1,4 @@
+type: car
+plate: PPG4660
+layout: Brazilian
+corners: 635,352 773,360 771,408 635,398

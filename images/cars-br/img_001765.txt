@@ -1,0 +1,4 @@
+type: car
+plate: ODB8156
+layout: Brazilian
+corners: 537,408 660,411 661,455 538,451

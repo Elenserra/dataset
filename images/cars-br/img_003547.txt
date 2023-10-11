@@ -1,0 +1,4 @@
+type: car
+plate: OVL4105
+layout: Brazilian
+corners: 787,325 917,321 919,365 791,369

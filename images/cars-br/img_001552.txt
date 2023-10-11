@@ -1,0 +1,4 @@
+type: car
+plate: ODI4526
+layout: Brazilian
+corners: 474,412 604,412 604,458 475,457

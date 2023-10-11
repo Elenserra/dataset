@@ -1,0 +1,4 @@
+type: car
+plate: MST1875
+layout: Brazilian
+corners: 976,36 1045,34 1046,58 976,59

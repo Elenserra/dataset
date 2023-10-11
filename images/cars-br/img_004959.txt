@@ -1,0 +1,4 @@
+type: car
+plate: PPC2675
+layout: Brazilian
+corners: 789,325 923,327 923,371 791,368

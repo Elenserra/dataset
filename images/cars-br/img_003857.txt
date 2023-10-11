@@ -1,0 +1,4 @@
+type: car
+plate: HNK9935
+layout: Brazilian
+corners: 794,306 925,302 927,347 795,351

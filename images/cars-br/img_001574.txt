@@ -1,0 +1,4 @@
+type: car
+plate: OCX3790
+layout: Brazilian
+corners: 593,350 717,350 717,395 593,394

@@ -1,0 +1,4 @@
+type: car
+plate: MSS7380
+layout: Brazilian
+corners: 707,296 824,297 827,337 708,335

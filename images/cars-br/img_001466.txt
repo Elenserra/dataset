@@ -1,0 +1,4 @@
+type: car
+plate: ODH0186
+layout: Brazilian
+corners: 364,422 492,423 494,466 366,463

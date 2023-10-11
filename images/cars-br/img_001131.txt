@@ -1,0 +1,4 @@
+type: car
+plate: OZL8063
+layout: Brazilian
+corners: 640,278 745,277 746,312 641,312

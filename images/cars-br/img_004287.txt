@@ -1,0 +1,4 @@
+type: car
+plate: OYG9167
+layout: Brazilian
+corners: 820,320 951,318 954,364 822,364

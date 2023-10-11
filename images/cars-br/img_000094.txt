@@ -1,0 +1,4 @@
+type: car
+plate: MPS4323
+layout: Brazilian
+corners: 675,85 762,79 765,108 678,113

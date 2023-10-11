@@ -1,0 +1,4 @@
+type: car
+plate: PPA2627
+layout: Brazilian
+corners: 477,430 619,430 619,481 480,479

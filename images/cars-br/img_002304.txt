@@ -1,0 +1,4 @@
+type: car
+plate: MPT6477
+layout: Brazilian
+corners: 760,43 834,41 835,67 761,69

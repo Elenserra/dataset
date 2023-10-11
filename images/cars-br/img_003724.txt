@@ -1,0 +1,4 @@
+type: car
+plate: ODN5986
+layout: Brazilian
+corners: 839,320 965,318 968,359 839,362

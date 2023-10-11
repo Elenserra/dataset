@@ -1,0 +1,4 @@
+type: car
+plate: MTU9456
+layout: Brazilian
+corners: 754,358 925,356 929,394 756,396

@@ -1,0 +1,4 @@
+type: car
+plate: QWW3227
+layout: Brazilian
+corners: 809,313 942,312 942,357 810,357

@@ -1,0 +1,4 @@
+type: car
+plate: PPI1340
+layout: Brazilian
+corners: 480,422 613,426 614,473 481,467

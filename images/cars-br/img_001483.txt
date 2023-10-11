@@ -1,0 +1,4 @@
+type: car
+plate: PPG7631
+layout: Brazilian
+corners: 627,415 762,413 763,460 628,461

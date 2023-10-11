@@ -1,0 +1,4 @@
+type: car
+plate: ODQ6655
+layout: Brazilian
+corners: 846,301 976,299 980,344 846,346

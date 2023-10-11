@@ -1,0 +1,4 @@
+type: car
+plate: MQX6167
+layout: Brazilian
+corners: 585,392 715,393 716,436 586,436

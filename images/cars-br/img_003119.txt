@@ -1,0 +1,4 @@
+type: car
+plate: MSA5334
+layout: Brazilian
+corners: 775,190 877,190 878,222 776,223

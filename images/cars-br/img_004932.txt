@@ -1,0 +1,4 @@
+type: car
+plate: ERX6004
+layout: Brazilian
+corners: 944,234 1054,230 1056,268 946,270

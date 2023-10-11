@@ -1,0 +1,4 @@
+type: car
+plate: QQG7579
+layout: Brazilian
+corners: 444,66 531,72 529,102 440,98

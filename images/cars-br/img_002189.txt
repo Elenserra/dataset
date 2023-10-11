@@ -1,0 +1,4 @@
+type: car
+plate: OYJ3903
+layout: Brazilian
+corners: 465,403 590,404 591,447 465,446

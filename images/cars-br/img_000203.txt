@@ -1,0 +1,4 @@
+type: car
+plate: ODF1244
+layout: Brazilian
+corners: 337,575 494,582 497,637 341,629

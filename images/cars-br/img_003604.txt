@@ -1,0 +1,4 @@
+type: car
+plate: KWR7345
+layout: Brazilian
+corners: 818,363 960,361 964,410 822,411

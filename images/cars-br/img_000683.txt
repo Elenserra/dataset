@@ -1,0 +1,4 @@
+type: car
+plate: MSG8913
+layout: Brazilian
+corners: 566,362 682,362 683,402 565,402

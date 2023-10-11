@@ -1,0 +1,4 @@
+type: car
+plate: ODT2908
+layout: Brazilian
+corners: 655,294 757,294 758,328 656,328

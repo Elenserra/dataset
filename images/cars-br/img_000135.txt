@@ -1,0 +1,4 @@
+type: car
+plate: OVI9976
+layout: Brazilian
+corners: 670,289 774,289 775,324 670,325

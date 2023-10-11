@@ -1,0 +1,4 @@
+type: car
+plate: QIG3960
+layout: Brazilian
+corners: 653,306 764,308 764,345 653,344

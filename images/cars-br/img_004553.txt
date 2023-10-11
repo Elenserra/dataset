@@ -1,0 +1,4 @@
+type: car
+plate: MRZ1926
+layout: Brazilian
+corners: 784,331 920,329 924,373 787,376

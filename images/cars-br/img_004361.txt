@@ -1,0 +1,4 @@
+type: car
+plate: OCW2267
+layout: Brazilian
+corners: 875,259 995,257 999,298 876,301

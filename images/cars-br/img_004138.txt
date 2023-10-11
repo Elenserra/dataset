@@ -1,0 +1,4 @@
+type: car
+plate: MTB2620
+layout: Brazilian
+corners: 852,367 987,364 993,411 855,411

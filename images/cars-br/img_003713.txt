@@ -1,0 +1,4 @@
+type: car
+plate: LRL5650
+layout: Brazilian
+corners: 804,334 938,330 941,374 807,378

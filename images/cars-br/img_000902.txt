@@ -1,0 +1,4 @@
+type: car
+plate: OVJ0592
+layout: Brazilian
+corners: 584,384 713,386 715,432 586,429

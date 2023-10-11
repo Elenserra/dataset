@@ -1,0 +1,4 @@
+type: car
+plate: PPK7980
+layout: Brazilian
+corners: 754,307 893,304 896,352 755,354

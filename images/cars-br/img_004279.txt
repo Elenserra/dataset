@@ -1,0 +1,4 @@
+type: car
+plate: JFL3308
+layout: Brazilian
+corners: 929,250 1042,247 1047,286 930,288

@@ -1,0 +1,4 @@
+type: car
+plate: MRX3194
+layout: Brazilian
+corners: 513,337 644,338 644,385 512,384

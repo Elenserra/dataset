@@ -1,0 +1,4 @@
+type: car
+plate: OQT1172
+layout: Brazilian
+corners: 816,338 952,335 956,379 818,381

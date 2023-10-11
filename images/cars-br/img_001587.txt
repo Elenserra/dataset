@@ -1,0 +1,4 @@
+type: car
+plate: PWR4766
+layout: Brazilian
+corners: 845,119 948,115 949,150 847,154

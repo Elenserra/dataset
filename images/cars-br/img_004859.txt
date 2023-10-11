@@ -1,0 +1,4 @@
+type: car
+plate: PPK7690
+layout: Brazilian
+corners: 721,334 849,330 852,374 723,377

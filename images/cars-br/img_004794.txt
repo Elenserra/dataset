@@ -1,0 +1,4 @@
+type: car
+plate: PXZ8503
+layout: Brazilian
+corners: 821,292 945,289 947,330 820,333

@@ -1,0 +1,4 @@
+type: car
+plate: EME1668
+layout: Brazilian
+corners: 827,321 953,321 954,362 828,362

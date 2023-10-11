@@ -1,0 +1,4 @@
+type: car
+plate: ODE3540
+layout: Brazilian
+corners: 837,320 972,316 975,364 837,365

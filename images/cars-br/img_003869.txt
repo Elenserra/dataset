@@ -1,0 +1,4 @@
+type: car
+plate: LOS0333
+layout: Brazilian
+corners: 829,295 943,294 946,331 830,332

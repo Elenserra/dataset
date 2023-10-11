@@ -1,0 +1,4 @@
+type: car
+plate: FWI2379
+layout: Brazilian
+corners: 688,307 816,305 820,351 689,352

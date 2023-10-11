@@ -1,0 +1,4 @@
+type: car
+plate: MTX2256
+layout: Brazilian
+corners: 771,177 881,174 883,211 773,213

@@ -1,0 +1,4 @@
+type: car
+plate: MSX4781
+layout: Brazilian
+corners: 908,222 1013,219 1016,255 909,255

@@ -1,0 +1,4 @@
+type: car
+plate: PPK9922
+layout: Brazilian
+corners: 767,329 903,328 905,375 769,376

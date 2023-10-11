@@ -1,0 +1,4 @@
+type: car
+plate: ODI5586
+layout: Brazilian
+corners: 628,326 756,328 758,371 630,368

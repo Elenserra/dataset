@@ -1,0 +1,4 @@
+type: car
+plate: PPF3778
+layout: Brazilian
+corners: 577,349 708,353 708,397 579,390

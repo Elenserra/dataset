@@ -1,0 +1,4 @@
+type: car
+plate: MOR2356
+layout: Brazilian
+corners: 783,361 907,363 909,405 783,404

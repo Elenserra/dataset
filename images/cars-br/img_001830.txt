@@ -1,0 +1,4 @@
+type: car
+plate: PPI8255
+layout: Brazilian
+corners: 575,353 690,353 692,394 576,393

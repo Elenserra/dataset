@@ -1,0 +1,4 @@
+type: car
+plate: ODM8657
+layout: Brazilian
+corners: 426,422 556,423 557,463 428,464

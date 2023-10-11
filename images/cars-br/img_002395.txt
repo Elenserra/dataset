@@ -1,0 +1,4 @@
+type: car
+plate: MSA1557
+layout: Brazilian
+corners: 520,269 641,270 642,311 523,308

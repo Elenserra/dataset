@@ -1,0 +1,4 @@
+type: car
+plate: PPR1441
+layout: Brazilian
+corners: 527,373 652,374 653,416 528,416

@@ -1,0 +1,4 @@
+type: car
+plate: PPG3077
+layout: Brazilian
+corners: 753,152 835,152 836,183 753,183

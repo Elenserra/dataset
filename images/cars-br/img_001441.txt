@@ -1,0 +1,4 @@
+type: car
+plate: HJD0999
+layout: Brazilian
+corners: 547,490 674,489 676,527 549,527

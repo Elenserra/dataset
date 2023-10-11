@@ -1,0 +1,4 @@
+type: car
+plate: MTB7280
+layout: Brazilian
+corners: 472,336 603,335 605,379 474,380

@@ -1,0 +1,4 @@
+type: car
+plate: PPA5809
+layout: Brazilian
+corners: 569,367 691,367 693,410 570,411

@@ -1,0 +1,4 @@
+type: car
+plate: MSM4982
+layout: Brazilian
+corners: 936,218 1047,214 1050,252 937,256

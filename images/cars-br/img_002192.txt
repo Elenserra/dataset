@@ -1,0 +1,4 @@
+type: car
+plate: OYF1755
+layout: Brazilian
+corners: 551,381 678,382 679,427 551,426

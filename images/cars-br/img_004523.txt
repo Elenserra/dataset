@@ -1,0 +1,4 @@
+type: car
+plate: ODB8999
+layout: Brazilian
+corners: 791,399 926,396 930,443 793,444

@@ -1,0 +1,4 @@
+type: car
+plate: QUD0882
+layout: Brazilian
+corners: 711,327 844,325 845,372 711,373

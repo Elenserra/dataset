@@ -1,0 +1,4 @@
+type: car
+plate: OAU0530
+layout: Brazilian
+corners: 595,381 718,382 719,424 595,423

@@ -1,0 +1,4 @@
+type: car
+plate: MPN1441
+layout: Brazilian
+corners: 837,347 967,346 970,392 836,391

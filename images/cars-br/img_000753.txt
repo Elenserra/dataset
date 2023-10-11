@@ -1,0 +1,4 @@
+type: car
+plate: FNP4495
+layout: Brazilian
+corners: 550,401 677,404 678,448 552,446

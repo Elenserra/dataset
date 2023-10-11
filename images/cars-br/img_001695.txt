@@ -1,0 +1,4 @@
+type: car
+plate: MSX3625
+layout: Brazilian
+corners: 636,317 750,316 751,357 636,357

@@ -1,0 +1,4 @@
+type: car
+plate: IJN7064
+layout: Brazilian
+corners: 491,314 597,316 601,353 493,353

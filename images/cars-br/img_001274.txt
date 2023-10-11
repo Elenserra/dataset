@@ -1,0 +1,4 @@
+type: car
+plate: MTX7856
+layout: Brazilian
+corners: 376,461 514,461 516,511 378,509

@@ -1,0 +1,4 @@
+type: car
+plate: OYJ8962
+layout: Brazilian
+corners: 815,327 945,325 946,369 815,370

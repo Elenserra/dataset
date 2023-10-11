@@ -1,0 +1,4 @@
+type: car
+plate: OPW1941
+layout: Brazilian
+corners: 734,313 867,310 871,358 735,358

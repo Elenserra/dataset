@@ -1,0 +1,4 @@
+type: car
+plate: OQG1369
+layout: Brazilian
+corners: 746,242 859,237 865,272 750,276

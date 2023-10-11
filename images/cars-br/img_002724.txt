@@ -1,0 +1,4 @@
+type: car
+plate: OVE4404
+layout: Brazilian
+corners: 689,248 802,251 801,290 688,287

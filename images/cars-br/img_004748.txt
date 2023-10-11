@@ -1,0 +1,4 @@
+type: car
+plate: MQO4828
+layout: Brazilian
+corners: 836,340 970,336 975,382 839,385

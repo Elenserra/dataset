@@ -1,0 +1,4 @@
+type: car
+plate: QNK1190
+layout: Brazilian
+corners: 774,330 908,328 912,376 774,377

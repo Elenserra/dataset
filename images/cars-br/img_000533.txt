@@ -1,0 +1,4 @@
+type: car
+plate: PPA8526
+layout: Brazilian
+corners: 607,261 705,259 704,292 607,291

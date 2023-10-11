@@ -1,0 +1,4 @@
+type: car
+plate: PPC5281
+layout: Brazilian
+corners: 580,401 708,401 709,446 579,446

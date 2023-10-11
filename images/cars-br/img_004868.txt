@@ -1,0 +1,4 @@
+type: car
+plate: OVE4468
+layout: Brazilian
+corners: 776,359 911,357 913,404 777,403

@@ -1,0 +1,4 @@
+type: car
+plate: PXO2177
+layout: Brazilian
+corners: 779,242 892,238 894,278 779,280

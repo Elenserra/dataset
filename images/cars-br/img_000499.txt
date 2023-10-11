@@ -1,0 +1,4 @@
+type: car
+plate: PPI4806
+layout: Brazilian
+corners: 770,124 847,122 848,149 771,151

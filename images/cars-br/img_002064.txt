@@ -1,0 +1,4 @@
+type: car
+plate: ODS4776
+layout: Brazilian
+corners: 542,247 653,247 653,286 542,285

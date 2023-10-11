@@ -1,0 +1,4 @@
+type: car
+plate: ODE3198
+layout: Brazilian
+corners: 586,378 705,378 707,419 589,417

@@ -1,0 +1,4 @@
+type: car
+plate: GWI1094
+layout: Brazilian
+corners: 673,260 805,250 812,296 678,302

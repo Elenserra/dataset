@@ -1,0 +1,4 @@
+type: car
+plate: MTP8313
+layout: Brazilian
+corners: 690,348 824,357 822,406 688,394

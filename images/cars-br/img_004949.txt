@@ -1,0 +1,4 @@
+type: car
+plate: PPZ9253
+layout: Brazilian
+corners: 758,324 895,326 895,373 758,371

@@ -1,0 +1,4 @@
+type: car
+plate: MTI4774
+layout: Brazilian
+corners: 695,292 811,295 813,334 697,331

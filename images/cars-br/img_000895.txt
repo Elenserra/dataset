@@ -1,0 +1,4 @@
+type: car
+plate: OYF1548
+layout: Brazilian
+corners: 576,400 702,399 703,442 576,442

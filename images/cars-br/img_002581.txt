@@ -1,0 +1,4 @@
+type: car
+plate: OYG6189
+layout: Brazilian
+corners: 546,404 676,407 677,453 546,447

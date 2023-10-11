@@ -1,0 +1,4 @@
+type: car
+plate: ODS6243
+layout: Brazilian
+corners: 548,419 677,419 678,462 547,462

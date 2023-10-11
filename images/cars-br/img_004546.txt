@@ -1,0 +1,4 @@
+type: car
+plate: KZB2462
+layout: Brazilian
+corners: 892,73 981,70 984,101 893,103

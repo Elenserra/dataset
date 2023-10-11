@@ -1,0 +1,4 @@
+type: car
+plate: QNN6529
+layout: Brazilian
+corners: 560,394 685,394 687,437 560,434

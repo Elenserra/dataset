@@ -1,0 +1,4 @@
+type: car
+plate: MQM4704
+layout: Brazilian
+corners: 885,212 985,209 988,244 886,247

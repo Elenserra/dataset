@@ -1,0 +1,4 @@
+type: car
+plate: PPW3468
+layout: Brazilian
+corners: 644,195 752,194 751,230 646,231

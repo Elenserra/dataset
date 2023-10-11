@@ -1,0 +1,4 @@
+type: car
+plate: KVY5653
+layout: Brazilian
+corners: 988,76 1073,74 1075,105 988,106

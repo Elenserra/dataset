@@ -1,0 +1,4 @@
+type: car
+plate: PPP6659
+layout: Brazilian
+corners: 664,206 760,205 760,237 665,238

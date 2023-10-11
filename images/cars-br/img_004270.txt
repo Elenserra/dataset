@@ -1,0 +1,4 @@
+type: car
+plate: QUJ1102
+layout: Brazilian
+corners: 837,248 953,245 953,284 839,286

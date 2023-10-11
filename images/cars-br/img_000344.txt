@@ -1,0 +1,4 @@
+type: car
+plate: MRN1024
+layout: Brazilian
+corners: 488,368 619,370 621,412 492,413

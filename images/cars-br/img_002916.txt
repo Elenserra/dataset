@@ -1,0 +1,4 @@
+type: car
+plate: QRD1769
+layout: Brazilian
+corners: 853,165 952,165 953,200 854,199

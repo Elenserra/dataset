@@ -1,0 +1,4 @@
+type: car
+plate: PPR8167
+layout: Brazilian
+corners: 505,404 629,404 631,450 505,448

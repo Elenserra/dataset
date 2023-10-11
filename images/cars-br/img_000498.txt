@@ -1,0 +1,4 @@
+type: car
+plate: OVL4669
+layout: Brazilian
+corners: 567,389 696,389 698,434 569,435

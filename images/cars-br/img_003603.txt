@@ -1,0 +1,4 @@
+type: car
+plate: MTA6905
+layout: Brazilian
+corners: 848,295 970,293 975,337 851,339

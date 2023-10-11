@@ -1,0 +1,4 @@
+type: car
+plate: LQA9903
+layout: Brazilian
+corners: 711,391 853,394 856,443 711,441

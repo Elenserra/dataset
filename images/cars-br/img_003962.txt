@@ -1,0 +1,4 @@
+type: car
+plate: ODJ8902
+layout: Brazilian
+corners: 839,342 974,342 975,389 840,387

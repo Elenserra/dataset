@@ -1,0 +1,4 @@
+type: car
+plate: OVJ3026
+layout: Brazilian
+corners: 543,372 665,372 667,412 548,412

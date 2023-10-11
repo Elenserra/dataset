@@ -1,0 +1,4 @@
+type: car
+plate: MPP5590
+layout: Brazilian
+corners: 485,418 614,417 615,460 491,459

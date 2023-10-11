@@ -1,0 +1,4 @@
+type: car
+plate: MTE0896
+layout: Brazilian
+corners: 665,290 785,292 786,334 665,330

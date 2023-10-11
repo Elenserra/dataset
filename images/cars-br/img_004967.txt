@@ -1,0 +1,4 @@
+type: car
+plate: MNY9771
+layout: Brazilian
+corners: 663,334 799,343 798,389 662,380

@@ -1,0 +1,4 @@
+type: car
+plate: MQN3600
+layout: Brazilian
+corners: 534,325 659,322 663,365 538,366

@@ -1,0 +1,4 @@
+type: car
+plate: ODG3176
+layout: Brazilian
+corners: 546,353 668,351 670,393 547,394

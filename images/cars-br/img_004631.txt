@@ -1,0 +1,4 @@
+type: car
+plate: PPO1497
+layout: Brazilian
+corners: 834,308 962,306 963,347 836,349

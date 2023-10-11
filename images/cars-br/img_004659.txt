@@ -1,0 +1,4 @@
+type: car
+plate: QQU1133
+layout: Brazilian
+corners: 880,263 1002,260 1005,304 881,307

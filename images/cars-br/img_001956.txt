@@ -1,0 +1,4 @@
+type: car
+plate: PPW7594
+layout: Brazilian
+corners: 420,471 552,472 553,515 421,514

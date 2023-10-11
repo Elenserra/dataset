@@ -1,0 +1,4 @@
+type: car
+plate: MTY4529
+layout: Brazilian
+corners: 818,335 951,330 955,377 818,380

@@ -1,0 +1,4 @@
+type: car
+plate: PPP8410
+layout: Brazilian
+corners: 632,362 762,364 766,412 636,410

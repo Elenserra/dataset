@@ -1,0 +1,4 @@
+type: car
+plate: ODS6953
+layout: Brazilian
+corners: 685,275 801,279 803,319 687,316

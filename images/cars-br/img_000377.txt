@@ -1,0 +1,4 @@
+type: car
+plate: MRL9688
+layout: Brazilian
+corners: 478,371 605,369 608,413 481,412

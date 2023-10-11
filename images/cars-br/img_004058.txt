@@ -1,0 +1,4 @@
+type: car
+plate: OLV9868
+layout: Brazilian
+corners: 814,216 935,212 939,253 815,256

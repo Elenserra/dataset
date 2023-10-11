@@ -1,0 +1,4 @@
+type: car
+plate: PPI2537
+layout: Brazilian
+corners: 779,351 912,350 916,395 780,397

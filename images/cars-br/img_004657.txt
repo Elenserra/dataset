@@ -1,0 +1,4 @@
+type: car
+plate: PWM5194
+layout: Brazilian
+corners: 811,351 949,351 949,397 812,397

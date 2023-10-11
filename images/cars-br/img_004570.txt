@@ -1,0 +1,4 @@
+type: car
+plate: AZA5679
+layout: Brazilian
+corners: 782,326 916,321 919,368 783,373

@@ -1,0 +1,4 @@
+type: car
+plate: OYJ3200
+layout: Brazilian
+corners: 712,278 848,273 853,322 713,325

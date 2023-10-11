@@ -1,0 +1,4 @@
+type: car
+plate: MSU7735
+layout: Brazilian
+corners: 526,306 652,303 655,344 529,347

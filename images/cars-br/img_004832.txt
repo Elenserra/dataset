@@ -1,0 +1,4 @@
+type: car
+plate: MQP6065
+layout: Brazilian
+corners: 908,242 1019,241 1020,280 907,280

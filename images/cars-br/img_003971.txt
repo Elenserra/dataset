@@ -1,0 +1,4 @@
+type: car
+plate: NSJ2438
+layout: Brazilian
+corners: 924,208 1026,206 1029,240 925,243

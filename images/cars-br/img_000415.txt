@@ -1,0 +1,4 @@
+type: car
+plate: MSK7666
+layout: Brazilian
+corners: 452,388 578,392 578,439 451,437

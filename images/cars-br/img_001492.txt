@@ -1,0 +1,4 @@
+type: car
+plate: MPW8555
+layout: Brazilian
+corners: 634,368 754,366 755,409 635,410

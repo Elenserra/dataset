@@ -1,0 +1,4 @@
+type: car
+plate: PPM1777
+layout: Brazilian
+corners: 417,308 547,308 548,352 420,352

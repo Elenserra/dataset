@@ -1,0 +1,4 @@
+type: car
+plate: PPX9031
+layout: Brazilian
+corners: 525,393 652,392 654,436 527,436

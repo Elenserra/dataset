@@ -1,0 +1,4 @@
+type: car
+plate: EVA6236
+layout: Brazilian
+corners: 848,164 940,164 941,193 848,193

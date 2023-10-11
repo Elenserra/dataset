@@ -1,0 +1,4 @@
+type: car
+plate: MRZ5628
+layout: Brazilian
+corners: 867,263 984,259 988,299 870,302

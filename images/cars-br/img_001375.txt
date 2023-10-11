@@ -1,0 +1,4 @@
+type: car
+plate: ODD6032
+layout: Brazilian
+corners: 426,505 574,503 575,554 427,555

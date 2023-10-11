@@ -1,0 +1,4 @@
+type: car
+plate: PPY9880
+layout: Brazilian
+corners: 963,86 1044,84 1046,112 964,114

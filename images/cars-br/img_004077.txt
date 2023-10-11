@@ -1,0 +1,4 @@
+type: car
+plate: ODC9587
+layout: Brazilian
+corners: 749,188 863,185 867,223 750,225

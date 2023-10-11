@@ -1,0 +1,4 @@
+type: car
+plate: OWV9793
+layout: Brazilian
+corners: 763,177 849,177 849,207 763,207

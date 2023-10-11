@@ -1,0 +1,4 @@
+type: car
+plate: ODK0600
+layout: Brazilian
+corners: 751,309 885,306 888,351 751,354

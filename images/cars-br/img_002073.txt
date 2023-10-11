@@ -1,0 +1,4 @@
+type: car
+plate: PPP6086
+layout: Brazilian
+corners: 501,294 625,293 626,336 502,337

@@ -1,0 +1,4 @@
+type: car
+plate: MTC5704
+layout: Brazilian
+corners: 741,202 829,200 830,231 742,232

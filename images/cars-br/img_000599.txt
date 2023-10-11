@@ -1,0 +1,4 @@
+type: car
+plate: MQP9840
+layout: Brazilian
+corners: 519,389 639,389 639,428 519,429

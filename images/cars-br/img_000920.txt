@@ -1,0 +1,4 @@
+type: car
+plate: MPL9202
+layout: Brazilian
+corners: 571,444 693,444 694,484 571,484

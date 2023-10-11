@@ -1,0 +1,4 @@
+type: car
+plate: LKW3018
+layout: Brazilian
+corners: 924,163 1026,159 1028,196 923,198

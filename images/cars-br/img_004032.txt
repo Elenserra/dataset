@@ -1,0 +1,4 @@
+type: car
+plate: PPR6922
+layout: Brazilian
+corners: 884,195 1003,191 1006,232 885,234

@@ -1,0 +1,4 @@
+type: car
+plate: PPE4646
+layout: Brazilian
+corners: 784,321 916,320 918,366 784,366

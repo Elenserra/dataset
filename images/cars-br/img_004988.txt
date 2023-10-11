@@ -1,0 +1,4 @@
+type: car
+plate: HGI0984
+layout: Brazilian
+corners: 658,353 793,361 791,406 657,397

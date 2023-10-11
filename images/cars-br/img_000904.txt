@@ -1,0 +1,4 @@
+type: car
+plate: QPP8907
+layout: Brazilian
+corners: 531,434 663,434 664,481 533,479

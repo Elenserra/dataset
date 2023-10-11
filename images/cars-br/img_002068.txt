@@ -1,0 +1,4 @@
+type: car
+plate: PPW8794
+layout: Brazilian
+corners: 491,396 614,397 614,439 491,438

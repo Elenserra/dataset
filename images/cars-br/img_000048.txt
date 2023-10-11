@@ -1,0 +1,4 @@
+type: car
+plate: QPL9771
+layout: Brazilian
+corners: 583,398 708,399 708,437 583,435

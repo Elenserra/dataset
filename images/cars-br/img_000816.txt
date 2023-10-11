@@ -1,0 +1,4 @@
+type: car
+plate: JFE0111
+layout: Brazilian
+corners: 527,403 649,404 650,447 527,445

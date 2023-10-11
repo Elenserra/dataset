@@ -1,0 +1,4 @@
+type: car
+plate: PPK6236
+layout: Brazilian
+corners: 813,297 941,293 946,339 815,340

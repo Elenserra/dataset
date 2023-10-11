@@ -1,0 +1,4 @@
+type: car
+plate: KYE4676
+layout: Brazilian
+corners: 758,353 889,352 893,396 757,395

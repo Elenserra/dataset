@@ -1,0 +1,4 @@
+type: car
+plate: HCA4535
+layout: Brazilian
+corners: 622,373 750,369 752,412 624,416

@@ -1,0 +1,4 @@
+type: car
+plate: PPU8237
+layout: Brazilian
+corners: 652,302 776,303 778,347 654,344

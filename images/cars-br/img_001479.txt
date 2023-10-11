@@ -1,0 +1,4 @@
+type: car
+plate: ODT6475
+layout: Brazilian
+corners: 683,217 776,215 776,249 683,250

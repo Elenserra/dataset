@@ -1,0 +1,4 @@
+type: car
+plate: EYL1133
+layout: Brazilian
+corners: 759,332 898,329 902,376 762,379

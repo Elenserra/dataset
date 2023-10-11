@@ -1,0 +1,4 @@
+type: car
+plate: OYE4607
+layout: Brazilian
+corners: 652,315 778,314 781,354 653,354

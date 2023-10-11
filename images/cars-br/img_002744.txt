@@ -1,0 +1,4 @@
+type: car
+plate: MQC1355
+layout: Brazilian
+corners: 514,360 642,367 649,409 522,400

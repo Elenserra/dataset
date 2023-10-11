@@ -1,0 +1,4 @@
+type: car
+plate: MRQ6870
+layout: Brazilian
+corners: 811,333 942,332 944,377 812,378

@@ -1,0 +1,4 @@
+type: car
+plate: EJE5677
+layout: Brazilian
+corners: 560,383 684,384 685,427 562,426

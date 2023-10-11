@@ -1,0 +1,4 @@
+type: car
+plate: PPT7058
+layout: Brazilian
+corners: 552,420 680,419 682,457 552,458

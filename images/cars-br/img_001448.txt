@@ -1,0 +1,4 @@
+type: car
+plate: MQR8284
+layout: Brazilian
+corners: 542,405 665,407 666,447 543,445

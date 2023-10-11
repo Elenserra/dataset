@@ -1,0 +1,4 @@
+type: car
+plate: MRT3077
+layout: Brazilian
+corners: 829,220 940,218 943,257 831,258

@@ -1,0 +1,4 @@
+type: car
+plate: MQQ6674
+layout: Brazilian
+corners: 434,389 562,390 563,437 434,434

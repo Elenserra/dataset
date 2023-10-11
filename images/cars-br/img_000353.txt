@@ -1,0 +1,4 @@
+type: car
+plate: PPP7406
+layout: Brazilian
+corners: 585,324 693,324 693,362 584,362

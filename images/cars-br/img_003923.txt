@@ -1,0 +1,4 @@
+type: car
+plate: MPK3952
+layout: Brazilian
+corners: 780,282 917,276 921,323 783,328

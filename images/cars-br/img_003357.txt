@@ -1,0 +1,4 @@
+type: car
+plate: ODS4069
+layout: Brazilian
+corners: 702,281 817,282 817,321 703,320

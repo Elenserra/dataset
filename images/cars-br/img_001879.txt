@@ -1,0 +1,4 @@
+type: car
+plate: PPS4426
+layout: Brazilian
+corners: 457,417 580,418 580,459 457,458

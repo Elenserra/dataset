@@ -1,0 +1,4 @@
+type: car
+plate: PPD0778
+layout: Brazilian
+corners: 794,168 877,167 878,197 795,197

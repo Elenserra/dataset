@@ -1,0 +1,4 @@
+type: car
+plate: OYE3551
+layout: Brazilian
+corners: 521,368 645,367 647,408 522,408

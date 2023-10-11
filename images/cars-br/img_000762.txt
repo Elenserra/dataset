@@ -1,0 +1,4 @@
+type: car
+plate: PPY5023
+layout: Brazilian
+corners: 511,392 634,392 636,432 513,430

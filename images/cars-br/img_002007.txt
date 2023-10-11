@@ -1,0 +1,4 @@
+type: car
+plate: PPX6781
+layout: Brazilian
+corners: 487,422 615,423 616,466 488,465

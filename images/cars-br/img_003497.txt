@@ -1,0 +1,4 @@
+type: car
+plate: MRD2754
+layout: Brazilian
+corners: 840,314 979,309 983,357 841,361

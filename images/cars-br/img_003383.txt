@@ -1,0 +1,4 @@
+type: car
+plate: QPO2337
+layout: Brazilian
+corners: 600,361 728,364 728,407 601,404

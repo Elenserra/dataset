@@ -1,0 +1,4 @@
+type: car
+plate: PPT4802
+layout: Brazilian
+corners: 627,360 769,369 767,416 625,406

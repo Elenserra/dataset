@@ -1,0 +1,4 @@
+type: car
+plate: FJC3472
+layout: Brazilian
+corners: 786,345 922,344 925,391 787,390

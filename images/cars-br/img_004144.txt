@@ -1,0 +1,4 @@
+type: car
+plate: MQI8528
+layout: Brazilian
+corners: 805,304 931,302 936,346 806,347

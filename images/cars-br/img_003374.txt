@@ -1,0 +1,4 @@
+type: car
+plate: OAU8499
+layout: Brazilian
+corners: 650,345 778,346 780,388 653,386

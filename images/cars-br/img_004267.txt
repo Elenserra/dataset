@@ -1,0 +1,4 @@
+type: car
+plate: GXU7640
+layout: Brazilian
+corners: 739,345 859,342 864,382 744,385

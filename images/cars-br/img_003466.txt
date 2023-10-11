@@ -1,0 +1,4 @@
+type: car
+plate: MRT2430
+layout: Brazilian
+corners: 845,338 980,335 982,380 847,383

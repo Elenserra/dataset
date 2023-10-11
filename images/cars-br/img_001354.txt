@@ -1,0 +1,4 @@
+type: car
+plate: PPN7838
+layout: Brazilian
+corners: 685,279 786,279 786,313 685,313

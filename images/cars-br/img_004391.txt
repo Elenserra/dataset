@@ -1,0 +1,4 @@
+type: car
+plate: MPK5700
+layout: Brazilian
+corners: 761,348 881,348 882,391 763,388

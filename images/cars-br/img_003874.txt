@@ -1,0 +1,4 @@
+type: car
+plate: QQO5014
+layout: Brazilian
+corners: 858,278 982,276 987,318 860,321

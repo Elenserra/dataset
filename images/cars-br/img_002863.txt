@@ -1,0 +1,4 @@
+type: car
+plate: OVF6264
+layout: Brazilian
+corners: 937,19 1005,19 1007,42 937,42

@@ -1,0 +1,4 @@
+type: car
+plate: MTT5916
+layout: Brazilian
+corners: 770,187 888,183 892,224 772,226

@@ -1,0 +1,4 @@
+type: car
+plate: PPW7608
+layout: Brazilian
+corners: 639,289 747,288 747,327 639,327

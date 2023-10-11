@@ -1,0 +1,4 @@
+type: car
+plate: EEO6314
+layout: Brazilian
+corners: 627,346 748,350 750,390 626,387

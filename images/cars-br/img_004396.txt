@@ -1,0 +1,4 @@
+type: car
+plate: MTT1087
+layout: Brazilian
+corners: 840,318 969,314 975,360 842,360

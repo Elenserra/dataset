@@ -1,0 +1,4 @@
+type: car
+plate: MTB8714
+layout: Brazilian
+corners: 646,352 763,352 763,390 646,390

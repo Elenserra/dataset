@@ -1,0 +1,4 @@
+type: car
+plate: ODO3058
+layout: Brazilian
+corners: 616,339 732,339 734,381 616,380

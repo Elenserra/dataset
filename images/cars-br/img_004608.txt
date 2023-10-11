@@ -1,0 +1,4 @@
+type: car
+plate: ODO3356
+layout: Brazilian
+corners: 812,314 950,310 953,357 814,361

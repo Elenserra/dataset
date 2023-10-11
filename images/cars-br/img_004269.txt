@@ -1,0 +1,4 @@
+type: car
+plate: OXH4580
+layout: Brazilian
+corners: 773,346 906,342 909,389 774,392

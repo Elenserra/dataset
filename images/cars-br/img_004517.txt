@@ -1,0 +1,4 @@
+type: car
+plate: MSE5564
+layout: Brazilian
+corners: 597,284 734,277 741,320 602,327

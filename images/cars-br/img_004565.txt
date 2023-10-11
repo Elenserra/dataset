@@ -1,0 +1,4 @@
+type: car
+plate: NRW1717
+layout: Brazilian
+corners: 766,358 899,355 903,403 767,404

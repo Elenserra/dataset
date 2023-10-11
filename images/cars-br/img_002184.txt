@@ -1,0 +1,4 @@
+type: car
+plate: NZU3333
+layout: Brazilian
+corners: 511,430 641,430 641,475 511,474

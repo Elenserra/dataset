@@ -1,0 +1,4 @@
+type: car
+plate: MTV0562
+layout: Brazilian
+corners: 798,286 919,283 925,324 800,326

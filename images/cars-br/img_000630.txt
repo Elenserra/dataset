@@ -1,0 +1,4 @@
+type: car
+plate: OVL3155
+layout: Brazilian
+corners: 530,399 655,401 654,442 530,441

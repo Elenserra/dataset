@@ -1,0 +1,4 @@
+type: car
+plate: OYJ6020
+layout: Brazilian
+corners: 688,333 820,332 822,377 690,378

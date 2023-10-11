@@ -1,0 +1,4 @@
+type: car
+plate: PPB2351
+layout: Brazilian
+corners: 472,278 576,279 577,312 473,311

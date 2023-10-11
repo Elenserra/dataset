@@ -1,0 +1,4 @@
+type: car
+plate: PPJ3352
+layout: Brazilian
+corners: 480,330 606,330 606,375 479,373

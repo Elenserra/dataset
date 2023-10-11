@@ -1,0 +1,4 @@
+type: car
+plate: PPT3857
+layout: Brazilian
+corners: 501,370 633,369 634,416 502,416

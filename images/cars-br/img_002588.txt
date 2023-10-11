@@ -1,0 +1,4 @@
+type: car
+plate: PPJ2862
+layout: Brazilian
+corners: 565,357 685,363 685,403 566,398

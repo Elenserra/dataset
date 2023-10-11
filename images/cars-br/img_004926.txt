@@ -1,0 +1,4 @@
+type: car
+plate: QRB1285
+layout: Brazilian
+corners: 920,229 1032,226 1032,266 920,269

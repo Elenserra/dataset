@@ -1,0 +1,4 @@
+type: car
+plate: PPB2977
+layout: Brazilian
+corners: 545,375 668,377 668,419 545,417

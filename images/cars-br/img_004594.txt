@@ -1,0 +1,4 @@
+type: car
+plate: PPU5435
+layout: Brazilian
+corners: 845,327 981,326 982,370 845,369

@@ -1,0 +1,4 @@
+type: car
+plate: MSS6660
+layout: Brazilian
+corners: 568,419 691,418 691,458 568,458

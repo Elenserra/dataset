@@ -1,0 +1,4 @@
+type: car
+plate: OVF0618
+layout: Brazilian
+corners: 698,363 837,369 836,414 700,406

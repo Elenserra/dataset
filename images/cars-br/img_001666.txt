@@ -1,0 +1,4 @@
+type: car
+plate: KVI3621
+layout: Brazilian
+corners: 578,340 701,339 703,381 580,383

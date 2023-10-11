@@ -1,0 +1,4 @@
+type: car
+plate: MRF8628
+layout: Brazilian
+corners: 747,363 890,362 893,410 748,412

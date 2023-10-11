@@ -1,0 +1,4 @@
+type: car
+plate: ODR1528
+layout: Brazilian
+corners: 566,396 692,396 694,440 567,439

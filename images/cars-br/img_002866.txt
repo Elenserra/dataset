@@ -1,0 +1,4 @@
+type: car
+plate: PPS6649
+layout: Brazilian
+corners: 666,345 793,345 795,385 667,386

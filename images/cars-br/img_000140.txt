@@ -1,0 +1,4 @@
+type: car
+plate: MTY7073
+layout: Brazilian
+corners: 693,264 794,262 794,297 693,296

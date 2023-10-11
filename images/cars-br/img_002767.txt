@@ -1,0 +1,4 @@
+type: car
+plate: MST8531
+layout: Brazilian
+corners: 685,257 801,256 802,296 686,296

@@ -1,0 +1,4 @@
+type: car
+plate: MSK6275
+layout: Brazilian
+corners: 828,248 946,243 951,283 830,285

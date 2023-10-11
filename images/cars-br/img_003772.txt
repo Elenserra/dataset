@@ -1,0 +1,4 @@
+type: car
+plate: OPR0041
+layout: Brazilian
+corners: 876,311 1004,307 1008,350 877,353

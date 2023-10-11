@@ -1,0 +1,4 @@
+type: car
+plate: ODB7841
+layout: Brazilian
+corners: 667,284 770,284 771,319 666,319

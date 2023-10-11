@@ -1,0 +1,4 @@
+type: car
+plate: OYG2706
+layout: Brazilian
+corners: 799,360 935,357 937,401 800,403

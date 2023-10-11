@@ -1,0 +1,4 @@
+type: car
+plate: PPA8552
+layout: Brazilian
+corners: 914,78 993,79 993,106 914,105

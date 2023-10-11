@@ -1,0 +1,4 @@
+type: car
+plate: MPK8098
+layout: Brazilian
+corners: 707,338 839,346 838,390 706,383

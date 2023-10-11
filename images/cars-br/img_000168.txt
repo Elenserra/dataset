@@ -1,0 +1,4 @@
+type: car
+plate: MRY7465
+layout: Brazilian
+corners: 409,407 541,408 546,448 413,448

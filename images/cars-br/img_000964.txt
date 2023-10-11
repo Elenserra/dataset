@@ -1,0 +1,4 @@
+type: car
+plate: EYI1314
+layout: Brazilian
+corners: 452,487 579,495 581,538 455,530

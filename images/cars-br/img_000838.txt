@@ -1,0 +1,4 @@
+type: car
+plate: PPQ5027
+layout: Brazilian
+corners: 514,334 634,335 635,377 517,376

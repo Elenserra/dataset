@@ -1,0 +1,4 @@
+type: car
+plate: ODE6371
+layout: Brazilian
+corners: 585,376 712,377 712,418 585,417

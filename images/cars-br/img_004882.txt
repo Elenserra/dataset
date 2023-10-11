@@ -1,0 +1,4 @@
+type: car
+plate: PPW7792
+layout: Brazilian
+corners: 1035,107 1115,106 1116,133 1034,134

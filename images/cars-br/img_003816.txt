@@ -1,0 +1,4 @@
+type: car
+plate: MSI8207
+layout: Brazilian
+corners: 863,206 984,200 988,240 865,246

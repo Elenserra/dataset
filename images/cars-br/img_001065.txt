@@ -1,0 +1,4 @@
+type: car
+plate: QRB8380
+layout: Brazilian
+corners: 602,360 722,362 722,403 601,402

@@ -1,0 +1,4 @@
+type: car
+plate: ODT6217
+layout: Brazilian
+corners: 866,97 950,97 951,127 866,126

@@ -1,0 +1,4 @@
+type: car
+plate: MTX1539
+layout: Brazilian
+corners: 629,299 734,299 737,333 629,335

@@ -1,0 +1,4 @@
+type: car
+plate: LCY6849
+layout: Brazilian
+corners: 806,373 940,371 943,416 809,416

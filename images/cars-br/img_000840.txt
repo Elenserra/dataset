@@ -1,0 +1,4 @@
+type: car
+plate: OYK7891
+layout: Brazilian
+corners: 629,302 737,302 738,339 631,338

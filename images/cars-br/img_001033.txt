@@ -1,0 +1,4 @@
+type: car
+plate: PPM2725
+layout: Brazilian
+corners: 556,411 683,413 683,456 555,453

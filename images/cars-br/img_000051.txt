@@ -1,0 +1,4 @@
+type: car
+plate: PPN1470
+layout: Brazilian
+corners: 485,421 615,421 617,463 488,462

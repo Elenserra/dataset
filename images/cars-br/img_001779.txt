@@ -1,0 +1,4 @@
+type: car
+plate: ODJ2482
+layout: Brazilian
+corners: 687,247 788,247 788,283 687,283

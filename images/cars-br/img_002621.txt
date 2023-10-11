@@ -1,0 +1,4 @@
+type: car
+plate: PLE1570
+layout: Brazilian
+corners: 535,326 662,331 664,374 538,369

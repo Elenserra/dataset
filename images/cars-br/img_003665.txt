@@ -1,0 +1,4 @@
+type: car
+plate: MTD9587
+layout: Brazilian
+corners: 824,332 957,328 961,374 825,377

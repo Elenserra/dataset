@@ -1,0 +1,4 @@
+type: car
+plate: LRT4712
+layout: Brazilian
+corners: 535,393 663,393 664,438 536,438

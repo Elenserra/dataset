@@ -1,0 +1,4 @@
+type: car
+plate: MSS5721
+layout: Brazilian
+corners: 532,322 657,319 660,360 535,363

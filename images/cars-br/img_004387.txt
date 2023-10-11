@@ -1,0 +1,4 @@
+type: car
+plate: MTG9614
+layout: Brazilian
+corners: 843,120 946,117 950,152 845,155

@@ -1,0 +1,4 @@
+type: car
+plate: PPZ3386
+layout: Brazilian
+corners: 809,289 934,286 935,329 810,331

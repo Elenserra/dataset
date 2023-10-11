@@ -1,0 +1,4 @@
+type: car
+plate: MPL3243
+layout: Brazilian
+corners: 779,317 910,317 912,361 781,361

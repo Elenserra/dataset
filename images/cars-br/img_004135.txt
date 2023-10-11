@@ -1,0 +1,4 @@
+type: car
+plate: MTB7434
+layout: Brazilian
+corners: 748,288 882,285 885,330 750,334

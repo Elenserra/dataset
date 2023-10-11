@@ -1,0 +1,4 @@
+type: car
+plate: OYH4427
+layout: Brazilian
+corners: 816,347 952,346 955,391 816,391

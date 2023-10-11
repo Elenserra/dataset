@@ -1,0 +1,4 @@
+type: car
+plate: MTB4601
+layout: Brazilian
+corners: 800,249 919,243 923,284 801,287

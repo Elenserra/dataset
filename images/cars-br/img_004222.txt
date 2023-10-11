@@ -1,0 +1,4 @@
+type: car
+plate: OQR1982
+layout: Brazilian
+corners: 811,350 947,348 951,393 814,396

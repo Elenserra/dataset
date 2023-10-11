@@ -1,0 +1,4 @@
+type: car
+plate: MSB7881
+layout: Brazilian
+corners: 648,319 759,320 760,359 651,357

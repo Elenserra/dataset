@@ -1,0 +1,4 @@
+type: car
+plate: LOG7438
+layout: Brazilian
+corners: 756,332 892,326 896,374 759,377

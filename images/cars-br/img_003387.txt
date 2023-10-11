@@ -1,0 +1,4 @@
+type: car
+plate: EYO3502
+layout: Brazilian
+corners: 697,265 811,266 811,304 697,302

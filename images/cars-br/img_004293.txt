@@ -1,0 +1,4 @@
+type: car
+plate: MSP4261
+layout: Brazilian
+corners: 817,325 949,321 951,368 818,371

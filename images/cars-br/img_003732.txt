@@ -1,0 +1,4 @@
+type: car
+plate: LQM6568
+layout: Brazilian
+corners: 852,328 989,326 990,371 854,372

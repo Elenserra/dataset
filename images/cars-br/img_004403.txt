@@ -1,0 +1,4 @@
+type: car
+plate: OPY7839
+layout: Brazilian
+corners: 850,325 980,321 981,367 850,368

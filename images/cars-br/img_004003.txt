@@ -1,0 +1,4 @@
+type: car
+plate: MRD8585
+layout: Brazilian
+corners: 997,126 1077,121 1080,148 999,154

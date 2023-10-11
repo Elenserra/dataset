@@ -1,0 +1,4 @@
+type: car
+plate: ODF7967
+layout: Brazilian
+corners: 533,411 661,412 663,456 534,454

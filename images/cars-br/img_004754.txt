@@ -1,0 +1,4 @@
+type: car
+plate: MSM5854
+layout: Brazilian
+corners: 755,354 889,353 891,400 757,401

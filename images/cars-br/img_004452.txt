@@ -1,0 +1,4 @@
+type: car
+plate: QRC6506
+layout: Brazilian
+corners: 767,369 903,368 905,413 769,413

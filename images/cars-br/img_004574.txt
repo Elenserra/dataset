@@ -1,0 +1,4 @@
+type: car
+plate: EUB7872
+layout: Brazilian
+corners: 848,314 978,313 982,360 847,360

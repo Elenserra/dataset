@@ -1,0 +1,4 @@
+type: car
+plate: PPZ8837
+layout: Brazilian
+corners: 792,300 919,300 918,343 793,344

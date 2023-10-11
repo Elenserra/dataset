@@ -1,0 +1,4 @@
+type: car
+plate: LSD6597
+layout: Brazilian
+corners: 763,343 896,341 900,387 766,388

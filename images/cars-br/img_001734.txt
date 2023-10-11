@@ -1,0 +1,4 @@
+type: car
+plate: JMI5050
+layout: Brazilian
+corners: 885,324 1012,320 1015,361 888,364

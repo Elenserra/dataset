@@ -1,0 +1,4 @@
+type: car
+plate: MRF3399
+layout: Brazilian
+corners: 897,182 1004,179 1005,217 897,219

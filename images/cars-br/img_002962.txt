@@ -1,0 +1,4 @@
+type: car
+plate: PPS4432
+layout: Brazilian
+corners: 949,39 1017,38 1018,62 949,63

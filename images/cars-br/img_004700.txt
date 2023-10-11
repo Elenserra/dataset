@@ -1,0 +1,4 @@
+type: car
+plate: MTF2414
+layout: Brazilian
+corners: 863,299 992,296 994,341 865,342

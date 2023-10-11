@@ -1,0 +1,4 @@
+type: car
+plate: MSD0247
+layout: Brazilian
+corners: 531,415 657,416 659,462 531,460

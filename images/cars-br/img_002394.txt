@@ -1,0 +1,4 @@
+type: car
+plate: PPV3204
+layout: Brazilian
+corners: 727,100 817,100 818,131 728,131

@@ -1,0 +1,4 @@
+type: car
+plate: MSN3015
+layout: Brazilian
+corners: 781,330 916,328 917,373 781,374

@@ -1,0 +1,4 @@
+type: car
+plate: MTB7628
+layout: Brazilian
+corners: 674,131 775,129 777,163 676,164

@@ -1,0 +1,4 @@
+type: car
+plate: MSQ9904
+layout: Brazilian
+corners: 942,246 1061,243 1065,284 943,288

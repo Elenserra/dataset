@@ -1,0 +1,4 @@
+type: car
+plate: AQK5490
+layout: Brazilian
+corners: 645,284 763,289 765,322 648,315

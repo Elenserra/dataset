@@ -1,0 +1,4 @@
+type: car
+plate: OVL3560
+layout: Brazilian
+corners: 788,345 922,345 924,393 787,391

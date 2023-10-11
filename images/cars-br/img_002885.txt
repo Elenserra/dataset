@@ -1,0 +1,4 @@
+type: car
+plate: PPA2373
+layout: Brazilian
+corners: 633,331 763,331 764,378 635,376

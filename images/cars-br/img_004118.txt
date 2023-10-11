@@ -1,0 +1,4 @@
+type: car
+plate: KWB7465
+layout: Brazilian
+corners: 868,313 997,307 1001,351 868,354

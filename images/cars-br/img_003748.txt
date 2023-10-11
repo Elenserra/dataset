@@ -1,0 +1,4 @@
+type: car
+plate: ODN1777
+layout: Brazilian
+corners: 710,278 821,278 823,316 710,315

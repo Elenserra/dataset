@@ -1,0 +1,4 @@
+type: car
+plate: CMA9593
+layout: Brazilian
+corners: 928,280 1046,276 1048,317 928,320

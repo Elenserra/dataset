@@ -1,0 +1,4 @@
+type: car
+plate: OCW3864
+layout: Brazilian
+corners: 534,415 658,413 660,455 537,455

@@ -1,0 +1,4 @@
+type: car
+plate: ODS2015
+layout: Brazilian
+corners: 590,404 717,403 720,446 591,446

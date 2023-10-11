@@ -1,0 +1,4 @@
+type: car
+plate: MTD4979
+layout: Brazilian
+corners: 573,301 691,300 692,337 577,338

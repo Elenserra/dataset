@@ -1,0 +1,4 @@
+type: car
+plate: PPQ0345
+layout: Brazilian
+corners: 538,375 664,376 665,418 540,418

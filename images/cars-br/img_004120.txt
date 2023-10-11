@@ -1,0 +1,4 @@
+type: car
+plate: MSE9837
+layout: Brazilian
+corners: 813,327 946,322 954,368 816,372

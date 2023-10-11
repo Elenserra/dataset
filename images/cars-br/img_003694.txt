@@ -1,0 +1,4 @@
+type: car
+plate: PXD5882
+layout: Brazilian
+corners: 815,333 948,330 950,375 814,378

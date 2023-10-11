@@ -1,0 +1,4 @@
+type: car
+plate: PPJ6139
+layout: Brazilian
+corners: 881,249 995,245 998,284 881,288

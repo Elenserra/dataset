@@ -1,0 +1,4 @@
+type: car
+plate: MQG4984
+layout: Brazilian
+corners: 832,287 951,285 953,326 832,329

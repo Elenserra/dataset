@@ -1,0 +1,4 @@
+type: car
+plate: MRB0432
+layout: Brazilian
+corners: 480,314 591,315 591,352 480,350

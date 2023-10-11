@@ -1,0 +1,4 @@
+type: car
+plate: OYG5768
+layout: Brazilian
+corners: 553,294 663,295 665,329 554,330

@@ -1,0 +1,4 @@
+type: car
+plate: MTM6554
+layout: Brazilian
+corners: 787,301 913,295 916,339 789,341

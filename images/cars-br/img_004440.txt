@@ -1,0 +1,4 @@
+type: car
+plate: PPD1586
+layout: Brazilian
+corners: 709,328 844,329 847,376 710,375

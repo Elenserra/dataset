@@ -1,0 +1,4 @@
+type: car
+plate: GJZ8809
+layout: Brazilian
+corners: 714,166 796,165 797,192 714,192

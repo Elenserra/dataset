@@ -1,0 +1,4 @@
+type: car
+plate: QPZ8234
+layout: Brazilian
+corners: 501,302 628,301 631,345 503,346

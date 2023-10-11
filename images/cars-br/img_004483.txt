@@ -1,0 +1,4 @@
+type: car
+plate: PPL4841
+layout: Brazilian
+corners: 788,332 924,331 926,379 789,380

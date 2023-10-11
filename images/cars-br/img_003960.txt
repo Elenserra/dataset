@@ -1,0 +1,4 @@
+type: car
+plate: MSH0925
+layout: Brazilian
+corners: 933,160 1029,158 1031,191 933,192

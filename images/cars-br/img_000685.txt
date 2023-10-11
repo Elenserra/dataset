@@ -1,0 +1,4 @@
+type: car
+plate: PPZ1213
+layout: Brazilian
+corners: 809,140 885,139 885,166 809,165

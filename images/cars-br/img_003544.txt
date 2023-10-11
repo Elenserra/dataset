@@ -1,0 +1,4 @@
+type: car
+plate: ODF2508
+layout: Brazilian
+corners: 804,332 937,328 941,372 807,376

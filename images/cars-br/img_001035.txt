@@ -1,0 +1,4 @@
+type: car
+plate: PPK5586
+layout: Brazilian
+corners: 517,373 653,374 655,422 517,423

@@ -1,0 +1,4 @@
+type: car
+plate: PPB2418
+layout: Brazilian
+corners: 762,151 841,151 841,176 762,176

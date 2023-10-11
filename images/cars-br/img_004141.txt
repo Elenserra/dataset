@@ -1,0 +1,4 @@
+type: car
+plate: OZH5074
+layout: Brazilian
+corners: 773,266 909,264 915,310 775,311

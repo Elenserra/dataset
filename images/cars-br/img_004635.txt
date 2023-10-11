@@ -1,0 +1,4 @@
+type: car
+plate: PPW7015
+layout: Brazilian
+corners: 754,291 880,288 882,331 757,332

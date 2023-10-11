@@ -1,0 +1,4 @@
+type: car
+plate: MTQ2864
+layout: Brazilian
+corners: 782,327 911,326 914,368 783,369

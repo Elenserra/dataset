@@ -1,0 +1,4 @@
+type: car
+plate: MQJ5895
+layout: Brazilian
+corners: 745,230 855,230 854,267 745,268

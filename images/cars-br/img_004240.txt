@@ -1,0 +1,4 @@
+type: car
+plate: HLL2570
+layout: Brazilian
+corners: 817,363 949,359 954,405 820,408

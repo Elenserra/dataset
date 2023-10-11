@@ -1,0 +1,4 @@
+type: car
+plate: MTC9427
+layout: Brazilian
+corners: 890,339 1028,332 1032,379 893,385

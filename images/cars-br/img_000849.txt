@@ -1,0 +1,4 @@
+type: car
+plate: MTU8829
+layout: Brazilian
+corners: 718,212 811,212 811,243 720,243

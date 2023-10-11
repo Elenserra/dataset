@@ -1,0 +1,4 @@
+type: car
+plate: MOX2291
+layout: Brazilian
+corners: 702,301 821,304 820,343 702,340

@@ -1,0 +1,4 @@
+type: car
+plate: ODQ1051
+layout: Brazilian
+corners: 499,409 624,413 625,456 497,452

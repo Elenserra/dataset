@@ -1,0 +1,4 @@
+type: car
+plate: MTK3992
+layout: Brazilian
+corners: 581,387 701,385 703,427 581,429

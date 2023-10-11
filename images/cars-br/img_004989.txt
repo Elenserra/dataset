@@ -1,0 +1,4 @@
+type: car
+plate: MPQ4004
+layout: Brazilian
+corners: 730,343 862,352 861,395 729,386

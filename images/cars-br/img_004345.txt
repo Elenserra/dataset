@@ -1,0 +1,4 @@
+type: car
+plate: ODO8745
+layout: Brazilian
+corners: 763,312 892,308 896,352 764,354

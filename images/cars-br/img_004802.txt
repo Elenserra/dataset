@@ -1,0 +1,4 @@
+type: car
+plate: QRB9354
+layout: Brazilian
+corners: 925,201 1029,198 1031,235 926,237

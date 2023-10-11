@@ -1,0 +1,4 @@
+type: car
+plate: MTB3976
+layout: Brazilian
+corners: 494,268 611,266 613,305 495,309

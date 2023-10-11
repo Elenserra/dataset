@@ -1,0 +1,4 @@
+type: car
+plate: MQM2965
+layout: Brazilian
+corners: 547,436 679,437 680,478 548,477

@@ -1,0 +1,4 @@
+type: car
+plate: OQS2384
+layout: Brazilian
+corners: 559,368 683,369 685,413 560,412

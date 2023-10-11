@@ -1,0 +1,4 @@
+type: car
+plate: PPL5787
+layout: Brazilian
+corners: 121,654 301,669 305,718 128,716

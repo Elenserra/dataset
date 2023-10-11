@@ -1,0 +1,4 @@
+type: car
+plate: MSK2049
+layout: Brazilian
+corners: 623,265 719,264 720,299 624,299

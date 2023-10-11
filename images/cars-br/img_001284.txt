@@ -1,0 +1,4 @@
+type: car
+plate: QRD1477
+layout: Brazilian
+corners: 549,395 679,394 680,437 550,438

@@ -1,0 +1,4 @@
+type: car
+plate: NJX7710
+layout: Brazilian
+corners: 801,344 935,344 937,389 801,390

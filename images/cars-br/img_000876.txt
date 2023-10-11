@@ -1,0 +1,4 @@
+type: car
+plate: QRB7689
+layout: Brazilian
+corners: 602,330 720,330 720,369 604,369

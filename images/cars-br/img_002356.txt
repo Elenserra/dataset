@@ -1,0 +1,4 @@
+type: car
+plate: NYS1758
+layout: Brazilian
+corners: 564,313 689,311 690,353 566,354

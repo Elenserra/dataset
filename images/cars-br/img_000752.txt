@@ -1,0 +1,4 @@
+type: car
+plate: OVF0684
+layout: Brazilian
+corners: 538,433 676,437 673,487 535,482

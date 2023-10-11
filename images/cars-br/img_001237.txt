@@ -1,0 +1,4 @@
+type: car
+plate: PPE4552
+layout: Brazilian
+corners: 689,298 794,295 796,332 691,334

@@ -1,0 +1,4 @@
+type: car
+plate: MQS3434
+layout: Brazilian
+corners: 765,412 901,412 903,457 766,458

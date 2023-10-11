@@ -1,0 +1,4 @@
+type: car
+plate: HJD2832
+layout: Brazilian
+corners: 640,296 748,294 749,330 642,331

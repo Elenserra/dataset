@@ -1,0 +1,4 @@
+type: car
+plate: PPK6012
+layout: Brazilian
+corners: 490,397 609,399 610,439 490,436

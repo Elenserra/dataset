@@ -1,0 +1,4 @@
+type: car
+plate: PPY0074
+layout: Brazilian
+corners: 789,352 927,350 930,395 791,397

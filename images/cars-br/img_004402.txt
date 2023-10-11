@@ -1,0 +1,4 @@
+type: car
+plate: PPA4080
+layout: Brazilian
+corners: 736,338 869,336 871,382 738,383

@@ -1,0 +1,4 @@
+type: car
+plate: OYK7794
+layout: Brazilian
+corners: 503,370 624,371 624,417 502,417

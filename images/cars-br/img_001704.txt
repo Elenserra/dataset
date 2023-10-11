@@ -1,0 +1,4 @@
+type: car
+plate: ODD8043
+layout: Brazilian
+corners: 360,518 513,522 515,578 363,574

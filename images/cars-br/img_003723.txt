@@ -1,0 +1,4 @@
+type: car
+plate: PEC1230
+layout: Brazilian
+corners: 797,323 930,320 932,364 798,368

@@ -1,0 +1,4 @@
+type: car
+plate: OVJ4890
+layout: Brazilian
+corners: 770,355 904,353 908,401 770,401

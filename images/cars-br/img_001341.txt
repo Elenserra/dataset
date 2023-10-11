@@ -1,0 +1,4 @@
+type: car
+plate: MRF3306
+layout: Brazilian
+corners: 474,458 604,460 605,502 474,500

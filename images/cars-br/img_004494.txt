@@ -1,0 +1,4 @@
+type: car
+plate: KPH5146
+layout: Brazilian
+corners: 875,457 1026,452 1029,502 877,503

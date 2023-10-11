@@ -1,0 +1,4 @@
+type: car
+plate: KYG8439
+layout: Brazilian
+corners: 812,342 947,340 950,384 815,386

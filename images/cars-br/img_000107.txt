@@ -1,0 +1,4 @@
+type: car
+plate: MTP5026
+layout: Brazilian
+corners: 499,421 627,419 630,464 500,464

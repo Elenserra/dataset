@@ -1,0 +1,4 @@
+type: car
+plate: PBK0199
+layout: Brazilian
+corners: 676,188 771,185 771,220 676,220

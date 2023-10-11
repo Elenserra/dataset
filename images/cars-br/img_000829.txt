@@ -1,0 +1,4 @@
+type: car
+plate: MQK7341
+layout: Brazilian
+corners: 552,386 663,387 666,422 554,421

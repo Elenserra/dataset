@@ -1,0 +1,4 @@
+type: car
+plate: LTA8105
+layout: Brazilian
+corners: 728,305 858,302 864,347 729,349

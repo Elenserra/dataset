@@ -1,0 +1,4 @@
+type: car
+plate: MRX6735
+layout: Brazilian
+corners: 806,301 933,297 937,342 807,344

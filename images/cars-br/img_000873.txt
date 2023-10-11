@@ -1,0 +1,4 @@
+type: car
+plate: HMI7411
+layout: Brazilian
+corners: 559,380 681,380 683,422 561,421

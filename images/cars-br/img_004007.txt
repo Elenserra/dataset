@@ -1,0 +1,4 @@
+type: car
+plate: MTQ5795
+layout: Brazilian
+corners: 828,284 951,281 954,325 827,328

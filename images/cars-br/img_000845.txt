@@ -1,0 +1,4 @@
+type: car
+plate: OYJ3097
+layout: Brazilian
+corners: 575,363 697,366 696,407 575,405

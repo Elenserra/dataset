@@ -1,0 +1,4 @@
+type: car
+plate: QQG3168
+layout: Brazilian
+corners: 568,387 700,388 700,433 568,433

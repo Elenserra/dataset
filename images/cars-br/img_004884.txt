@@ -1,0 +1,4 @@
+type: car
+plate: OYG3845
+layout: Brazilian
+corners: 951,119 1044,115 1048,147 952,151

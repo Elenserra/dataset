@@ -1,0 +1,4 @@
+type: car
+plate: ODQ1747
+layout: Brazilian
+corners: 784,351 921,351 923,396 786,396

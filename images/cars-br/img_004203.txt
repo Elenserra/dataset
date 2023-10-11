@@ -1,0 +1,4 @@
+type: car
+plate: GSV3811
+layout: Brazilian
+corners: 722,344 853,343 856,388 721,387

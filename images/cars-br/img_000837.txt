@@ -1,0 +1,4 @@
+type: car
+plate: MSD5315
+layout: Brazilian
+corners: 655,329 769,331 770,370 655,369

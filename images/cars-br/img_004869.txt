@@ -1,0 +1,4 @@
+type: car
+plate: QQM3759
+layout: Brazilian
+corners: 970,175 1069,172 1070,207 972,210

@@ -1,0 +1,4 @@
+type: car
+plate: MRL7543
+layout: Brazilian
+corners: 815,324 944,323 946,368 816,368

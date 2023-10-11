@@ -1,0 +1,4 @@
+type: car
+plate: QRC4612
+layout: Brazilian
+corners: 497,425 627,426 628,475 498,474

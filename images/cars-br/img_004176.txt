@@ -1,0 +1,4 @@
+type: car
+plate: QPL6050
+layout: Brazilian
+corners: 819,325 953,324 954,370 818,371

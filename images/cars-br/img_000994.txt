@@ -1,0 +1,4 @@
+type: car
+plate: ODQ7295
+layout: Brazilian
+corners: 411,439 542,441 545,489 412,486

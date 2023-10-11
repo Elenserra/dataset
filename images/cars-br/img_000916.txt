@@ -1,0 +1,4 @@
+type: car
+plate: MSD3852
+layout: Brazilian
+corners: 520,410 643,412 645,453 523,451

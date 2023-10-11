@@ -1,0 +1,4 @@
+type: car
+plate: KRX4720
+layout: Brazilian
+corners: 745,328 885,326 888,374 749,376

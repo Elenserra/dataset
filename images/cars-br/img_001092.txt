@@ -1,0 +1,4 @@
+type: car
+plate: JIY2883
+layout: Brazilian
+corners: 563,369 680,371 682,410 565,407
