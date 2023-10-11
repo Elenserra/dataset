@@ -1,4 +1,0 @@
-type: car
-plate: QEJ6E20
-layout: Mercosur
-corners: 701,273 816,275 818,312 701,309

@@ -1,4 +1,0 @@
-type: car
-plate: KVN2J87
-layout: Mercosur
-corners: 755,284 868,284 870,323 756,322

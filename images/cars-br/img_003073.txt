@@ -1,4 +1,0 @@
-type: car
-plate: PPP6764
-layout: Brazilian
-corners: 645,338 771,342 773,385 648,381

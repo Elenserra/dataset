@@ -1,4 +1,0 @@
-type: car
-plate: QRJ2A24
-layout: Mercosur
-corners: 619,220 725,221 726,255 621,254

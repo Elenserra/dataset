@@ -1,4 +1,0 @@
-type: car
-plate: QPL1656
-layout: Brazilian
-corners: 672,287 777,286 778,326 673,328

@@ -1,4 +1,0 @@
-type: car
-plate: ODF3D62
-layout: Mercosur
-corners: 537,402 664,403 665,444 539,443

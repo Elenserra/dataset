@@ -1,4 +1,0 @@
-type: car
-plate: HDB9245
-layout: Brazilian
-corners: 811,340 941,338 947,382 812,384

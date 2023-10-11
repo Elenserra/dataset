@@ -1,4 +1,0 @@
-type: car
-plate: GJW5A90
-layout: Mercosur
-corners: 619,343 754,355 752,401 617,390

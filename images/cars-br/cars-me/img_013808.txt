@@ -1,4 +1,0 @@
-type: car
-plate: RBA4J99
-layout: Mercosur
-corners: 694,291 817,292 819,334 692,331

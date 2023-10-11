@@ -1,4 +1,0 @@
-type: car
-plate: PPO3G91
-layout: Mercosur
-corners: 779,296 907,292 908,337 781,339

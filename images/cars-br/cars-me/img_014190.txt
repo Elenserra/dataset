@@ -1,4 +1,0 @@
-type: car
-plate: QRE6G57
-layout: Mercosur
-corners: 772,261 891,258 895,297 775,300

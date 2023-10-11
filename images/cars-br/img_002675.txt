@@ -1,4 +1,0 @@
-type: car
-plate: PPV3922
-layout: Brazilian
-corners: 439,511 593,520 595,573 442,563

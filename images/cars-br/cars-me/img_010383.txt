@@ -1,4 +1,0 @@
-type: car
-plate: ODL5F04
-layout: Mercosur
-corners: 749,170 834,169 833,197 749,198

@@ -1,4 +1,0 @@
-type: car
-plate: OMT7A59
-layout: Mercosur
-corners: 483,353 615,354 617,398 484,398

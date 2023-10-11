@@ -1,4 +1,0 @@
-type: car
-plate: PPK5450
-layout: Brazilian
-corners: 799,346 934,346 937,394 801,393

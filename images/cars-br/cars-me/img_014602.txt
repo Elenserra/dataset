@@ -1,4 +1,0 @@
-type: car
-plate: OVJ5F07
-layout: Mercosur
-corners: 887,301 1004,299 1007,338 889,337

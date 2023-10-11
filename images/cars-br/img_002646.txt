@@ -1,4 +1,0 @@
-type: car
-plate: LQF8280
-layout: Brazilian
-corners: 879,58 961,57 962,86 879,86

@@ -1,4 +1,0 @@
-type: car
-plate: OCZ1443
-layout: Brazilian
-corners: 532,323 662,321 664,365 535,365

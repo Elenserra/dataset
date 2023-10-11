@@ -1,4 +1,0 @@
-type: car
-plate: PPZ9146
-layout: Brazilian
-corners: 571,385 694,385 694,428 570,426

@@ -1,4 +1,0 @@
-type: car
-plate: OPT4D26
-layout: Mercosur
-corners: 785,319 910,318 912,360 785,361

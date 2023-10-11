@@ -1,4 +1,0 @@
-type: car
-plate: QRH7D21
-layout: Mercosur
-corners: 640,176 745,176 746,213 641,212

@@ -1,4 +1,0 @@
-type: car
-plate: MTW0024
-layout: Brazilian
-corners: 464,379 586,380 585,424 462,421

@@ -1,4 +1,0 @@
-type: car
-plate: QRG9C54
-layout: Mercosur
-corners: 524,402 648,404 650,443 525,440

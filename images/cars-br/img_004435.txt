@@ -1,4 +1,0 @@
-type: car
-plate: MQX1387
-layout: Brazilian
-corners: 862,170 960,169 962,202 863,201

@@ -1,4 +1,0 @@
-type: car
-plate: QRB9955
-layout: Brazilian
-corners: 765,131 840,130 842,155 766,155

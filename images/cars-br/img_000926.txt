@@ -1,4 +1,0 @@
-type: car
-plate: ODN5493
-layout: Brazilian
-corners: 502,411 634,413 634,457 503,456

@@ -1,4 +1,0 @@
-type: car
-plate: MQT8892
-layout: Brazilian
-corners: 746,204 861,201 865,240 748,242

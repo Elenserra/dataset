@@ -1,4 +1,0 @@
-type: car
-plate: PPU6875
-layout: Brazilian
-corners: 998,168 1092,165 1095,198 998,199

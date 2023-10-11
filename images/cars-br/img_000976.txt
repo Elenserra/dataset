@@ -1,4 +1,0 @@
-type: car
-plate: OYF5721
-layout: Brazilian
-corners: 555,381 680,383 680,426 555,424

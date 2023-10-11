@@ -1,4 +1,0 @@
-type: car
-plate: PPL4976
-layout: Brazilian
-corners: 549,323 659,323 660,363 550,361

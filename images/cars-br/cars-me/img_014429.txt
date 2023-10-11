@@ -1,4 +1,0 @@
-type: car
-plate: OLV4C31
-layout: Mercosur
-corners: 777,344 912,343 913,388 778,387

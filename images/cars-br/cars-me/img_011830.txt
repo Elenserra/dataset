@@ -1,4 +1,0 @@
-type: car
-plate: DQY1H69
-layout: Mercosur
-corners: 501,339 625,338 628,380 502,381

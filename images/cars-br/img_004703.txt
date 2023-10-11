@@ -1,4 +1,0 @@
-type: car
-plate: OYE0974
-layout: Brazilian
-corners: 822,334 955,333 959,382 822,381

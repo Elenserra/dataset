@@ -1,4 +1,0 @@
-type: car
-plate: QBC2I39
-layout: Mercosur
-corners: 637,323 760,325 760,363 639,362

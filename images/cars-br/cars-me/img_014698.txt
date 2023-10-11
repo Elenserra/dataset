@@ -1,4 +1,0 @@
-type: car
-plate: MTZ3C44
-layout: Mercosur
-corners: 781,304 914,303 914,346 784,347

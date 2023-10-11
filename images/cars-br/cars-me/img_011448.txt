@@ -1,4 +1,0 @@
-type: car
-plate: QRI6B15
-layout: Mercosur
-corners: 500,322 633,322 633,370 500,368

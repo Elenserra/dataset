@@ -1,4 +1,0 @@
-type: car
-plate: GVP2675
-layout: Brazilian
-corners: 948,62 1040,56 1045,85 951,92

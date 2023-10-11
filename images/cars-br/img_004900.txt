@@ -1,4 +1,0 @@
-type: car
-plate: MSC6642
-layout: Brazilian
-corners: 850,287 972,288 974,330 849,329

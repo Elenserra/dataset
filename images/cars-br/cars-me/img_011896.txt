@@ -1,4 +1,0 @@
-type: car
-plate: QRM2I03
-layout: Mercosur
-corners: 506,380 636,378 638,421 506,423

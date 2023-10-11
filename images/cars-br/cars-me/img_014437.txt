@@ -1,4 +1,0 @@
-type: car
-plate: QRE7B35
-layout: Mercosur
-corners: 888,156 979,154 981,185 889,186

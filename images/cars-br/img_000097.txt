@@ -1,4 +1,0 @@
-type: car
-plate: LVA0109
-layout: Brazilian
-corners: 739,136 814,135 815,161 739,161

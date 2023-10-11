@@ -1,4 +1,0 @@
-type: car
-plate: ORB2E47
-layout: Mercosur
-corners: 723,354 855,353 859,399 725,397

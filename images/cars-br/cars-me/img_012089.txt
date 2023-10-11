@@ -1,4 +1,0 @@
-type: car
-plate: MTL1H52
-layout: Mercosur
-corners: 469,333 600,332 602,377 469,376

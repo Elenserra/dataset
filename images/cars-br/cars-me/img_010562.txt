@@ -1,4 +1,0 @@
-type: car
-plate: QRI9I78
-layout: Mercosur
-corners: 487,453 621,454 624,496 490,494

@@ -1,4 +1,0 @@
-type: car
-plate: MSL0095
-layout: Brazilian
-corners: 826,298 955,295 958,337 825,341

@@ -1,4 +1,0 @@
-type: car
-plate: KZT4193
-layout: Brazilian
-corners: 935,130 1025,127 1027,158 935,160

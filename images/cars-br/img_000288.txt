@@ -1,4 +1,0 @@
-type: car
-plate: OYF2481
-layout: Brazilian
-corners: 500,417 621,418 623,461 501,458

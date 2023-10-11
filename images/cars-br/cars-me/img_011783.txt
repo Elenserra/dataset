@@ -1,4 +1,0 @@
-type: car
-plate: ODG6I17
-layout: Mercosur
-corners: 538,395 667,395 670,434 538,436

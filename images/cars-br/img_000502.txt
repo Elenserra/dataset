@@ -1,4 +1,0 @@
-type: car
-plate: QOL8801
-layout: Brazilian
-corners: 572,391 698,386 698,422 574,427

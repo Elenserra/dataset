@@ -1,4 +1,0 @@
-type: car
-plate: QNJ8B67
-layout: Mercosur
-corners: 678,355 804,358 805,397 680,395

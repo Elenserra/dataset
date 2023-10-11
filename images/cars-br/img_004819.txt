@@ -1,4 +1,0 @@
-type: car
-plate: PPA0219
-layout: Brazilian
-corners: 747,365 881,362 887,404 749,404

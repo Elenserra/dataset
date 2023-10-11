@@ -1,4 +1,0 @@
-type: car
-plate: OCY6G60
-layout: Mercosur
-corners: 637,261 739,260 741,293 639,294

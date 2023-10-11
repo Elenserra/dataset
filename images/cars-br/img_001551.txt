@@ -1,4 +1,0 @@
-type: car
-plate: ODF3904
-layout: Brazilian
-corners: 406,443 543,445 542,494 406,492

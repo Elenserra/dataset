@@ -1,4 +1,0 @@
-type: car
-plate: MPK3718
-layout: Brazilian
-corners: 591,379 713,378 714,418 592,419

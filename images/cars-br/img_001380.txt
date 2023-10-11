@@ -1,4 +1,0 @@
-type: car
-plate: MPE2451
-layout: Brazilian
-corners: 570,414 697,415 697,457 570,456

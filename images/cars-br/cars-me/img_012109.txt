@@ -1,4 +1,0 @@
-type: car
-plate: PPA7F55
-layout: Mercosur
-corners: 750,104 828,103 829,128 750,129

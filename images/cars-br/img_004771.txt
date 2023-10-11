@@ -1,4 +1,0 @@
-type: car
-plate: MQH4543
-layout: Brazilian
-corners: 885,307 1012,303 1016,348 886,351

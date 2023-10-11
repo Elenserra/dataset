@@ -1,4 +1,0 @@
-type: car
-plate: ODT6482
-layout: Brazilian
-corners: 427,417 556,419 557,465 429,462

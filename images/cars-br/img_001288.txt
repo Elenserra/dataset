@@ -1,4 +1,0 @@
-type: car
-plate: MRA7083
-layout: Brazilian
-corners: 339,554 486,562 487,614 339,605

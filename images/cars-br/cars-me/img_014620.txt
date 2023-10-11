@@ -1,4 +1,0 @@
-type: car
-plate: KRX7F81
-layout: Mercosur
-corners: 774,341 902,339 905,380 778,381

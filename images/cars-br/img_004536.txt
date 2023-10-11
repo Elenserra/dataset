@@ -1,4 +1,0 @@
-type: car
-plate: JFK0596
-layout: Brazilian
-corners: 905,161 991,157 994,188 906,191

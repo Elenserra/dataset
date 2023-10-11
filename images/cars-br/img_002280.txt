@@ -1,4 +1,0 @@
-type: car
-plate: MSN6235
-layout: Brazilian
-corners: 450,298 583,296 585,343 452,344

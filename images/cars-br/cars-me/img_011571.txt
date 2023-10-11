@@ -1,4 +1,0 @@
-type: car
-plate: PXT0A09
-layout: Mercosur
-corners: 494,398 627,399 629,444 496,442

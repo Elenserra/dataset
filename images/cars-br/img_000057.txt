@@ -1,4 +1,0 @@
-type: car
-plate: MSN2034
-layout: Brazilian
-corners: 530,387 651,387 651,429 531,428

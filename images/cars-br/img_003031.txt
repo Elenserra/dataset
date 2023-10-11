@@ -1,4 +1,0 @@
-type: car
-plate: OKL2076
-layout: Brazilian
-corners: 715,306 837,305 839,346 717,344

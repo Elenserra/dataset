@@ -1,4 +1,0 @@
-type: car
-plate: MTX4929
-layout: Brazilian
-corners: 714,355 849,355 853,400 716,400

@@ -1,4 +1,0 @@
-type: car
-plate: OYH3D05
-layout: Mercosur
-corners: 830,300 953,298 956,341 830,341

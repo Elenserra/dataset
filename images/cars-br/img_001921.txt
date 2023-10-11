@@ -1,4 +1,0 @@
-type: car
-plate: HHE6642
-layout: Brazilian
-corners: 582,365 701,367 701,408 581,406

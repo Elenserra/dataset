@@ -1,4 +1,0 @@
-type: car
-plate: QRI4B02
-layout: Mercosur
-corners: 616,322 742,325 742,366 617,363

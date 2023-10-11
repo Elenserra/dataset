@@ -1,4 +1,0 @@
-type: car
-plate: ODR3706
-layout: Brazilian
-corners: 539,390 665,392 666,430 540,430

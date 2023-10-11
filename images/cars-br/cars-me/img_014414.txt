@@ -1,4 +1,0 @@
-type: car
-plate: MRL9H00
-layout: Mercosur
-corners: 774,303 904,300 907,343 778,346

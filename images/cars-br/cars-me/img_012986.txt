@@ -1,4 +1,0 @@
-type: car
-plate: OLD2J80
-layout: Mercosur
-corners: 720,243 835,243 835,281 722,279

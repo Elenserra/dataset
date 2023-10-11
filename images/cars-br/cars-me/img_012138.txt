@@ -1,4 +1,0 @@
-type: car
-plate: QRM0G96
-layout: Mercosur
-corners: 749,172 834,172 834,200 750,200

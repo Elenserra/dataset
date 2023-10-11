@@ -1,4 +1,0 @@
-type: car
-plate: QRD7C81
-layout: Mercosur
-corners: 953,25 1018,25 1018,46 953,46

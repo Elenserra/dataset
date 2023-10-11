@@ -1,4 +1,0 @@
-type: car
-plate: NLX1454
-layout: Brazilian
-corners: 545,388 669,389 669,432 547,430

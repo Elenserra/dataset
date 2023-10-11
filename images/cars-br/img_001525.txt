@@ -1,4 +1,0 @@
-type: car
-plate: QPQ8146
-layout: Brazilian
-corners: 620,358 740,358 741,400 620,400

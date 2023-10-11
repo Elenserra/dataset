@@ -1,4 +1,0 @@
-type: car
-plate: PPH4480
-layout: Brazilian
-corners: 847,289 974,288 976,332 847,335

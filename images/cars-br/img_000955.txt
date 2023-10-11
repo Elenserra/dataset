@@ -1,4 +1,0 @@
-type: car
-plate: MPK9615
-layout: Brazilian
-corners: 457,485 597,487 597,536 458,532

@@ -1,4 +1,0 @@
-type: car
-plate: PPE6E95
-layout: Mercosur
-corners: 827,314 953,312 954,353 827,354

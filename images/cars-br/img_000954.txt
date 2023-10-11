@@ -1,4 +1,0 @@
-type: car
-plate: PPB0307
-layout: Brazilian
-corners: 512,426 645,427 646,472 513,470

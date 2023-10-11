@@ -1,4 +1,0 @@
-type: car
-plate: RBA5D40
-layout: Mercosur
-corners: 701,159 813,162 814,198 701,194

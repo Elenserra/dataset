@@ -1,4 +1,0 @@
-type: car
-plate: LQV7344
-layout: Brazilian
-corners: 869,312 999,307 1004,352 871,356

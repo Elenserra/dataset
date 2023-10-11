@@ -1,4 +1,0 @@
-type: car
-plate: HEL5231
-layout: Brazilian
-corners: 807,324 940,323 942,369 807,369

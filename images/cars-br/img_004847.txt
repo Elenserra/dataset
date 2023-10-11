@@ -1,4 +1,0 @@
-type: car
-plate: ODH7515
-layout: Brazilian
-corners: 899,195 998,187 1004,221 903,230

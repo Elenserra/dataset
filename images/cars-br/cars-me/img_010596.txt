@@ -1,4 +1,0 @@
-type: car
-plate: PPX2H88
-layout: Mercosur
-corners: 570,393 692,395 693,434 571,432

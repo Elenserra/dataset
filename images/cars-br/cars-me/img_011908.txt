@@ -1,4 +1,0 @@
-type: car
-plate: PPL5A69
-layout: Mercosur
-corners: 612,238 716,236 717,272 613,273

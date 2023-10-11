@@ -1,4 +1,0 @@
-type: car
-plate: PPP7H98
-layout: Mercosur
-corners: 516,396 643,399 644,438 517,436

@@ -1,4 +1,0 @@
-type: car
-plate: ODI7793
-layout: Brazilian
-corners: 775,342 912,339 914,386 776,388

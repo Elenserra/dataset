@@ -1,4 +1,0 @@
-type: car
-plate: QRK0D40
-layout: Mercosur
-corners: 656,315 780,317 780,357 657,354

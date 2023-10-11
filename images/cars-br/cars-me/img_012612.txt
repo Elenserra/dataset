@@ -1,4 +1,0 @@
-type: car
-plate: KXW1B41
-layout: Mercosur
-corners: 649,309 769,311 770,350 651,348

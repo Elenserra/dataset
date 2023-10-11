@@ -1,4 +1,0 @@
-type: car
-plate: MRS6971
-layout: Brazilian
-corners: 574,398 698,397 699,438 574,439

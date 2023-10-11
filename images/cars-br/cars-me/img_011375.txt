@@ -1,4 +1,0 @@
-type: car
-plate: OXB3G41
-layout: Mercosur
-corners: 491,399 623,403 624,446 492,442

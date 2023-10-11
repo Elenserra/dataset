@@ -1,4 +1,0 @@
-type: car
-plate: OYG9E60
-layout: Mercosur
-corners: 601,354 733,358 735,403 601,398

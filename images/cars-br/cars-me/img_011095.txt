@@ -1,4 +1,0 @@
-type: car
-plate: QRH0G57
-layout: Mercosur
-corners: 632,197 721,196 723,227 633,227

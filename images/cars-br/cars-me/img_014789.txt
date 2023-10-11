@@ -1,4 +1,0 @@
-type: car
-plate: QRE3D89
-layout: Mercosur
-corners: 702,327 841,337 839,384 702,373

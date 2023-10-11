@@ -1,4 +1,0 @@
-type: car
-plate: ODR3747
-layout: Brazilian
-corners: 789,187 886,190 886,223 789,220

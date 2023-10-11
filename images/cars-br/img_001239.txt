@@ -1,4 +1,0 @@
-type: car
-plate: EJD6314
-layout: Brazilian
-corners: 924,226 1032,224 1034,259 925,261

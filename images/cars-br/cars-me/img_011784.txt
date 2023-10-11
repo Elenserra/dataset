@@ -1,4 +1,0 @@
-type: car
-plate: OVJ1G99
-layout: Mercosur
-corners: 488,309 610,308 614,349 489,350

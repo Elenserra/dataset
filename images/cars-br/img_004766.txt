@@ -1,4 +1,0 @@
-type: car
-plate: OYG8202
-layout: Brazilian
-corners: 912,151 1018,147 1022,183 914,187

@@ -1,4 +1,0 @@
-type: car
-plate: ODR1708
-layout: Brazilian
-corners: 582,338 710,343 712,389 583,382

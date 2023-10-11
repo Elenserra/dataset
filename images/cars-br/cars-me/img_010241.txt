@@ -1,4 +1,0 @@
-type: car
-plate: MTX0I51
-layout: Mercosur
-corners: 691,288 795,287 796,321 691,322

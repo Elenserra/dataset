@@ -1,4 +1,0 @@
-type: car
-plate: MTH8727
-layout: Brazilian
-corners: 534,415 652,417 652,460 532,460

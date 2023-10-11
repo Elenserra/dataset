@@ -1,4 +1,0 @@
-type: car
-plate: MTD1E63
-layout: Mercosur
-corners: 469,344 593,346 595,385 469,382

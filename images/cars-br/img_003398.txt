@@ -1,4 +1,0 @@
-type: car
-plate: PPK1316
-layout: Brazilian
-corners: 931,82 1009,84 1009,108 931,107

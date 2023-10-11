@@ -1,4 +1,0 @@
-type: car
-plate: LQI1H40
-layout: Mercosur
-corners: 661,319 785,323 785,363 663,360

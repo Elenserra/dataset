@@ -1,4 +1,0 @@
-type: car
-plate: MSA8486
-layout: Brazilian
-corners: 511,409 623,408 627,445 514,445

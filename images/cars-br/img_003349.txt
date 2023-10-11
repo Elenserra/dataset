@@ -1,4 +1,0 @@
-type: car
-plate: MHN2867
-layout: Brazilian
-corners: 590,277 718,280 719,323 591,322

@@ -1,4 +1,0 @@
-type: car
-plate: ODQ0E39
-layout: Mercosur
-corners: 489,428 617,429 619,469 492,467

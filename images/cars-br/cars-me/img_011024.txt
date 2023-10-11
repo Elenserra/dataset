@@ -1,4 +1,0 @@
-type: car
-plate: PVZ3J33
-layout: Mercosur
-corners: 525,335 653,334 654,376 526,377

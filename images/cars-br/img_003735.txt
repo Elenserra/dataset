@@ -1,4 +1,0 @@
-type: car
-plate: HMT9147
-layout: Brazilian
-corners: 991,71 1074,69 1075,98 992,100

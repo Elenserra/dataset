@@ -1,4 +1,0 @@
-type: car
-plate: MSK4A22
-layout: Mercosur
-corners: 705,340 836,340 836,381 707,380

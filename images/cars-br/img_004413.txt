@@ -1,4 +1,0 @@
-type: car
-plate: PPA0518
-layout: Brazilian
-corners: 722,312 847,310 850,353 723,354

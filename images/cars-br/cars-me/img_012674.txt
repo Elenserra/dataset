@@ -1,4 +1,0 @@
-type: car
-plate: DEN1F26
-layout: Mercosur
-corners: 639,285 763,286 764,328 639,328

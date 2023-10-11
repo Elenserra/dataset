@@ -1,4 +1,0 @@
-type: car
-plate: MTV2E97
-layout: Mercosur
-corners: 594,326 702,328 703,362 595,361

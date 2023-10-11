@@ -1,4 +1,0 @@
-type: car
-plate: JGG5012
-layout: Brazilian
-corners: 753,300 884,296 888,341 756,344

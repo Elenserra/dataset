@@ -1,4 +1,0 @@
-type: car
-plate: HMZ1538
-layout: Brazilian
-corners: 995,108 1073,104 1076,131 996,134

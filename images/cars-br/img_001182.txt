@@ -1,4 +1,0 @@
-type: car
-plate: MSS2308
-layout: Brazilian
-corners: 430,494 577,495 577,544 434,541

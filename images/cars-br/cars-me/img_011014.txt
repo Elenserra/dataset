@@ -1,4 +1,0 @@
-type: car
-plate: OCW4E71
-layout: Mercosur
-corners: 787,383 926,381 929,427 788,426

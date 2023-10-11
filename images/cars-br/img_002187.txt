@@ -1,4 +1,0 @@
-type: car
-plate: JFW7462
-layout: Brazilian
-corners: 506,393 635,393 636,436 506,435

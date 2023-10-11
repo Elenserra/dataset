@@ -1,4 +1,0 @@
-type: car
-plate: MSV4D89
-layout: Mercosur
-corners: 886,237 994,236 995,272 886,273

@@ -1,4 +1,0 @@
-type: car
-plate: MTQ7754
-layout: Brazilian
-corners: 944,185 1038,182 1039,216 943,218

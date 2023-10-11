@@ -1,4 +1,0 @@
-type: car
-plate: QRH5E07
-layout: Mercosur
-corners: 588,290 718,295 718,340 589,335

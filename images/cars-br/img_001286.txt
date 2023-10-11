@@ -1,4 +1,0 @@
-type: car
-plate: ODS5913
-layout: Brazilian
-corners: 521,404 648,403 648,448 521,448

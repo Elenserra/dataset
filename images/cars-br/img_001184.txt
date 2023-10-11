@@ -1,4 +1,0 @@
-type: car
-plate: KZJ7033
-layout: Brazilian
-corners: 642,297 750,297 751,332 644,332

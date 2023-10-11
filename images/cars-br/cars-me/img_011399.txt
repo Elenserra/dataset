@@ -1,4 +1,0 @@
-type: car
-plate: KXD5D33
-layout: Mercosur
-corners: 557,318 681,317 685,360 557,359

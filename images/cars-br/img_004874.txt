@@ -1,4 +1,0 @@
-type: car
-plate: JVT2910
-layout: Brazilian
-corners: 964,218 1071,215 1073,251 965,253

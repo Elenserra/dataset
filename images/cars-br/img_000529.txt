@@ -1,4 +1,0 @@
-type: car
-plate: MQL2952
-layout: Brazilian
-corners: 525,415 650,415 655,461 526,457

@@ -1,4 +1,0 @@
-type: car
-plate: OYH7658
-layout: Brazilian
-corners: 781,359 919,356 923,402 784,404

@@ -1,4 +1,0 @@
-type: car
-plate: OYG7855
-layout: Brazilian
-corners: 862,314 991,311 993,355 861,357

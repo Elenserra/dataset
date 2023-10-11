@@ -1,4 +1,0 @@
-type: car
-plate: MTD4B50
-layout: Mercosur
-corners: 840,325 972,323 974,368 839,368

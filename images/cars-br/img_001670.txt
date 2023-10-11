@@ -1,4 +1,0 @@
-type: car
-plate: PPM2784
-layout: Brazilian
-corners: 533,309 658,307 660,346 536,348

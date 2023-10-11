@@ -1,4 +1,0 @@
-type: car
-plate: QRI3J52
-layout: Mercosur
-corners: 634,312 758,313 759,353 635,352

@@ -1,4 +1,0 @@
-type: car
-plate: PPF7B96
-layout: Mercosur
-corners: 570,288 683,289 683,328 570,326

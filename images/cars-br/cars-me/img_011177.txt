@@ -1,4 +1,0 @@
-type: car
-plate: OZK3J96
-layout: Mercosur
-corners: 523,303 649,305 649,344 524,343

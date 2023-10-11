@@ -1,4 +1,0 @@
-type: car
-plate: ODS7161
-layout: Brazilian
-corners: 595,328 709,328 709,366 596,367

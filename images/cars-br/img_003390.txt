@@ -1,4 +1,0 @@
-type: car
-plate: ODD7312
-layout: Brazilian
-corners: 711,299 829,300 829,340 712,337

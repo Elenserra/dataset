@@ -1,4 +1,0 @@
-type: car
-plate: PPU7781
-layout: Brazilian
-corners: 671,291 779,290 779,327 671,327

@@ -1,4 +1,0 @@
-type: car
-plate: MSU2177
-layout: Brazilian
-corners: 884,246 1005,243 1006,284 885,286

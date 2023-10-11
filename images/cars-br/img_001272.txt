@@ -1,4 +1,0 @@
-type: car
-plate: ODI1892
-layout: Brazilian
-corners: 540,335 664,335 665,379 541,378

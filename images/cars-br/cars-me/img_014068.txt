@@ -1,4 +1,0 @@
-type: car
-plate: KPX3C96
-layout: Mercosur
-corners: 792,353 928,350 931,394 793,396

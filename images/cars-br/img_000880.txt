@@ -1,4 +1,0 @@
-type: car
-plate: MSS2913
-layout: Brazilian
-corners: 502,458 635,459 637,504 504,503

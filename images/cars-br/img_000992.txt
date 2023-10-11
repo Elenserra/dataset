@@ -1,4 +1,0 @@
-type: car
-plate: KPA9108
-layout: Brazilian
-corners: 520,398 645,400 646,443 521,440

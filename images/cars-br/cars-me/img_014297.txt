@@ -1,4 +1,0 @@
-type: car
-plate: PPF7J90
-layout: Mercosur
-corners: 813,315 939,314 941,356 814,356

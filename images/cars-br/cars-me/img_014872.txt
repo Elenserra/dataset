@@ -1,4 +1,0 @@
-type: car
-plate: ODH4D64
-layout: Mercosur
-corners: 751,305 888,312 888,357 750,350

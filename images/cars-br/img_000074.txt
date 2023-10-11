@@ -1,4 +1,0 @@
-type: car
-plate: OYD1047
-layout: Brazilian
-corners: 562,372 681,372 681,412 562,411

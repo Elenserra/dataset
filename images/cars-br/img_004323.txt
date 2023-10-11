@@ -1,4 +1,0 @@
-type: car
-plate: PPR2984
-layout: Brazilian
-corners: 801,349 937,345 943,389 806,394

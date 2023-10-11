@@ -1,4 +1,0 @@
-type: car
-plate: PPF9B59
-layout: Mercosur
-corners: 804,327 933,324 936,368 805,372

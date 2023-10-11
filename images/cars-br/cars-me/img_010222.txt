@@ -1,4 +1,0 @@
-type: car
-plate: PPL5J90
-layout: Mercosur
-corners: 636,234 733,234 734,265 637,265

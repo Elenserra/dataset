@@ -1,4 +1,0 @@
-type: car
-plate: OVK2611
-layout: Brazilian
-corners: 692,382 831,387 831,434 693,427

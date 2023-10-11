@@ -1,4 +1,0 @@
-type: car
-plate: EIF1513
-layout: Brazilian
-corners: 767,337 890,332 895,372 771,377

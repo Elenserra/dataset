@@ -1,4 +1,0 @@
-type: car
-plate: PPN9051
-layout: Brazilian
-corners: 818,305 941,303 945,344 818,345

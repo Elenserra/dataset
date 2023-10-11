@@ -1,4 +1,0 @@
-type: car
-plate: QRK8J77
-layout: Mercosur
-corners: 805,329 935,325 938,368 806,370

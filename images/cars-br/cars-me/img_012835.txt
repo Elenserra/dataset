@@ -1,4 +1,0 @@
-type: car
-plate: PPY4F56
-layout: Mercosur
-corners: 680,325 807,329 807,370 682,367

@@ -1,4 +1,0 @@
-type: car
-plate: PPO7500
-layout: Brazilian
-corners: 511,399 639,398 641,443 511,442

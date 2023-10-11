@@ -1,4 +1,0 @@
-type: car
-plate: NZF9172
-layout: Brazilian
-corners: 731,211 826,210 827,246 733,247

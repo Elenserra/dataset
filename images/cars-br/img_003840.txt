@@ -1,4 +1,0 @@
-type: car
-plate: PPO7765
-layout: Brazilian
-corners: 822,310 953,306 956,351 823,354

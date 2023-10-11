@@ -1,4 +1,0 @@
-type: car
-plate: QRI7E11
-layout: Mercosur
-corners: 571,374 702,374 704,418 572,418

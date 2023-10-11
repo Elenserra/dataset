@@ -1,4 +1,0 @@
-type: car
-plate: KVT5141
-layout: Brazilian
-corners: 783,209 891,210 892,246 784,246

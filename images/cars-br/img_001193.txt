@@ -1,4 +1,0 @@
-type: car
-plate: MPX8748
-layout: Brazilian
-corners: 565,376 684,375 685,415 567,417

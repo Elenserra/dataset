@@ -1,4 +1,0 @@
-type: car
-plate: HDR2378
-layout: Brazilian
-corners: 838,339 973,332 979,379 839,385

@@ -1,4 +1,0 @@
-type: car
-plate: PPX9986
-layout: Brazilian
-corners: 541,411 665,409 668,453 542,454

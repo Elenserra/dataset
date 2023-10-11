@@ -1,4 +1,0 @@
-type: car
-plate: KZA3J83
-layout: Mercosur
-corners: 726,330 856,325 859,371 726,374

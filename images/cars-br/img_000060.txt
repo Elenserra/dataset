@@ -1,4 +1,0 @@
-type: car
-plate: MTS5557
-layout: Brazilian
-corners: 505,371 628,370 630,410 507,413

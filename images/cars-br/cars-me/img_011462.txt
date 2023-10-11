@@ -1,4 +1,0 @@
-type: car
-plate: OCM9A45
-layout: Mercosur
-corners: 550,346 680,348 682,390 550,387

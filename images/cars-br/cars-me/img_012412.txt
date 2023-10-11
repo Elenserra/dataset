@@ -1,4 +1,0 @@
-type: car
-plate: PPP2H76
-layout: Mercosur
-corners: 676,312 798,313 798,354 680,351

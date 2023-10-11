@@ -1,4 +1,0 @@
-type: car
-plate: OYG2I19
-layout: Mercosur
-corners: 597,386 724,386 725,428 599,428

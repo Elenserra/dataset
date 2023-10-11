@@ -1,4 +1,0 @@
-type: car
-plate: MPT7518
-layout: Brazilian
-corners: 844,311 974,308 977,353 846,356

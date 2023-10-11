@@ -1,4 +1,0 @@
-type: car
-plate: OYG5F74
-layout: Mercosur
-corners: 822,318 948,317 949,357 824,358

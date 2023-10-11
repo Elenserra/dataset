@@ -1,4 +1,0 @@
-type: car
-plate: QOU2489
-layout: Brazilian
-corners: 535,375 659,377 662,419 538,418

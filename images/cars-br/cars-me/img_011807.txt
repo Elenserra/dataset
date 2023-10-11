@@ -1,4 +1,0 @@
-type: car
-plate: MRC2F14
-layout: Mercosur
-corners: 796,165 875,165 877,191 797,191

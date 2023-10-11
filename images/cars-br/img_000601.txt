@@ -1,4 +1,0 @@
-type: car
-plate: PPH7923
-layout: Brazilian
-corners: 704,249 801,248 802,279 705,281

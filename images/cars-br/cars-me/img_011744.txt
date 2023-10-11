@@ -1,4 +1,0 @@
-type: car
-plate: QRK3C30
-layout: Mercosur
-corners: 719,183 808,183 808,215 720,214

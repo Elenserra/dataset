@@ -1,4 +1,0 @@
-type: car
-plate: ODB8A40
-layout: Mercosur
-corners: 375,455 524,456 529,506 378,503

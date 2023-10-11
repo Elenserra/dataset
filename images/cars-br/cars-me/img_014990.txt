@@ -1,4 +1,0 @@
-type: car
-plate: KQO6E31
-layout: Mercosur
-corners: 665,271 800,279 801,323 665,316

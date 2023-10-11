@@ -1,4 +1,0 @@
-type: car
-plate: QRG9D56
-layout: Mercosur
-corners: 752,331 887,328 891,373 753,375

@@ -1,4 +1,0 @@
-type: car
-plate: MSH4937
-layout: Brazilian
-corners: 535,231 657,233 660,273 539,272

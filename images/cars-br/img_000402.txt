@@ -1,4 +1,0 @@
-type: car
-plate: PPU7362
-layout: Brazilian
-corners: 785,205 876,204 876,240 785,240

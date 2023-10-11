@@ -1,4 +1,0 @@
-type: car
-plate: JQJ0456
-layout: Brazilian
-corners: 588,386 708,386 710,427 590,426

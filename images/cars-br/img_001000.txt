@@ -1,4 +1,0 @@
-type: car
-plate: PPT9888
-layout: Brazilian
-corners: 444,411 579,413 579,460 446,458

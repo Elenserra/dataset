@@ -1,4 +1,0 @@
-type: car
-plate: MSR7H98
-layout: Mercosur
-corners: 501,324 630,323 632,369 502,367

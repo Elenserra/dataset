@@ -1,4 +1,0 @@
-type: car
-plate: OYH8A35
-layout: Mercosur
-corners: 667,305 792,306 792,348 668,347

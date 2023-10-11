@@ -1,4 +1,0 @@
-type: car
-plate: OVH0B24
-layout: Mercosur
-corners: 660,323 788,324 788,367 660,365

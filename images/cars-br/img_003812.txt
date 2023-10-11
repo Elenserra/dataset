@@ -1,4 +1,0 @@
-type: car
-plate: MSK5805
-layout: Brazilian
-corners: 791,321 923,319 925,365 792,367

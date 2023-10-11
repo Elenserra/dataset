@@ -1,4 +1,0 @@
-type: car
-plate: LST6525
-layout: Brazilian
-corners: 734,310 866,306 871,351 736,355

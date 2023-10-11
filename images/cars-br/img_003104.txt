@@ -1,4 +1,0 @@
-type: car
-plate: OTT5977
-layout: Brazilian
-corners: 711,271 848,266 851,310 715,313

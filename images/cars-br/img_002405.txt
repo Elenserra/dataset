@@ -1,4 +1,0 @@
-type: car
-plate: MQL6457
-layout: Brazilian
-corners: 400,310 522,308 528,348 407,350

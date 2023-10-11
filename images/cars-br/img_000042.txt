@@ -1,4 +1,0 @@
-type: car
-plate: ODP9783
-layout: Brazilian
-corners: 523,371 648,371 649,414 523,412

@@ -1,4 +1,0 @@
-type: car
-plate: PPG3I78
-layout: Mercosur
-corners: 886,118 976,118 976,149 886,148

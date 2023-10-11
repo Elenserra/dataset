@@ -1,4 +1,0 @@
-type: car
-plate: JOV9159
-layout: Brazilian
-corners: 744,205 865,202 867,242 745,245

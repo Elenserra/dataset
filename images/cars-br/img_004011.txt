@@ -1,4 +1,0 @@
-type: car
-plate: FLL7744
-layout: Brazilian
-corners: 771,272 907,269 911,315 772,318

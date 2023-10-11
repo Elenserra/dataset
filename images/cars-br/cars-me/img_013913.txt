@@ -1,4 +1,0 @@
-type: car
-plate: PPE9H96
-layout: Mercosur
-corners: 737,360 870,359 874,401 740,403

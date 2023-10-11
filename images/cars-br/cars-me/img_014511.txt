@@ -1,4 +1,0 @@
-type: car
-plate: OVJ8I46
-layout: Mercosur
-corners: 988,111 1068,109 1069,136 988,138

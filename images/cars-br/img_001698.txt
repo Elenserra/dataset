@@ -1,4 +1,0 @@
-type: car
-plate: PPJ4189
-layout: Brazilian
-corners: 744,169 829,169 829,199 744,198

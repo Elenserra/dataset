@@ -1,4 +1,0 @@
-type: car
-plate: KHZ6A08
-layout: Mercosur
-corners: 599,304 710,305 712,342 600,341

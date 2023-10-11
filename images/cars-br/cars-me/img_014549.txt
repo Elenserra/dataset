@@ -1,4 +1,0 @@
-type: car
-plate: OYD7A59
-layout: Mercosur
-corners: 765,342 900,344 902,389 765,387

@@ -1,4 +1,0 @@
-type: car
-plate: PPD1065
-layout: Brazilian
-corners: 881,251 997,249 999,287 880,289

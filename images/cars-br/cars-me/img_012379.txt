@@ -1,4 +1,0 @@
-type: car
-plate: ODL1A45
-layout: Mercosur
-corners: 917,93 990,92 990,115 918,116

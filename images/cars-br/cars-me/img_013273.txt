@@ -1,4 +1,0 @@
-type: car
-plate: OYH8E02
-layout: Mercosur
-corners: 652,291 766,294 767,330 652,326

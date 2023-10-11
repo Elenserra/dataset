@@ -1,4 +1,0 @@
-type: car
-plate: MYN5053
-layout: Brazilian
-corners: 826,297 955,294 957,341 827,344

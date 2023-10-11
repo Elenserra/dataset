@@ -1,4 +1,0 @@
-type: car
-plate: OUT3H05
-layout: Mercosur
-corners: 643,328 773,331 775,375 646,372

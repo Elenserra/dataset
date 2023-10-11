@@ -1,4 +1,0 @@
-type: car
-plate: QRD1552
-layout: Brazilian
-corners: 717,224 812,221 813,254 717,256

@@ -1,4 +1,0 @@
-type: car
-plate: OVF6909
-layout: Brazilian
-corners: 649,325 774,326 776,370 651,366

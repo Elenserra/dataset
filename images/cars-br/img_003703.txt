@@ -1,4 +1,0 @@
-type: car
-plate: PPU3769
-layout: Brazilian
-corners: 753,342 885,341 889,385 753,386

@@ -1,4 +1,0 @@
-type: car
-plate: MQT5D07
-layout: Mercosur
-corners: 775,352 909,348 912,394 776,397

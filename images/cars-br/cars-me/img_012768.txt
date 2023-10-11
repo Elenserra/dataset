@@ -1,4 +1,0 @@
-type: car
-plate: QNJ6B22
-layout: Mercosur
-corners: 626,340 754,342 754,384 627,381

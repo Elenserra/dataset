@@ -1,4 +1,0 @@
-type: car
-plate: MSZ3263
-layout: Brazilian
-corners: 574,293 687,289 689,328 576,330

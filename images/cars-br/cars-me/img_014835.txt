@@ -1,4 +1,0 @@
-type: car
-plate: QRG7F44
-layout: Mercosur
-corners: 619,324 763,331 760,377 619,372

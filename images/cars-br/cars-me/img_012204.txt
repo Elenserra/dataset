@@ -1,4 +1,0 @@
-type: car
-plate: MPY3G04
-layout: Mercosur
-corners: 537,364 663,365 666,403 542,402

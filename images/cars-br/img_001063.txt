@@ -1,4 +1,0 @@
-type: car
-plate: MTY6226
-layout: Brazilian
-corners: 612,339 725,338 725,378 613,378

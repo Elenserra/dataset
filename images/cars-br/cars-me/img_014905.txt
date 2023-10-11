@@ -1,4 +1,0 @@
-type: car
-plate: PPG4C22
-layout: Mercosur
-corners: 629,338 765,345 766,388 631,382

@@ -1,4 +1,0 @@
-type: car
-plate: PPR0808
-layout: Brazilian
-corners: 796,327 932,327 935,372 797,374

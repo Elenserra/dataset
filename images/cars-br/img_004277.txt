@@ -1,4 +1,0 @@
-type: car
-plate: MSR6504
-layout: Brazilian
-corners: 792,380 920,379 924,420 793,421

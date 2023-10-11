@@ -1,4 +1,0 @@
-type: car
-plate: QRH9B13
-layout: Mercosur
-corners: 610,362 736,360 737,403 610,403

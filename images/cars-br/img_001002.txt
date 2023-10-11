@@ -1,4 +1,0 @@
-type: car
-plate: ODP5893
-layout: Brazilian
-corners: 517,409 643,412 644,454 517,451

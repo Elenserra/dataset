@@ -1,4 +1,0 @@
-type: car
-plate: PPP2796
-layout: Brazilian
-corners: 610,336 734,334 738,381 614,382

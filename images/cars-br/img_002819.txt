@@ -1,4 +1,0 @@
-type: car
-plate: PPJ2466
-layout: Brazilian
-corners: 615,309 737,312 739,353 618,350

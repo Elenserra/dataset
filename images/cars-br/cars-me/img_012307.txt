@@ -1,4 +1,0 @@
-type: car
-plate: QRE9C21
-layout: Mercosur
-corners: 554,269 671,268 672,305 555,307

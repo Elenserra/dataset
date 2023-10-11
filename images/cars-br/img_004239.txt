@@ -1,4 +1,0 @@
-type: car
-plate: ODL9922
-layout: Brazilian
-corners: 782,304 914,300 918,346 783,348

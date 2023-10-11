@@ -1,4 +1,0 @@
-type: car
-plate: OYF4038
-layout: Brazilian
-corners: 931,226 1046,221 1050,260 933,265

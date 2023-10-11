@@ -1,4 +1,0 @@
-type: car
-plate: PVS3541
-layout: Brazilian
-corners: 768,318 897,316 899,362 768,363

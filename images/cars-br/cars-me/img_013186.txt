@@ -1,4 +1,0 @@
-type: car
-plate: PPF0E48
-layout: Mercosur
-corners: 638,344 769,347 770,389 639,386

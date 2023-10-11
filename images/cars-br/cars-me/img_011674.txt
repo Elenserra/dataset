@@ -1,4 +1,0 @@
-type: car
-plate: QRF6E85
-layout: Mercosur
-corners: 506,329 634,335 632,380 505,371

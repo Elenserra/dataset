@@ -1,4 +1,0 @@
-type: car
-plate: KVG1425
-layout: Brazilian
-corners: 844,289 971,287 975,330 846,333

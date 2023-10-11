@@ -1,4 +1,0 @@
-type: car
-plate: MRX5757
-layout: Brazilian
-corners: 708,379 842,378 844,424 709,424

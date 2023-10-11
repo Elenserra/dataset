@@ -1,4 +1,0 @@
-type: car
-plate: PPL0245
-layout: Brazilian
-corners: 571,252 683,252 685,289 572,289

@@ -1,4 +1,0 @@
-type: car
-plate: PZH2J55
-layout: Mercosur
-corners: 675,245 771,245 773,275 676,276

@@ -1,4 +1,0 @@
-type: car
-plate: QJK6374
-layout: Brazilian
-corners: 627,334 757,337 757,382 629,378

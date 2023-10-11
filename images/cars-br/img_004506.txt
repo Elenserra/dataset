@@ -1,4 +1,0 @@
-type: car
-plate: MTY8669
-layout: Brazilian
-corners: 815,331 950,328 954,373 817,375

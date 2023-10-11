@@ -1,4 +1,0 @@
-type: car
-plate: MSR4C22
-layout: Mercosur
-corners: 672,327 797,329 797,370 672,368

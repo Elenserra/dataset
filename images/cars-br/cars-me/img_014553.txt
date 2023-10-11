@@ -1,4 +1,0 @@
-type: car
-plate: MQD9C93
-layout: Mercosur
-corners: 761,354 896,351 900,395 763,398

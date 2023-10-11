@@ -1,4 +1,0 @@
-type: car
-plate: LLO4164
-layout: Brazilian
-corners: 595,366 716,368 718,409 596,408

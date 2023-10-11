@@ -1,4 +1,0 @@
-type: car
-plate: QRE5A39
-layout: Mercosur
-corners: 671,199 759,200 760,228 673,228

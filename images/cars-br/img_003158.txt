@@ -1,4 +1,0 @@
-type: car
-plate: PPA0934
-layout: Brazilian
-corners: 771,159 864,159 866,191 772,190

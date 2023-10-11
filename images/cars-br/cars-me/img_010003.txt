@@ -1,4 +1,0 @@
-type: car
-plate: KXG9J64
-layout: Mercosur
-corners: 855,318 978,319 977,358 856,357

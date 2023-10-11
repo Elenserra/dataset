@@ -1,4 +1,0 @@
-type: car
-plate: PPN2211
-layout: Brazilian
-corners: 557,396 686,397 687,439 558,438

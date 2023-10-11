@@ -1,4 +1,0 @@
-type: car
-plate: ODE6F62
-layout: Mercosur
-corners: 715,333 852,341 850,387 712,377

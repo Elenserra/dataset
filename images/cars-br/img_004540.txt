@@ -1,4 +1,0 @@
-type: car
-plate: HHP2143
-layout: Brazilian
-corners: 817,332 944,329 951,372 820,373

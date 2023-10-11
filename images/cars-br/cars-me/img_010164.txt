@@ -1,4 +1,0 @@
-type: car
-plate: ODI3B50
-layout: Mercosur
-corners: 561,373 690,372 693,415 564,415

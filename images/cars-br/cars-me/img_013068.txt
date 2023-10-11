@@ -1,4 +1,0 @@
-type: car
-plate: PPB7E08
-layout: Mercosur
-corners: 780,196 884,197 883,231 781,230

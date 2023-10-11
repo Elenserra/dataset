@@ -1,4 +1,0 @@
-type: car
-plate: PPH6414
-layout: Brazilian
-corners: 474,431 601,432 604,474 476,472

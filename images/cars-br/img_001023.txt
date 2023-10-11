@@ -1,4 +1,0 @@
-type: car
-plate: OVJ8131
-layout: Brazilian
-corners: 534,424 663,425 664,468 537,466

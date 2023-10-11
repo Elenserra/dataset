@@ -1,4 +1,0 @@
-type: car
-plate: PPK2H21
-layout: Mercosur
-corners: 721,213 810,211 810,241 722,243

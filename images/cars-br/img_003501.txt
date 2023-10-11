@@ -1,4 +1,0 @@
-type: car
-plate: OGJ1970
-layout: Brazilian
-corners: 734,359 872,357 876,406 738,405

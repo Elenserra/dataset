@@ -1,4 +1,0 @@
-type: car
-plate: ODH3E38
-layout: Mercosur
-corners: 502,356 616,357 617,394 503,393

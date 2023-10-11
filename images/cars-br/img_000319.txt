@@ -1,4 +1,0 @@
-type: car
-plate: PPB4748
-layout: Brazilian
-corners: 555,383 675,381 679,420 558,423

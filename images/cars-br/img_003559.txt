@@ -1,4 +1,0 @@
-type: car
-plate: MJD4789
-layout: Brazilian
-corners: 795,336 930,334 933,382 797,382

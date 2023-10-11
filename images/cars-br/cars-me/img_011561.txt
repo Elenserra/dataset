@@ -1,4 +1,0 @@
-type: car
-plate: ODS9A98
-layout: Mercosur
-corners: 451,318 580,319 582,363 451,362

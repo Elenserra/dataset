@@ -1,4 +1,0 @@
-type: car
-plate: MTO0B72
-layout: Mercosur
-corners: 946,197 1051,194 1052,228 948,231

@@ -1,4 +1,0 @@
-type: car
-plate: ODF9179
-layout: Brazilian
-corners: 781,314 916,314 917,361 782,360

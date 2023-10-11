@@ -1,4 +1,0 @@
-type: car
-plate: ODE0J86
-layout: Mercosur
-corners: 803,345 936,341 939,384 803,388

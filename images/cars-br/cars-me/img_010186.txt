@@ -1,4 +1,0 @@
-type: car
-plate: OCZ4H56
-layout: Mercosur
-corners: 528,388 656,389 658,432 529,432

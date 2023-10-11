@@ -1,4 +1,0 @@
-type: car
-plate: QRL2G22
-layout: Mercosur
-corners: 761,317 895,316 897,360 762,362

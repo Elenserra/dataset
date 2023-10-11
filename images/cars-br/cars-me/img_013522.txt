@@ -1,4 +1,0 @@
-type: car
-plate: PPS4I33
-layout: Mercosur
-corners: 609,324 739,328 739,370 608,367

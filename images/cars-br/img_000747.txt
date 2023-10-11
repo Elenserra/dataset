@@ -1,4 +1,0 @@
-type: car
-plate: MRT6203
-layout: Brazilian
-corners: 539,473 666,474 669,513 544,512

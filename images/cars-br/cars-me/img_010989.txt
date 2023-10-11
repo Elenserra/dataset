@@ -1,4 +1,0 @@
-type: car
-plate: OCX1J21
-layout: Mercosur
-corners: 520,389 640,391 639,430 520,426

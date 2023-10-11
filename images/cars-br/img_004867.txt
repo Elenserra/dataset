@@ -1,4 +1,0 @@
-type: car
-plate: PPY4412
-layout: Brazilian
-corners: 774,333 906,332 909,376 777,378

@@ -1,4 +1,0 @@
-type: car
-plate: PPA9D76
-layout: Mercosur
-corners: 535,408 660,409 661,447 537,447

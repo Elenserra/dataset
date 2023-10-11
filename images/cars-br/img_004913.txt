@@ -1,4 +1,0 @@
-type: car
-plate: KVV4055
-layout: Brazilian
-corners: 792,334 921,329 924,372 795,376

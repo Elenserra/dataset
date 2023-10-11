@@ -1,4 +1,0 @@
-type: car
-plate: PPX8345
-layout: Brazilian
-corners: 507,407 632,407 635,453 510,452

@@ -1,4 +1,0 @@
-type: car
-plate: MRY9914
-layout: Brazilian
-corners: 475,440 609,442 609,488 475,486

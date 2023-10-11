@@ -1,4 +1,0 @@
-type: car
-plate: MRL9C91
-layout: Mercosur
-corners: 679,127 774,128 773,159 681,158

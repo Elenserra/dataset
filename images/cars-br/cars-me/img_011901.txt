@@ -1,4 +1,0 @@
-type: car
-plate: ODM8B17
-layout: Mercosur
-corners: 504,342 635,340 640,379 509,381

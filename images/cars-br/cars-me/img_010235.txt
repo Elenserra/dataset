@@ -1,4 +1,0 @@
-type: car
-plate: PPK4G93
-layout: Mercosur
-corners: 547,365 668,365 668,404 548,404

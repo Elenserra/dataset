@@ -1,4 +1,0 @@
-type: car
-plate: PPD3144
-layout: Brazilian
-corners: 515,284 639,283 643,324 519,324

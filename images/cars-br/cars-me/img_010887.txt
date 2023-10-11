@@ -1,4 +1,0 @@
-type: car
-plate: OIK2G82
-layout: Mercosur
-corners: 516,406 640,409 641,447 520,443

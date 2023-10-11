@@ -1,4 +1,0 @@
-type: car
-plate: ODD5117
-layout: Brazilian
-corners: 545,393 669,393 670,435 549,435

@@ -1,4 +1,0 @@
-type: car
-plate: OVK3530
-layout: Brazilian
-corners: 585,385 707,386 707,427 586,426

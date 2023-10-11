@@ -1,4 +1,0 @@
-type: car
-plate: MSP5693
-layout: Brazilian
-corners: 548,398 676,400 676,445 549,443

@@ -1,4 +1,0 @@
-type: car
-plate: ODB7H92
-layout: Mercosur
-corners: 810,324 939,322 940,365 811,366

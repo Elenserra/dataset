@@ -1,4 +1,0 @@
-type: car
-plate: OWN8A50
-layout: Mercosur
-corners: 634,342 758,343 759,381 636,381

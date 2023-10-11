@@ -1,4 +1,0 @@
-type: car
-plate: LQD5360
-layout: Brazilian
-corners: 737,407 871,408 874,453 738,452

@@ -1,4 +1,0 @@
-type: car
-plate: OHQ4F16
-layout: Mercosur
-corners: 742,327 869,328 870,370 742,370

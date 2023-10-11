@@ -1,4 +1,0 @@
-type: car
-plate: PPB9A05
-layout: Mercosur
-corners: 604,300 709,297 712,334 605,335

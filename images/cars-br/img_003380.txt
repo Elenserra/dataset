@@ -1,4 +1,0 @@
-type: car
-plate: PPL6230
-layout: Brazilian
-corners: 919,69 997,68 997,95 919,95

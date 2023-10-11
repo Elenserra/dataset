@@ -1,4 +1,0 @@
-type: car
-plate: QQQ1958
-layout: Brazilian
-corners: 903,257 1018,256 1020,295 904,297

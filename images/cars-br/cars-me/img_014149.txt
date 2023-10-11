@@ -1,4 +1,0 @@
-type: car
-plate: QNV7G77
-layout: Mercosur
-corners: 791,315 923,311 927,356 792,359

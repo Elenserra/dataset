@@ -1,4 +1,0 @@
-type: car
-plate: FLU3653
-layout: Brazilian
-corners: 623,321 736,322 736,362 623,361

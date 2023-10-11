@@ -1,4 +1,0 @@
-type: car
-plate: PPW2254
-layout: Brazilian
-corners: 896,203 1003,198 1007,238 898,240

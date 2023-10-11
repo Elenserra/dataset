@@ -1,4 +1,0 @@
-type: car
-plate: PPE6124
-layout: Brazilian
-corners: 804,346 937,344 941,388 808,389

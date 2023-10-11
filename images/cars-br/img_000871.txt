@@ -1,4 +1,0 @@
-type: car
-plate: OVI6720
-layout: Brazilian
-corners: 561,383 690,384 691,432 563,428

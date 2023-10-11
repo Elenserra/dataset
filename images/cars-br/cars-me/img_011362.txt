@@ -1,4 +1,0 @@
-type: car
-plate: ODA8I83
-layout: Mercosur
-corners: 458,397 589,402 590,445 460,440

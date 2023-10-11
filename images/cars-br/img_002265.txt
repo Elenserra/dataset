@@ -1,4 +1,0 @@
-type: car
-plate: ODR2427
-layout: Brazilian
-corners: 544,368 668,369 668,412 544,411

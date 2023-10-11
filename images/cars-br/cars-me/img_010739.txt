@@ -1,4 +1,0 @@
-type: car
-plate: FND4B85
-layout: Mercosur
-corners: 562,355 681,356 680,395 565,394

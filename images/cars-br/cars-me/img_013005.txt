@@ -1,4 +1,0 @@
-type: car
-plate: OYJ8A28
-layout: Mercosur
-corners: 714,296 834,296 835,336 715,335

@@ -1,4 +1,0 @@
-type: car
-plate: QRB7717
-layout: Brazilian
-corners: 997,121 1076,119 1078,148 998,150

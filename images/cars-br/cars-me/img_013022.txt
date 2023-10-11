@@ -1,4 +1,0 @@
-type: car
-plate: MTE4E11
-layout: Mercosur
-corners: 679,273 802,275 801,316 680,313

@@ -1,4 +1,0 @@
-type: car
-plate: ODH0228
-layout: Brazilian
-corners: 445,199 560,199 565,234 451,234

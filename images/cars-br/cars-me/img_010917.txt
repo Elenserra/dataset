@@ -1,4 +1,0 @@
-type: car
-plate: PPF8J22
-layout: Mercosur
-corners: 543,395 665,396 666,434 544,432

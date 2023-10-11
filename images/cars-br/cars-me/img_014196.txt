@@ -1,4 +1,0 @@
-type: car
-plate: KNY7J93
-layout: Mercosur
-corners: 1002,151 1096,149 1097,180 1002,182

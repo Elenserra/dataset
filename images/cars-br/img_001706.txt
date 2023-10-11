@@ -1,4 +1,0 @@
-type: car
-plate: PPZ9148
-layout: Brazilian
-corners: 589,400 721,401 722,446 589,445

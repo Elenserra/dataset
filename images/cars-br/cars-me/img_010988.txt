@@ -1,4 +1,0 @@
-type: car
-plate: PYH2J16
-layout: Mercosur
-corners: 574,339 688,340 689,379 575,377

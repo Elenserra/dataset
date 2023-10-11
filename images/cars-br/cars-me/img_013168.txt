@@ -1,4 +1,0 @@
-type: car
-plate: ODI2D62
-layout: Mercosur
-corners: 653,307 782,309 783,351 655,349

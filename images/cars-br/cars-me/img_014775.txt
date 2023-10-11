@@ -1,4 +1,0 @@
-type: car
-plate: MTM1H76
-layout: Mercosur
-corners: 670,339 804,348 803,393 669,384

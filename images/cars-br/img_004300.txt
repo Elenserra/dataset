@@ -1,4 +1,0 @@
-type: car
-plate: LLH1335
-layout: Brazilian
-corners: 942,230 1054,225 1056,264 943,267

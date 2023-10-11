@@ -1,4 +1,0 @@
-type: car
-plate: PXQ7G07
-layout: Mercosur
-corners: 571,368 688,368 689,404 572,404

@@ -1,4 +1,0 @@
-type: car
-plate: MQY8950
-layout: Brazilian
-corners: 597,345 717,345 718,382 597,382

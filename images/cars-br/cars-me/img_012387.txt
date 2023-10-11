@@ -1,4 +1,0 @@
-type: car
-plate: QRF6J17
-layout: Mercosur
-corners: 757,145 847,145 846,174 758,174

@@ -1,4 +1,0 @@
-type: car
-plate: DCD5637
-layout: Brazilian
-corners: 794,334 923,331 926,374 795,377

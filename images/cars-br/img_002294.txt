@@ -1,4 +1,0 @@
-type: car
-plate: DML6340
-layout: Brazilian
-corners: 488,267 614,265 617,309 490,311

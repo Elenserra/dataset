@@ -1,4 +1,0 @@
-type: car
-plate: OCW2369
-layout: Brazilian
-corners: 505,419 636,420 638,464 507,462

@@ -1,4 +1,0 @@
-type: car
-plate: OVF9576
-layout: Brazilian
-corners: 724,168 804,168 805,194 724,194

@@ -1,4 +1,0 @@
-type: car
-plate: ODK3234
-layout: Brazilian
-corners: 792,401 922,401 927,443 795,440

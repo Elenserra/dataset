@@ -1,4 +1,0 @@
-type: car
-plate: OCV2491
-layout: Brazilian
-corners: 489,458 625,458 626,503 490,503

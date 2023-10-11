@@ -1,4 +1,0 @@
-type: car
-plate: MQV2452
-layout: Brazilian
-corners: 465,307 575,308 577,342 470,343

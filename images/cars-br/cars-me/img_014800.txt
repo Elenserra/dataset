@@ -1,4 +1,0 @@
-type: car
-plate: MSR5B15
-layout: Mercosur
-corners: 651,369 788,383 788,428 652,414

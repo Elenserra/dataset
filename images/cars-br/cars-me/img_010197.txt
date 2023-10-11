@@ -1,4 +1,0 @@
-type: car
-plate: PPP3A75
-layout: Mercosur
-corners: 548,389 673,391 674,433 549,430

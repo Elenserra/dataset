@@ -1,4 +1,0 @@
-type: car
-plate: PKW5D18
-layout: Mercosur
-corners: 968,109 1054,107 1057,137 969,140

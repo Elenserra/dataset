@@ -1,4 +1,0 @@
-type: car
-plate: MTW7487
-layout: Brazilian
-corners: 783,317 914,315 917,358 784,360

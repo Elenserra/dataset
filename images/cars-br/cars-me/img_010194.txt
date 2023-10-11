@@ -1,4 +1,0 @@
-type: car
-plate: EEM3J18
-layout: Mercosur
-corners: 543,476 672,475 674,512 546,513

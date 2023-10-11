@@ -1,4 +1,0 @@
-type: car
-plate: QRF3A89
-layout: Mercosur
-corners: 732,221 832,221 833,253 732,253

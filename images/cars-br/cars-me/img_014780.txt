@@ -1,4 +1,0 @@
-type: car
-plate: QRE4J32
-layout: Mercosur
-corners: 636,282 752,288 751,326 636,321

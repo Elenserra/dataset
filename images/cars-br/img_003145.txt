@@ -1,4 +1,0 @@
-type: car
-plate: MRT2203
-layout: Brazilian
-corners: 627,302 746,304 747,344 628,344

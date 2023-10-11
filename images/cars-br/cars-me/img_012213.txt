@@ -1,4 +1,0 @@
-type: car
-plate: MSW4B12
-layout: Mercosur
-corners: 549,273 671,271 673,311 553,311

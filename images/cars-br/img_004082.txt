@@ -1,4 +1,0 @@
-type: car
-plate: MSR6538
-layout: Brazilian
-corners: 816,339 948,337 950,381 817,381

@@ -1,4 +1,0 @@
-type: car
-plate: PPF9A33
-layout: Mercosur
-corners: 621,298 732,298 732,337 622,337

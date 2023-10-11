@@ -1,4 +1,0 @@
-type: car
-plate: ODG0508
-layout: Brazilian
-corners: 842,240 962,237 964,277 845,279

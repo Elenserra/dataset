@@ -1,4 +1,0 @@
-type: car
-plate: PPM5420
-layout: Brazilian
-corners: 640,304 758,307 759,347 640,346

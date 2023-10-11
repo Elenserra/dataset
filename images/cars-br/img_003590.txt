@@ -1,4 +1,0 @@
-type: car
-plate: PPY1420
-layout: Brazilian
-corners: 804,327 937,326 939,369 807,371

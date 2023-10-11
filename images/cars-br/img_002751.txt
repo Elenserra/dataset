@@ -1,4 +1,0 @@
-type: car
-plate: PPW3176
-layout: Brazilian
-corners: 906,102 991,102 991,131 907,130

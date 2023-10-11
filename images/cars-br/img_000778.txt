@@ -1,4 +1,0 @@
-type: car
-plate: MSG7058
-layout: Brazilian
-corners: 557,383 683,382 684,426 559,425

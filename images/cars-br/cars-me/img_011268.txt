@@ -1,4 +1,0 @@
-type: car
-plate: FOG1B30
-layout: Mercosur
-corners: 552,327 685,324 689,364 555,364

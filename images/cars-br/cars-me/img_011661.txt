@@ -1,4 +1,0 @@
-type: car
-plate: PPF8H83
-layout: Mercosur
-corners: 504,315 637,317 639,362 505,358

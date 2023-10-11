@@ -1,4 +1,0 @@
-type: car
-plate: QOY7508
-layout: Brazilian
-corners: 821,102 890,102 891,124 820,126

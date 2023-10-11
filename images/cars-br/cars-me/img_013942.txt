@@ -1,4 +1,0 @@
-type: car
-plate: OMB7A18
-layout: Mercosur
-corners: 766,308 894,308 897,349 767,352

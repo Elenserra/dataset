@@ -1,4 +1,0 @@
-type: car
-plate: OVF6D44
-layout: Mercosur
-corners: 939,4 1005,5 1005,28 940,26

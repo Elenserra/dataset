@@ -1,4 +1,0 @@
-type: car
-plate: PPW8336
-layout: Brazilian
-corners: 602,335 719,335 720,374 602,374

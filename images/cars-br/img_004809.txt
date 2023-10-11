@@ -1,4 +1,0 @@
-type: car
-plate: PPX7597
-layout: Brazilian
-corners: 987,178 1084,173 1087,207 987,210

@@ -1,4 +1,0 @@
-type: car
-plate: OQW4171
-layout: Brazilian
-corners: 696,330 831,332 832,381 696,379

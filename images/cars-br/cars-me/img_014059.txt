@@ -1,4 +1,0 @@
-type: car
-plate: LQY5B55
-layout: Mercosur
-corners: 804,314 928,311 933,354 807,356

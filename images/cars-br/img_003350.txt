@@ -1,4 +1,0 @@
-type: car
-plate: JKO9758
-layout: Brazilian
-corners: 448,294 575,297 577,342 450,338

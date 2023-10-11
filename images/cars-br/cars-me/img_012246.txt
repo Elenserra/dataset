@@ -1,4 +1,0 @@
-type: car
-plate: PPA9A31
-layout: Mercosur
-corners: 591,201 694,201 694,233 593,234

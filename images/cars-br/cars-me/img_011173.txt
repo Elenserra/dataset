@@ -1,4 +1,0 @@
-type: car
-plate: QRE0J47
-layout: Mercosur
-corners: 618,265 728,266 730,304 618,303

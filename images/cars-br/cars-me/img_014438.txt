@@ -1,4 +1,0 @@
-type: car
-plate: QRL7E25
-layout: Mercosur
-corners: 839,319 968,316 971,358 841,360

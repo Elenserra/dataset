@@ -1,4 +1,0 @@
-type: car
-plate: PPT5H34
-layout: Mercosur
-corners: 921,40 995,40 995,64 922,65

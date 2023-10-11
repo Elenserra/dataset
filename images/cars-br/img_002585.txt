@@ -1,4 +1,0 @@
-type: car
-plate: ODG3967
-layout: Brazilian
-corners: 695,291 818,293 820,335 696,334

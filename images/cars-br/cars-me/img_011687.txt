@@ -1,4 +1,0 @@
-type: car
-plate: HDR2H55
-layout: Mercosur
-corners: 504,384 635,386 635,428 504,425

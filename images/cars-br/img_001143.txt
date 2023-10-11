@@ -1,4 +1,0 @@
-type: car
-plate: PPY9009
-layout: Brazilian
-corners: 679,199 766,199 767,228 679,227

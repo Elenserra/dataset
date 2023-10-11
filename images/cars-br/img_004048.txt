@@ -1,4 +1,0 @@
-type: car
-plate: OYH0131
-layout: Brazilian
-corners: 1010,105 1091,102 1094,132 1011,136

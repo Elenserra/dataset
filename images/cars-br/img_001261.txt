@@ -1,4 +1,0 @@
-type: car
-plate: ODF2673
-layout: Brazilian
-corners: 609,399 742,399 742,446 610,445

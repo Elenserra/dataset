@@ -1,4 +1,0 @@
-type: car
-plate: MSY8428
-layout: Brazilian
-corners: 594,410 722,411 723,452 594,451

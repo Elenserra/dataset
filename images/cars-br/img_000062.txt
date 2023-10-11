@@ -1,4 +1,0 @@
-type: car
-plate: PPI7056
-layout: Brazilian
-corners: 633,270 731,269 733,302 634,303

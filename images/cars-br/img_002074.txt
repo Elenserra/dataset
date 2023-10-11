@@ -1,4 +1,0 @@
-type: car
-plate: ODD4538
-layout: Brazilian
-corners: 753,213 845,213 846,244 753,244

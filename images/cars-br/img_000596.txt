@@ -1,4 +1,0 @@
-type: car
-plate: QPG3610
-layout: Brazilian
-corners: 575,404 701,401 702,440 577,441

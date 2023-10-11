@@ -1,4 +1,0 @@
-type: car
-plate: LIA4E69
-layout: Mercosur
-corners: 859,341 992,336 998,379 861,383

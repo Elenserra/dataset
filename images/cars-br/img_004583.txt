@@ -1,4 +1,0 @@
-type: car
-plate: MSU6706
-layout: Brazilian
-corners: 810,358 948,356 952,402 811,405

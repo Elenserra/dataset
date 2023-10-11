@@ -1,4 +1,0 @@
-type: car
-plate: FLD1488
-layout: Brazilian
-corners: 669,362 810,360 815,409 672,409

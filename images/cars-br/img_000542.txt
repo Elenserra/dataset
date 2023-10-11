@@ -1,4 +1,0 @@
-type: car
-plate: ODR3984
-layout: Brazilian
-corners: 485,396 609,397 610,442 485,438

@@ -1,4 +1,0 @@
-type: car
-plate: KWI9A52
-layout: Mercosur
-corners: 623,291 760,300 758,343 623,335

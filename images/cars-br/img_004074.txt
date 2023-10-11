@@ -1,4 +1,0 @@
-type: car
-plate: MRV5679
-layout: Brazilian
-corners: 803,236 909,235 910,273 802,274

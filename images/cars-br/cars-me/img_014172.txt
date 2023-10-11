@@ -1,4 +1,0 @@
-type: car
-plate: ODH4I69
-layout: Mercosur
-corners: 814,273 939,270 941,311 817,313

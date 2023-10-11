@@ -1,4 +1,0 @@
-type: car
-plate: PPY4248
-layout: Brazilian
-corners: 728,186 816,185 818,214 729,216

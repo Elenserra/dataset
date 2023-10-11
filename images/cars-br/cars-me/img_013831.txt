@@ -1,4 +1,0 @@
-type: car
-plate: LRR9D72
-layout: Mercosur
-corners: 778,329 909,327 910,370 779,371

@@ -1,4 +1,0 @@
-type: car
-plate: PPU6E40
-layout: Mercosur
-corners: 767,365 902,366 905,412 767,409

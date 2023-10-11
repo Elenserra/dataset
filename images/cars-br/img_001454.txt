@@ -1,4 +1,0 @@
-type: car
-plate: PPQ6773
-layout: Brazilian
-corners: 665,216 771,213 772,249 666,251

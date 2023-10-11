@@ -1,4 +1,0 @@
-type: car
-plate: OYG3795
-layout: Brazilian
-corners: 787,339 920,334 924,381 788,384

@@ -1,4 +1,0 @@
-type: car
-plate: PPN6498
-layout: Brazilian
-corners: 775,322 908,321 910,367 775,369

@@ -1,4 +1,0 @@
-type: car
-plate: LMZ2H13
-layout: Mercosur
-corners: 751,330 884,328 887,372 754,373

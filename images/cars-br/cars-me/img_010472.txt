@@ -1,4 +1,0 @@
-type: car
-plate: QRJ3F73
-layout: Mercosur
-corners: 770,134 847,134 847,159 770,159

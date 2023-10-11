@@ -1,4 +1,0 @@
-type: car
-plate: OYI2939
-layout: Brazilian
-corners: 750,316 877,316 879,360 750,357

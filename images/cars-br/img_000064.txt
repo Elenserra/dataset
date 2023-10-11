@@ -1,4 +1,0 @@
-type: car
-plate: ODD0831
-layout: Brazilian
-corners: 567,399 690,399 690,441 568,441

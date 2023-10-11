@@ -1,4 +1,0 @@
-type: car
-plate: PPK5B63
-layout: Mercosur
-corners: 777,334 909,331 913,376 778,375

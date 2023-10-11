@@ -1,4 +1,0 @@
-type: car
-plate: PPH4H95
-layout: Mercosur
-corners: 811,309 941,307 943,350 813,351

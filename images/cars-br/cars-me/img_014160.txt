@@ -1,4 +1,0 @@
-type: car
-plate: QRF1H07
-layout: Mercosur
-corners: 833,327 957,324 961,366 834,367

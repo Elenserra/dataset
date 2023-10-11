@@ -1,4 +1,0 @@
-type: car
-plate: QUE5368
-layout: Brazilian
-corners: 738,248 855,247 861,284 743,284

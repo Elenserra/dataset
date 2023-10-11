@@ -1,4 +1,0 @@
-type: car
-plate: MRM9462
-layout: Brazilian
-corners: 805,306 940,304 943,350 806,353

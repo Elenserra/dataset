@@ -1,4 +1,0 @@
-type: car
-plate: OYD2B67
-layout: Mercosur
-corners: 774,323 905,321 906,366 775,366

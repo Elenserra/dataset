@@ -1,4 +1,0 @@
-type: car
-plate: ODT9981
-layout: Brazilian
-corners: 505,398 634,398 634,444 506,443

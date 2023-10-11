@@ -1,4 +1,0 @@
-type: car
-plate: GNQ5800
-layout: Brazilian
-corners: 828,338 949,337 953,378 828,378

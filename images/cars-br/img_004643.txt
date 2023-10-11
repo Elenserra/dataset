@@ -1,4 +1,0 @@
-type: car
-plate: MQF1825
-layout: Brazilian
-corners: 737,344 861,345 863,387 739,383

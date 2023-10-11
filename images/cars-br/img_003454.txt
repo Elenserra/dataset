@@ -1,4 +1,0 @@
-type: car
-plate: QRD0796
-layout: Brazilian
-corners: 832,333 964,331 966,376 832,377

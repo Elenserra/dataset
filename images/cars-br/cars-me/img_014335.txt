@@ -1,4 +1,0 @@
-type: car
-plate: PPI1A50
-layout: Mercosur
-corners: 736,285 864,285 867,329 737,329

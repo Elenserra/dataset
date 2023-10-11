@@ -1,4 +1,0 @@
-type: car
-plate: QPY0584
-layout: Brazilian
-corners: 675,313 807,314 807,359 676,357

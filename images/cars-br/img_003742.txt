@@ -1,4 +1,0 @@
-type: car
-plate: HNM8279
-layout: Brazilian
-corners: 809,399 944,398 948,436 813,439

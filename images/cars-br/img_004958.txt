@@ -1,4 +1,0 @@
-type: car
-plate: QUI1709
-layout: Brazilian
-corners: 841,257 959,256 959,295 841,297

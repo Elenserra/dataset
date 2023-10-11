@@ -1,4 +1,0 @@
-type: car
-plate: PZP2893
-layout: Brazilian
-corners: 838,341 973,340 977,384 840,383

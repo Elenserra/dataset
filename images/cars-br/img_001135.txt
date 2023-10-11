@@ -1,4 +1,0 @@
-type: car
-plate: MRB2549
-layout: Brazilian
-corners: 735,208 824,206 826,236 736,238

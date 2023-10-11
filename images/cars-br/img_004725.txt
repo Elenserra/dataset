@@ -1,4 +1,0 @@
-type: car
-plate: MPK8041
-layout: Brazilian
-corners: 783,324 904,319 910,361 787,362

@@ -1,4 +1,0 @@
-type: car
-plate: ODJ2G04
-layout: Mercosur
-corners: 714,319 839,320 840,359 716,360

@@ -1,4 +1,0 @@
-type: car
-plate: PPS0435
-layout: Brazilian
-corners: 847,265 966,266 967,307 847,307

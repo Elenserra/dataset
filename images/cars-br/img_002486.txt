@@ -1,4 +1,0 @@
-type: car
-plate: JEG8603
-layout: Brazilian
-corners: 535,308 645,308 647,341 537,343

@@ -1,4 +1,0 @@
-type: car
-plate: MSD7G13
-layout: Mercosur
-corners: 795,316 924,318 923,359 796,357

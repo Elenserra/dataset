@@ -1,4 +1,0 @@
-type: car
-plate: PPO8G15
-layout: Mercosur
-corners: 706,328 832,329 832,368 708,368

@@ -1,4 +1,0 @@
-type: car
-plate: PAR9259
-layout: Brazilian
-corners: 989,104 1070,100 1073,128 990,132

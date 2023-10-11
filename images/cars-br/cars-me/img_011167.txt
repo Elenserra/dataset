@@ -1,4 +1,0 @@
-type: car
-plate: PXC8D82
-layout: Mercosur
-corners: 661,230 763,232 764,267 660,265

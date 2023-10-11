@@ -1,4 +1,0 @@
-type: car
-plate: MST4686
-layout: Brazilian
-corners: 508,413 637,414 638,456 509,455

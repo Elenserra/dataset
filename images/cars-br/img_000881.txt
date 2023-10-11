@@ -1,4 +1,0 @@
-type: car
-plate: QRB2043
-layout: Brazilian
-corners: 440,404 576,403 579,452 443,452

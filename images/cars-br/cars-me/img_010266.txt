@@ -1,4 +1,0 @@
-type: car
-plate: PXS9C13
-layout: Mercosur
-corners: 615,214 722,214 722,250 615,249

@@ -1,4 +1,0 @@
-type: car
-plate: OCW7937
-layout: Brazilian
-corners: 447,490 590,491 592,541 447,539

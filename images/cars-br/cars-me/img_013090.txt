@@ -1,4 +1,0 @@
-type: car
-plate: PPR5I25
-layout: Mercosur
-corners: 689,321 814,323 816,365 691,361

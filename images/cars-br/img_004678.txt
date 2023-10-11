@@ -1,4 +1,0 @@
-type: car
-plate: ODA9383
-layout: Brazilian
-corners: 924,166 1012,165 1013,195 925,196

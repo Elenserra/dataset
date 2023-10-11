@@ -1,4 +1,0 @@
-type: car
-plate: MQH2381
-layout: Brazilian
-corners: 510,368 637,369 637,412 511,411

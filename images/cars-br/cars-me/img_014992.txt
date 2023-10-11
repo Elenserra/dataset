@@ -1,4 +1,0 @@
-type: car
-plate: MQH5C58
-layout: Mercosur
-corners: 701,346 840,351 839,396 702,390

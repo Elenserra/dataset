@@ -1,4 +1,0 @@
-type: car
-plate: JIK5I08
-layout: Mercosur
-corners: 790,334 924,329 925,372 793,375

@@ -1,4 +1,0 @@
-type: car
-plate: OYF3I36
-layout: Mercosur
-corners: 524,426 652,422 657,465 526,467

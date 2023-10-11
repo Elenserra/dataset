@@ -1,4 +1,0 @@
-type: car
-plate: ACY8E07
-layout: Mercosur
-corners: 758,231 872,231 874,270 759,268

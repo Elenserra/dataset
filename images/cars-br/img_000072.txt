@@ -1,4 +1,0 @@
-type: car
-plate: PPS4219
-layout: Brazilian
-corners: 576,384 699,385 699,427 575,425

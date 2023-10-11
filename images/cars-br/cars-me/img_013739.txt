@@ -1,4 +1,0 @@
-type: car
-plate: QRL6B63
-layout: Mercosur
-corners: 846,96 928,94 929,123 846,123

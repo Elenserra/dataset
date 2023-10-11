@@ -1,4 +1,0 @@
-type: car
-plate: PPG5515
-layout: Brazilian
-corners: 500,400 631,402 632,448 502,443

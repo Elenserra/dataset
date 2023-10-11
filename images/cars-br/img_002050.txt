@@ -1,4 +1,0 @@
-type: car
-plate: MSZ3447
-layout: Brazilian
-corners: 672,376 795,376 796,416 672,417

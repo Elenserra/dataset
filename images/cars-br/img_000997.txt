@@ -1,4 +1,0 @@
-type: car
-plate: PPQ4626
-layout: Brazilian
-corners: 422,487 565,489 566,537 423,534

@@ -1,4 +1,0 @@
-type: car
-plate: ODQ4950
-layout: Brazilian
-corners: 708,279 847,275 849,326 709,326

@@ -1,4 +1,0 @@
-type: car
-plate: KRF5409
-layout: Brazilian
-corners: 979,121 1061,118 1064,148 981,150

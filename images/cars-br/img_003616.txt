@@ -1,4 +1,0 @@
-type: car
-plate: MSY5841
-layout: Brazilian
-corners: 738,266 851,263 859,300 743,302

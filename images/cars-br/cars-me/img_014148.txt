@@ -1,4 +1,0 @@
-type: car
-plate: MTB4I81
-layout: Mercosur
-corners: 880,200 1000,195 1003,235 882,240

@@ -1,4 +1,0 @@
-type: car
-plate: PPS5F80
-layout: Mercosur
-corners: 675,298 798,299 798,341 676,339

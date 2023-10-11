@@ -1,4 +1,0 @@
-type: car
-plate: OYE3384
-layout: Brazilian
-corners: 522,393 642,393 643,435 522,433

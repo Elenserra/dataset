@@ -1,4 +1,0 @@
-type: car
-plate: QRE7I24
-layout: Mercosur
-corners: 610,342 750,350 749,395 610,387

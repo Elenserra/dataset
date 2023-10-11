@@ -1,4 +1,0 @@
-type: car
-plate: ODD5G28
-layout: Mercosur
-corners: 851,293 979,290 980,335 851,336

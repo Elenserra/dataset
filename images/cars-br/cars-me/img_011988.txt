@@ -1,4 +1,0 @@
-type: car
-plate: PJR9G07
-layout: Mercosur
-corners: 493,343 625,342 627,387 493,387

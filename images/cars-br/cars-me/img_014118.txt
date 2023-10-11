@@ -1,4 +1,0 @@
-type: car
-plate: ODM4I02
-layout: Mercosur
-corners: 867,219 976,216 978,254 866,258

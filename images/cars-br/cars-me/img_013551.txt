@@ -1,4 +1,0 @@
-type: car
-plate: ODT6C29
-layout: Mercosur
-corners: 678,263 795,264 798,303 679,300

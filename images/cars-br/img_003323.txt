@@ -1,4 +1,0 @@
-type: car
-plate: OKZ6723
-layout: Brazilian
-corners: 719,386 847,385 850,426 720,426

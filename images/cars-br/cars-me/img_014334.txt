@@ -1,4 +1,0 @@
-type: car
-plate: MPB3F79
-layout: Mercosur
-corners: 730,338 863,334 868,376 735,379

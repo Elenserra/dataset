@@ -1,4 +1,0 @@
-type: car
-plate: PPB2G26
-layout: Mercosur
-corners: 192,615 358,624 361,682 197,673

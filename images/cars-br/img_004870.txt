@@ -1,4 +1,0 @@
-type: car
-plate: MTA1809
-layout: Brazilian
-corners: 791,331 926,327 926,373 794,376

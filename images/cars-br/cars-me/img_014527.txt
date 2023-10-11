@@ -1,4 +1,0 @@
-type: car
-plate: PPG2J04
-layout: Mercosur
-corners: 774,337 899,335 903,376 777,376

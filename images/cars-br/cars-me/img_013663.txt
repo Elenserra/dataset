@@ -1,4 +1,0 @@
-type: car
-plate: KQQ3F84
-layout: Mercosur
-corners: 665,313 790,317 792,358 665,353

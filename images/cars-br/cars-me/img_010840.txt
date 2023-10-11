@@ -1,4 +1,0 @@
-type: car
-plate: QRJ6D45
-layout: Mercosur
-corners: 664,285 771,284 772,320 664,320

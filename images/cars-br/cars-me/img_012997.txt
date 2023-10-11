@@ -1,4 +1,0 @@
-type: car
-plate: OLW1H29
-layout: Mercosur
-corners: 695,318 818,321 818,360 697,357

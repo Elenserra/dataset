@@ -1,4 +1,0 @@
-type: car
-plate: ODF4543
-layout: Brazilian
-corners: 630,310 742,311 742,348 630,348

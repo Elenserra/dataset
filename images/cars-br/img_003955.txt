@@ -1,4 +1,0 @@
-type: car
-plate: ODA1127
-layout: Brazilian
-corners: 762,346 894,346 895,392 761,390

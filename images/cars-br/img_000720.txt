@@ -1,4 +1,0 @@
-type: car
-plate: MPV2866
-layout: Brazilian
-corners: 658,300 756,300 757,333 658,333

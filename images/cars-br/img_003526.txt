@@ -1,4 +1,0 @@
-type: car
-plate: PPJ1068
-layout: Brazilian
-corners: 753,332 888,330 891,376 755,378

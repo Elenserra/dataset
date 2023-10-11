@@ -1,4 +1,0 @@
-type: car
-plate: AWS4D70
-layout: Mercosur
-corners: 647,212 754,214 754,251 648,249

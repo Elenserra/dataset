@@ -1,4 +1,0 @@
-type: car
-plate: GSP3C19
-layout: Mercosur
-corners: 804,310 934,309 936,353 802,353

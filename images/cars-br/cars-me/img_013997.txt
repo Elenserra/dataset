@@ -1,4 +1,0 @@
-type: car
-plate: MSG6B94
-layout: Mercosur
-corners: 747,336 872,332 876,374 749,376

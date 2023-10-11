@@ -1,4 +1,0 @@
-type: car
-plate: OOI0D35
-layout: Mercosur
-corners: 553,388 687,391 690,431 559,428

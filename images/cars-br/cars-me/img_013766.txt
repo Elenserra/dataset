@@ -1,4 +1,0 @@
-type: car
-plate: JNZ2E59
-layout: Mercosur
-corners: 591,239 711,239 712,277 593,278

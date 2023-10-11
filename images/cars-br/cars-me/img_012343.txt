@@ -1,4 +1,0 @@
-type: car
-plate: JMX2H44
-layout: Mercosur
-corners: 592,250 705,250 706,288 592,288

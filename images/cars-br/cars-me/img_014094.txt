@@ -1,4 +1,0 @@
-type: car
-plate: ODP1H20
-layout: Mercosur
-corners: 823,345 956,341 959,387 824,389

@@ -1,4 +1,0 @@
-type: car
-plate: OYE7C53
-layout: Mercosur
-corners: 568,333 689,333 690,372 571,372

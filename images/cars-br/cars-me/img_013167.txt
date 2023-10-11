@@ -1,4 +1,0 @@
-type: car
-plate: LSL1H40
-layout: Mercosur
-corners: 826,229 931,230 932,264 827,263

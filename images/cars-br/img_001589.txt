@@ -1,4 +1,0 @@
-type: car
-plate: PPO7252
-layout: Brazilian
-corners: 482,371 604,372 606,417 482,417

@@ -1,4 +1,0 @@
-type: car
-plate: MSC6969
-layout: Brazilian
-corners: 814,354 951,350 956,395 815,400

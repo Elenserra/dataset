@@ -1,4 +1,0 @@
-type: car
-plate: PXN6234
-layout: Brazilian
-corners: 997,135 1087,134 1088,167 999,166

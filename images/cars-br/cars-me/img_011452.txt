@@ -1,4 +1,0 @@
-type: car
-plate: QPF8I80
-layout: Mercosur
-corners: 999,108 1077,106 1078,132 1000,134

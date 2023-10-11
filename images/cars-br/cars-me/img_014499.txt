@@ -1,4 +1,0 @@
-type: car
-plate: AAM4A05
-layout: Mercosur
-corners: 761,347 896,346 898,392 762,394

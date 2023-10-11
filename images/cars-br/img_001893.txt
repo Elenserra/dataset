@@ -1,4 +1,0 @@
-type: car
-plate: MTZ3256
-layout: Brazilian
-corners: 494,420 624,421 625,464 494,463

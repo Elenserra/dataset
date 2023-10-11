@@ -1,4 +1,0 @@
-type: car
-plate: PPT2944
-layout: Brazilian
-corners: 1046,81 1122,79 1123,105 1047,108

@@ -1,4 +1,0 @@
-type: car
-plate: MTJ5833
-layout: Brazilian
-corners: 706,263 821,262 823,300 709,300

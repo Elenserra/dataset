@@ -1,4 +1,0 @@
-type: car
-plate: OYH5H63
-layout: Mercosur
-corners: 824,321 955,321 957,365 825,366

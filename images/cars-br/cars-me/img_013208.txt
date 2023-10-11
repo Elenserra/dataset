@@ -1,4 +1,0 @@
-type: car
-plate: OYH7H15
-layout: Mercosur
-corners: 468,459 616,466 616,516 470,508

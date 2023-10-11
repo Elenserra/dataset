@@ -1,4 +1,0 @@
-type: car
-plate: QOE1H24
-layout: Mercosur
-corners: 1008,110 1090,107 1092,135 1009,138

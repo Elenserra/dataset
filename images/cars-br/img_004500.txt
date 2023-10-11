@@ -1,4 +1,0 @@
-type: car
-plate: QUF5789
-layout: Brazilian
-corners: 738,257 850,250 860,287 744,291

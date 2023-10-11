@@ -1,4 +1,0 @@
-type: car
-plate: MSM2996
-layout: Brazilian
-corners: 829,137 917,136 918,165 830,166

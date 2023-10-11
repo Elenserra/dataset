@@ -1,4 +1,0 @@
-type: car
-plate: MQI5104
-layout: Brazilian
-corners: 713,207 829,209 830,248 714,246

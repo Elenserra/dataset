@@ -1,4 +1,0 @@
-type: car
-plate: OVF4168
-layout: Brazilian
-corners: 825,128 896,127 896,152 825,152

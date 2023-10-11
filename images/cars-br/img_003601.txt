@@ -1,4 +1,0 @@
-type: car
-plate: JIG2094
-layout: Brazilian
-corners: 801,297 936,298 940,342 802,341

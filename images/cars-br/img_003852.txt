@@ -1,4 +1,0 @@
-type: car
-plate: PPR6648
-layout: Brazilian
-corners: 782,307 911,305 913,349 782,351

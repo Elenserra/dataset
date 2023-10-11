@@ -1,4 +1,0 @@
-type: car
-plate: QOB0C88
-layout: Mercosur
-corners: 739,326 874,334 873,379 737,371

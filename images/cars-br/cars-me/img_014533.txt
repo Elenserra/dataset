@@ -1,4 +1,0 @@
-type: car
-plate: PPA5E02
-layout: Mercosur
-corners: 766,319 890,318 893,362 766,363

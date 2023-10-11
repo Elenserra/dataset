@@ -1,4 +1,0 @@
-type: car
-plate: OWJ4I94
-layout: Mercosur
-corners: 827,334 961,333 964,377 828,377

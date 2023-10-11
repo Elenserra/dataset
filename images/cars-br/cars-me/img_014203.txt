@@ -1,4 +1,0 @@
-type: car
-plate: PPT6J52
-layout: Mercosur
-corners: 842,276 965,274 967,315 841,318

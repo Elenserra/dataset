@@ -1,4 +1,0 @@
-type: car
-plate: QRL9I97
-layout: Mercosur
-corners: 736,217 851,218 853,255 736,254

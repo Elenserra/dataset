@@ -1,4 +1,0 @@
-type: car
-plate: ODF1682
-layout: Brazilian
-corners: 649,253 746,254 747,287 648,286

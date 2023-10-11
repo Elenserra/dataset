@@ -1,4 +1,0 @@
-type: car
-plate: MQH2874
-layout: Brazilian
-corners: 589,236 721,244 719,289 587,280

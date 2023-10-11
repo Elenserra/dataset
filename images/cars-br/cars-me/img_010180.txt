@@ -1,4 +1,0 @@
-type: car
-plate: ODK5F20
-layout: Mercosur
-corners: 530,407 660,407 662,450 532,449

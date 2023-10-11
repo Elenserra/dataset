@@ -1,4 +1,0 @@
-type: car
-plate: QQR2078
-layout: Brazilian
-corners: 519,408 655,409 656,456 521,454

@@ -1,4 +1,0 @@
-type: car
-plate: QRB0697
-layout: Brazilian
-corners: 816,359 950,358 952,402 816,403

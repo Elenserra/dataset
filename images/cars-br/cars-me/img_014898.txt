@@ -1,4 +1,0 @@
-type: car
-plate: QRJ3I30
-layout: Mercosur
-corners: 600,356 734,364 731,409 599,400

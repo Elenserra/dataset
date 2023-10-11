@@ -1,4 +1,0 @@
-type: car
-plate: KVD6643
-layout: Brazilian
-corners: 805,326 938,322 941,367 806,370

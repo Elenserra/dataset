@@ -1,4 +1,0 @@
-type: car
-plate: PPF1B93
-layout: Mercosur
-corners: 603,342 722,344 723,383 603,381

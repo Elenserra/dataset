@@ -1,4 +1,0 @@
-type: car
-plate: MTL4G14
-layout: Mercosur
-corners: 756,294 875,295 875,332 759,332

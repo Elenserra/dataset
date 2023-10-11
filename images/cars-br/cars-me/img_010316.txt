@@ -1,4 +1,0 @@
-type: car
-plate: BRM0A88
-layout: Mercosur
-corners: 633,278 728,279 728,301 634,300

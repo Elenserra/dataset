@@ -1,4 +1,0 @@
-type: car
-plate: LLC5545
-layout: Brazilian
-corners: 600,345 714,346 714,385 600,383

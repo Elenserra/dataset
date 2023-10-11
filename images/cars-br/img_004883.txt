@@ -1,4 +1,0 @@
-type: car
-plate: ODL1281
-layout: Brazilian
-corners: 853,272 976,271 976,313 853,316

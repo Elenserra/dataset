@@ -1,4 +1,0 @@
-type: car
-plate: DUI2H77
-layout: Mercosur
-corners: 556,325 685,323 688,366 556,367

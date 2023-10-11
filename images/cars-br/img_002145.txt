@@ -1,4 +1,0 @@
-type: car
-plate: JJU1909
-layout: Brazilian
-corners: 507,480 636,480 638,522 508,521

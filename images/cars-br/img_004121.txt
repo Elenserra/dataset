@@ -1,4 +1,0 @@
-type: car
-plate: MTP7564
-layout: Brazilian
-corners: 858,317 991,315 993,361 858,361

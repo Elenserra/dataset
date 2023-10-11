@@ -1,4 +1,0 @@
-type: car
-plate: FPL6A02
-layout: Mercosur
-corners: 959,160 1053,157 1055,188 960,191

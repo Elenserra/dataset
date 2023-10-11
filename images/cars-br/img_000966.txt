@@ -1,4 +1,0 @@
-type: car
-plate: OCZ2964
-layout: Brazilian
-corners: 475,478 604,478 606,522 478,521

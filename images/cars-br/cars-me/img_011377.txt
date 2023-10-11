@@ -1,4 +1,0 @@
-type: car
-plate: LUH9F03
-layout: Mercosur
-corners: 600,285 720,286 721,328 599,325

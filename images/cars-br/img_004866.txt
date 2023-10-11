@@ -1,4 +1,0 @@
-type: car
-plate: OQL2352
-layout: Brazilian
-corners: 1041,84 1113,81 1115,106 1041,109

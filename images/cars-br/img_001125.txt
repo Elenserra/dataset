@@ -1,4 +1,0 @@
-type: car
-plate: LPW5770
-layout: Brazilian
-corners: 689,268 790,267 791,301 690,301

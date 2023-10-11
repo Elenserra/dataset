@@ -1,4 +1,0 @@
-type: car
-plate: MTL1I80
-layout: Mercosur
-corners: 633,382 780,390 780,438 633,429

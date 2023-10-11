@@ -1,4 +1,0 @@
-type: car
-plate: QRD8E38
-layout: Mercosur
-corners: 592,391 713,390 713,427 594,428

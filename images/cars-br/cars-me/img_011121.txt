@@ -1,4 +1,0 @@
-type: car
-plate: KYG3E11
-layout: Mercosur
-corners: 598,247 708,245 712,283 600,286

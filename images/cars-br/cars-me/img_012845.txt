@@ -1,4 +1,0 @@
-type: car
-plate: MSS0E02
-layout: Mercosur
-corners: 683,330 806,331 807,369 684,368

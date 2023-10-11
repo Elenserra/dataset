@@ -1,4 +1,0 @@
-type: car
-plate: PPA3E45
-layout: Mercosur
-corners: 568,324 680,324 681,360 571,359

@@ -1,4 +1,0 @@
-type: car
-plate: QRE4E43
-layout: Mercosur
-corners: 612,327 739,329 740,371 614,367

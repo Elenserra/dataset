@@ -1,4 +1,0 @@
-type: car
-plate: OVK1C33
-layout: Mercosur
-corners: 617,341 745,345 747,384 622,380

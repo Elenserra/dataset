@@ -1,4 +1,0 @@
-type: car
-plate: PPP4B85
-layout: Mercosur
-corners: 607,349 730,358 733,395 607,391

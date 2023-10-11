@@ -1,4 +1,0 @@
-type: car
-plate: ODF1H84
-layout: Mercosur
-corners: 759,335 888,336 888,379 760,379

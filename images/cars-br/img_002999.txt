@@ -1,4 +1,0 @@
-type: car
-plate: MRY3349
-layout: Brazilian
-corners: 521,360 650,363 654,407 525,401

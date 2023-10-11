@@ -1,4 +1,0 @@
-type: car
-plate: HMY8I12
-layout: Mercosur
-corners: 550,396 676,396 676,436 551,436

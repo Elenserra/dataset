@@ -1,4 +1,0 @@
-type: car
-plate: PPJ0932
-layout: Brazilian
-corners: 412,436 545,437 545,479 414,478

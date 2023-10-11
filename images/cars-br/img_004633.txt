@@ -1,4 +1,0 @@
-type: car
-plate: QRC8129
-layout: Brazilian
-corners: 890,260 1012,257 1016,299 891,300

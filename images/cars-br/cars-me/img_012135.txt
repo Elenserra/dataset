@@ -1,4 +1,0 @@
-type: car
-plate: MQP5E54
-layout: Mercosur
-corners: 715,138 794,136 795,163 716,165

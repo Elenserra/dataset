@@ -1,4 +1,0 @@
-type: car
-plate: JKD0J87
-layout: Mercosur
-corners: 519,326 644,326 645,371 518,370

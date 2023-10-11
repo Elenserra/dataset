@@ -1,4 +1,0 @@
-type: car
-plate: PPU8I75
-layout: Mercosur
-corners: 653,329 789,338 787,384 652,375

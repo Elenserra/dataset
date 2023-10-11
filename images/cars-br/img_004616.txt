@@ -1,4 +1,0 @@
-type: car
-plate: OEL2755
-layout: Brazilian
-corners: 742,378 881,379 884,425 743,424

@@ -1,4 +1,0 @@
-type: car
-plate: PPL5835
-layout: Brazilian
-corners: 791,312 922,310 927,354 794,356

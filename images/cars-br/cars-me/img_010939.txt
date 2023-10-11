@@ -1,4 +1,0 @@
-type: car
-plate: OCV6E61
-layout: Mercosur
-corners: 568,373 692,373 693,413 569,412

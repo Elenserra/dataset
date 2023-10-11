@@ -1,4 +1,0 @@
-type: car
-plate: OQY3I22
-layout: Mercosur
-corners: 457,371 587,373 590,414 458,413

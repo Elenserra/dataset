@@ -1,4 +1,0 @@
-type: car
-plate: PPV3J32
-layout: Mercosur
-corners: 532,280 659,279 660,321 534,322

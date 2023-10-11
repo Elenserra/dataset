@@ -1,4 +1,0 @@
-type: car
-plate: PPB7055
-layout: Brazilian
-corners: 796,266 933,261 937,307 799,310

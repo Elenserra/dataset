@@ -1,4 +1,0 @@
-type: car
-plate: PPJ8249
-layout: Brazilian
-corners: 517,353 646,353 646,400 517,400

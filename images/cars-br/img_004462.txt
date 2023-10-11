@@ -1,4 +1,0 @@
-type: car
-plate: ODI4208
-layout: Brazilian
-corners: 815,356 952,350 952,399 815,400

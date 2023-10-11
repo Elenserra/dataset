@@ -1,4 +1,0 @@
-type: car
-plate: LMR2I16
-layout: Mercosur
-corners: 814,345 944,343 949,387 813,389

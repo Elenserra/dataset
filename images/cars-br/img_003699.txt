@@ -1,4 +1,0 @@
-type: car
-plate: OCV6548
-layout: Brazilian
-corners: 741,403 875,400 880,444 742,444

@@ -1,4 +1,0 @@
-type: car
-plate: MTX3192
-layout: Brazilian
-corners: 534,406 655,406 656,446 536,445

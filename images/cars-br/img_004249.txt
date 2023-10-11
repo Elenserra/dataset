@@ -1,4 +1,0 @@
-type: car
-plate: MQB0140
-layout: Brazilian
-corners: 707,372 845,372 847,419 708,418

@@ -1,4 +1,0 @@
-type: car
-plate: KVJ5E74
-layout: Mercosur
-corners: 667,310 786,312 788,352 670,349

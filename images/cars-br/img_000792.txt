@@ -1,4 +1,0 @@
-type: car
-plate: OVK4786
-layout: Brazilian
-corners: 640,293 750,293 750,331 641,331

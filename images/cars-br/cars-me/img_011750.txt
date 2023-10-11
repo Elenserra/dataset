@@ -1,4 +1,0 @@
-type: car
-plate: PVV9J88
-layout: Mercosur
-corners: 536,315 655,313 659,353 537,355

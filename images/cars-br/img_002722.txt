@@ -1,4 +1,0 @@
-type: car
-plate: PAC2343
-layout: Brazilian
-corners: 633,329 760,330 763,374 636,372

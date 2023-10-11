@@ -1,4 +1,0 @@
-type: car
-plate: QRI4D18
-layout: Mercosur
-corners: 669,335 805,343 804,387 669,379

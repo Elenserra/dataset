@@ -1,4 +1,0 @@
-type: car
-plate: ODM5316
-layout: Brazilian
-corners: 806,335 937,332 941,378 808,378

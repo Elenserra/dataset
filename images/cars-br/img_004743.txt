@@ -1,4 +1,0 @@
-type: car
-plate: QUX7702
-layout: Brazilian
-corners: 868,278 988,275 991,320 869,319

@@ -1,4 +1,0 @@
-type: car
-plate: ODN8932
-layout: Brazilian
-corners: 580,366 699,367 701,407 583,405

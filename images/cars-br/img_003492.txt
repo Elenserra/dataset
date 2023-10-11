@@ -1,4 +1,0 @@
-type: car
-plate: PPF8599
-layout: Brazilian
-corners: 781,316 921,314 925,362 783,363

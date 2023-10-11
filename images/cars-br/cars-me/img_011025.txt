@@ -1,4 +1,0 @@
-type: car
-plate: DML7H99
-layout: Mercosur
-corners: 540,379 669,380 673,422 541,422

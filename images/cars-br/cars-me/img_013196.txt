@@ -1,4 +1,0 @@
-type: car
-plate: PPS9A41
-layout: Mercosur
-corners: 723,300 846,301 847,341 724,339

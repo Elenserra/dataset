@@ -1,4 +1,0 @@
-type: car
-plate: QRK8E84
-layout: Mercosur
-corners: 872,264 991,260 994,300 872,301

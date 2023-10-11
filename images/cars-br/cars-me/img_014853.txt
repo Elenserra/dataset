@@ -1,4 +1,0 @@
-type: car
-plate: PPM1D52
-layout: Mercosur
-corners: 642,345 779,353 779,399 642,391

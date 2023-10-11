@@ -1,4 +1,0 @@
-type: car
-plate: QRM2A66
-layout: Mercosur
-corners: 620,344 750,347 751,389 619,387

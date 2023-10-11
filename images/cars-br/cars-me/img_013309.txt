@@ -1,4 +1,0 @@
-type: car
-plate: QRF8C90
-layout: Mercosur
-corners: 672,296 794,299 793,338 674,335

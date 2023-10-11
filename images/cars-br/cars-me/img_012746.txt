@@ -1,4 +1,0 @@
-type: car
-plate: MSX8F94
-layout: Mercosur
-corners: 591,379 722,386 722,430 592,421

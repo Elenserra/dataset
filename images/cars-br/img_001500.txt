@@ -1,4 +1,0 @@
-type: car
-plate: PPX7377
-layout: Brazilian
-corners: 739,186 823,184 825,213 740,215

@@ -1,4 +1,0 @@
-type: car
-plate: PPE2H06
-layout: Mercosur
-corners: 796,262 923,258 927,300 797,302

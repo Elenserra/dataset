@@ -1,4 +1,0 @@
-type: car
-plate: MRX0E84
-layout: Mercosur
-corners: 608,362 729,361 730,398 610,400

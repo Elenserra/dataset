@@ -1,4 +1,0 @@
-type: car
-plate: PPI1B23
-layout: Mercosur
-corners: 606,315 732,317 735,360 605,359

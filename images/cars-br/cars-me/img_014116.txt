@@ -1,4 +1,0 @@
-type: car
-plate: OCW2J62
-layout: Mercosur
-corners: 783,326 917,325 920,367 786,368

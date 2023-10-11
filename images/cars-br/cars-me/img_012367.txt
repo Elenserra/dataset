@@ -1,4 +1,0 @@
-type: car
-plate: QRG7C80
-layout: Mercosur
-corners: 746,170 837,172 837,200 748,199

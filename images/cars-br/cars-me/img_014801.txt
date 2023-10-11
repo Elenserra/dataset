@@ -1,4 +1,0 @@
-type: car
-plate: MTV5B52
-layout: Mercosur
-corners: 653,350 791,359 790,405 652,397

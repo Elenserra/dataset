@@ -1,4 +1,0 @@
-type: car
-plate: MRP4490
-layout: Brazilian
-corners: 993,170 1092,166 1093,200 991,202

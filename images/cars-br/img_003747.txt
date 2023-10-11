@@ -1,4 +1,0 @@
-type: car
-plate: LTZ5301
-layout: Brazilian
-corners: 803,358 935,355 938,400 806,401

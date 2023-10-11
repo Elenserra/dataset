@@ -1,4 +1,0 @@
-type: car
-plate: GFL2A37
-layout: Mercosur
-corners: 455,439 586,443 586,485 458,482

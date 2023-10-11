@@ -1,4 +1,0 @@
-type: car
-plate: ODT6061
-layout: Brazilian
-corners: 408,497 553,499 555,551 409,548

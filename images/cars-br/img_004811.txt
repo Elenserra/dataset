@@ -1,4 +1,0 @@
-type: car
-plate: GOA0345
-layout: Brazilian
-corners: 947,208 1039,205 1042,239 949,241

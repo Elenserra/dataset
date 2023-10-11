@@ -1,4 +1,0 @@
-type: car
-plate: ODS9679
-layout: Brazilian
-corners: 922,138 1015,138 1016,169 923,170

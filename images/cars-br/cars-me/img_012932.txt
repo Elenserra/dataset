@@ -1,4 +1,0 @@
-type: car
-plate: MTU6F15
-layout: Mercosur
-corners: 705,229 809,230 809,264 706,263

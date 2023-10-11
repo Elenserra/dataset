@@ -1,4 +1,0 @@
-type: car
-plate: MTU0475
-layout: Brazilian
-corners: 539,369 667,368 670,411 542,412

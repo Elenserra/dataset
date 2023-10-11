@@ -1,4 +1,0 @@
-type: car
-plate: ODT1374
-layout: Brazilian
-corners: 704,324 825,327 825,367 707,364

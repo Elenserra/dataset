@@ -1,4 +1,0 @@
-type: car
-plate: MQS8030
-layout: Brazilian
-corners: 886,196 999,191 1002,225 888,228

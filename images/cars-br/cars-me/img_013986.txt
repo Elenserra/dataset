@@ -1,4 +1,0 @@
-type: car
-plate: PPR2B47
-layout: Mercosur
-corners: 748,307 883,303 888,349 749,352

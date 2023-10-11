@@ -1,4 +1,0 @@
-type: car
-plate: PVW6G27
-layout: Mercosur
-corners: 943,38 1014,38 1015,62 943,62

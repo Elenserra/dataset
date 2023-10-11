@@ -1,4 +1,0 @@
-type: car
-plate: MRM2232
-layout: Brazilian
-corners: 562,384 690,384 692,429 562,428

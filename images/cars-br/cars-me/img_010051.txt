@@ -1,4 +1,0 @@
-type: car
-plate: PPE4D39
-layout: Mercosur
-corners: 515,408 640,410 640,450 517,448

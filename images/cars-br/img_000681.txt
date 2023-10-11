@@ -1,4 +1,0 @@
-type: car
-plate: MTA2065
-layout: Brazilian
-corners: 621,315 734,316 734,354 622,352

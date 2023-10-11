@@ -1,4 +1,0 @@
-type: car
-plate: MSK5187
-layout: Brazilian
-corners: 488,404 614,407 614,454 488,451

@@ -1,4 +1,0 @@
-type: car
-plate: QNM0G32
-layout: Mercosur
-corners: 593,324 710,325 711,365 595,365

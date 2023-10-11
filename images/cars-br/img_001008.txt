@@ -1,4 +1,0 @@
-type: car
-plate: LLG4173
-layout: Brazilian
-corners: 573,385 698,385 700,427 575,427

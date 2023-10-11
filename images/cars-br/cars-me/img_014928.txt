@@ -1,4 +1,0 @@
-type: car
-plate: QRJ4I73
-layout: Mercosur
-corners: 630,381 767,389 766,434 630,425

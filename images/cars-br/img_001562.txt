@@ -1,4 +1,0 @@
-type: car
-plate: ODP3066
-layout: Brazilian
-corners: 696,135 783,134 783,166 695,167

@@ -1,4 +1,0 @@
-type: car
-plate: ODG6312
-layout: Brazilian
-corners: 486,364 613,362 612,404 486,404

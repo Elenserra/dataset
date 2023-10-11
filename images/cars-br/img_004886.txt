@@ -1,4 +1,0 @@
-type: car
-plate: PPB2722
-layout: Brazilian
-corners: 1072,22 1140,18 1141,43 1073,46

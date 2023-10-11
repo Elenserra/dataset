@@ -1,4 +1,0 @@
-type: car
-plate: HLY9G96
-layout: Mercosur
-corners: 703,252 843,260 841,306 703,298

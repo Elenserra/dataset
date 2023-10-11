@@ -1,4 +1,0 @@
-type: car
-plate: ODM0982
-layout: Brazilian
-corners: 494,371 614,371 615,414 497,413

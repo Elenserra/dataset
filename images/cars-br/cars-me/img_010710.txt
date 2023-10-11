@@ -1,4 +1,0 @@
-type: car
-plate: MSV8C56
-layout: Mercosur
-corners: 554,403 681,408 681,448 554,443

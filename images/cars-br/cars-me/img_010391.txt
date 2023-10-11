@@ -1,4 +1,0 @@
-type: car
-plate: OVL9H03
-layout: Mercosur
-corners: 554,366 681,369 681,410 555,408

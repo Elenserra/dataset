@@ -1,4 +1,0 @@
-type: car
-plate: PXL8620
-layout: Brazilian
-corners: 687,313 813,316 814,359 689,354

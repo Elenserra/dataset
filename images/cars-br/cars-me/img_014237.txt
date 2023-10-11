@@ -1,4 +1,0 @@
-type: car
-plate: KNP3I37
-layout: Mercosur
-corners: 772,350 907,346 913,388 776,392

@@ -1,4 +1,0 @@
-type: car
-plate: MQL0019
-layout: Brazilian
-corners: 560,385 680,388 682,425 562,422

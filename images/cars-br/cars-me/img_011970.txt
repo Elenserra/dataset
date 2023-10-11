@@ -1,4 +1,0 @@
-type: car
-plate: QRB0J72
-layout: Mercosur
-corners: 590,349 716,348 719,391 592,392

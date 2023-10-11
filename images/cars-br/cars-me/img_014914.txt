@@ -1,4 +1,0 @@
-type: car
-plate: QRI4A35
-layout: Mercosur
-corners: 637,307 766,315 766,357 636,349

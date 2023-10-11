@@ -1,4 +1,0 @@
-type: car
-plate: PPV3597
-layout: Brazilian
-corners: 733,352 860,346 865,389 737,394

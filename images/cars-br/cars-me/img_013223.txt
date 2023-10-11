@@ -1,4 +1,0 @@
-type: car
-plate: PLS9B64
-layout: Mercosur
-corners: 670,286 797,288 797,330 672,327

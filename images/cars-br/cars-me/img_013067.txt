@@ -1,4 +1,0 @@
-type: car
-plate: KNV5F23
-layout: Mercosur
-corners: 625,348 753,353 752,397 625,392

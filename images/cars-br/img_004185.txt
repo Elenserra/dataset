@@ -1,4 +1,0 @@
-type: car
-plate: MPJ9282
-layout: Brazilian
-corners: 854,239 978,235 980,277 856,283

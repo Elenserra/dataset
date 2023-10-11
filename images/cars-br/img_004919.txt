@@ -1,4 +1,0 @@
-type: car
-plate: OVL8438
-layout: Brazilian
-corners: 757,368 888,365 890,410 757,413

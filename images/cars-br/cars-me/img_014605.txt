@@ -1,4 +1,0 @@
-type: car
-plate: QRK5J85
-layout: Mercosur
-corners: 836,351 968,348 971,391 836,393

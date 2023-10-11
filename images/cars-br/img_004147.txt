@@ -1,4 +1,0 @@
-type: car
-plate: KVS9534
-layout: Brazilian
-corners: 757,323 894,323 897,372 758,372

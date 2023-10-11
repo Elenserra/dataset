@@ -1,4 +1,0 @@
-type: car
-plate: ODA2C25
-layout: Mercosur
-corners: 718,295 837,298 837,336 718,334

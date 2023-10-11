@@ -1,4 +1,0 @@
-type: car
-plate: PPW4039
-layout: Brazilian
-corners: 819,111 916,111 916,144 820,143

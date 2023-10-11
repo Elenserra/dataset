@@ -1,4 +1,0 @@
-type: car
-plate: PPN2136
-layout: Brazilian
-corners: 731,220 827,218 826,253 730,253

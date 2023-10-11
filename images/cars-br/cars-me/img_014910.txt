@@ -1,4 +1,0 @@
-type: car
-plate: QRI8F81
-layout: Mercosur
-corners: 685,351 818,360 817,401 685,394

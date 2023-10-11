@@ -1,4 +1,0 @@
-type: car
-plate: OSS4409
-layout: Brazilian
-corners: 796,373 932,370 937,417 798,418

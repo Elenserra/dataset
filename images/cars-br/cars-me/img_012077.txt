@@ -1,4 +1,0 @@
-type: car
-plate: RBA0H19
-layout: Mercosur
-corners: 670,133 747,132 747,158 670,159

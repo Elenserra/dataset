@@ -1,4 +1,0 @@
-type: car
-plate: MSQ0H81
-layout: Mercosur
-corners: 640,249 750,249 752,286 641,286

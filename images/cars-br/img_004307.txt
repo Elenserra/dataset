@@ -1,4 +1,0 @@
-type: car
-plate: APO0947
-layout: Brazilian
-corners: 865,258 983,255 986,296 866,298

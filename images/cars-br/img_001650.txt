@@ -1,4 +1,0 @@
-type: car
-plate: MSQ2701
-layout: Brazilian
-corners: 490,456 621,460 621,505 490,502

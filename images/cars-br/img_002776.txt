@@ -1,4 +1,0 @@
-type: car
-plate: OYH2625
-layout: Brazilian
-corners: 911,74 987,74 988,99 912,99

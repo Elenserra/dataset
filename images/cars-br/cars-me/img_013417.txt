@@ -1,4 +1,0 @@
-type: car
-plate: MSZ5I42
-layout: Mercosur
-corners: 636,305 760,308 760,349 639,346

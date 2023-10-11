@@ -1,4 +1,0 @@
-type: car
-plate: PPE1F45
-layout: Mercosur
-corners: 500,401 631,403 631,447 500,445

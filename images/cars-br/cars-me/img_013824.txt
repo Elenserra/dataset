@@ -1,4 +1,0 @@
-type: car
-plate: MSA0E71
-layout: Mercosur
-corners: 867,423 981,425 981,463 867,459

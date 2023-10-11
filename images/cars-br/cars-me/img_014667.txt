@@ -1,4 +1,0 @@
-type: car
-plate: PPD8E35
-layout: Mercosur
-corners: 773,333 904,331 907,376 773,376

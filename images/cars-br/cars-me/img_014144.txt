@@ -1,4 +1,0 @@
-type: car
-plate: ODC2A38
-layout: Mercosur
-corners: 919,247 1035,242 1038,282 920,286

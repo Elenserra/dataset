@@ -1,4 +1,0 @@
-type: car
-plate: QRB1690
-layout: Brazilian
-corners: 601,369 725,369 726,412 601,412

@@ -1,4 +1,0 @@
-type: car
-plate: PPW0D95
-layout: Mercosur
-corners: 621,341 747,344 747,385 623,381

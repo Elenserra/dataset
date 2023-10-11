@@ -1,4 +1,0 @@
-type: car
-plate: QNR1F10
-layout: Mercosur
-corners: 495,348 619,346 621,391 499,390

@@ -1,4 +1,0 @@
-type: car
-plate: MQC3875
-layout: Brazilian
-corners: 669,329 793,330 793,372 669,369

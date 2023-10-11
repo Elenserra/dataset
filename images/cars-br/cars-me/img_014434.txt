@@ -1,4 +1,0 @@
-type: car
-plate: JSY1I75
-layout: Mercosur
-corners: 757,354 892,352 894,397 757,399

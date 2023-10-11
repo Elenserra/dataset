@@ -1,4 +1,0 @@
-type: car
-plate: OZO8J51
-layout: Mercosur
-corners: 598,421 726,419 728,458 599,461

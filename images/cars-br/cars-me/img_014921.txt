@@ -1,4 +1,0 @@
-type: car
-plate: KOO7E00
-layout: Mercosur
-corners: 623,357 763,367 761,414 622,404

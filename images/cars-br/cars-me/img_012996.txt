@@ -1,4 +1,0 @@
-type: car
-plate: PPG9J05
-layout: Mercosur
-corners: 607,332 731,336 731,376 606,373

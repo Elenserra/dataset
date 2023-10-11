@@ -1,4 +1,0 @@
-type: car
-plate: QNH6J59
-layout: Mercosur
-corners: 723,332 858,340 856,384 723,376

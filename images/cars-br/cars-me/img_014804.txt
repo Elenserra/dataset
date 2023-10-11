@@ -1,4 +1,0 @@
-type: car
-plate: MRQ3C59
-layout: Mercosur
-corners: 659,313 792,322 790,368 657,358

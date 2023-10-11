@@ -1,4 +1,0 @@
-type: car
-plate: OVK9741
-layout: Brazilian
-corners: 517,335 646,335 647,377 518,377

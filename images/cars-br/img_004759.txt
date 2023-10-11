@@ -1,4 +1,0 @@
-type: car
-plate: OVL8652
-layout: Brazilian
-corners: 791,256 925,254 928,299 793,301

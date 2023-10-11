@@ -1,4 +1,0 @@
-type: car
-plate: MPH5H90
-layout: Mercosur
-corners: 667,225 762,226 762,255 668,255

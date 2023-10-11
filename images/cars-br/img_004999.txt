@@ -1,4 +1,0 @@
-type: car
-plate: PPR8152
-layout: Brazilian
-corners: 716,322 848,329 846,374 714,365

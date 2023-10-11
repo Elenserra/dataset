@@ -1,4 +1,0 @@
-type: car
-plate: OVK3H81
-layout: Mercosur
-corners: 531,368 654,370 653,410 532,407

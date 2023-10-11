@@ -1,4 +1,0 @@
-type: car
-plate: MTY2G82
-layout: Mercosur
-corners: 782,296 920,290 925,335 785,339

@@ -1,4 +1,0 @@
-type: car
-plate: MTT0954
-layout: Brazilian
-corners: 711,204 799,203 800,233 712,234

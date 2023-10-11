@@ -1,4 +1,0 @@
-type: car
-plate: OGM0E88
-layout: Mercosur
-corners: 644,259 745,258 745,293 644,293

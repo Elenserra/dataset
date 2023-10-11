@@ -1,4 +1,0 @@
-type: car
-plate: KXD9I42
-layout: Mercosur
-corners: 713,301 841,308 840,351 713,344

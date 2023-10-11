@@ -1,4 +1,0 @@
-type: car
-plate: QRD2970
-layout: Brazilian
-corners: 634,196 728,196 728,230 634,230

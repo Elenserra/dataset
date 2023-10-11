@@ -1,4 +1,0 @@
-type: car
-plate: MQN9353
-layout: Brazilian
-corners: 815,356 947,351 951,394 815,397

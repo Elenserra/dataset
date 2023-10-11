@@ -1,4 +1,0 @@
-type: car
-plate: HOE1200
-layout: Brazilian
-corners: 513,351 643,351 646,392 517,393

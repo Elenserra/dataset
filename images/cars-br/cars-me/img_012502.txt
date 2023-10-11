@@ -1,4 +1,0 @@
-type: car
-plate: PPL1I54
-layout: Mercosur
-corners: 820,335 958,332 961,379 821,381

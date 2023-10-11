@@ -1,4 +1,0 @@
-type: car
-plate: JQO8324
-layout: Brazilian
-corners: 778,207 893,205 896,246 778,247

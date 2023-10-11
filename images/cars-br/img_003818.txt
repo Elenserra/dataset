@@ -1,4 +1,0 @@
-type: car
-plate: OYD9607
-layout: Brazilian
-corners: 839,298 955,298 959,335 840,337

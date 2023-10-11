@@ -1,4 +1,0 @@
-type: car
-plate: ODL3330
-layout: Brazilian
-corners: 757,340 887,340 890,387 758,386

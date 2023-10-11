@@ -1,4 +1,0 @@
-type: car
-plate: PWK4214
-layout: Brazilian
-corners: 666,330 787,333 790,377 667,373

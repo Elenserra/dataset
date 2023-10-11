@@ -1,4 +1,0 @@
-type: car
-plate: OCX2H04
-layout: Mercosur
-corners: 681,349 819,359 818,404 680,395

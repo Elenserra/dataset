@@ -1,4 +1,0 @@
-type: car
-plate: MSL3447
-layout: Brazilian
-corners: 822,422 965,419 969,467 825,467

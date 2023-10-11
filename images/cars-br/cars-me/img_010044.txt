@@ -1,4 +1,0 @@
-type: car
-plate: ODR3B12
-layout: Mercosur
-corners: 506,349 620,351 621,388 508,386

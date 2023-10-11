@@ -1,4 +1,0 @@
-type: car
-plate: QNS5281
-layout: Brazilian
-corners: 792,333 926,332 928,378 794,379

@@ -1,4 +1,0 @@
-type: car
-plate: HEO0696
-layout: Brazilian
-corners: 779,335 916,332 919,378 781,383

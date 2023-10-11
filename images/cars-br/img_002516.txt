@@ -1,4 +1,0 @@
-type: car
-plate: JPP5875
-layout: Brazilian
-corners: 556,415 675,421 677,463 558,458

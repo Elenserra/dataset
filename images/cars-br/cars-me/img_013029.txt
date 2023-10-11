@@ -1,4 +1,0 @@
-type: car
-plate: PPE8F16
-layout: Mercosur
-corners: 662,295 783,296 784,335 665,334

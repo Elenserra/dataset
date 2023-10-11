@@ -1,4 +1,0 @@
-type: car
-plate: PPH2864
-layout: Brazilian
-corners: 760,200 848,200 848,230 759,231

@@ -1,4 +1,0 @@
-type: car
-plate: MKZ8D56
-layout: Mercosur
-corners: 839,306 967,301 969,346 841,349

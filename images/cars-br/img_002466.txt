@@ -1,4 +1,0 @@
-type: car
-plate: ODM3563
-layout: Brazilian
-corners: 825,366 964,362 965,407 827,410

@@ -1,4 +1,0 @@
-type: car
-plate: CVV8I65
-layout: Mercosur
-corners: 788,359 922,356 927,402 791,403

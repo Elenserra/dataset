@@ -1,4 +1,0 @@
-type: car
-plate: PPX5303
-layout: Brazilian
-corners: 632,331 744,330 745,368 632,368

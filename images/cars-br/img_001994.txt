@@ -1,4 +1,0 @@
-type: car
-plate: PPD8040
-layout: Brazilian
-corners: 799,330 933,327 934,373 799,375

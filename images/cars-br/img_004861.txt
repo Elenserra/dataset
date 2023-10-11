@@ -1,4 +1,0 @@
-type: car
-plate: OVP5329
-layout: Brazilian
-corners: 891,226 1004,224 1005,261 892,264

@@ -1,4 +1,0 @@
-type: car
-plate: ODH9507
-layout: Brazilian
-corners: 784,324 924,319 927,367 786,370

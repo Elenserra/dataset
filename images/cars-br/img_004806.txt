@@ -1,4 +1,0 @@
-type: car
-plate: ODJ2443
-layout: Brazilian
-corners: 902,180 1007,177 1010,213 903,215

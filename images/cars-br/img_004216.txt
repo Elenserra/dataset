@@ -1,4 +1,0 @@
-type: car
-plate: OVF0286
-layout: Brazilian
-corners: 856,330 992,325 995,370 857,374

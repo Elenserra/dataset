@@ -1,4 +1,0 @@
-type: car
-plate: MRV4181
-layout: Brazilian
-corners: 572,370 696,369 697,407 574,408

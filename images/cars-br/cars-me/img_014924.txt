@@ -1,4 +1,0 @@
-type: car
-plate: ODC8H89
-layout: Mercosur
-corners: 685,346 825,353 825,395 686,388

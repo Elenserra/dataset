@@ -1,4 +1,0 @@
-type: car
-plate: ODK8558
-layout: Brazilian
-corners: 1046,117 1128,115 1129,143 1047,146

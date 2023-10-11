@@ -1,4 +1,0 @@
-type: car
-plate: ODM6J95
-layout: Mercosur
-corners: 703,223 794,224 796,256 703,253

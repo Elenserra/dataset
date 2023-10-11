@@ -1,4 +1,0 @@
-type: car
-plate: PPD4F29
-layout: Mercosur
-corners: 575,402 700,402 703,441 577,440

@@ -1,4 +1,0 @@
-type: car
-plate: LSM3B09
-layout: Mercosur
-corners: 736,333 874,334 875,378 738,377

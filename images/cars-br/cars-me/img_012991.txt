@@ -1,4 +1,0 @@
-type: car
-plate: MTT9C23
-layout: Mercosur
-corners: 728,266 841,268 843,303 731,302

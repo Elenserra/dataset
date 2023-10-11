@@ -1,4 +1,0 @@
-type: car
-plate: LUH5275
-layout: Brazilian
-corners: 504,448 628,449 632,490 508,489

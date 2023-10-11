@@ -1,4 +1,0 @@
-type: car
-plate: JPY2048
-layout: Brazilian
-corners: 776,351 909,351 912,396 775,397

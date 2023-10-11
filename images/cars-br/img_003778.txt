@@ -1,4 +1,0 @@
-type: car
-plate: LQH9876
-layout: Brazilian
-corners: 785,370 923,368 930,413 792,415

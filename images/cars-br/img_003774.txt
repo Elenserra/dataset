@@ -1,4 +1,0 @@
-type: car
-plate: LOT7559
-layout: Brazilian
-corners: 802,355 937,354 941,398 804,400

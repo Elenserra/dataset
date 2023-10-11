@@ -1,4 +1,0 @@
-type: car
-plate: QQH1738
-layout: Brazilian
-corners: 738,210 831,209 832,241 738,241

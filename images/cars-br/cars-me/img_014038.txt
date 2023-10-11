@@ -1,4 +1,0 @@
-type: car
-plate: PPK7A29
-layout: Mercosur
-corners: 789,338 926,335 928,383 790,383

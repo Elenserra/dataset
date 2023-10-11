@@ -1,4 +1,0 @@
-type: car
-plate: MPK7245
-layout: Brazilian
-corners: 524,421 647,423 647,465 523,463

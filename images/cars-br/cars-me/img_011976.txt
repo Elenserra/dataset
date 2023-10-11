@@ -1,4 +1,0 @@
-type: car
-plate: QRJ9I70
-layout: Mercosur
-corners: 516,322 633,320 637,359 518,360

@@ -1,4 +1,0 @@
-type: car
-plate: MTS5282
-layout: Brazilian
-corners: 875,274 992,271 990,312 875,312

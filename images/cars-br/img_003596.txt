@@ -1,4 +1,0 @@
-type: car
-plate: MQM0465
-layout: Brazilian
-corners: 816,397 948,397 951,440 816,440

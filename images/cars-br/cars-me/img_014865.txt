@@ -1,4 +1,0 @@
-type: car
-plate: OYE1C51
-layout: Mercosur
-corners: 607,279 745,288 747,331 610,322

@@ -1,4 +1,0 @@
-type: car
-plate: EZR1163
-layout: Brazilian
-corners: 629,337 740,337 741,376 630,376

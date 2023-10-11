@@ -1,4 +1,0 @@
-type: car
-plate: OCX3331
-layout: Brazilian
-corners: 751,322 883,320 885,367 751,368

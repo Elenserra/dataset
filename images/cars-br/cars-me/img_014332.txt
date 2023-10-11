@@ -1,4 +1,0 @@
-type: car
-plate: ETB9E19
-layout: Mercosur
-corners: 836,342 968,339 971,385 837,386

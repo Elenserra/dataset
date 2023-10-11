@@ -1,4 +1,0 @@
-type: car
-plate: OZS1B17
-layout: Mercosur
-corners: 509,401 639,403 644,445 510,444

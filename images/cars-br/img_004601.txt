@@ -1,4 +1,0 @@
-type: car
-plate: QUW9326
-layout: Brazilian
-corners: 766,353 903,350 906,399 769,399

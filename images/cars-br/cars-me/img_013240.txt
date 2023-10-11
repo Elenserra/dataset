@@ -1,4 +1,0 @@
-type: car
-plate: OZO6I98
-layout: Mercosur
-corners: 693,329 819,331 819,373 693,370

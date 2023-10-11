@@ -1,4 +1,0 @@
-type: car
-plate: OYF4H50
-layout: Mercosur
-corners: 804,341 938,338 941,383 805,386

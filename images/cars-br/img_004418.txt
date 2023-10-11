@@ -1,4 +1,0 @@
-type: car
-plate: QJJ5784
-layout: Brazilian
-corners: 747,232 866,230 868,271 749,273

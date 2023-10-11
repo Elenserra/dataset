@@ -1,4 +1,0 @@
-type: car
-plate: ODL6965
-layout: Brazilian
-corners: 666,283 772,285 773,323 666,322

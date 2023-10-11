@@ -1,4 +1,0 @@
-type: car
-plate: OCY7G84
-layout: Mercosur
-corners: 579,403 708,405 707,444 580,442

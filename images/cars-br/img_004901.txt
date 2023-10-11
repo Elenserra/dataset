@@ -1,4 +1,0 @@
-type: car
-plate: DLR1298
-layout: Brazilian
-corners: 961,163 1054,161 1056,195 960,196

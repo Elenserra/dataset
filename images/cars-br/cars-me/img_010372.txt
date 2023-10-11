@@ -1,4 +1,0 @@
-type: car
-plate: QRG4E18
-layout: Mercosur
-corners: 661,210 757,209 758,242 662,242

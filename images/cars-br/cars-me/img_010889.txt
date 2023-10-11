@@ -1,4 +1,0 @@
-type: car
-plate: OYE5E46
-layout: Mercosur
-corners: 596,333 706,333 706,368 597,368

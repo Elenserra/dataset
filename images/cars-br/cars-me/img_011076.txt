@@ -1,4 +1,0 @@
-type: car
-plate: ODB0E03
-layout: Mercosur
-corners: 749,366 887,365 888,410 751,411

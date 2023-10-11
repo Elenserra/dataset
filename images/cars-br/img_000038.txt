@@ -1,4 +1,0 @@
-type: car
-plate: QOU5289
-layout: Brazilian
-corners: 610,325 720,324 722,360 610,361

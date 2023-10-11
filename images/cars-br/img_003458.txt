@@ -1,4 +1,0 @@
-type: car
-plate: MTW1030
-layout: Brazilian
-corners: 816,288 950,285 954,330 817,333

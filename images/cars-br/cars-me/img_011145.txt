@@ -1,4 +1,0 @@
-type: car
-plate: ODA2H02
-layout: Mercosur
-corners: 566,375 688,378 689,418 567,416

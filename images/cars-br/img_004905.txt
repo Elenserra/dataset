@@ -1,4 +1,0 @@
-type: car
-plate: PPQ2283
-layout: Brazilian
-corners: 826,324 951,323 954,366 827,368

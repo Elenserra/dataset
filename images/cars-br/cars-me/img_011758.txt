@@ -1,4 +1,0 @@
-type: car
-plate: OSS1A68
-layout: Mercosur
-corners: 337,445 492,449 496,501 338,496

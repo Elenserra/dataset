@@ -1,4 +1,0 @@
-type: car
-plate: OYH9062
-layout: Brazilian
-corners: 690,181 775,181 776,211 691,211

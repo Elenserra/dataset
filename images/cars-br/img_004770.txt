@@ -1,4 +1,0 @@
-type: car
-plate: LVD5420
-layout: Brazilian
-corners: 847,303 974,301 976,344 848,345

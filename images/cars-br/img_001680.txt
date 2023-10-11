@@ -1,4 +1,0 @@
-type: car
-plate: MTZ9247
-layout: Brazilian
-corners: 515,394 643,397 643,440 515,437

@@ -1,4 +1,0 @@
-type: car
-plate: MTW9C99
-layout: Mercosur
-corners: 795,342 923,342 926,384 797,383

@@ -1,4 +1,0 @@
-type: car
-plate: PXY4B54
-layout: Mercosur
-corners: 939,28 1006,28 1006,49 940,49

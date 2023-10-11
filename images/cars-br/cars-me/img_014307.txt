@@ -1,4 +1,0 @@
-type: car
-plate: QRI1F75
-layout: Mercosur
-corners: 800,326 932,324 935,367 802,369

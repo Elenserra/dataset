@@ -1,4 +1,0 @@
-type: car
-plate: ODC0C15
-layout: Mercosur
-corners: 773,388 901,385 906,426 776,427

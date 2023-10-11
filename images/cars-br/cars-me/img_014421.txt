@@ -1,4 +1,0 @@
-type: car
-plate: OVJ3G42
-layout: Mercosur
-corners: 811,302 940,300 942,343 811,344

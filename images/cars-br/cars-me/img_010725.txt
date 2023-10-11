@@ -1,4 +1,0 @@
-type: car
-plate: MQS5F80
-layout: Mercosur
-corners: 572,359 693,359 694,397 574,398

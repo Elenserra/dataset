@@ -1,4 +1,0 @@
-type: car
-plate: ODT2061
-layout: Brazilian
-corners: 871,267 990,265 991,306 873,306

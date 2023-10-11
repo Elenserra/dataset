@@ -1,4 +1,0 @@
-type: car
-plate: ODK8117
-layout: Brazilian
-corners: 713,217 809,215 809,248 714,249

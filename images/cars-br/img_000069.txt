@@ -1,4 +1,0 @@
-type: car
-plate: KPQ3389
-layout: Brazilian
-corners: 440,462 577,464 579,510 440,507

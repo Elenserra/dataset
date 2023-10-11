@@ -1,4 +1,0 @@
-type: car
-plate: PPE1G89
-layout: Mercosur
-corners: 609,302 721,302 723,341 610,340

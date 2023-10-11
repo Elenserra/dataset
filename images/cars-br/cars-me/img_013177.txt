@@ -1,4 +1,0 @@
-type: car
-plate: OVI8E28
-layout: Mercosur
-corners: 647,322 772,325 773,367 648,364

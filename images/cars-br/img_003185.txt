@@ -1,4 +1,0 @@
-type: car
-plate: HMH1518
-layout: Brazilian
-corners: 601,376 730,380 734,421 603,417

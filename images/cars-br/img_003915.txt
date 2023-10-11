@@ -1,4 +1,0 @@
-type: car
-plate: ODJ8751
-layout: Brazilian
-corners: 867,273 987,271 989,313 867,313

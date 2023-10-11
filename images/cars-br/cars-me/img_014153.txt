@@ -1,4 +1,0 @@
-type: car
-plate: KWQ3J67
-layout: Mercosur
-corners: 833,272 961,269 963,312 833,315

@@ -1,4 +1,0 @@
-type: car
-plate: PPO4739
-layout: Brazilian
-corners: 502,448 629,448 631,490 504,489

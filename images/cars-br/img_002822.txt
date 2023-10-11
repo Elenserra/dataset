@@ -1,4 +1,0 @@
-type: car
-plate: PPW0076
-layout: Brazilian
-corners: 698,223 803,224 804,260 700,257

@@ -1,4 +1,0 @@
-type: car
-plate: MTD5777
-layout: Brazilian
-corners: 807,379 936,379 938,422 807,423

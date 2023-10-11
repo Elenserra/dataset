@@ -1,4 +1,0 @@
-type: car
-plate: OYJ3924
-layout: Brazilian
-corners: 441,360 573,360 573,403 442,402

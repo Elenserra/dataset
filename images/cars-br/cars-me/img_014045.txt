@@ -1,4 +1,0 @@
-type: car
-plate: ODF1I72
-layout: Mercosur
-corners: 836,325 973,323 975,369 837,372

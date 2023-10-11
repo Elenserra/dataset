@@ -1,4 +1,0 @@
-type: car
-plate: ODH5076
-layout: Brazilian
-corners: 772,71 854,70 856,97 772,99

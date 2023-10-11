@@ -1,4 +1,0 @@
-type: car
-plate: HJF0G23
-layout: Mercosur
-corners: 793,350 928,348 931,394 795,393

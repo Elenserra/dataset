@@ -1,4 +1,0 @@
-type: car
-plate: QRG4C51
-layout: Mercosur
-corners: 476,371 603,373 603,413 478,412

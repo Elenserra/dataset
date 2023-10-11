@@ -1,4 +1,0 @@
-type: car
-plate: QQR1393
-layout: Brazilian
-corners: 870,117 953,117 954,145 871,146

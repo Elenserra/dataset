@@ -1,4 +1,0 @@
-type: car
-plate: KFR4F88
-layout: Mercosur
-corners: 718,189 828,189 828,224 719,224

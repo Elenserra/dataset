@@ -1,4 +1,0 @@
-type: car
-plate: PPX8J70
-layout: Mercosur
-corners: 628,279 739,280 741,318 628,316

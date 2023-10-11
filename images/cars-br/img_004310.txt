@@ -1,4 +1,0 @@
-type: car
-plate: QOW7372
-layout: Brazilian
-corners: 888,309 1014,305 1016,349 888,351

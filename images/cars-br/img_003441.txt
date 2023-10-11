@@ -1,4 +1,0 @@
-type: car
-plate: JPY8429
-layout: Brazilian
-corners: 629,320 755,323 754,366 628,364

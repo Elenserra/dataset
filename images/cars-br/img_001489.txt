@@ -1,4 +1,0 @@
-type: car
-plate: ODL0222
-layout: Brazilian
-corners: 599,347 720,347 721,390 600,390

@@ -1,4 +1,0 @@
-type: car
-plate: PVU8J12
-layout: Mercosur
-corners: 564,393 688,395 689,435 565,432

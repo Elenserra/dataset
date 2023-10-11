@@ -1,4 +1,0 @@
-type: car
-plate: KZM8F22
-layout: Mercosur
-corners: 700,307 829,307 829,346 702,346

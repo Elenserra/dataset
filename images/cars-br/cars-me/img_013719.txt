@@ -1,4 +1,0 @@
-type: car
-plate: QRI3B56
-layout: Mercosur
-corners: 808,90 892,90 893,119 809,118

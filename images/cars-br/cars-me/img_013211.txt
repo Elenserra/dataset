@@ -1,4 +1,0 @@
-type: car
-plate: KVA2F48
-layout: Mercosur
-corners: 671,317 801,318 801,363 673,361

@@ -1,4 +1,0 @@
-type: car
-plate: PUF3091
-layout: Brazilian
-corners: 634,303 744,302 746,338 635,339

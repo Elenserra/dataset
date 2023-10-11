@@ -1,4 +1,0 @@
-type: car
-plate: PUV5E07
-layout: Mercosur
-corners: 653,356 784,357 784,398 656,397

@@ -1,4 +1,0 @@
-type: car
-plate: QPR0810
-layout: Brazilian
-corners: 553,376 679,377 680,418 553,418

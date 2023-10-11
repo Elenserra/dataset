@@ -1,4 +1,0 @@
-type: car
-plate: ERM3130
-layout: Brazilian
-corners: 788,348 923,345 928,395 792,396

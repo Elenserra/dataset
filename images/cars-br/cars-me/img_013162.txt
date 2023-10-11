@@ -1,4 +1,0 @@
-type: car
-plate: PPL0D84
-layout: Mercosur
-corners: 632,340 764,345 764,388 634,382

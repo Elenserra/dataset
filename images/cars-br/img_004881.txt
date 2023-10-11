@@ -1,4 +1,0 @@
-type: car
-plate: OCW4185
-layout: Brazilian
-corners: 722,263 845,260 848,303 725,309

@@ -1,4 +1,0 @@
-type: car
-plate: MRV1354
-layout: Brazilian
-corners: 745,261 862,258 865,295 749,297

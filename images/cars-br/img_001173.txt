@@ -1,4 +1,0 @@
-type: car
-plate: QQW6643
-layout: Brazilian
-corners: 575,387 700,386 701,430 577,430

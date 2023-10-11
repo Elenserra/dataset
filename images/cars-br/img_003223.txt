@@ -1,4 +1,0 @@
-type: car
-plate: OYJ6856
-layout: Brazilian
-corners: 450,383 582,388 583,437 451,430

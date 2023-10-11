@@ -1,4 +1,0 @@
-type: car
-plate: QRD1911
-layout: Brazilian
-corners: 360,524 504,525 507,576 363,574

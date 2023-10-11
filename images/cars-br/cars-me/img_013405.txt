@@ -1,4 +1,0 @@
-type: car
-plate: PPT5C80
-layout: Mercosur
-corners: 694,279 804,282 803,318 695,315

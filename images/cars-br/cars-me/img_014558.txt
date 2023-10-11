@@ -1,4 +1,0 @@
-type: car
-plate: MSU6A44
-layout: Mercosur
-corners: 786,395 917,394 920,437 787,437

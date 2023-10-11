@@ -1,4 +1,0 @@
-type: car
-plate: LQC6B56
-layout: Mercosur
-corners: 535,390 662,391 663,432 536,432

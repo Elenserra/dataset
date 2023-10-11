@@ -1,4 +1,0 @@
-type: car
-plate: MSZ8797
-layout: Brazilian
-corners: 686,185 779,183 779,215 688,216

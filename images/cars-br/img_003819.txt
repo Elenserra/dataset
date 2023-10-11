@@ -1,4 +1,0 @@
-type: car
-plate: PPE0143
-layout: Brazilian
-corners: 785,328 913,323 918,367 787,372

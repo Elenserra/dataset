@@ -1,4 +1,0 @@
-type: car
-plate: QRI1A35
-layout: Mercosur
-corners: 942,50 1013,51 1014,75 942,74

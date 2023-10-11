@@ -1,4 +1,0 @@
-type: car
-plate: ODC0569
-layout: Brazilian
-corners: 596,352 713,353 713,392 596,391

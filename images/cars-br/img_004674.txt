@@ -1,4 +1,0 @@
-type: car
-plate: LTL4663
-layout: Brazilian
-corners: 848,272 972,268 975,312 850,315

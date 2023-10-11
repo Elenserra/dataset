@@ -1,4 +1,0 @@
-type: car
-plate: MSP2542
-layout: Brazilian
-corners: 392,313 500,313 502,343 396,344

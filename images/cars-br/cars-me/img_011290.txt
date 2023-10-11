@@ -1,4 +1,0 @@
-type: car
-plate: ODE4C93
-layout: Mercosur
-corners: 600,302 710,303 711,341 602,340

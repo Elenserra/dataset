@@ -1,4 +1,0 @@
-type: car
-plate: MTV9H40
-layout: Mercosur
-corners: 551,357 674,357 675,398 553,398

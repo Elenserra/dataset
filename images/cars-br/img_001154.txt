@@ -1,4 +1,0 @@
-type: car
-plate: PPV2253
-layout: Brazilian
-corners: 574,354 691,354 693,393 575,393

@@ -1,4 +1,0 @@
-type: car
-plate: OVF0B89
-layout: Mercosur
-corners: 528,381 660,379 662,422 530,422

@@ -1,4 +1,0 @@
-type: car
-plate: FLM6393
-layout: Brazilian
-corners: 569,371 691,373 692,414 570,413

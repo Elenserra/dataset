@@ -1,4 +1,0 @@
-type: car
-plate: ODL3304
-layout: Brazilian
-corners: 568,419 699,418 700,461 570,461

@@ -1,4 +1,0 @@
-type: car
-plate: MSN0G41
-layout: Mercosur
-corners: 621,319 728,320 729,356 621,353

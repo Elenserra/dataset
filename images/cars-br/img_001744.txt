@@ -1,4 +1,0 @@
-type: car
-plate: OVK5846
-layout: Brazilian
-corners: 494,410 619,412 620,453 495,451

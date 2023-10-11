@@ -1,4 +1,0 @@
-type: car
-plate: OYD9I67
-layout: Mercosur
-corners: 544,325 670,324 672,366 544,366

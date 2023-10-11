@@ -1,4 +1,0 @@
-type: car
-plate: HIB0H51
-layout: Mercosur
-corners: 592,416 723,415 724,456 595,457

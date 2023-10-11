@@ -1,4 +1,0 @@
-type: car
-plate: HMB3B00
-layout: Mercosur
-corners: 557,324 686,325 687,369 558,367

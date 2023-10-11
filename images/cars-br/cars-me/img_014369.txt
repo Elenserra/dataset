@@ -1,4 +1,0 @@
-type: car
-plate: OBE2E02
-layout: Mercosur
-corners: 956,123 1035,121 1036,148 955,151

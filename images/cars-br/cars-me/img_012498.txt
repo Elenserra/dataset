@@ -1,4 +1,0 @@
-type: car
-plate: FAG3B35
-layout: Mercosur
-corners: 309,474 445,480 448,527 313,520

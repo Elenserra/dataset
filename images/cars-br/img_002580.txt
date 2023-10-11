@@ -1,4 +1,0 @@
-type: car
-plate: MTS0261
-layout: Brazilian
-corners: 725,312 845,313 848,353 726,353

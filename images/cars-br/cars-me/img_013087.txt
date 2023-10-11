@@ -1,4 +1,0 @@
-type: car
-plate: PPJ2H07
-layout: Mercosur
-corners: 671,331 796,333 795,373 672,370

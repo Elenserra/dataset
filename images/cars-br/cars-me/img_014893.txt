@@ -1,4 +1,0 @@
-type: car
-plate: MSQ7A87
-layout: Mercosur
-corners: 660,337 797,346 795,392 659,384

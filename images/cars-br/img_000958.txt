@@ -1,4 +1,0 @@
-type: car
-plate: HDT7386
-layout: Brazilian
-corners: 600,387 728,384 729,429 602,432

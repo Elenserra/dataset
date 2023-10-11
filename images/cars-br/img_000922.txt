@@ -1,4 +1,0 @@
-type: car
-plate: OVK1955
-layout: Brazilian
-corners: 546,397 672,397 673,440 546,440

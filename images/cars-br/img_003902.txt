@@ -1,4 +1,0 @@
-type: car
-plate: OZN3816
-layout: Brazilian
-corners: 701,251 818,248 824,285 707,287

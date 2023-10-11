@@ -1,4 +1,0 @@
-type: car
-plate: PPI7I86
-layout: Mercosur
-corners: 946,84 1019,85 1019,108 947,107

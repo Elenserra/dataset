@@ -1,4 +1,0 @@
-type: car
-plate: PPP4319
-layout: Brazilian
-corners: 540,343 671,343 672,377 540,377

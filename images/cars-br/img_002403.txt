@@ -1,4 +1,0 @@
-type: car
-plate: QND1485
-layout: Brazilian
-corners: 521,253 635,252 638,291 524,292

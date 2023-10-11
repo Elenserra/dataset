@@ -1,4 +1,0 @@
-type: car
-plate: QRK4J68
-layout: Mercosur
-corners: 658,229 758,228 759,262 659,261

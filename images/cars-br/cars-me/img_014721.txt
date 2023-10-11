@@ -1,4 +1,0 @@
-type: car
-plate: MSS0A46
-layout: Mercosur
-corners: 749,366 884,367 885,407 751,407

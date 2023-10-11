@@ -1,4 +1,0 @@
-type: car
-plate: HAY5895
-layout: Brazilian
-corners: 696,364 823,372 823,413 698,406

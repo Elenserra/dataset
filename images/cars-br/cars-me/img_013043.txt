@@ -1,4 +1,0 @@
-type: car
-plate: PPP4G16
-layout: Mercosur
-corners: 606,349 738,351 739,394 609,392

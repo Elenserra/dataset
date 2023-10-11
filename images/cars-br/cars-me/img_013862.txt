@@ -1,4 +1,0 @@
-type: car
-plate: QRH2I50
-layout: Mercosur
-corners: 886,235 999,231 1002,267 887,272

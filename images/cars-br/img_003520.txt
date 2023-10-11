@@ -1,4 +1,0 @@
-type: car
-plate: MTZ2972
-layout: Brazilian
-corners: 773,329 910,328 913,375 774,376

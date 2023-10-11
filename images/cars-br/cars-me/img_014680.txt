@@ -1,4 +1,0 @@
-type: car
-plate: OCW2H00
-layout: Mercosur
-corners: 783,352 920,349 923,394 786,396

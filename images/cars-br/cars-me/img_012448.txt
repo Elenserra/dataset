@@ -1,4 +1,0 @@
-type: car
-plate: QRF7B75
-layout: Mercosur
-corners: 636,335 757,337 757,376 637,374

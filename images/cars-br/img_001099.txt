@@ -1,4 +1,0 @@
-type: car
-plate: NTW0122
-layout: Brazilian
-corners: 598,268 694,269 696,302 599,301

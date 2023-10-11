@@ -1,4 +1,0 @@
-type: car
-plate: ODK4110
-layout: Brazilian
-corners: 437,422 567,424 567,469 436,466

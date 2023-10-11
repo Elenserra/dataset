@@ -1,4 +1,0 @@
-type: car
-plate: PXA4H05
-layout: Mercosur
-corners: 523,369 660,371 663,413 528,412

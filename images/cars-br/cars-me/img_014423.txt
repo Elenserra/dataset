@@ -1,4 +1,0 @@
-type: car
-plate: PPQ4F66
-layout: Mercosur
-corners: 974,102 1058,101 1059,129 975,131

@@ -1,4 +1,0 @@
-type: car
-plate: PPM9384
-layout: Brazilian
-corners: 963,186 1061,183 1063,217 964,219

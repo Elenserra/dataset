@@ -1,4 +1,0 @@
-type: car
-plate: HAO8C59
-layout: Mercosur
-corners: 786,316 915,313 917,359 787,358

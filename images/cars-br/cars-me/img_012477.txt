@@ -1,4 +1,0 @@
-type: car
-plate: MSS3C77
-layout: Mercosur
-corners: 931,73 1000,73 1000,95 931,95

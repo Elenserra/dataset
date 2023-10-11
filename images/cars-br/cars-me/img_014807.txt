@@ -1,4 +1,0 @@
-type: car
-plate: PIV2A74
-layout: Mercosur
-corners: 657,354 793,364 792,407 656,397

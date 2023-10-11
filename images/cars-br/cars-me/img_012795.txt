@@ -1,4 +1,0 @@
-type: car
-plate: QRG2H80
-layout: Mercosur
-corners: 408,412 555,416 558,466 412,460

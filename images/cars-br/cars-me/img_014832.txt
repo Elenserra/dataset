@@ -1,4 +1,0 @@
-type: car
-plate: KZT5D91
-layout: Mercosur
-corners: 711,305 848,311 846,355 709,348

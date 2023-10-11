@@ -1,4 +1,0 @@
-type: car
-plate: MQN6D64
-layout: Mercosur
-corners: 803,378 932,378 935,419 807,417

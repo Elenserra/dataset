@@ -1,4 +1,0 @@
-type: car
-plate: OVL5815
-layout: Brazilian
-corners: 827,302 954,301 955,347 826,346

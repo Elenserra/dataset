@@ -1,4 +1,0 @@
-type: car
-plate: QRJ5A74
-layout: Mercosur
-corners: 634,336 764,338 765,383 635,380

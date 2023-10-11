@@ -1,4 +1,0 @@
-type: car
-plate: HLG7557
-layout: Brazilian
-corners: 497,366 634,363 635,411 498,414

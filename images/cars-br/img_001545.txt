@@ -1,4 +1,0 @@
-type: car
-plate: ODS2590
-layout: Brazilian
-corners: 551,412 685,412 688,458 557,457

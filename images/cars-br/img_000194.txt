@@ -1,4 +1,0 @@
-type: car
-plate: MSE9185
-layout: Brazilian
-corners: 699,249 796,247 798,280 700,281

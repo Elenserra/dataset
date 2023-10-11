@@ -1,4 +1,0 @@
-type: car
-plate: JJJ0896
-layout: Brazilian
-corners: 704,312 831,308 834,352 705,356

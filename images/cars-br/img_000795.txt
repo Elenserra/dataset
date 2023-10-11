@@ -1,4 +1,0 @@
-type: car
-plate: MSR4057
-layout: Brazilian
-corners: 559,383 681,380 682,422 560,424

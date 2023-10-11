@@ -1,4 +1,0 @@
-type: car
-plate: PGV8I50
-layout: Mercosur
-corners: 503,392 629,396 630,438 503,434

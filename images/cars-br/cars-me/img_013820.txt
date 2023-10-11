@@ -1,4 +1,0 @@
-type: car
-plate: RBA6D37
-layout: Mercosur
-corners: 689,236 797,240 798,276 689,274

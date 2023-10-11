@@ -1,4 +1,0 @@
-type: car
-plate: MTK8020
-layout: Brazilian
-corners: 593,360 706,359 709,397 594,398

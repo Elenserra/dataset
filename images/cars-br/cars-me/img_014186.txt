@@ -1,4 +1,0 @@
-type: car
-plate: MQO8D21
-layout: Mercosur
-corners: 822,231 937,226 942,265 824,269

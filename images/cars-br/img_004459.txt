@@ -1,4 +1,0 @@
-type: car
-plate: PPX9714
-layout: Brazilian
-corners: 821,250 940,245 943,288 822,292

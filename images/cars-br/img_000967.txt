@@ -1,4 +1,0 @@
-type: car
-plate: MRD0953
-layout: Brazilian
-corners: 526,400 647,399 650,441 528,441

@@ -1,4 +1,0 @@
-type: car
-plate: KZZ0843
-layout: Brazilian
-corners: 990,152 1076,150 1078,180 992,182

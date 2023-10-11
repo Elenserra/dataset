@@ -1,4 +1,0 @@
-type: car
-plate: FYF9H77
-layout: Mercosur
-corners: 661,341 790,343 790,386 662,385

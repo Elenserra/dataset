@@ -1,4 +1,0 @@
-type: car
-plate: LMU3B00
-layout: Mercosur
-corners: 468,365 597,367 600,412 471,408

@@ -1,4 +1,0 @@
-type: car
-plate: MSU2726
-layout: Brazilian
-corners: 489,381 615,380 617,425 492,423

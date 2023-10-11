@@ -1,4 +1,0 @@
-type: car
-plate: OLD1501
-layout: Brazilian
-corners: 714,364 854,373 853,420 713,410

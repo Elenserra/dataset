@@ -1,4 +1,0 @@
-type: car
-plate: OYK5036
-layout: Brazilian
-corners: 694,154 779,155 777,184 694,184

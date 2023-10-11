@@ -1,4 +1,0 @@
-type: car
-plate: PPE3141
-layout: Brazilian
-corners: 582,360 708,359 708,401 584,400

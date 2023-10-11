@@ -1,4 +1,0 @@
-type: car
-plate: MQO7913
-layout: Brazilian
-corners: 892,304 1010,301 1014,338 893,341

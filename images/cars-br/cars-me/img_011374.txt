@@ -1,4 +1,0 @@
-type: car
-plate: ODB8H83
-layout: Mercosur
-corners: 444,388 570,391 572,432 447,429

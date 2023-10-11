@@ -1,4 +1,0 @@
-type: car
-plate: MSS2F34
-layout: Mercosur
-corners: 826,178 922,179 922,210 827,209

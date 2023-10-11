@@ -1,4 +1,0 @@
-type: car
-plate: MTS7362
-layout: Brazilian
-corners: 539,398 668,398 670,442 540,443

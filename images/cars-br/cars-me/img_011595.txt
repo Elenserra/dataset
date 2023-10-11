@@ -1,4 +1,0 @@
-type: car
-plate: DLL1A01
-layout: Mercosur
-corners: 607,251 710,250 714,283 608,282

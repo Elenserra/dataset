@@ -1,4 +1,0 @@
-type: car
-plate: DTC2B92
-layout: Mercosur
-corners: 661,208 771,208 771,244 664,244

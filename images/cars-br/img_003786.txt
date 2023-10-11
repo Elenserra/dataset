@@ -1,4 +1,0 @@
-type: car
-plate: OVK1635
-layout: Brazilian
-corners: 578,407 705,408 706,454 577,452

@@ -1,4 +1,0 @@
-type: car
-plate: RBA5C97
-layout: Mercosur
-corners: 609,311 740,313 740,357 611,354

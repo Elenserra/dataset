@@ -1,4 +1,0 @@
-type: car
-plate: GTQ9435
-layout: Brazilian
-corners: 827,183 924,180 926,213 827,214

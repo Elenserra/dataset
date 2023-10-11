@@ -1,4 +1,0 @@
-type: car
-plate: OYK6151
-layout: Brazilian
-corners: 1065,97 1143,96 1144,123 1065,124

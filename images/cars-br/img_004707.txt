@@ -1,4 +1,0 @@
-type: car
-plate: MTU6342
-layout: Brazilian
-corners: 826,217 950,212 952,255 827,258

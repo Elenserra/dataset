@@ -1,4 +1,0 @@
-type: car
-plate: PPF3671
-layout: Brazilian
-corners: 469,315 598,313 604,358 473,359

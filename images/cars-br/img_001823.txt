@@ -1,4 +1,0 @@
-type: car
-plate: MTN9522
-layout: Brazilian
-corners: 596,383 724,385 724,430 597,428

@@ -1,4 +1,0 @@
-type: car
-plate: PPQ5919
-layout: Brazilian
-corners: 182,574 326,576 327,630 183,628

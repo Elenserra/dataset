@@ -1,4 +1,0 @@
-type: car
-plate: ODO5I11
-layout: Mercosur
-corners: 622,334 744,337 744,376 622,372

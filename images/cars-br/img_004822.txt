@@ -1,4 +1,0 @@
-type: car
-plate: QQL4824
-layout: Brazilian
-corners: 951,198 1055,195 1058,232 952,235

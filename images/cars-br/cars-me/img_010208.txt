@@ -1,4 +1,0 @@
-type: car
-plate: PPA8C34
-layout: Mercosur
-corners: 610,345 724,346 724,382 610,382

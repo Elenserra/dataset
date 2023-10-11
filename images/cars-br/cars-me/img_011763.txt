@@ -1,4 +1,0 @@
-type: car
-plate: QRF6H13
-layout: Mercosur
-corners: 543,315 663,315 664,356 544,355

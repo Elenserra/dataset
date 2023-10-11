@@ -1,4 +1,0 @@
-type: car
-plate: PVC0J67
-layout: Mercosur
-corners: 619,392 742,391 743,428 620,429

@@ -1,4 +1,0 @@
-type: car
-plate: MQL4969
-layout: Brazilian
-corners: 776,357 913,356 917,402 776,402

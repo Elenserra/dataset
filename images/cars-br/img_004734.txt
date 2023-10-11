@@ -1,4 +1,0 @@
-type: car
-plate: LLM1573
-layout: Brazilian
-corners: 846,312 975,311 976,356 845,358

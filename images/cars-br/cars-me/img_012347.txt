@@ -1,4 +1,0 @@
-type: car
-plate: MSR1E16
-layout: Mercosur
-corners: 638,335 757,336 758,374 639,372

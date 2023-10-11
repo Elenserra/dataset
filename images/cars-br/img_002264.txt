@@ -1,4 +1,0 @@
-type: car
-plate: ODT7294
-layout: Brazilian
-corners: 501,329 625,329 626,373 501,372

@@ -1,4 +1,0 @@
-type: car
-plate: PPS1311
-layout: Brazilian
-corners: 613,341 734,341 735,382 613,383

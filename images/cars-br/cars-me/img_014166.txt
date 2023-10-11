@@ -1,4 +1,0 @@
-type: car
-plate: QRK3I38
-layout: Mercosur
-corners: 820,353 953,351 956,397 821,396

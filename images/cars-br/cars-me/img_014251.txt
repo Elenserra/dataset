@@ -1,4 +1,0 @@
-type: car
-plate: MTT3D76
-layout: Mercosur
-corners: 823,329 954,330 956,372 825,371

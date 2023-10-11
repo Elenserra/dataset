@@ -1,4 +1,0 @@
-type: car
-plate: ODP9719
-layout: Brazilian
-corners: 778,287 904,285 908,326 779,328

@@ -1,4 +1,0 @@
-type: car
-plate: OYD8B58
-layout: Mercosur
-corners: 541,381 664,382 665,427 540,423

@@ -1,4 +1,0 @@
-type: car
-plate: ODC9088
-layout: Brazilian
-corners: 781,335 907,337 909,377 785,375

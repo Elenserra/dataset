@@ -1,4 +1,0 @@
-type: car
-plate: QRK8A50
-layout: Mercosur
-corners: 711,332 845,330 847,376 713,378

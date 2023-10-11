@@ -1,4 +1,0 @@
-type: car
-plate: QRH0E95
-layout: Mercosur
-corners: 893,302 1015,301 1015,340 894,342

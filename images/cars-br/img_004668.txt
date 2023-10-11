@@ -1,4 +1,0 @@
-type: car
-plate: HMQ2767
-layout: Brazilian
-corners: 916,159 1008,153 1012,185 918,190

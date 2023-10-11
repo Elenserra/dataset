@@ -1,4 +1,0 @@
-type: car
-plate: PPB3J82
-layout: Mercosur
-corners: 790,334 920,332 923,375 794,376

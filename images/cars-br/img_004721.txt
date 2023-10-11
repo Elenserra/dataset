@@ -1,4 +1,0 @@
-type: car
-plate: LLR2388
-layout: Brazilian
-corners: 850,196 965,191 968,230 852,235

@@ -1,4 +1,0 @@
-type: car
-plate: PPY0B08
-layout: Mercosur
-corners: 491,351 610,352 610,391 492,389

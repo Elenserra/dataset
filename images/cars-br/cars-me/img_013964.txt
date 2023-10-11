@@ -1,4 +1,0 @@
-type: car
-plate: FXX4E95
-layout: Mercosur
-corners: 750,334 885,333 887,380 751,381

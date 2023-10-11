@@ -1,4 +1,0 @@
-type: car
-plate: IUN1A41
-layout: Mercosur
-corners: 665,212 769,212 770,248 666,247

@@ -1,4 +1,0 @@
-type: car
-plate: OCV5704
-layout: Brazilian
-corners: 918,205 1020,202 1023,239 918,240

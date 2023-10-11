@@ -1,4 +1,0 @@
-type: car
-plate: LKP2851
-layout: Brazilian
-corners: 852,428 992,421 995,464 853,472

@@ -1,4 +1,0 @@
-type: car
-plate: PPT0B68
-layout: Mercosur
-corners: 689,324 817,326 816,367 690,365

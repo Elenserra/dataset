@@ -1,4 +1,0 @@
-type: car
-plate: LRY7E24
-layout: Mercosur
-corners: 474,290 590,292 590,331 475,329

@@ -1,4 +1,0 @@
-type: car
-plate: JHU2G39
-layout: Mercosur
-corners: 820,150 891,150 891,174 820,174

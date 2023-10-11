@@ -1,4 +1,0 @@
-type: car
-plate: PPW1889
-layout: Brazilian
-corners: 619,330 744,333 746,373 622,370

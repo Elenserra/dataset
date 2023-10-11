@@ -1,4 +1,0 @@
-type: car
-plate: KQV2056
-layout: Brazilian
-corners: 736,181 816,180 816,206 736,206

@@ -1,4 +1,0 @@
-type: car
-plate: OYH3I23
-layout: Mercosur
-corners: 825,304 951,302 955,343 825,346

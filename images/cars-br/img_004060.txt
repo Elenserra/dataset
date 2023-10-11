@@ -1,4 +1,0 @@
-type: car
-plate: DBS2896
-layout: Brazilian
-corners: 792,335 929,335 933,384 794,383

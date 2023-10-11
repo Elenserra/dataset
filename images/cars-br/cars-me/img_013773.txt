@@ -1,4 +1,0 @@
-type: car
-plate: GFC3A41
-layout: Mercosur
-corners: 813,189 914,192 914,226 812,223

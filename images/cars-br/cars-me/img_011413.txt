@@ -1,4 +1,0 @@
-type: car
-plate: QRK2E70
-layout: Mercosur
-corners: 428,323 541,322 543,363 429,362

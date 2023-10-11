@@ -1,4 +1,0 @@
-type: car
-plate: QOJ3254
-layout: Brazilian
-corners: 762,343 899,341 902,387 763,388

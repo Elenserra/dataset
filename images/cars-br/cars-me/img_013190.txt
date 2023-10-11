@@ -1,4 +1,0 @@
-type: car
-plate: LUL7I02
-layout: Mercosur
-corners: 674,273 796,274 796,314 675,312

@@ -1,4 +1,0 @@
-type: car
-plate: LUP7D43
-layout: Mercosur
-corners: 799,386 940,382 942,428 801,431

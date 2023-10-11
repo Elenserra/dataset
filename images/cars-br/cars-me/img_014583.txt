@@ -1,4 +1,0 @@
-type: car
-plate: FIQ3I86
-layout: Mercosur
-corners: 778,301 914,296 916,343 779,346

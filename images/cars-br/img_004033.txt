@@ -1,4 +1,0 @@
-type: car
-plate: MRG5167
-layout: Brazilian
-corners: 821,334 953,331 956,374 823,377

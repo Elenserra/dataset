@@ -1,4 +1,0 @@
-type: car
-plate: LSV0894
-layout: Brazilian
-corners: 748,310 880,307 885,352 751,353

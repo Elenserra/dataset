@@ -1,4 +1,0 @@
-type: car
-plate: MRS0633
-layout: Brazilian
-corners: 826,339 959,336 961,381 828,383

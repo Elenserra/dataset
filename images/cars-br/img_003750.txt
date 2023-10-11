@@ -1,4 +1,0 @@
-type: car
-plate: ODE6789
-layout: Brazilian
-corners: 780,338 912,335 915,380 782,383

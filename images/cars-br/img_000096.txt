@@ -1,4 +1,0 @@
-type: car
-plate: MQA9803
-layout: Brazilian
-corners: 437,436 569,436 572,479 439,480

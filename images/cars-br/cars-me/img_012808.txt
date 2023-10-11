@@ -1,4 +1,0 @@
-type: car
-plate: QRD7H42
-layout: Mercosur
-corners: 567,355 698,359 700,400 570,398

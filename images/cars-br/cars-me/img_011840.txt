@@ -1,4 +1,0 @@
-type: car
-plate: ODP5E57
-layout: Mercosur
-corners: 237,553 397,563 404,618 238,607

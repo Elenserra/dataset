@@ -1,4 +1,0 @@
-type: car
-plate: EQO0I08
-layout: Mercosur
-corners: 325,530 476,537 482,586 332,582

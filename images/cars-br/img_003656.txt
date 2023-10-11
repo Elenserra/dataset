@@ -1,4 +1,0 @@
-type: car
-plate: MSU0364
-layout: Brazilian
-corners: 888,267 1006,264 1009,304 889,308

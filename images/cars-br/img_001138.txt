@@ -1,4 +1,0 @@
-type: car
-plate: PPR6604
-layout: Brazilian
-corners: 618,313 731,314 732,352 619,352

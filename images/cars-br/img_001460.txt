@@ -1,4 +1,0 @@
-type: car
-plate: GSR0785
-layout: Brazilian
-corners: 551,411 674,411 675,449 552,448

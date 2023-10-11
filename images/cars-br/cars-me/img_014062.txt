@@ -1,4 +1,0 @@
-type: car
-plate: PQZ1H38
-layout: Mercosur
-corners: 784,366 918,365 922,410 785,409

@@ -1,4 +1,0 @@
-type: car
-plate: PPS0G69
-layout: Mercosur
-corners: 652,280 777,283 777,325 653,321

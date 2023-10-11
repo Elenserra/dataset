@@ -1,4 +1,0 @@
-type: car
-plate: ODM2729
-layout: Brazilian
-corners: 817,43 881,42 882,62 817,63

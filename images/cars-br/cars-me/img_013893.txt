@@ -1,4 +1,0 @@
-type: car
-plate: QRI0F47
-layout: Mercosur
-corners: 838,314 973,310 976,354 840,357

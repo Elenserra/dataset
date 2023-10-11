@@ -1,4 +1,0 @@
-type: car
-plate: KQF0F58
-layout: Mercosur
-corners: 681,338 814,346 813,388 680,382

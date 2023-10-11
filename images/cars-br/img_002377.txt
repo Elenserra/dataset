@@ -1,4 +1,0 @@
-type: car
-plate: MTX0269
-layout: Brazilian
-corners: 520,299 650,297 653,340 524,340

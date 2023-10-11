@@ -1,4 +1,0 @@
-type: car
-plate: MTL8146
-layout: Brazilian
-corners: 778,278 913,272 916,319 778,323

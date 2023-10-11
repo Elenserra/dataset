@@ -1,4 +1,0 @@
-type: car
-plate: OUV7590
-layout: Brazilian
-corners: 799,317 929,316 931,360 799,359

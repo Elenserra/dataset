@@ -1,4 +1,0 @@
-type: car
-plate: OPA3094
-layout: Brazilian
-corners: 799,317 930,313 935,358 801,361

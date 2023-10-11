@@ -1,4 +1,0 @@
-type: car
-plate: PPW7210
-layout: Brazilian
-corners: 116,570 296,585 305,645 128,627

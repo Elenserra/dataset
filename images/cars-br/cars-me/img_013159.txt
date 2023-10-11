@@ -1,4 +1,0 @@
-type: car
-plate: ODQ4I70
-layout: Mercosur
-corners: 696,216 810,217 810,254 697,252

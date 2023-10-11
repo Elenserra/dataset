@@ -1,4 +1,0 @@
-type: car
-plate: PPG6826
-layout: Brazilian
-corners: 860,275 979,274 981,315 860,315

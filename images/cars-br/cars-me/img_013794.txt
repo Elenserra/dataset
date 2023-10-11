@@ -1,4 +1,0 @@
-type: car
-plate: QRI6I45
-layout: Mercosur
-corners: 755,345 883,342 887,384 757,387

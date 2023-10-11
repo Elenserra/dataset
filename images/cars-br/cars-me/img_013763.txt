@@ -1,4 +1,0 @@
-type: car
-plate: QRI2J69
-layout: Mercosur
-corners: 580,260 703,262 703,304 582,301

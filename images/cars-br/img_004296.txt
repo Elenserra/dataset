@@ -1,4 +1,0 @@
-type: car
-plate: HLX7525
-layout: Brazilian
-corners: 796,338 927,336 929,381 795,383

@@ -1,4 +1,0 @@
-type: car
-plate: PPS4715
-layout: Brazilian
-corners: 549,341 667,342 668,384 550,382

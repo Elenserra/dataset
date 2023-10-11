@@ -1,4 +1,0 @@
-type: car
-plate: MSW8D93
-layout: Mercosur
-corners: 709,261 818,262 820,296 712,295

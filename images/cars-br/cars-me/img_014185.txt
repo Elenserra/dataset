@@ -1,4 +1,0 @@
-type: car
-plate: LUR9E85
-layout: Mercosur
-corners: 771,383 909,381 913,426 771,429

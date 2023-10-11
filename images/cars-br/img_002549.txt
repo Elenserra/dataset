@@ -1,4 +1,0 @@
-type: car
-plate: MQJ7289
-layout: Brazilian
-corners: 627,188 744,188 743,225 628,226

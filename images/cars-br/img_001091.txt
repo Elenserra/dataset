@@ -1,4 +1,0 @@
-type: car
-plate: MSJ7189
-layout: Brazilian
-corners: 547,390 672,389 673,432 550,433

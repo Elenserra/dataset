@@ -1,4 +1,0 @@
-type: car
-plate: QRH8C40
-layout: Mercosur
-corners: 523,341 652,341 655,384 523,385

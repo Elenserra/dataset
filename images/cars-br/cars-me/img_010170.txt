@@ -1,4 +1,0 @@
-type: car
-plate: KZA6B06
-layout: Mercosur
-corners: 547,416 672,417 673,457 547,456

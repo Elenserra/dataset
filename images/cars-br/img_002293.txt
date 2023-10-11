@@ -1,4 +1,0 @@
-type: car
-plate: QQI3866
-layout: Brazilian
-corners: 538,284 661,285 662,326 542,327

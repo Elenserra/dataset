@@ -1,4 +1,0 @@
-type: car
-plate: MTE8I98
-layout: Mercosur
-corners: 611,328 744,329 743,374 611,371

@@ -1,4 +1,0 @@
-type: car
-plate: LUT5I64
-layout: Mercosur
-corners: 709,280 825,283 825,320 711,318

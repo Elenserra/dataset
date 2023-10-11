@@ -1,4 +1,0 @@
-type: car
-plate: PPV8G29
-layout: Mercosur
-corners: 803,281 932,278 936,324 804,326

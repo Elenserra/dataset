@@ -1,4 +1,0 @@
-type: car
-plate: QFT2E08
-layout: Mercosur
-corners: 439,401 573,403 577,449 440,446

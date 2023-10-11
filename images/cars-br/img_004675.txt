@@ -1,4 +1,0 @@
-type: car
-plate: MSQ3105
-layout: Brazilian
-corners: 798,342 933,338 935,385 801,386

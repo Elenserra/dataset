@@ -1,4 +1,0 @@
-type: car
-plate: MQH1B81
-layout: Mercosur
-corners: 534,302 660,304 660,345 536,343

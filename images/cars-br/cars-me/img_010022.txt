@@ -1,4 +1,0 @@
-type: car
-plate: MSX1I06
-layout: Mercosur
-corners: 665,286 776,283 778,320 667,322

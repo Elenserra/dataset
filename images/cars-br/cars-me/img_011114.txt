@@ -1,4 +1,0 @@
-type: car
-plate: PPU5E18
-layout: Mercosur
-corners: 438,370 576,370 577,419 438,416

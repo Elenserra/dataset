@@ -1,4 +1,0 @@
-type: car
-plate: ODL9G39
-layout: Mercosur
-corners: 698,288 823,289 823,330 699,327

@@ -1,4 +1,0 @@
-type: car
-plate: GWM7G10
-layout: Mercosur
-corners: 388,391 527,390 531,440 388,437

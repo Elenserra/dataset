@@ -1,4 +1,0 @@
-type: car
-plate: OLE8866
-layout: Brazilian
-corners: 155,595 326,603 331,663 162,654

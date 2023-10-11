@@ -1,4 +1,0 @@
-type: car
-plate: HGI1748
-layout: Brazilian
-corners: 450,398 577,398 578,441 452,441

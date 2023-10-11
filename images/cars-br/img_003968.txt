@@ -1,4 +1,0 @@
-type: car
-plate: QWW1324
-layout: Brazilian
-corners: 1054,108 1134,106 1135,133 1055,135

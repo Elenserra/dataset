@@ -1,4 +1,0 @@
-type: car
-plate: GZV6241
-layout: Brazilian
-corners: 448,449 584,450 587,495 452,492

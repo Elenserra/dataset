@@ -1,4 +1,0 @@
-type: car
-plate: PPW0H89
-layout: Mercosur
-corners: 617,310 751,317 750,362 616,354

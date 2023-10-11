@@ -1,4 +1,0 @@
-type: car
-plate: OCW1J56
-layout: Mercosur
-corners: 403,295 529,293 530,334 406,336

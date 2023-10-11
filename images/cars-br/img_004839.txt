@@ -1,4 +1,0 @@
-type: car
-plate: QWT3896
-layout: Brazilian
-corners: 1031,90 1110,88 1111,115 1032,117

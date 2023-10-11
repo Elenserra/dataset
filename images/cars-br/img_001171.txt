@@ -1,4 +1,0 @@
-type: car
-plate: QPD9002
-layout: Brazilian
-corners: 658,259 761,259 761,295 658,295

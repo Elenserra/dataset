@@ -1,4 +1,0 @@
-type: car
-plate: KVI4844
-layout: Brazilian
-corners: 723,389 866,386 871,435 726,438

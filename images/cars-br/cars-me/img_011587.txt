@@ -1,4 +1,0 @@
-type: car
-plate: PPL4I28
-layout: Mercosur
-corners: 670,210 772,208 773,244 670,245

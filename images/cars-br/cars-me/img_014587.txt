@@ -1,4 +1,0 @@
-type: car
-plate: LKS7A53
-layout: Mercosur
-corners: 806,287 933,284 933,329 804,330

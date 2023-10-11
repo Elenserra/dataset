@@ -1,4 +1,0 @@
-type: car
-plate: NTR1C32
-layout: Mercosur
-corners: 681,330 819,336 819,381 681,371

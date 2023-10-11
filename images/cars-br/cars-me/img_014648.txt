@@ -1,4 +1,0 @@
-type: car
-plate: PPB7D31
-layout: Mercosur
-corners: 727,359 860,359 863,404 727,404

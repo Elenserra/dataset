@@ -1,4 +1,0 @@
-type: car
-plate: PVJ3D73
-layout: Mercosur
-corners: 745,364 881,363 882,412 747,409

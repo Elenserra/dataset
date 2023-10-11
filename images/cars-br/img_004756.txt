@@ -1,4 +1,0 @@
-type: car
-plate: GXS6461
-layout: Brazilian
-corners: 823,318 956,314 960,360 825,362

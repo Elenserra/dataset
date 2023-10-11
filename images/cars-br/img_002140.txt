@@ -1,4 +1,0 @@
-type: car
-plate: QNA4386
-layout: Brazilian
-corners: 506,376 631,377 632,421 507,418

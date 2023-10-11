@@ -1,4 +1,0 @@
-type: car
-plate: PPI0I55
-layout: Mercosur
-corners: 874,273 991,269 995,310 874,313

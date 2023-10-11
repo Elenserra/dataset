@@ -1,4 +1,0 @@
-type: car
-plate: ODT3E09
-layout: Mercosur
-corners: 629,283 738,285 739,321 629,321

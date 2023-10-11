@@ -1,4 +1,0 @@
-type: car
-plate: ODC7I79
-layout: Mercosur
-corners: 539,286 659,286 662,326 543,326

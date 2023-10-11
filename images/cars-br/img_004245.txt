@@ -1,4 +1,0 @@
-type: car
-plate: MTI2576
-layout: Brazilian
-corners: 731,391 862,390 866,434 732,436

@@ -1,4 +1,0 @@
-type: car
-plate: ODD7B45
-layout: Mercosur
-corners: 536,198 661,200 661,244 535,242

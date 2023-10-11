@@ -1,4 +1,0 @@
-type: car
-plate: MTZ2J89
-layout: Mercosur
-corners: 663,303 786,305 788,345 664,343

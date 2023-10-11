@@ -1,4 +1,0 @@
-type: car
-plate: PPU9756
-layout: Brazilian
-corners: 814,306 943,302 943,347 812,349

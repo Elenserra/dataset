@@ -1,4 +1,0 @@
-type: car
-plate: HTQ4A72
-layout: Mercosur
-corners: 805,346 934,344 937,386 806,387

@@ -1,4 +1,0 @@
-type: car
-plate: ODP4215
-layout: Brazilian
-corners: 502,410 628,410 629,451 504,450

@@ -1,4 +1,0 @@
-type: car
-plate: ODR8310
-layout: Brazilian
-corners: 591,335 717,340 717,383 592,377

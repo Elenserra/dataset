@@ -1,4 +1,0 @@
-type: car
-plate: HEQ9654
-layout: Brazilian
-corners: 574,312 697,312 697,352 574,351

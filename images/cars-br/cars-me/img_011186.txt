@@ -1,4 +1,0 @@
-type: car
-plate: QRI9H68
-layout: Mercosur
-corners: 613,311 722,311 723,347 613,346

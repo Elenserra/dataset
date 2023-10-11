@@ -1,4 +1,0 @@
-type: car
-plate: MTY4028
-layout: Brazilian
-corners: 600,350 717,350 718,389 601,387

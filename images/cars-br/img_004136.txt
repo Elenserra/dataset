@@ -1,4 +1,0 @@
-type: car
-plate: HGI3552
-layout: Brazilian
-corners: 802,322 935,319 937,366 802,368

@@ -1,4 +1,0 @@
-type: car
-plate: QUR8553
-layout: Brazilian
-corners: 750,353 885,351 888,397 751,398

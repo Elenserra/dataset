@@ -1,4 +1,0 @@
-type: car
-plate: PPM7441
-layout: Brazilian
-corners: 760,336 894,332 896,378 762,380

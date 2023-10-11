@@ -1,4 +1,0 @@
-type: car
-plate: GCT7357
-layout: Brazilian
-corners: 825,332 961,330 965,375 827,379

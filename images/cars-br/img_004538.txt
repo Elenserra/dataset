@@ -1,4 +1,0 @@
-type: car
-plate: NEH2104
-layout: Brazilian
-corners: 986,76 1071,74 1072,105 986,106

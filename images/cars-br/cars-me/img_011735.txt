@@ -1,4 +1,0 @@
-type: car
-plate: PPN9J24
-layout: Mercosur
-corners: 649,210 751,211 753,245 650,243

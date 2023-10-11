@@ -1,4 +1,0 @@
-type: car
-plate: MQO1197
-layout: Brazilian
-corners: 855,338 982,336 986,381 855,381

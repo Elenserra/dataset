@@ -1,4 +1,0 @@
-type: car
-plate: KVW4909
-layout: Brazilian
-corners: 491,404 616,403 620,443 495,443

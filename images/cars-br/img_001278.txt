@@ -1,4 +1,0 @@
-type: car
-plate: ODR2139
-layout: Brazilian
-corners: 564,339 680,341 681,380 564,379

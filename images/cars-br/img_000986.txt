@@ -1,4 +1,0 @@
-type: car
-plate: MQX0111
-layout: Brazilian
-corners: 547,428 679,429 679,476 548,474

@@ -1,4 +1,0 @@
-type: car
-plate: OYI1J55
-layout: Mercosur
-corners: 583,269 703,268 707,305 584,305

@@ -1,4 +1,0 @@
-type: car
-plate: PPE7A34
-layout: Mercosur
-corners: 635,314 745,313 746,347 637,348

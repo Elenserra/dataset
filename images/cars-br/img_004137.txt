@@ -1,4 +1,0 @@
-type: car
-plate: DQC8568
-layout: Brazilian
-corners: 859,332 991,330 996,375 860,376

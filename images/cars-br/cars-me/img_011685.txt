@@ -1,4 +1,0 @@
-type: car
-plate: KPS9B97
-layout: Mercosur
-corners: 507,360 640,360 643,403 510,404

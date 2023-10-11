@@ -1,4 +1,0 @@
-type: car
-plate: PPI8748
-layout: Brazilian
-corners: 846,246 969,243 974,278 851,282

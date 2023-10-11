@@ -1,4 +1,0 @@
-type: car
-plate: BAX9016
-layout: Brazilian
-corners: 558,379 681,378 683,418 558,419

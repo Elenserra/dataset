@@ -1,4 +1,0 @@
-type: car
-plate: PPB0593
-layout: Brazilian
-corners: 1055,67 1122,65 1125,88 1056,91

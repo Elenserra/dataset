@@ -1,4 +1,0 @@
-type: car
-plate: MSO8571
-layout: Brazilian
-corners: 577,427 710,430 710,474 576,470

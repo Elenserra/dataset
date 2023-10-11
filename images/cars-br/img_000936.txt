@@ -1,4 +1,0 @@
-type: car
-plate: MSO7675
-layout: Brazilian
-corners: 460,406 588,405 591,449 463,449

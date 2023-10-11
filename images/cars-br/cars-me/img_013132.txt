@@ -1,4 +1,0 @@
-type: car
-plate: QOF1E51
-layout: Mercosur
-corners: 662,314 786,315 787,356 663,355

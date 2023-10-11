@@ -1,4 +1,0 @@
-type: car
-plate: PPA2D92
-layout: Mercosur
-corners: 936,186 1032,183 1036,213 939,216

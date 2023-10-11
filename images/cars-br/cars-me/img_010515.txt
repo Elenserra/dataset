@@ -1,4 +1,0 @@
-type: car
-plate: QRE5H34
-layout: Mercosur
-corners: 424,352 541,353 544,393 425,391

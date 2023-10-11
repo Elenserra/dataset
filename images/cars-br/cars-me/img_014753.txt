@@ -1,4 +1,0 @@
-type: car
-plate: MSX0J29
-layout: Mercosur
-corners: 802,352 936,351 937,394 802,396

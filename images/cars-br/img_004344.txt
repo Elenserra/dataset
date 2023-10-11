@@ -1,4 +1,0 @@
-type: car
-plate: PPA8623
-layout: Brazilian
-corners: 856,285 976,283 980,324 857,326

@@ -1,4 +1,0 @@
-type: car
-plate: PPT5B23
-layout: Mercosur
-corners: 858,286 977,286 978,326 859,324

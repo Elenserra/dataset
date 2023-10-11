@@ -1,4 +1,0 @@
-type: car
-plate: QRK8I13
-layout: Mercosur
-corners: 965,113 1046,110 1048,136 967,140

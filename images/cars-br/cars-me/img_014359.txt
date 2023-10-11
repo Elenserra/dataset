@@ -1,4 +1,0 @@
-type: car
-plate: MQX6A40
-layout: Mercosur
-corners: 775,354 912,352 915,398 777,399

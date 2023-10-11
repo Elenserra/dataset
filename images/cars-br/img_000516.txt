@@ -1,4 +1,0 @@
-type: car
-plate: ODA4892
-layout: Brazilian
-corners: 592,367 718,368 720,408 593,407

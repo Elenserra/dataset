@@ -1,4 +1,0 @@
-type: car
-plate: QRI9D23
-layout: Mercosur
-corners: 487,359 616,359 618,400 491,401

@@ -1,4 +1,0 @@
-type: car
-plate: PXD9590
-layout: Brazilian
-corners: 548,405 680,405 681,448 549,447

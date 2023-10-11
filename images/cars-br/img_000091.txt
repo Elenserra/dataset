@@ -1,4 +1,0 @@
-type: car
-plate: MTZ7571
-layout: Brazilian
-corners: 486,431 621,429 622,478 487,476

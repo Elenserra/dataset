@@ -1,4 +1,0 @@
-type: car
-plate: PPV8721
-layout: Brazilian
-corners: 657,334 786,338 786,380 659,377

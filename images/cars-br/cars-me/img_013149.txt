@@ -1,4 +1,0 @@
-type: car
-plate: ODD5C37
-layout: Mercosur
-corners: 636,328 766,330 766,372 639,368

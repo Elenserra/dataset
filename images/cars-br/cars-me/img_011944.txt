@@ -1,4 +1,0 @@
-type: car
-plate: QRH3B66
-layout: Mercosur
-corners: 483,387 613,387 615,430 483,430

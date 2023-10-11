@@ -1,4 +1,0 @@
-type: car
-plate: ODK4343
-layout: Brazilian
-corners: 500,396 625,397 626,439 500,438

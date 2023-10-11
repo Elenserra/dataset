@@ -1,4 +1,0 @@
-type: car
-plate: FYO2E04
-layout: Mercosur
-corners: 556,393 679,394 680,436 558,435

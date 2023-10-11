@@ -1,4 +1,0 @@
-type: car
-plate: KQY2J51
-layout: Mercosur
-corners: 796,342 925,340 927,383 795,384

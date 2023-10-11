@@ -1,4 +1,0 @@
-type: car
-plate: MTV7883
-layout: Brazilian
-corners: 808,318 936,314 940,358 810,359

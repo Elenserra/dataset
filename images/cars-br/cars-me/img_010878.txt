@@ -1,4 +1,0 @@
-type: car
-plate: PXI7J91
-layout: Mercosur
-corners: 589,376 709,378 707,417 591,414

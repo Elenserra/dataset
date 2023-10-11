@@ -1,4 +1,0 @@
-type: car
-plate: HNC5286
-layout: Brazilian
-corners: 608,336 732,341 731,383 608,378

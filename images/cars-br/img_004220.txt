@@ -1,4 +1,0 @@
-type: car
-plate: MTD8221
-layout: Brazilian
-corners: 827,348 966,346 969,390 827,391

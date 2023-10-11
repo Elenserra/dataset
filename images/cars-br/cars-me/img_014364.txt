@@ -1,4 +1,0 @@
-type: car
-plate: MTW5B82
-layout: Mercosur
-corners: 905,286 1028,283 1030,323 906,326

@@ -1,4 +1,0 @@
-type: car
-plate: KQL7148
-layout: Brazilian
-corners: 726,278 840,274 844,311 727,314

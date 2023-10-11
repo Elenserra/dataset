@@ -1,4 +1,0 @@
-type: car
-plate: MQZ9192
-layout: Brazilian
-corners: 619,290 733,290 735,330 620,329

@@ -1,4 +1,0 @@
-type: car
-plate: ELM5783
-layout: Brazilian
-corners: 552,388 673,389 674,428 552,427

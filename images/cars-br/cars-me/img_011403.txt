@@ -1,4 +1,0 @@
-type: car
-plate: LSZ2I21
-layout: Mercosur
-corners: 532,332 657,330 660,370 533,371

@@ -1,4 +1,0 @@
-type: car
-plate: PPU5D52
-layout: Mercosur
-corners: 727,355 861,362 859,406 726,397

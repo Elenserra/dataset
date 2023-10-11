@@ -1,4 +1,0 @@
-type: car
-plate: MSZ5769
-layout: Brazilian
-corners: 802,290 937,289 942,334 806,334

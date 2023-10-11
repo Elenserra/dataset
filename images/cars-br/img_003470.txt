@@ -1,4 +1,0 @@
-type: car
-plate: MRD3230
-layout: Brazilian
-corners: 1003,75 1076,75 1079,100 1005,98

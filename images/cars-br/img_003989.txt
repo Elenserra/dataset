@@ -1,4 +1,0 @@
-type: car
-plate: MQV8494
-layout: Brazilian
-corners: 884,249 1000,246 1000,286 882,289

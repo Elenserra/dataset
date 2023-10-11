@@ -1,4 +1,0 @@
-type: car
-plate: QRE7C37
-layout: Mercosur
-corners: 895,62 970,62 970,86 896,86

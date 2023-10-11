@@ -1,4 +1,0 @@
-type: car
-plate: QBA2A72
-layout: Mercosur
-corners: 528,305 651,305 654,348 527,347

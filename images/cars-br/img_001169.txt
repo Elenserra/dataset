@@ -1,4 +1,0 @@
-type: car
-plate: MTY2840
-layout: Brazilian
-corners: 691,237 789,236 789,270 692,270

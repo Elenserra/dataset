@@ -1,4 +1,0 @@
-type: car
-plate: PPW6134
-layout: Brazilian
-corners: 697,399 845,400 846,453 698,451

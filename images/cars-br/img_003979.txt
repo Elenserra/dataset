@@ -1,4 +1,0 @@
-type: car
-plate: JUM9980
-layout: Brazilian
-corners: 1012,133 1095,131 1097,160 1012,160

@@ -1,4 +1,0 @@
-type: car
-plate: MPT3E27
-layout: Mercosur
-corners: 611,376 754,389 752,438 609,424

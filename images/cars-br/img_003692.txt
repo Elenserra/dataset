@@ -1,4 +1,0 @@
-type: car
-plate: DMC3433
-layout: Brazilian
-corners: 764,361 900,361 901,407 764,408

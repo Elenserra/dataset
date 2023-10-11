@@ -1,4 +1,0 @@
-type: car
-plate: MTL5802
-layout: Brazilian
-corners: 534,375 680,379 680,433 535,427

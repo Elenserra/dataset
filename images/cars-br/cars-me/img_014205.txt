@@ -1,4 +1,0 @@
-type: car
-plate: MQW7E76
-layout: Mercosur
-corners: 753,348 887,348 891,391 756,392

@@ -1,4 +1,0 @@
-type: car
-plate: MRF2797
-layout: Brazilian
-corners: 1056,76 1128,74 1130,99 1056,102

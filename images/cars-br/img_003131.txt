@@ -1,4 +1,0 @@
-type: car
-plate: DRU0900
-layout: Brazilian
-corners: 835,184 938,183 939,219 835,220

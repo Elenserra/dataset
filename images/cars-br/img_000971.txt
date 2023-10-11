@@ -1,4 +1,0 @@
-type: car
-plate: MSJ7415
-layout: Brazilian
-corners: 559,390 679,391 679,430 560,429

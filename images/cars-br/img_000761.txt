@@ -1,4 +1,0 @@
-type: car
-plate: ODS9896
-layout: Brazilian
-corners: 544,380 671,380 670,423 545,423

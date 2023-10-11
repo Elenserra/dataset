@@ -1,4 +1,0 @@
-type: car
-plate: QRG3D96
-layout: Mercosur
-corners: 486,378 609,379 609,418 486,418

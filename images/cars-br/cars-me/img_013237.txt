@@ -1,4 +1,0 @@
-type: car
-plate: OPA3D29
-layout: Mercosur
-corners: 695,313 813,316 813,354 696,351

@@ -1,4 +1,0 @@
-type: car
-plate: ODN7127
-layout: Brazilian
-corners: 574,371 694,371 695,412 575,412

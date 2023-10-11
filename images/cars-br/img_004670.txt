@@ -1,4 +1,0 @@
-type: car
-plate: QUK6465
-layout: Brazilian
-corners: 913,253 1029,250 1030,288 913,291

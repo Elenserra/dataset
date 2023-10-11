@@ -1,4 +1,0 @@
-type: car
-plate: ODL9J40
-layout: Mercosur
-corners: 495,391 616,392 617,433 496,431

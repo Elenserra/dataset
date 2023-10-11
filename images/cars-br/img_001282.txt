@@ -1,4 +1,0 @@
-type: car
-plate: QRD3026
-layout: Brazilian
-corners: 440,355 564,356 564,400 441,398

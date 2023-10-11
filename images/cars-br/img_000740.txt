@@ -1,4 +1,0 @@
-type: car
-plate: MPR9390
-layout: Brazilian
-corners: 556,467 674,466 679,498 565,495

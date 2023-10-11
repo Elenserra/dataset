@@ -1,4 +1,0 @@
-type: car
-plate: PPQ3H25
-layout: Mercosur
-corners: 532,336 658,336 660,378 533,379

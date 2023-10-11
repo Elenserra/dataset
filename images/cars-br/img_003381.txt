@@ -1,4 +1,0 @@
-type: car
-plate: ODO1303
-layout: Brazilian
-corners: 632,339 761,338 763,381 633,381

@@ -1,4 +1,0 @@
-type: car
-plate: QRI3A81
-layout: Mercosur
-corners: 549,342 674,342 675,383 550,381

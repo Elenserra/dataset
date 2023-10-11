@@ -1,4 +1,0 @@
-type: car
-plate: OHF7D03
-layout: Mercosur
-corners: 536,314 655,314 656,352 538,352

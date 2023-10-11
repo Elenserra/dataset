@@ -1,4 +1,0 @@
-type: car
-plate: PPT9994
-layout: Brazilian
-corners: 474,319 600,318 602,361 475,363

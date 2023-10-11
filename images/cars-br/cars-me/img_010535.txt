@@ -1,4 +1,0 @@
-type: car
-plate: ODE3I99
-layout: Mercosur
-corners: 555,391 685,393 686,436 556,433

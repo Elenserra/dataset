@@ -1,4 +1,0 @@
-type: car
-plate: ODB3G77
-layout: Mercosur
-corners: 795,333 928,330 931,374 797,375

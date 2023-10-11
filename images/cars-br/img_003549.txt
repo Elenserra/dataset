@@ -1,4 +1,0 @@
-type: car
-plate: PPL8103
-layout: Brazilian
-corners: 806,305 938,301 941,345 809,349

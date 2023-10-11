@@ -1,4 +1,0 @@
-type: car
-plate: PPA3F38
-layout: Mercosur
-corners: 768,356 902,353 905,400 767,401

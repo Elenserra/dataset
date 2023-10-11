@@ -1,4 +1,0 @@
-type: car
-plate: ODA6A07
-layout: Mercosur
-corners: 960,51 1036,51 1036,76 960,77

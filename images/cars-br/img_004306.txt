@@ -1,4 +1,0 @@
-type: car
-plate: MRO8294
-layout: Brazilian
-corners: 809,304 932,303 936,345 811,346

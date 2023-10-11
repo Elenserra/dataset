@@ -1,4 +1,0 @@
-type: car
-plate: QRC6770
-layout: Brazilian
-corners: 503,388 628,389 631,434 505,434

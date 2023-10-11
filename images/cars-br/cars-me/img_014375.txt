@@ -1,4 +1,0 @@
-type: car
-plate: NZS5I47
-layout: Mercosur
-corners: 766,341 894,339 897,382 766,382

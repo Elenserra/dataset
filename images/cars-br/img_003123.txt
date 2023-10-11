@@ -1,4 +1,0 @@
-type: car
-plate: ODQ9380
-layout: Brazilian
-corners: 775,119 873,121 873,153 776,151

@@ -1,4 +1,0 @@
-type: car
-plate: NJA5615
-layout: Brazilian
-corners: 886,288 1006,286 1008,329 887,329

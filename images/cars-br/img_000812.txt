@@ -1,4 +1,0 @@
-type: car
-plate: LRW8643
-layout: Brazilian
-corners: 539,399 666,399 666,441 539,441

@@ -1,4 +1,0 @@
-type: car
-plate: AYV6187
-layout: Brazilian
-corners: 743,255 859,253 863,294 745,295

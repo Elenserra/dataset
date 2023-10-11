@@ -1,4 +1,0 @@
-type: car
-plate: KYW4349
-layout: Brazilian
-corners: 917,150 1014,148 1014,178 918,180

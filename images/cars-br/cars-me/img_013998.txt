@@ -1,4 +1,0 @@
-type: car
-plate: KXW6C08
-layout: Mercosur
-corners: 814,329 947,327 949,372 814,373

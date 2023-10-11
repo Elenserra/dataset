@@ -1,4 +1,0 @@
-type: car
-plate: MSW6074
-layout: Brazilian
-corners: 510,317 641,313 644,359 511,361

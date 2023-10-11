@@ -1,4 +1,0 @@
-type: car
-plate: EZA3A85
-layout: Mercosur
-corners: 802,315 936,311 940,355 804,356

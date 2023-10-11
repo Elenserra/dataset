@@ -1,4 +1,0 @@
-type: car
-plate: PPJ1D62
-layout: Mercosur
-corners: 809,325 939,323 942,366 809,367

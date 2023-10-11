@@ -1,4 +1,0 @@
-type: car
-plate: JHC0151
-layout: Brazilian
-corners: 799,312 930,309 933,355 798,358

@@ -1,4 +1,0 @@
-type: car
-plate: QNH1C61
-layout: Mercosur
-corners: 892,176 991,174 992,208 892,210

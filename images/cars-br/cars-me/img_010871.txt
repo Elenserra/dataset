@@ -1,4 +1,0 @@
-type: car
-plate: MTA4F51
-layout: Mercosur
-corners: 570,397 695,397 696,436 572,436

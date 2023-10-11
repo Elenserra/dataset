@@ -1,4 +1,0 @@
-type: car
-plate: PXD9F91
-layout: Mercosur
-corners: 817,316 946,314 948,356 818,358

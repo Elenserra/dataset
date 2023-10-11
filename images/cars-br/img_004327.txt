@@ -1,4 +1,0 @@
-type: car
-plate: MTQ5666
-layout: Brazilian
-corners: 807,344 943,340 949,387 809,388

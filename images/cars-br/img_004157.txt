@@ -1,4 +1,0 @@
-type: car
-plate: IUE7829
-layout: Brazilian
-corners: 794,317 925,315 928,359 796,359

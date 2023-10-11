@@ -1,4 +1,0 @@
-type: car
-plate: ODP6F05
-layout: Mercosur
-corners: 584,388 707,389 708,428 584,427

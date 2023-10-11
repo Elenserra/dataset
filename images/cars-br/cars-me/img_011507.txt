@@ -1,4 +1,0 @@
-type: car
-plate: MRW9C11
-layout: Mercosur
-corners: 665,220 768,214 772,253 669,256

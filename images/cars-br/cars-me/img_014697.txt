@@ -1,4 +1,0 @@
-type: car
-plate: ODJ0H28
-layout: Mercosur
-corners: 791,339 929,342 930,387 792,383

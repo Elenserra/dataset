@@ -1,4 +1,0 @@
-type: car
-plate: PPW2533
-layout: Brazilian
-corners: 838,304 971,298 974,346 838,349

@@ -1,4 +1,0 @@
-type: car
-plate: GXI1I38
-layout: Mercosur
-corners: 581,383 695,383 696,417 581,418

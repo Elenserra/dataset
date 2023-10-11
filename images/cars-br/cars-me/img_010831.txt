@@ -1,4 +1,0 @@
-type: car
-plate: PPY0A29
-layout: Mercosur
-corners: 495,441 628,443 628,486 495,483

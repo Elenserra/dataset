@@ -1,4 +1,0 @@
-type: car
-plate: NWM4139
-layout: Brazilian
-corners: 807,365 934,363 937,405 808,408

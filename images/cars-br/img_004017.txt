@@ -1,4 +1,0 @@
-type: car
-plate: DLB4615
-layout: Brazilian
-corners: 1022,94 1106,90 1109,118 1023,122

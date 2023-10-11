@@ -1,4 +1,0 @@
-type: car
-plate: KXT8H52
-layout: Mercosur
-corners: 638,353 774,361 772,406 639,397

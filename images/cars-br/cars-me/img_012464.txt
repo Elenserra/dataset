@@ -1,4 +1,0 @@
-type: car
-plate: QRH1G99
-layout: Mercosur
-corners: 615,279 733,281 735,318 617,316

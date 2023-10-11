@@ -1,4 +1,0 @@
-type: car
-plate: PPI8B24
-layout: Mercosur
-corners: 570,413 701,415 704,457 572,454

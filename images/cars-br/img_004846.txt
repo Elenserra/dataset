@@ -1,4 +1,0 @@
-type: car
-plate: PPK6318
-layout: Brazilian
-corners: 971,107 1050,105 1052,132 971,134

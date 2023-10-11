@@ -1,4 +1,0 @@
-type: car
-plate: ODP5B10
-layout: Mercosur
-corners: 679,282 819,289 818,333 678,326

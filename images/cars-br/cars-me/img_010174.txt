@@ -1,4 +1,0 @@
-type: car
-plate: MTR2B15
-layout: Mercosur
-corners: 621,367 746,367 747,406 624,407

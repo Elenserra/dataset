@@ -1,4 +1,0 @@
-type: car
-plate: JQZ8180
-layout: Brazilian
-corners: 773,330 916,329 918,378 774,378

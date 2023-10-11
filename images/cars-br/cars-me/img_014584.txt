@@ -1,4 +1,0 @@
-type: car
-plate: QRC8F35
-layout: Mercosur
-corners: 740,265 876,263 878,308 742,309

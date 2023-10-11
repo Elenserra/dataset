@@ -1,4 +1,0 @@
-type: car
-plate: PWA6022
-layout: Brazilian
-corners: 755,341 887,340 891,382 758,382

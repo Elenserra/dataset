@@ -1,4 +1,0 @@
-type: car
-plate: MSY3J35
-layout: Mercosur
-corners: 694,285 818,287 820,330 694,328

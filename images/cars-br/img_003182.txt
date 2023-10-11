@@ -1,4 +1,0 @@
-type: car
-plate: PPZ5238
-layout: Brazilian
-corners: 704,267 821,268 822,305 705,303

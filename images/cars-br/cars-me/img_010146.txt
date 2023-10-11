@@ -1,4 +1,0 @@
-type: car
-plate: LNP8F94
-layout: Mercosur
-corners: 547,399 673,399 675,437 551,436

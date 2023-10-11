@@ -1,4 +1,0 @@
-type: car
-plate: PXJ8D45
-layout: Mercosur
-corners: 762,294 895,291 898,335 765,337

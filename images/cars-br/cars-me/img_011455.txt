@@ -1,4 +1,0 @@
-type: car
-plate: PMK9J17
-layout: Mercosur
-corners: 586,397 716,396 718,439 588,439

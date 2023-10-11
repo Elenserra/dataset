@@ -1,4 +1,0 @@
-type: car
-plate: MSQ4B36
-layout: Mercosur
-corners: 616,331 742,336 743,378 617,373

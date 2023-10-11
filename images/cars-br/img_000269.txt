@@ -1,4 +1,0 @@
-type: car
-plate: PPA1379
-layout: Brazilian
-corners: 801,96 866,95 868,116 801,118

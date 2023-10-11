@@ -1,4 +1,0 @@
-type: car
-plate: MTB7H83
-layout: Mercosur
-corners: 692,298 815,298 815,338 692,337

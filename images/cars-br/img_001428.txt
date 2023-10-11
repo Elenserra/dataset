@@ -1,4 +1,0 @@
-type: car
-plate: PPQ6186
-layout: Brazilian
-corners: 528,376 655,375 655,419 529,419

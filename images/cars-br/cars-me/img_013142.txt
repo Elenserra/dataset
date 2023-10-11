@@ -1,4 +1,0 @@
-type: car
-plate: MSA8E58
-layout: Mercosur
-corners: 711,275 825,278 826,316 712,313

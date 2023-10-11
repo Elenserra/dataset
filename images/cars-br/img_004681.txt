@@ -1,4 +1,0 @@
-type: car
-plate: MRN0186
-layout: Brazilian
-corners: 756,320 888,319 893,362 758,364

@@ -1,4 +1,0 @@
-type: car
-plate: OVJ4B44
-layout: Mercosur
-corners: 522,317 647,319 651,358 522,357

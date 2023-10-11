@@ -1,4 +1,0 @@
-type: car
-plate: ODQ8681
-layout: Brazilian
-corners: 748,359 883,358 886,404 750,405

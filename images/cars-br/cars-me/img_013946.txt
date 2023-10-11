@@ -1,4 +1,0 @@
-type: car
-plate: MTD1A45
-layout: Mercosur
-corners: 823,340 957,337 960,380 828,384

@@ -1,4 +1,0 @@
-type: car
-plate: PPB4710
-layout: Brazilian
-corners: 855,153 940,153 941,181 856,181

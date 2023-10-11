@@ -1,4 +1,0 @@
-type: car
-plate: KRE2J73
-layout: Mercosur
-corners: 800,382 937,377 944,413 805,420

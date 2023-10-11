@@ -1,4 +1,0 @@
-type: car
-plate: QRG2J15
-layout: Mercosur
-corners: 500,359 630,359 631,401 502,402

@@ -1,4 +1,0 @@
-type: car
-plate: PPN5137
-layout: Brazilian
-corners: 520,326 633,326 634,365 520,363

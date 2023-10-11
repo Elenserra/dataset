@@ -1,4 +1,0 @@
-type: car
-plate: EYE8090
-layout: Brazilian
-corners: 629,301 741,300 742,340 630,339

@@ -1,4 +1,0 @@
-type: car
-plate: MTC2J33
-layout: Mercosur
-corners: 715,271 829,273 831,312 715,309

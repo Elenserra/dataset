@@ -1,4 +1,0 @@
-type: car
-plate: ODG4151
-layout: Brazilian
-corners: 505,380 628,378 631,419 507,421

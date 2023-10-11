@@ -1,4 +1,0 @@
-type: car
-plate: PJU5H75
-layout: Mercosur
-corners: 421,460 561,464 561,508 425,504

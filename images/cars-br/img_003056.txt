@@ -1,4 +1,0 @@
-type: car
-plate: QRC3727
-layout: Brazilian
-corners: 585,295 709,296 711,339 586,337

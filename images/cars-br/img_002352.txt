@@ -1,4 +1,0 @@
-type: car
-plate: PPE8144
-layout: Brazilian
-corners: 625,171 722,170 724,204 625,205

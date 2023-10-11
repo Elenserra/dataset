@@ -1,4 +1,0 @@
-type: car
-plate: OCW3526
-layout: Brazilian
-corners: 638,289 742,289 743,325 639,324

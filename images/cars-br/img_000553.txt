@@ -1,4 +1,0 @@
-type: car
-plate: ODO8346
-layout: Brazilian
-corners: 792,135 868,133 869,159 792,161

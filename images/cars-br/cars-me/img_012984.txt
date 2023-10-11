@@ -1,4 +1,0 @@
-type: car
-plate: MTV5C96
-layout: Mercosur
-corners: 640,334 761,335 761,373 641,371

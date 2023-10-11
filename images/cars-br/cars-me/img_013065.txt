@@ -1,4 +1,0 @@
-type: car
-plate: PPO1B32
-layout: Mercosur
-corners: 767,223 872,224 872,256 768,255

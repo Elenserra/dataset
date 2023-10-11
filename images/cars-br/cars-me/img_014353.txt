@@ -1,4 +1,0 @@
-type: car
-plate: PPL7A05
-layout: Mercosur
-corners: 751,285 887,279 890,324 753,330

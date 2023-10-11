@@ -1,4 +1,0 @@
-type: car
-plate: MTX0C79
-layout: Mercosur
-corners: 682,311 807,312 809,353 683,352

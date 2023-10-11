@@ -1,4 +1,0 @@
-type: car
-plate: MTC6H43
-layout: Mercosur
-corners: 593,324 718,327 718,368 594,365

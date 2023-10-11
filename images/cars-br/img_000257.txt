@@ -1,4 +1,0 @@
-type: car
-plate: PPC9486
-layout: Brazilian
-corners: 641,303 746,302 746,335 641,335

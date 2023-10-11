@@ -1,4 +1,0 @@
-type: car
-plate: PPW3F03
-layout: Mercosur
-corners: 749,354 885,352 887,398 751,399

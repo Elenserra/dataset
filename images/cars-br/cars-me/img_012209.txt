@@ -1,4 +1,0 @@
-type: car
-plate: FQG0A45
-layout: Mercosur
-corners: 435,417 573,417 578,459 440,459

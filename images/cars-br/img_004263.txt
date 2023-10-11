@@ -1,4 +1,0 @@
-type: car
-plate: ODF4930
-layout: Brazilian
-corners: 491,401 621,401 622,445 491,445

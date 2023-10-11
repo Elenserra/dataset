@@ -1,4 +1,0 @@
-type: car
-plate: OWJ0J45
-layout: Mercosur
-corners: 757,361 896,359 900,405 758,407

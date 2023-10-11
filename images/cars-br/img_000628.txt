@@ -1,4 +1,0 @@
-type: car
-plate: MSW1233
-layout: Brazilian
-corners: 655,292 761,290 759,327 656,327

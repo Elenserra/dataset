@@ -1,4 +1,0 @@
-type: car
-plate: KPR0C73
-layout: Mercosur
-corners: 983,112 1063,109 1064,137 984,139

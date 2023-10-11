@@ -1,4 +1,0 @@
-type: car
-plate: MSL3E15
-layout: Mercosur
-corners: 845,300 973,296 975,340 846,343

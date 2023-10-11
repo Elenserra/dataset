@@ -1,4 +1,0 @@
-type: car
-plate: OYE3F08
-layout: Mercosur
-corners: 628,325 755,326 756,368 629,366

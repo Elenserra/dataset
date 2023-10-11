@@ -1,4 +1,0 @@
-type: car
-plate: MTW6087
-layout: Brazilian
-corners: 830,332 963,329 965,374 830,375

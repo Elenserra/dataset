@@ -1,4 +1,0 @@
-type: car
-plate: PUC4534
-layout: Brazilian
-corners: 547,399 671,399 672,441 548,441

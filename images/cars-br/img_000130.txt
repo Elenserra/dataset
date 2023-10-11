@@ -1,4 +1,0 @@
-type: car
-plate: MSR1353
-layout: Brazilian
-corners: 567,391 693,392 694,432 566,430

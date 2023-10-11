@@ -1,4 +1,0 @@
-type: car
-plate: PPQ8I78
-layout: Mercosur
-corners: 819,326 951,327 951,368 821,368

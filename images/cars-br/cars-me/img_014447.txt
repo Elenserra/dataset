@@ -1,4 +1,0 @@
-type: car
-plate: LUG0C70
-layout: Mercosur
-corners: 756,345 893,345 894,392 756,392

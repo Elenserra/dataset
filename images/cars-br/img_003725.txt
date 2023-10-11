@@ -1,4 +1,0 @@
-type: car
-plate: ENC3810
-layout: Brazilian
-corners: 828,303 956,303 956,346 827,347

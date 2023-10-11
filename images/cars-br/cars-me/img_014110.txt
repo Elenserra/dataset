@@ -1,4 +1,0 @@
-type: car
-plate: MQK6A59
-layout: Mercosur
-corners: 813,361 950,358 952,407 813,407

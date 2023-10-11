@@ -1,4 +1,0 @@
-type: car
-plate: MPJ4J61
-layout: Mercosur
-corners: 525,346 652,345 655,388 525,389

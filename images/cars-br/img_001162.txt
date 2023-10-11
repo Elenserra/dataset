@@ -1,4 +1,0 @@
-type: car
-plate: ODP6391
-layout: Brazilian
-corners: 706,197 793,196 794,225 706,226

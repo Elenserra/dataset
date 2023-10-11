@@ -1,4 +1,0 @@
-type: car
-plate: KXE4C51
-layout: Mercosur
-corners: 576,308 694,308 697,348 577,347

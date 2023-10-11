@@ -1,4 +1,0 @@
-type: car
-plate: ORB3168
-layout: Brazilian
-corners: 805,328 940,327 940,374 806,376

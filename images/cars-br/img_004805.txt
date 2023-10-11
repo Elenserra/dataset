@@ -1,4 +1,0 @@
-type: car
-plate: MRU1092
-layout: Brazilian
-corners: 874,223 992,218 997,259 875,262

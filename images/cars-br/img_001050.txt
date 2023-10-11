@@ -1,4 +1,0 @@
-type: car
-plate: OVJ6155
-layout: Brazilian
-corners: 636,275 740,276 740,312 636,311

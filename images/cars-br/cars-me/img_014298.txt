@@ -1,4 +1,0 @@
-type: car
-plate: PPY4C94
-layout: Mercosur
-corners: 765,337 901,337 903,382 766,382

@@ -1,4 +1,0 @@
-type: car
-plate: KNQ0954
-layout: Brazilian
-corners: 702,330 839,325 847,369 707,374

@@ -1,4 +1,0 @@
-type: car
-plate: OMY7F19
-layout: Mercosur
-corners: 644,232 753,232 755,268 645,268

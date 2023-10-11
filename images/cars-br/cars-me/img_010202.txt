@@ -1,4 +1,0 @@
-type: car
-plate: ODR0D28
-layout: Mercosur
-corners: 697,251 794,250 794,281 698,282

@@ -1,4 +1,0 @@
-type: car
-plate: FMO0J18
-layout: Mercosur
-corners: 604,139 695,137 697,167 604,169

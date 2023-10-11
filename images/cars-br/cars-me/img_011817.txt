@@ -1,4 +1,0 @@
-type: car
-plate: PPP8D84
-layout: Mercosur
-corners: 495,386 629,388 631,432 499,430

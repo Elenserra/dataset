@@ -1,4 +1,0 @@
-type: car
-plate: MSX0B16
-layout: Mercosur
-corners: 611,368 735,364 737,405 613,409

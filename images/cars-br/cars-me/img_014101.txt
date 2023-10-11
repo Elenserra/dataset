@@ -1,4 +1,0 @@
-type: car
-plate: QRJ3E21
-layout: Mercosur
-corners: 773,354 906,350 908,393 776,396

@@ -1,4 +1,0 @@
-type: car
-plate: PPQ3E79
-layout: Mercosur
-corners: 548,375 670,378 671,418 549,414

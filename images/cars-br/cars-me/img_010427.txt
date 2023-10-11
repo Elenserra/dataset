@@ -1,4 +1,0 @@
-type: car
-plate: ODT2I61
-layout: Mercosur
-corners: 658,389 779,389 779,427 659,427

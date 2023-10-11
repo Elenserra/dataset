@@ -1,4 +1,0 @@
-type: car
-plate: PPW8305
-layout: Brazilian
-corners: 758,326 895,325 898,376 760,376

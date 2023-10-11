@@ -1,4 +1,0 @@
-type: car
-plate: OVH1694
-layout: Brazilian
-corners: 824,303 954,301 958,344 825,346

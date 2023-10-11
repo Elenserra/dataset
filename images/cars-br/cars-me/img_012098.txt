@@ -1,4 +1,0 @@
-type: car
-plate: KSR6E66
-layout: Mercosur
-corners: 707,145 792,146 792,173 708,173

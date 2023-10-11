@@ -1,4 +1,0 @@
-type: car
-plate: PPK1261
-layout: Brazilian
-corners: 448,397 571,401 570,446 448,441

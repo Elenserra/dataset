@@ -1,4 +1,0 @@
-type: car
-plate: MRY8B70
-layout: Mercosur
-corners: 614,374 735,372 736,410 616,412

@@ -1,4 +1,0 @@
-type: car
-plate: MSX8597
-layout: Brazilian
-corners: 856,181 951,181 952,212 855,213

@@ -1,4 +1,0 @@
-type: car
-plate: LYL9273
-layout: Brazilian
-corners: 834,121 945,117 949,151 838,156

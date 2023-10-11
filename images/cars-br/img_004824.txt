@@ -1,4 +1,0 @@
-type: car
-plate: ODB4407
-layout: Brazilian
-corners: 915,255 1029,254 1031,295 914,294

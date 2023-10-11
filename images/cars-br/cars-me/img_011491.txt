@@ -1,4 +1,0 @@
-type: car
-plate: OFN1B11
-layout: Mercosur
-corners: 473,348 589,351 592,388 475,385

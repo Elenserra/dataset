@@ -1,4 +1,0 @@
-type: car
-plate: PPY3F71
-layout: Mercosur
-corners: 553,409 678,408 679,447 555,448

@@ -1,4 +1,0 @@
-type: car
-plate: QRL2I49
-layout: Mercosur
-corners: 549,330 669,329 671,372 549,369

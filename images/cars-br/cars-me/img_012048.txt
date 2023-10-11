@@ -1,4 +1,0 @@
-type: car
-plate: MRE5H39
-layout: Mercosur
-corners: 517,345 645,347 645,391 518,387

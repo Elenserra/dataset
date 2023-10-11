@@ -1,4 +1,0 @@
-type: car
-plate: DQZ3I17
-layout: Mercosur
-corners: 506,400 633,401 635,443 507,442

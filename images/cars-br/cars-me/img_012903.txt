@@ -1,4 +1,0 @@
-type: car
-plate: QRE7D75
-layout: Mercosur
-corners: 770,142 865,143 865,174 771,174

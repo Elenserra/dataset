@@ -1,4 +1,0 @@
-type: car
-plate: PPI2549
-layout: Brazilian
-corners: 801,134 882,134 882,162 801,162

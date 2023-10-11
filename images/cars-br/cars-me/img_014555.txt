@@ -1,4 +1,0 @@
-type: car
-plate: MRB9H48
-layout: Mercosur
-corners: 820,327 953,326 955,370 820,371

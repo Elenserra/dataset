@@ -1,4 +1,0 @@
-type: car
-plate: ODS9B30
-layout: Mercosur
-corners: 683,301 806,302 806,341 684,340

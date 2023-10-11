@@ -1,4 +1,0 @@
-type: car
-plate: MSR6D62
-layout: Mercosur
-corners: 675,359 813,368 813,413 676,402

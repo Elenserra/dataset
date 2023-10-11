@@ -1,4 +1,0 @@
-type: car
-plate: FHN8A58
-layout: Mercosur
-corners: 684,302 804,303 804,341 685,340

@@ -1,4 +1,0 @@
-type: car
-plate: LUH5D19
-layout: Mercosur
-corners: 476,347 604,349 606,394 476,390

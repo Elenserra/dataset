@@ -1,4 +1,0 @@
-type: car
-plate: QRF7J44
-layout: Mercosur
-corners: 761,353 893,351 895,396 761,395

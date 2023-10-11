@@ -1,4 +1,0 @@
-type: car
-plate: OVE9I99
-layout: Mercosur
-corners: 677,333 812,340 809,385 677,377

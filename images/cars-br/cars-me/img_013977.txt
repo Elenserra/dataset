@@ -1,4 +1,0 @@
-type: car
-plate: LMQ4H91
-layout: Mercosur
-corners: 820,329 952,326 953,371 819,372

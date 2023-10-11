@@ -1,4 +1,0 @@
-type: car
-plate: JMI9709
-layout: Brazilian
-corners: 608,328 748,341 748,386 607,374

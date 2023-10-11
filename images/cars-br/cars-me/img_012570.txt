@@ -1,4 +1,0 @@
-type: car
-plate: PPM5D93
-layout: Mercosur
-corners: 615,336 745,341 744,384 617,378

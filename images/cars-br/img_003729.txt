@@ -1,4 +1,0 @@
-type: car
-plate: MTW0226
-layout: Brazilian
-corners: 865,283 991,279 992,323 865,326

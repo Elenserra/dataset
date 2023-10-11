@@ -1,4 +1,0 @@
-type: car
-plate: QRE1A45
-layout: Mercosur
-corners: 829,146 919,147 919,175 830,176

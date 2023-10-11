@@ -1,4 +1,0 @@
-type: car
-plate: MQZ2664
-layout: Brazilian
-corners: 512,310 639,309 641,351 515,350

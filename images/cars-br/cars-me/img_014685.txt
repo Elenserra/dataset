@@ -1,4 +1,0 @@
-type: car
-plate: AME6F21
-layout: Mercosur
-corners: 802,351 938,347 940,394 805,395

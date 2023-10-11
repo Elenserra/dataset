@@ -1,4 +1,0 @@
-type: car
-plate: MSF0E86
-layout: Mercosur
-corners: 821,316 949,316 950,357 822,358

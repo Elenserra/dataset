@@ -1,4 +1,0 @@
-type: car
-plate: FXY0555
-layout: Brazilian
-corners: 795,361 932,358 934,407 796,407

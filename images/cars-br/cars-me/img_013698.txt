@@ -1,4 +1,0 @@
-type: car
-plate: QMQ8J15
-layout: Mercosur
-corners: 709,317 837,317 839,359 711,356

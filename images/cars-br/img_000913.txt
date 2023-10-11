@@ -1,4 +1,0 @@
-type: car
-plate: QRB2628
-layout: Brazilian
-corners: 482,397 610,397 610,442 483,440

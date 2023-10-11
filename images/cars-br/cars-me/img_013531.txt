@@ -1,4 +1,0 @@
-type: car
-plate: PPI9D16
-layout: Mercosur
-corners: 663,271 782,275 784,317 665,313

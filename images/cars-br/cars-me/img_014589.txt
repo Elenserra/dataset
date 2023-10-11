@@ -1,4 +1,0 @@
-type: car
-plate: HOD8A64
-layout: Mercosur
-corners: 832,356 969,353 973,396 837,399

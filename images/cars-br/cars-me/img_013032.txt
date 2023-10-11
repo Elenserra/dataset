@@ -1,4 +1,0 @@
-type: car
-plate: OCV9G85
-layout: Mercosur
-corners: 615,313 739,317 739,358 617,353

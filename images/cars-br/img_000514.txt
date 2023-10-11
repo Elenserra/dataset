@@ -1,4 +1,0 @@
-type: car
-plate: QRD2983
-layout: Brazilian
-corners: 717,142 794,142 794,167 716,168

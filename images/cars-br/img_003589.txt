@@ -1,4 +1,0 @@
-type: car
-plate: MTM4050
-layout: Brazilian
-corners: 923,216 1036,213 1038,252 923,255

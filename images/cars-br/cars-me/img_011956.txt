@@ -1,4 +1,0 @@
-type: car
-plate: PPI9I14
-layout: Mercosur
-corners: 507,379 633,380 634,422 508,420

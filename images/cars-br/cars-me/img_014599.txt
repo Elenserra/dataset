@@ -1,4 +1,0 @@
-type: car
-plate: ODP4I74
-layout: Mercosur
-corners: 785,339 916,337 919,381 786,381

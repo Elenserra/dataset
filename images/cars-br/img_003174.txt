@@ -1,4 +1,0 @@
-type: car
-plate: QRD1619
-layout: Brazilian
-corners: 474,341 604,344 605,388 475,385

@@ -1,4 +1,0 @@
-type: car
-plate: MTZ3F65
-layout: Mercosur
-corners: 830,307 959,304 962,349 829,352

@@ -1,4 +1,0 @@
-type: car
-plate: MSE9E82
-layout: Mercosur
-corners: 816,370 944,371 945,411 817,411

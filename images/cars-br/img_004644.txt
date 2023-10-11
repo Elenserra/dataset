@@ -1,4 +1,0 @@
-type: car
-plate: MRU6965
-layout: Brazilian
-corners: 837,254 952,253 956,290 839,292

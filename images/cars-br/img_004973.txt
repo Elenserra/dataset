@@ -1,4 +1,0 @@
-type: car
-plate: PPT6997
-layout: Brazilian
-corners: 610,337 749,346 749,393 608,383

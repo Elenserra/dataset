@@ -1,4 +1,0 @@
-type: car
-plate: AUM1B93
-layout: Mercosur
-corners: 861,267 978,268 978,307 861,306

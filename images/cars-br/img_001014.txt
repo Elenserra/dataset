@@ -1,4 +1,0 @@
-type: car
-plate: MSN0221
-layout: Brazilian
-corners: 564,391 689,392 690,435 564,433

@@ -1,4 +1,0 @@
-type: car
-plate: ODR5274
-layout: Brazilian
-corners: 520,282 644,282 647,321 523,324

@@ -1,4 +1,0 @@
-type: car
-plate: MRO1351
-layout: Brazilian
-corners: 538,409 659,411 659,449 538,448

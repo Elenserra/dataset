@@ -1,4 +1,0 @@
-type: car
-plate: MRR3G02
-layout: Mercosur
-corners: 562,287 681,286 682,326 561,326

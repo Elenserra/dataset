@@ -1,4 +1,0 @@
-type: car
-plate: MSR1274
-layout: Brazilian
-corners: 828,312 958,308 960,354 830,357

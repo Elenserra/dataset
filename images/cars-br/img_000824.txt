@@ -1,4 +1,0 @@
-type: car
-plate: OVF0629
-layout: Brazilian
-corners: 611,390 741,392 742,438 612,435

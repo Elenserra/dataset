@@ -1,4 +1,0 @@
-type: car
-plate: OVE1J14
-layout: Mercosur
-corners: 521,347 657,349 660,394 523,391

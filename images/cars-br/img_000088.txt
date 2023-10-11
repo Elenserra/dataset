@@ -1,4 +1,0 @@
-type: car
-plate: OYG1026
-layout: Brazilian
-corners: 550,258 651,257 654,288 553,289

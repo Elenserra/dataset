@@ -1,4 +1,0 @@
-type: car
-plate: MQP6638
-layout: Brazilian
-corners: 878,286 1002,283 1004,326 878,328

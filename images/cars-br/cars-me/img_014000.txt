@@ -1,4 +1,0 @@
-type: car
-plate: OYG1D43
-layout: Mercosur
-corners: 771,336 899,334 902,375 772,379

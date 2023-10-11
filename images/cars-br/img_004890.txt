@@ -1,4 +1,0 @@
-type: car
-plate: LPO3003
-layout: Brazilian
-corners: 984,191 1084,188 1084,223 984,225

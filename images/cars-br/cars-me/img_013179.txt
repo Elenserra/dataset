@@ -1,4 +1,0 @@
-type: car
-plate: DEB0C05
-layout: Mercosur
-corners: 774,219 880,221 880,255 775,253

@@ -1,4 +1,0 @@
-type: car
-plate: LMS9H90
-layout: Mercosur
-corners: 607,308 732,310 732,351 608,348

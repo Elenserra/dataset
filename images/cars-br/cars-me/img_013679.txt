@@ -1,4 +1,0 @@
-type: car
-plate: ODR2G51
-layout: Mercosur
-corners: 614,328 740,331 741,374 614,372

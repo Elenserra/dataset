@@ -1,4 +1,0 @@
-type: car
-plate: PPJ3A46
-layout: Mercosur
-corners: 564,377 691,378 692,421 566,421

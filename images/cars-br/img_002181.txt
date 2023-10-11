@@ -1,4 +1,0 @@
-type: car
-plate: PPX0700
-layout: Brazilian
-corners: 561,406 689,407 690,449 560,448

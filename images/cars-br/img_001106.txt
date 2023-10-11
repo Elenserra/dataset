@@ -1,4 +1,0 @@
-type: car
-plate: QNV8261
-layout: Brazilian
-corners: 652,270 755,269 755,306 652,306

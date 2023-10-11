@@ -1,4 +1,0 @@
-type: car
-plate: OYK8A36
-layout: Mercosur
-corners: 578,323 702,321 705,364 578,365

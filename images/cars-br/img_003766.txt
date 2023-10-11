@@ -1,4 +1,0 @@
-type: car
-plate: LUH3760
-layout: Brazilian
-corners: 776,335 909,332 911,376 778,378

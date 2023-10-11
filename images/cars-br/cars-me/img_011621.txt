@@ -1,4 +1,0 @@
-type: car
-plate: ELR9H76
-layout: Mercosur
-corners: 495,361 622,360 624,403 496,403

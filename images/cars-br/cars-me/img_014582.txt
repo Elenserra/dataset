@@ -1,4 +1,0 @@
-type: car
-plate: MRD7E29
-layout: Mercosur
-corners: 748,335 878,333 880,379 748,380

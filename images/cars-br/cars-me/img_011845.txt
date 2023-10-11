@@ -1,4 +1,0 @@
-type: car
-plate: PGC3J87
-layout: Mercosur
-corners: 492,293 613,295 614,337 492,335

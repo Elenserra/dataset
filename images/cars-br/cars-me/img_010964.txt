@@ -1,4 +1,0 @@
-type: car
-plate: ODH0F12
-layout: Mercosur
-corners: 511,498 645,500 645,541 515,538

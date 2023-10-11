@@ -1,4 +1,0 @@
-type: car
-plate: MTT9F90
-layout: Mercosur
-corners: 479,448 603,447 607,489 481,489

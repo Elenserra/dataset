@@ -1,4 +1,0 @@
-type: car
-plate: OYK5G11
-layout: Mercosur
-corners: 797,346 929,343 933,388 797,388

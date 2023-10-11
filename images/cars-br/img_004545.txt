@@ -1,4 +1,0 @@
-type: car
-plate: BWE2212
-layout: Brazilian
-corners: 537,415 676,421 685,464 542,457

@@ -1,4 +1,0 @@
-type: car
-plate: PPL7538
-layout: Brazilian
-corners: 878,283 1001,279 1005,320 880,322

@@ -1,4 +1,0 @@
-type: car
-plate: OVL7H12
-layout: Mercosur
-corners: 609,347 737,350 738,394 611,389

@@ -1,4 +1,0 @@
-type: car
-plate: PPK1B17
-layout: Mercosur
-corners: 1068,59 1135,57 1136,80 1070,82

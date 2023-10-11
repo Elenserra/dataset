@@ -1,4 +1,0 @@
-type: car
-plate: MTC8C99
-layout: Mercosur
-corners: 888,320 1018,318 1018,361 889,362

@@ -1,4 +1,0 @@
-type: car
-plate: QRI7G75
-layout: Mercosur
-corners: 597,323 717,324 719,364 598,362

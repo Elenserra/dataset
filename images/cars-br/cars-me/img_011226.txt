@@ -1,4 +1,0 @@
-type: car
-plate: KVW6D84
-layout: Mercosur
-corners: 502,390 626,389 627,429 501,429

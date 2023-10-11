@@ -1,4 +1,0 @@
-type: car
-plate: PPQ3307
-layout: Brazilian
-corners: 753,135 829,134 831,160 752,162

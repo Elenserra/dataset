@@ -1,4 +1,0 @@
-type: car
-plate: MPP2619
-layout: Brazilian
-corners: 771,370 907,366 911,412 775,417

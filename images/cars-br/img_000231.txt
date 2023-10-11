@@ -1,4 +1,0 @@
-type: car
-plate: PPA7949
-layout: Brazilian
-corners: 499,417 622,416 623,458 498,457

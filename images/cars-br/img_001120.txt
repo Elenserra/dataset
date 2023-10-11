@@ -1,4 +1,0 @@
-type: car
-plate: GDN0209
-layout: Brazilian
-corners: 521,423 648,424 649,464 522,464

@@ -1,4 +1,0 @@
-type: car
-plate: GZX4G17
-layout: Mercosur
-corners: 661,285 769,281 772,316 664,319

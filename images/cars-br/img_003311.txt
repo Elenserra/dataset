@@ -1,4 +1,0 @@
-type: car
-plate: MTZ8620
-layout: Brazilian
-corners: 684,321 811,324 813,367 686,365

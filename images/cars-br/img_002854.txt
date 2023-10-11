@@ -1,4 +1,0 @@
-type: car
-plate: MPE1118
-layout: Brazilian
-corners: 663,290 779,292 784,323 669,321

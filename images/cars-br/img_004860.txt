@@ -1,4 +1,0 @@
-type: car
-plate: ODH7986
-layout: Brazilian
-corners: 831,326 965,324 967,369 832,370

@@ -1,4 +1,0 @@
-type: car
-plate: KOA8428
-layout: Brazilian
-corners: 849,275 965,271 969,313 849,315

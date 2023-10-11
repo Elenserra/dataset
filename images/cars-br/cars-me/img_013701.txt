@@ -1,4 +1,0 @@
-type: car
-plate: ODG8D31
-layout: Mercosur
-corners: 987,15 1057,17 1058,40 987,39

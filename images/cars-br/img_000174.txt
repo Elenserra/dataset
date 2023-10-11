@@ -1,4 +1,0 @@
-type: car
-plate: ODS4396
-layout: Brazilian
-corners: 499,347 629,348 631,392 498,392

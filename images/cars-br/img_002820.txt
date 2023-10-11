@@ -1,4 +1,0 @@
-type: car
-plate: ODH4216
-layout: Brazilian
-corners: 662,306 788,311 786,353 662,349

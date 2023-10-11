@@ -1,4 +1,0 @@
-type: car
-plate: ODS2621
-layout: Brazilian
-corners: 516,329 641,329 642,368 518,368

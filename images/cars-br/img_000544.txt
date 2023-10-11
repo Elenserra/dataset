@@ -1,4 +1,0 @@
-type: car
-plate: MSN8551
-layout: Brazilian
-corners: 464,463 599,463 600,513 464,511

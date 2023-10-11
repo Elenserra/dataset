@@ -1,4 +1,0 @@
-type: car
-plate: OYD4842
-layout: Brazilian
-corners: 734,332 871,330 874,378 736,379

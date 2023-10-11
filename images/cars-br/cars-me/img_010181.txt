@@ -1,4 +1,0 @@
-type: car
-plate: QRE7I40
-layout: Mercosur
-corners: 538,400 665,402 667,442 541,440

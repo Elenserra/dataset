@@ -1,4 +1,0 @@
-type: car
-plate: HHZ6416
-layout: Brazilian
-corners: 524,471 655,473 657,517 529,513

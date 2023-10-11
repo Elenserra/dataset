@@ -1,4 +1,0 @@
-type: car
-plate: ODN5J61
-layout: Mercosur
-corners: 644,321 755,322 756,358 646,357

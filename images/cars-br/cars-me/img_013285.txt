@@ -1,4 +1,0 @@
-type: car
-plate: OCX4F43
-layout: Mercosur
-corners: 646,279 764,281 765,320 649,318

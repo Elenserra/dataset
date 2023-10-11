@@ -1,4 +1,0 @@
-type: car
-plate: PPC6245
-layout: Brazilian
-corners: 476,444 613,447 613,496 476,491

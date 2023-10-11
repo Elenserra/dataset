@@ -1,4 +1,0 @@
-type: car
-plate: HLP4594
-layout: Brazilian
-corners: 810,337 943,333 947,380 811,382

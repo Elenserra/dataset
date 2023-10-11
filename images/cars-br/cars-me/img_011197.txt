@@ -1,4 +1,0 @@
-type: car
-plate: OYD1E37
-layout: Mercosur
-corners: 725,217 819,216 820,245 727,245

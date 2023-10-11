@@ -1,4 +1,0 @@
-type: car
-plate: QRD2995
-layout: Brazilian
-corners: 552,250 650,250 651,283 552,282

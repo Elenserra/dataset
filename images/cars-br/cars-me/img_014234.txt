@@ -1,4 +1,0 @@
-type: car
-plate: OVF8D69
-layout: Mercosur
-corners: 1002,154 1099,151 1100,184 1002,187

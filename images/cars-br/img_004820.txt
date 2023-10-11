@@ -1,4 +1,0 @@
-type: car
-plate: OCX7458
-layout: Brazilian
-corners: 829,152 931,148 935,184 830,187

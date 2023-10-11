@@ -1,4 +1,0 @@
-type: car
-plate: PPU3886
-layout: Brazilian
-corners: 734,371 873,370 876,418 737,418

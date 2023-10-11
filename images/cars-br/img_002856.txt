@@ -1,4 +1,0 @@
-type: car
-plate: ODS6175
-layout: Brazilian
-corners: 632,335 761,338 762,382 634,378

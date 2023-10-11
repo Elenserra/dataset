@@ -1,4 +1,0 @@
-type: car
-plate: MSS5H50
-layout: Mercosur
-corners: 642,275 749,275 750,308 643,307

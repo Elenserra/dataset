@@ -1,4 +1,0 @@
-type: car
-plate: QRG0I82
-layout: Mercosur
-corners: 477,401 613,403 616,451 479,449

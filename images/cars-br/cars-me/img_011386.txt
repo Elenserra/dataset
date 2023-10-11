@@ -1,4 +1,0 @@
-type: car
-plate: ETE4D71
-layout: Mercosur
-corners: 461,379 584,381 586,424 462,421

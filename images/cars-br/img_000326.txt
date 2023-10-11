@@ -1,4 +1,0 @@
-type: car
-plate: ODR4769
-layout: Brazilian
-corners: 526,409 654,410 654,455 526,451

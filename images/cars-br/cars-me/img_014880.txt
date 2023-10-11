@@ -1,4 +1,0 @@
-type: car
-plate: PPC7A61
-layout: Mercosur
-corners: 726,262 851,267 851,309 725,303

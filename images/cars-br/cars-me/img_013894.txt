@@ -1,4 +1,0 @@
-type: car
-plate: PPU0G82
-layout: Mercosur
-corners: 798,329 929,328 932,370 800,372

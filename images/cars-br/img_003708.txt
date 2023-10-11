@@ -1,4 +1,0 @@
-type: car
-plate: QQO4994
-layout: Brazilian
-corners: 821,315 956,313 959,359 824,361

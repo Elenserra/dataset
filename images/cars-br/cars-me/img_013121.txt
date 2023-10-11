@@ -1,4 +1,0 @@
-type: car
-plate: OVH1E50
-layout: Mercosur
-corners: 704,304 826,306 827,347 705,345

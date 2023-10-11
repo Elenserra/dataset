@@ -1,4 +1,0 @@
-type: car
-plate: MRB4H66
-layout: Mercosur
-corners: 794,323 926,319 930,364 796,365

@@ -1,4 +1,0 @@
-type: car
-plate: MSS7C66
-layout: Mercosur
-corners: 615,333 725,333 726,367 616,366

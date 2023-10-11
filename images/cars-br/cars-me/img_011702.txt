@@ -1,4 +1,0 @@
-type: car
-plate: PPH2F89
-layout: Mercosur
-corners: 596,270 715,269 716,311 598,311

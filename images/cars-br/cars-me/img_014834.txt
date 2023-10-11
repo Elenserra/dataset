@@ -1,4 +1,0 @@
-type: car
-plate: NLB7I30
-layout: Mercosur
-corners: 742,246 862,250 862,290 742,287

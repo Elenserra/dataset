@@ -1,4 +1,0 @@
-type: car
-plate: PPV8752
-layout: Brazilian
-corners: 566,420 695,420 697,465 566,465

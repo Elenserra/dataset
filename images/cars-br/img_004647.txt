@@ -1,4 +1,0 @@
-type: car
-plate: PPJ1901
-layout: Brazilian
-corners: 859,295 1013,292 1015,324 861,327

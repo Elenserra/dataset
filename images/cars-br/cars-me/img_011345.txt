@@ -1,4 +1,0 @@
-type: car
-plate: PVP2F25
-layout: Mercosur
-corners: 573,237 687,236 689,275 574,275

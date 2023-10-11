@@ -1,4 +1,0 @@
-type: car
-plate: QRG0A59
-layout: Mercosur
-corners: 503,329 629,329 634,371 503,371

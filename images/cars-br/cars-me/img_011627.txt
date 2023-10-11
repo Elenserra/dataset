@@ -1,4 +1,0 @@
-type: car
-plate: QOH5H70
-layout: Mercosur
-corners: 470,410 598,413 602,457 471,451

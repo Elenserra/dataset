@@ -1,4 +1,0 @@
-type: car
-plate: MRV3523
-layout: Brazilian
-corners: 793,347 930,347 931,391 791,392

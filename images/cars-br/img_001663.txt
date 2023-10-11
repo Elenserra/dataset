@@ -1,4 +1,0 @@
-type: car
-plate: KAA7843
-layout: Brazilian
-corners: 859,69 924,68 925,92 860,92

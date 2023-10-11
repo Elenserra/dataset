@@ -1,4 +1,0 @@
-type: car
-plate: LTH6167
-layout: Brazilian
-corners: 809,329 941,327 944,372 811,374

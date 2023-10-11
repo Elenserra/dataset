@@ -1,4 +1,0 @@
-type: car
-plate: MPT3174
-layout: Brazilian
-corners: 847,339 976,333 982,377 851,381

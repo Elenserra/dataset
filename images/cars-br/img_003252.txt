@@ -1,4 +1,0 @@
-type: car
-plate: PVS4028
-layout: Brazilian
-corners: 749,125 848,124 851,157 751,158

@@ -1,4 +1,0 @@
-type: car
-plate: OFW6C59
-layout: Mercosur
-corners: 699,288 822,290 823,332 699,329

@@ -1,4 +1,0 @@
-type: car
-plate: ODL1997
-layout: Brazilian
-corners: 812,312 945,312 948,358 811,359

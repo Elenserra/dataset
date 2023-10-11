@@ -1,4 +1,0 @@
-type: car
-plate: ODG3I58
-layout: Mercosur
-corners: 797,300 920,299 923,339 798,339

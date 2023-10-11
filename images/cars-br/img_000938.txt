@@ -1,4 +1,0 @@
-type: car
-plate: KPW4529
-layout: Brazilian
-corners: 558,384 687,382 688,426 559,427

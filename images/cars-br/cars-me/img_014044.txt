@@ -1,4 +1,0 @@
-type: car
-plate: JSE1F58
-layout: Mercosur
-corners: 796,269 920,267 923,309 798,312

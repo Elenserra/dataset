@@ -1,4 +1,0 @@
-type: car
-plate: QPL9796
-layout: Brazilian
-corners: 976,210 1083,209 1083,244 974,247

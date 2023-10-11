@@ -1,4 +1,0 @@
-type: car
-plate: PMG7794
-layout: Brazilian
-corners: 457,361 577,363 577,405 457,402

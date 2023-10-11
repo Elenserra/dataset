@@ -1,4 +1,0 @@
-type: car
-plate: PPU5357
-layout: Brazilian
-corners: 707,353 839,350 841,396 708,397

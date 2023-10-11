@@ -1,4 +1,0 @@
-type: car
-plate: MSV3A36
-layout: Mercosur
-corners: 540,356 666,354 672,397 542,396

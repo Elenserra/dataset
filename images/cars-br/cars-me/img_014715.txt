@@ -1,4 +1,0 @@
-type: car
-plate: ODF2F14
-layout: Mercosur
-corners: 796,306 919,306 919,345 798,344

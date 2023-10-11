@@ -1,4 +1,0 @@
-type: car
-plate: LRP7D62
-layout: Mercosur
-corners: 869,207 985,204 989,241 872,245

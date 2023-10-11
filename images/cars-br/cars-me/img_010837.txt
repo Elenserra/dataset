@@ -1,4 +1,0 @@
-type: car
-plate: OWJ5I97
-layout: Mercosur
-corners: 525,381 644,383 647,421 526,420

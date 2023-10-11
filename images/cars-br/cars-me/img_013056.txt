@@ -1,4 +1,0 @@
-type: car
-plate: MRW7D14
-layout: Mercosur
-corners: 696,325 822,324 822,364 699,364

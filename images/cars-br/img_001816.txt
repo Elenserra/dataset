@@ -1,4 +1,0 @@
-type: car
-plate: ODE4307
-layout: Brazilian
-corners: 540,406 666,406 666,451 541,450

@@ -1,4 +1,0 @@
-type: car
-plate: OVK8D57
-layout: Mercosur
-corners: 668,310 781,310 783,348 669,349

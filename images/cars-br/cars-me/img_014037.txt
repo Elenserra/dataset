@@ -1,4 +1,0 @@
-type: car
-plate: QRL2E23
-layout: Mercosur
-corners: 677,322 813,319 817,365 678,366

@@ -1,4 +1,0 @@
-type: car
-plate: LMS6H49
-layout: Mercosur
-corners: 812,341 944,338 946,383 814,385

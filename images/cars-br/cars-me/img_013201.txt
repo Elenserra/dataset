@@ -1,4 +1,0 @@
-type: car
-plate: OCY9H89
-layout: Mercosur
-corners: 712,279 830,281 830,319 714,318

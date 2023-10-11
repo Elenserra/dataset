@@ -1,4 +1,0 @@
-type: car
-plate: OHX3757
-layout: Brazilian
-corners: 820,323 939,322 941,367 821,368

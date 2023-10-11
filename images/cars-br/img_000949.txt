@@ -1,4 +1,0 @@
-type: car
-plate: MTV2618
-layout: Brazilian
-corners: 531,374 655,374 655,416 532,415

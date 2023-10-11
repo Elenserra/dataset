@@ -1,4 +1,0 @@
-type: car
-plate: OLU5502
-layout: Brazilian
-corners: 553,294 659,294 660,333 553,332

@@ -1,4 +1,0 @@
-type: car
-plate: PPQ1223
-layout: Brazilian
-corners: 509,399 627,396 630,433 511,436

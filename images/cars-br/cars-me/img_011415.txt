@@ -1,4 +1,0 @@
-type: car
-plate: PPN6E20
-layout: Mercosur
-corners: 514,364 637,362 639,405 516,405

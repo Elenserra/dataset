@@ -1,4 +1,0 @@
-type: car
-plate: KVS7430
-layout: Brazilian
-corners: 932,203 1036,200 1037,235 933,237

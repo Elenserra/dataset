@@ -1,4 +1,0 @@
-type: car
-plate: MSW4228
-layout: Brazilian
-corners: 822,322 956,320 960,367 823,366

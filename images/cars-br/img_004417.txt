@@ -1,4 +1,0 @@
-type: car
-plate: MQR6973
-layout: Brazilian
-corners: 750,309 870,306 870,346 750,348

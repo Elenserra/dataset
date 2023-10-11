@@ -1,4 +1,0 @@
-type: car
-plate: QRJ9J25
-layout: Mercosur
-corners: 524,291 640,291 641,329 525,329

@@ -1,4 +1,0 @@
-type: car
-plate: PVT6143
-layout: Brazilian
-corners: 1014,109 1095,105 1096,133 1014,135

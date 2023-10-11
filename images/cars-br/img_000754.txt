@@ -1,4 +1,0 @@
-type: car
-plate: OVH0017
-layout: Brazilian
-corners: 561,381 686,382 688,426 561,424

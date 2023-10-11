@@ -1,4 +1,0 @@
-type: car
-plate: ODR4149
-layout: Brazilian
-corners: 614,346 735,346 737,391 613,390

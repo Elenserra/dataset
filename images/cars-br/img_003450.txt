@@ -1,4 +1,0 @@
-type: car
-plate: JHZ0352
-layout: Brazilian
-corners: 474,328 601,331 605,375 477,370

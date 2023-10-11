@@ -1,4 +1,0 @@
-type: car
-plate: MTC4119
-layout: Brazilian
-corners: 510,429 637,429 638,471 511,471

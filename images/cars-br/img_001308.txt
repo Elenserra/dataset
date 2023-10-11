@@ -1,4 +1,0 @@
-type: car
-plate: ODE2759
-layout: Brazilian
-corners: 519,413 645,413 646,456 520,456

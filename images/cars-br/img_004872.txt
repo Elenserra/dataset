@@ -1,4 +1,0 @@
-type: car
-plate: ODF3135
-layout: Brazilian
-corners: 851,305 976,304 977,348 850,349

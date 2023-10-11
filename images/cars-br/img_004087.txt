@@ -1,4 +1,0 @@
-type: car
-plate: OVL9154
-layout: Brazilian
-corners: 812,352 944,352 946,398 814,397

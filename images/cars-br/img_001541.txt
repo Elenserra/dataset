@@ -1,4 +1,0 @@
-type: car
-plate: MTK9460
-layout: Brazilian
-corners: 600,411 727,411 728,455 600,455

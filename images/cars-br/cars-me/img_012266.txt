@@ -1,4 +1,0 @@
-type: car
-plate: MTY7D28
-layout: Mercosur
-corners: 696,132 790,131 790,162 698,162

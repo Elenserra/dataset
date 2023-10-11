@@ -1,4 +1,0 @@
-type: car
-plate: OFQ9844
-layout: Brazilian
-corners: 809,326 943,323 946,369 810,372

@@ -1,4 +1,0 @@
-type: car
-plate: PZD0D57
-layout: Mercosur
-corners: 830,116 901,116 901,139 831,139

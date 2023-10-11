@@ -1,4 +1,0 @@
-type: car
-plate: ODK7B97
-layout: Mercosur
-corners: 798,175 895,179 896,212 798,209

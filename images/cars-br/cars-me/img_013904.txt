@@ -1,4 +1,0 @@
-type: car
-plate: ODG2G27
-layout: Mercosur
-corners: 798,342 928,341 931,386 798,385

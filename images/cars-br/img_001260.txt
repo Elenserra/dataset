@@ -1,4 +1,0 @@
-type: car
-plate: MSI3655
-layout: Brazilian
-corners: 413,458 542,459 545,503 414,500

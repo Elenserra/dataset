@@ -1,4 +1,0 @@
-type: car
-plate: OWP0505
-layout: Brazilian
-corners: 606,221 710,220 712,258 607,258

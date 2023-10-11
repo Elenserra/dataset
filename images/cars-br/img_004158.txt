@@ -1,4 +1,0 @@
-type: car
-plate: MRX2256
-layout: Brazilian
-corners: 782,331 913,326 916,373 782,374

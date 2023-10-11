@@ -1,4 +1,0 @@
-type: car
-plate: ODC6531
-layout: Brazilian
-corners: 597,382 722,381 723,426 598,425

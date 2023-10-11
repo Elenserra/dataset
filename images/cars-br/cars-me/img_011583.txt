@@ -1,4 +1,0 @@
-type: car
-plate: QRL6G07
-layout: Mercosur
-corners: 473,325 601,324 602,369 474,368

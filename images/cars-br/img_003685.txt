@@ -1,4 +1,0 @@
-type: car
-plate: MSI6626
-layout: Brazilian
-corners: 791,356 927,353 930,398 792,402

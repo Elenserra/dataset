@@ -1,4 +1,0 @@
-type: car
-plate: ODM8060
-layout: Brazilian
-corners: 504,330 633,329 633,369 505,369

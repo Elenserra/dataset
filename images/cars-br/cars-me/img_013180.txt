@@ -1,4 +1,0 @@
-type: car
-plate: ODK6F46
-layout: Mercosur
-corners: 735,269 850,270 850,306 736,306

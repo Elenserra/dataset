@@ -1,4 +1,0 @@
-type: car
-plate: DQO0483
-layout: Brazilian
-corners: 844,324 968,324 971,366 844,368

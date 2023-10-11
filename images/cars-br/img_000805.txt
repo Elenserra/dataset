@@ -1,4 +1,0 @@
-type: car
-plate: OVF3388
-layout: Brazilian
-corners: 708,263 808,262 810,294 709,294

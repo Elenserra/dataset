@@ -1,4 +1,0 @@
-type: car
-plate: MRZ0866
-layout: Brazilian
-corners: 821,331 953,328 956,371 824,375

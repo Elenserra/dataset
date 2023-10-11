@@ -1,4 +1,0 @@
-type: car
-plate: ODS3923
-layout: Brazilian
-corners: 816,316 950,311 954,355 819,361

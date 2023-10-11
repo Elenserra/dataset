@@ -1,4 +1,0 @@
-type: car
-plate: MTL6296
-layout: Brazilian
-corners: 466,306 592,304 593,347 468,349

@@ -1,4 +1,0 @@
-type: car
-plate: QOO7031
-layout: Brazilian
-corners: 439,489 575,489 576,536 439,536

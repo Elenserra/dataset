@@ -1,4 +1,0 @@
-type: car
-plate: OYD1691
-layout: Brazilian
-corners: 866,183 960,180 962,214 868,216

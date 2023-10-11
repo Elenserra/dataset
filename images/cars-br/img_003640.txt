@@ -1,4 +1,0 @@
-type: car
-plate: QNO5662
-layout: Brazilian
-corners: 875,230 986,228 989,267 876,269

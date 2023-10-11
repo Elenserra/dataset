@@ -1,4 +1,0 @@
-type: car
-plate: OYI4004
-layout: Brazilian
-corners: 723,369 861,369 864,414 726,414

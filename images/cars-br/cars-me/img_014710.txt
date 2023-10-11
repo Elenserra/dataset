@@ -1,4 +1,0 @@
-type: car
-plate: PPL8D33
-layout: Mercosur
-corners: 791,352 928,353 928,397 792,396

@@ -1,4 +1,0 @@
-type: car
-plate: NLC8A40
-layout: Mercosur
-corners: 781,334 916,331 920,377 782,378

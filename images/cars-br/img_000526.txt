@@ -1,4 +1,0 @@
-type: car
-plate: MRG6866
-layout: Brazilian
-corners: 754,226 844,223 845,255 753,256

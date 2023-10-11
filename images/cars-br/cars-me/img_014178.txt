@@ -1,4 +1,0 @@
-type: car
-plate: PPG6I94
-layout: Mercosur
-corners: 1008,143 1098,141 1100,172 1009,173

@@ -1,4 +1,0 @@
-type: car
-plate: PJY1I05
-layout: Mercosur
-corners: 451,418 592,421 592,468 452,465

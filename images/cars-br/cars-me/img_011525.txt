@@ -1,4 +1,0 @@
-type: car
-plate: MRA1F21
-layout: Mercosur
-corners: 596,279 716,276 718,317 597,319

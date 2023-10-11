@@ -1,4 +1,0 @@
-type: car
-plate: PPX0682
-layout: Brazilian
-corners: 648,319 771,324 772,365 650,361

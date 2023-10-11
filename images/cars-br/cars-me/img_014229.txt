@@ -1,4 +1,0 @@
-type: car
-plate: DEB3E59
-layout: Mercosur
-corners: 801,345 934,340 938,382 803,386

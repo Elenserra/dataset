@@ -1,4 +1,0 @@
-type: car
-plate: QRD2D58
-layout: Mercosur
-corners: 501,312 624,313 627,354 503,353

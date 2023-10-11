@@ -1,4 +1,0 @@
-type: car
-plate: QRE3H95
-layout: Mercosur
-corners: 684,329 821,337 818,385 683,375

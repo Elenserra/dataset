@@ -1,4 +1,0 @@
-type: car
-plate: MRZ8519
-layout: Brazilian
-corners: 844,295 974,291 977,337 845,338

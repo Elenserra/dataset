@@ -1,4 +1,0 @@
-type: car
-plate: QPB4482
-layout: Brazilian
-corners: 455,440 593,443 593,491 458,487

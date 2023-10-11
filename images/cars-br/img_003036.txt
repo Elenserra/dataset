@@ -1,4 +1,0 @@
-type: car
-plate: ODE4816
-layout: Brazilian
-corners: 989,356 1185,353 1177,426 978,434

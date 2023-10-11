@@ -1,4 +1,0 @@
-type: car
-plate: ODQ2D91
-layout: Mercosur
-corners: 816,326 952,322 954,367 818,369

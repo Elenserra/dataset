@@ -1,4 +1,0 @@
-type: car
-plate: QBV6B39
-layout: Mercosur
-corners: 582,223 690,223 692,261 581,260

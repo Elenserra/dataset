@@ -1,4 +1,0 @@
-type: car
-plate: QRG7H35
-layout: Mercosur
-corners: 569,408 696,408 697,447 572,448

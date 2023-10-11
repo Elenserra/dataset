@@ -1,4 +1,0 @@
-type: car
-plate: MQJ7618
-layout: Brazilian
-corners: 834,276 950,273 953,313 835,315

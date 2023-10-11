@@ -1,4 +1,0 @@
-type: car
-plate: KNW6E36
-layout: Mercosur
-corners: 685,383 816,382 817,423 690,422

@@ -1,4 +1,0 @@
-type: car
-plate: JIK9G12
-layout: Mercosur
-corners: 567,338 688,337 690,379 569,378

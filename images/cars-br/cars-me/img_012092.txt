@@ -1,4 +1,0 @@
-type: car
-plate: OVE9J90
-layout: Mercosur
-corners: 551,327 666,327 669,364 550,365

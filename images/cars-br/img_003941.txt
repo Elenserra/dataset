@@ -1,4 +1,0 @@
-type: car
-plate: QNV9350
-layout: Brazilian
-corners: 867,229 983,225 984,265 868,266

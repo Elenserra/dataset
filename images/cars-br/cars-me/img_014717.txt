@@ -1,4 +1,0 @@
-type: car
-plate: PPH2A51
-layout: Mercosur
-corners: 853,229 965,227 967,262 854,263

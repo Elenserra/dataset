@@ -1,4 +1,0 @@
-type: car
-plate: OYD2360
-layout: Brazilian
-corners: 532,399 661,399 661,443 534,443

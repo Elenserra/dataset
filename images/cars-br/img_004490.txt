@@ -1,4 +1,0 @@
-type: car
-plate: ODE2000
-layout: Brazilian
-corners: 822,325 959,321 961,368 823,371

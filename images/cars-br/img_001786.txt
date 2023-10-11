@@ -1,4 +1,0 @@
-type: car
-plate: LSN9622
-layout: Brazilian
-corners: 569,358 693,359 694,402 571,401

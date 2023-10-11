@@ -1,4 +1,0 @@
-type: car
-plate: ODR0E44
-layout: Mercosur
-corners: 663,207 758,207 759,240 663,240

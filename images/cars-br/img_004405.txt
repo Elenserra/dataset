@@ -1,4 +1,0 @@
-type: car
-plate: MTX2321
-layout: Brazilian
-corners: 832,348 964,346 967,391 833,392

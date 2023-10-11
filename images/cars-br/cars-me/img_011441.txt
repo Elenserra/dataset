@@ -1,4 +1,0 @@
-type: car
-plate: PPV3A16
-layout: Mercosur
-corners: 573,314 690,314 692,354 573,352

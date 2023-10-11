@@ -1,4 +1,0 @@
-type: car
-plate: PPD6032
-layout: Brazilian
-corners: 567,377 689,379 689,420 567,418

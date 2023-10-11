@@ -1,4 +1,0 @@
-type: car
-plate: MTD2D22
-layout: Mercosur
-corners: 510,414 638,415 641,457 511,456

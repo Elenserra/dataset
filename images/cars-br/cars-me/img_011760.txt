@@ -1,4 +1,0 @@
-type: car
-plate: BAS7I31
-layout: Mercosur
-corners: 539,330 661,329 664,370 541,370

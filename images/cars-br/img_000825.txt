@@ -1,4 +1,0 @@
-type: car
-plate: AUD9870
-layout: Brazilian
-corners: 500,245 610,241 612,279 501,283

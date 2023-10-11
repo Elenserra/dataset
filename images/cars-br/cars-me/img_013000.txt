@@ -1,4 +1,0 @@
-type: car
-plate: OCZ8D32
-layout: Mercosur
-corners: 664,242 775,242 775,278 664,278

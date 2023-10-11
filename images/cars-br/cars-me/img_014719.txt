@@ -1,4 +1,0 @@
-type: car
-plate: GVQ2C76
-layout: Mercosur
-corners: 980,212 1098,208 1100,246 982,250

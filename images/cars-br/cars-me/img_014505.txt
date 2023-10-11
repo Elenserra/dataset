@@ -1,4 +1,0 @@
-type: car
-plate: MTV4F16
-layout: Mercosur
-corners: 843,318 975,314 978,361 843,363

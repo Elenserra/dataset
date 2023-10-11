@@ -1,4 +1,0 @@
-type: car
-plate: PPV1J58
-layout: Mercosur
-corners: 696,317 819,320 820,359 698,357

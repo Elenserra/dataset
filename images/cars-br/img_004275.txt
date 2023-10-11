@@ -1,4 +1,0 @@
-type: car
-plate: MRS9832
-layout: Brazilian
-corners: 865,315 992,312 995,353 866,355

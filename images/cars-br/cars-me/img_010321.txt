@@ -1,4 +1,0 @@
-type: car
-plate: ODR9E35
-layout: Mercosur
-corners: 599,377 722,377 724,416 601,416

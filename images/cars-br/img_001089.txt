@@ -1,4 +1,0 @@
-type: car
-plate: FWB4566
-layout: Brazilian
-corners: 668,240 766,238 768,272 670,273

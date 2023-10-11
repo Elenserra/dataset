@@ -1,4 +1,0 @@
-type: car
-plate: MTC8C45
-layout: Mercosur
-corners: 724,279 850,287 850,328 723,322

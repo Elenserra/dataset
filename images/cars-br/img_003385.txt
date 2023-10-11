@@ -1,4 +1,0 @@
-type: car
-plate: MTU7718
-layout: Brazilian
-corners: 672,306 797,307 798,348 673,348

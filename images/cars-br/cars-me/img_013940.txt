@@ -1,4 +1,0 @@
-type: car
-plate: MRN3A72
-layout: Mercosur
-corners: 840,301 970,299 972,343 840,346

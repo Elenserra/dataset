@@ -1,4 +1,0 @@
-type: car
-plate: FVD2C99
-layout: Mercosur
-corners: 497,402 629,402 631,447 498,446

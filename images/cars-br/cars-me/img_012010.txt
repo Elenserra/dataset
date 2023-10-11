@@ -1,4 +1,0 @@
-type: car
-plate: CUB6D65
-layout: Mercosur
-corners: 509,365 628,369 629,409 509,405

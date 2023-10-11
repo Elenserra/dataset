@@ -1,4 +1,0 @@
-type: car
-plate: KPT3218
-layout: Brazilian
-corners: 551,389 671,391 673,429 552,427

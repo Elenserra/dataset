@@ -1,4 +1,0 @@
-type: car
-plate: MQF7485
-layout: Brazilian
-corners: 837,165 929,165 931,196 838,195

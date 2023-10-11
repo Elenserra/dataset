@@ -1,4 +1,0 @@
-type: car
-plate: MTV8795
-layout: Brazilian
-corners: 902,194 1004,191 1008,226 904,230

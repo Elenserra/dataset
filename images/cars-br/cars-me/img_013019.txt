@@ -1,4 +1,0 @@
-type: car
-plate: MRT1G01
-layout: Mercosur
-corners: 635,316 760,319 760,359 637,357

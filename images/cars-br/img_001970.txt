@@ -1,4 +1,0 @@
-type: car
-plate: ODI5590
-layout: Brazilian
-corners: 553,385 677,385 678,426 553,425

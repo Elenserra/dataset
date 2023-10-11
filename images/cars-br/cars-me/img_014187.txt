@@ -1,4 +1,0 @@
-type: car
-plate: KYL1F24
-layout: Mercosur
-corners: 839,232 958,232 961,271 840,273

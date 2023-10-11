@@ -1,4 +1,0 @@
-type: car
-plate: OYG8H98
-layout: Mercosur
-corners: 554,363 671,363 671,402 555,401

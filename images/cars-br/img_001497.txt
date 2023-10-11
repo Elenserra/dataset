@@ -1,4 +1,0 @@
-type: car
-plate: IWD5655
-layout: Brazilian
-corners: 740,379 880,377 881,423 741,425

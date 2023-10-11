@@ -1,4 +1,0 @@
-type: car
-plate: OYE0D14
-layout: Mercosur
-corners: 583,395 712,394 714,436 584,437

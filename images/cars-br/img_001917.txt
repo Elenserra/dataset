@@ -1,4 +1,0 @@
-type: car
-plate: PPV0918
-layout: Brazilian
-corners: 390,417 511,418 511,461 391,459

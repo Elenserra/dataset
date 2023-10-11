@@ -1,4 +1,0 @@
-type: car
-plate: PBG5687
-layout: Brazilian
-corners: 719,155 821,157 822,193 719,191

@@ -1,4 +1,0 @@
-type: car
-plate: QRG1G45
-layout: Mercosur
-corners: 776,380 913,378 917,422 777,424

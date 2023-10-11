@@ -1,4 +1,0 @@
-type: car
-plate: MRL6F01
-layout: Mercosur
-corners: 905,214 1012,212 1014,249 907,249

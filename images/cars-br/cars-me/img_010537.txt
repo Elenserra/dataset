@@ -1,4 +1,0 @@
-type: car
-plate: PPM0B05
-layout: Mercosur
-corners: 596,378 718,377 719,417 597,418

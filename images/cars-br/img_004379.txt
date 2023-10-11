@@ -1,4 +1,0 @@
-type: car
-plate: MQL1804
-layout: Brazilian
-corners: 772,319 898,316 899,359 771,361

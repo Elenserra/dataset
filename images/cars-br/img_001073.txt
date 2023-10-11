@@ -1,4 +1,0 @@
-type: car
-plate: ODL0148
-layout: Brazilian
-corners: 647,292 754,292 754,328 647,328

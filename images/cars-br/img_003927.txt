@@ -1,4 +1,0 @@
-type: car
-plate: ODC7533
-layout: Brazilian
-corners: 846,310 974,312 977,354 847,353

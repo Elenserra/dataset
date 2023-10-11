@@ -1,4 +1,0 @@
-type: car
-plate: MTY1273
-layout: Brazilian
-corners: 656,345 793,345 793,390 656,391

@@ -1,4 +1,0 @@
-type: car
-plate: LUM1G29
-layout: Mercosur
-corners: 658,208 761,207 762,242 659,242

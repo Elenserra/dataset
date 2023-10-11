@@ -1,4 +1,0 @@
-type: car
-plate: OYG2401
-layout: Brazilian
-corners: 814,279 937,277 939,319 815,320

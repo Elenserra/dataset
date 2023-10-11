@@ -1,4 +1,0 @@
-type: car
-plate: MTK0C61
-layout: Mercosur
-corners: 578,276 695,280 696,319 578,314

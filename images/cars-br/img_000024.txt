@@ -1,4 +1,0 @@
-type: car
-plate: NTB0219
-layout: Brazilian
-corners: 632,278 737,277 737,313 633,313

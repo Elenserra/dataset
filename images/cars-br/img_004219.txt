@@ -1,4 +1,0 @@
-type: car
-plate: QRD6890
-layout: Brazilian
-corners: 785,340 921,339 923,388 784,387

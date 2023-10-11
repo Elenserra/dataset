@@ -1,4 +1,0 @@
-type: car
-plate: OCV8797
-layout: Brazilian
-corners: 577,274 701,271 705,315 578,316

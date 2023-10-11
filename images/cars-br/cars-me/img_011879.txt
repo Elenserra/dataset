@@ -1,4 +1,0 @@
-type: car
-plate: OVI1I13
-layout: Mercosur
-corners: 634,231 744,229 747,266 637,266

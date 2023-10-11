@@ -1,4 +1,0 @@
-type: car
-plate: OYG4C46
-layout: Mercosur
-corners: 868,291 992,288 995,331 869,334

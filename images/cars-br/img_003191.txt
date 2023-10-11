@@ -1,4 +1,0 @@
-type: car
-plate: PPC4281
-layout: Brazilian
-corners: 548,321 674,322 673,369 548,365

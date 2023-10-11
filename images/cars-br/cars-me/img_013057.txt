@@ -1,4 +1,0 @@
-type: car
-plate: PPB0I02
-layout: Mercosur
-corners: 647,329 775,333 773,374 650,370

@@ -1,4 +1,0 @@
-type: car
-plate: OYK7514
-layout: Brazilian
-corners: 787,200 891,201 892,239 787,237

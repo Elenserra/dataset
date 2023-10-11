@@ -1,4 +1,0 @@
-type: car
-plate: LPF1607
-layout: Brazilian
-corners: 249,640 404,649 408,701 251,693

@@ -1,4 +1,0 @@
-type: car
-plate: ELL3B26
-layout: Mercosur
-corners: 776,334 913,336 913,381 776,379

@@ -1,4 +1,0 @@
-type: car
-plate: PPZ1G18
-layout: Mercosur
-corners: 875,248 991,249 992,284 876,285

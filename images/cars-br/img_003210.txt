@@ -1,4 +1,0 @@
-type: car
-plate: OCY5190
-layout: Brazilian
-corners: 633,298 751,302 752,342 634,335

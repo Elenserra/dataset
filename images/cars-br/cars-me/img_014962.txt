@@ -1,4 +1,0 @@
-type: car
-plate: OYH1H45
-layout: Mercosur
-corners: 658,342 791,350 790,393 658,386

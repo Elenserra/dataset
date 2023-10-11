@@ -1,4 +1,0 @@
-type: car
-plate: MQH0H76
-layout: Mercosur
-corners: 831,334 956,333 957,374 831,374

@@ -1,4 +1,0 @@
-type: car
-plate: MRB7B98
-layout: Mercosur
-corners: 898,279 1020,276 1024,317 900,320

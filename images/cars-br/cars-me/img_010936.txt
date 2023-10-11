@@ -1,4 +1,0 @@
-type: car
-plate: PPN8B56
-layout: Mercosur
-corners: 507,389 629,391 629,429 509,427

@@ -1,4 +1,0 @@
-type: car
-plate: OVL1G96
-layout: Mercosur
-corners: 814,179 913,180 914,211 815,211

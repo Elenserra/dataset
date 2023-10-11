@@ -1,4 +1,0 @@
-type: car
-plate: QRL1J87
-layout: Mercosur
-corners: 547,358 675,358 674,402 546,401

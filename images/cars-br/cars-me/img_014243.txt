@@ -1,4 +1,0 @@
-type: car
-plate: QRI0D83
-layout: Mercosur
-corners: 1019,127 1104,124 1106,153 1020,157

@@ -1,4 +1,0 @@
-type: car
-plate: MPW6181
-layout: Brazilian
-corners: 732,169 814,167 815,194 732,196

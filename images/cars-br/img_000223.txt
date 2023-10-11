@@ -1,4 +1,0 @@
-type: car
-plate: ODH8048
-layout: Brazilian
-corners: 525,377 647,377 649,419 526,420

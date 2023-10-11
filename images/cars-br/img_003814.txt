@@ -1,4 +1,0 @@
-type: car
-plate: OCZ2157
-layout: Brazilian
-corners: 774,252 889,248 896,287 776,291

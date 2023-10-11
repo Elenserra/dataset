@@ -1,4 +1,0 @@
-type: car
-plate: PPO1501
-layout: Brazilian
-corners: 780,333 911,332 914,377 780,377

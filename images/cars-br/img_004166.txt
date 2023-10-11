@@ -1,4 +1,0 @@
-type: car
-plate: MSL8048
-layout: Brazilian
-corners: 736,336 868,336 873,381 737,380

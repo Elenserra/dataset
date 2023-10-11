@@ -1,4 +1,0 @@
-type: car
-plate: MSD2843
-layout: Brazilian
-corners: 569,273 669,272 670,301 570,301

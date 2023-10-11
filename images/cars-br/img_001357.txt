@@ -1,4 +1,0 @@
-type: car
-plate: LOY5808
-layout: Brazilian
-corners: 581,398 709,397 710,442 583,443

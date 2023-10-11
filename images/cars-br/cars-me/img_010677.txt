@@ -1,4 +1,0 @@
-type: car
-plate: PPK1E94
-layout: Mercosur
-corners: 512,369 637,371 638,413 512,412

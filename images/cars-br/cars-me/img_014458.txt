@@ -1,4 +1,0 @@
-type: car
-plate: AHK0J24
-layout: Mercosur
-corners: 813,353 948,351 949,397 813,398

@@ -1,4 +1,0 @@
-type: car
-plate: PPQ0C95
-layout: Mercosur
-corners: 787,332 912,330 915,372 788,373

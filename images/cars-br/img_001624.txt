@@ -1,4 +1,0 @@
-type: car
-plate: MTZ5508
-layout: Brazilian
-corners: 739,255 852,256 852,296 739,295

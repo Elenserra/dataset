@@ -1,4 +1,0 @@
-type: car
-plate: QOB0E22
-layout: Mercosur
-corners: 870,317 1003,317 1004,359 872,361

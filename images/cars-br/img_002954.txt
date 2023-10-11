@@ -1,4 +1,0 @@
-type: car
-plate: HJJ5756
-layout: Brazilian
-corners: 792,325 922,324 922,368 792,368

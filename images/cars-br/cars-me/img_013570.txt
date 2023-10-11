@@ -1,4 +1,0 @@
-type: car
-plate: QRH1H44
-layout: Mercosur
-corners: 927,11 1002,12 1002,37 927,37

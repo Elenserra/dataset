@@ -1,4 +1,0 @@
-type: car
-plate: ODF1100
-layout: Brazilian
-corners: 702,366 838,363 843,411 704,412

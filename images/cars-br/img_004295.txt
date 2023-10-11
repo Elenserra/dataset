@@ -1,4 +1,0 @@
-type: car
-plate: OCZ5759
-layout: Brazilian
-corners: 778,324 911,323 914,368 779,369

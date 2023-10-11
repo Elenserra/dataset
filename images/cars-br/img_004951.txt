@@ -1,4 +1,0 @@
-type: car
-plate: PWJ6866
-layout: Brazilian
-corners: 804,334 938,335 939,380 805,377

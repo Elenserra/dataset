@@ -1,4 +1,0 @@
-type: car
-plate: PPW7551
-layout: Brazilian
-corners: 955,122 1033,121 1034,149 956,150

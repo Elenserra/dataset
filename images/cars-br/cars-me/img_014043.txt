@@ -1,4 +1,0 @@
-type: car
-plate: PRL6H23
-layout: Mercosur
-corners: 832,308 958,305 961,347 833,350

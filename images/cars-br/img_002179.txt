@@ -1,4 +1,0 @@
-type: car
-plate: PPS4459
-layout: Brazilian
-corners: 566,414 692,415 692,457 566,456

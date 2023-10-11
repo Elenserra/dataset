@@ -1,4 +1,0 @@
-type: car
-plate: OVK5J61
-layout: Mercosur
-corners: 646,353 776,357 777,400 648,397

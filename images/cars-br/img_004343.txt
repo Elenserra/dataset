@@ -1,4 +1,0 @@
-type: car
-plate: ODT3334
-layout: Brazilian
-corners: 709,260 841,257 844,303 711,304

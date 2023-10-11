@@ -1,4 +1,0 @@
-type: car
-plate: PPR6116
-layout: Brazilian
-corners: 806,328 944,325 948,370 809,372

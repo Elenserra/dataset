@@ -1,4 +1,0 @@
-type: car
-plate: PPH0712
-layout: Brazilian
-corners: 781,366 916,365 918,409 781,411

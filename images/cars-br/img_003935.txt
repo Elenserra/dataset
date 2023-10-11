@@ -1,4 +1,0 @@
-type: car
-plate: ODM7844
-layout: Brazilian
-corners: 960,78 1044,74 1046,103 960,106

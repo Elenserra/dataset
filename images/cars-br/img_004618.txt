@@ -1,4 +1,0 @@
-type: car
-plate: OYK3665
-layout: Brazilian
-corners: 887,237 1007,234 1009,275 887,276

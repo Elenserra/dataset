@@ -1,4 +1,0 @@
-type: car
-plate: OCY6F76
-layout: Mercosur
-corners: 533,325 663,325 667,367 534,368

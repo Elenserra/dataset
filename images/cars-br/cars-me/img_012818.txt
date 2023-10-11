@@ -1,4 +1,0 @@
-type: car
-plate: QRE5E49
-layout: Mercosur
-corners: 762,195 865,197 864,230 763,229

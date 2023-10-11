@@ -1,4 +1,0 @@
-type: car
-plate: QRG4E88
-layout: Mercosur
-corners: 675,214 772,214 773,246 676,246

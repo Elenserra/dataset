@@ -1,4 +1,0 @@
-type: car
-plate: MQO6D24
-layout: Mercosur
-corners: 690,215 782,215 782,246 691,245

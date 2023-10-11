@@ -1,4 +1,0 @@
-type: car
-plate: PZC0H94
-layout: Mercosur
-corners: 715,276 835,278 833,318 717,317

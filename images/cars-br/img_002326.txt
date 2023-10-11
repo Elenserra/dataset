@@ -1,4 +1,0 @@
-type: car
-plate: KWZ1156
-layout: Brazilian
-corners: 673,153 771,152 772,185 675,186

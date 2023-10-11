@@ -1,4 +1,0 @@
-type: car
-plate: ODL2J56
-layout: Mercosur
-corners: 522,350 656,348 659,393 524,394

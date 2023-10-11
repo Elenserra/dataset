@@ -1,4 +1,0 @@
-type: car
-plate: ODP0519
-layout: Brazilian
-corners: 500,349 622,352 623,394 501,391

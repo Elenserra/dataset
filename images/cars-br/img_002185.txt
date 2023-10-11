@@ -1,4 +1,0 @@
-type: car
-plate: MRE9388
-layout: Brazilian
-corners: 581,392 701,393 702,434 581,433

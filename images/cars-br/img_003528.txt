@@ -1,4 +1,0 @@
-type: car
-plate: QNI5581
-layout: Brazilian
-corners: 777,329 914,325 918,371 780,375

@@ -1,4 +1,0 @@
-type: car
-plate: PPG7A72
-layout: Mercosur
-corners: 475,443 610,444 613,490 478,488

@@ -1,4 +1,0 @@
-type: car
-plate: MQO6017
-layout: Brazilian
-corners: 939,213 1044,211 1046,249 939,249

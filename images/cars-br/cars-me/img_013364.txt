@@ -1,4 +1,0 @@
-type: car
-plate: PPB9G56
-layout: Mercosur
-corners: 659,255 770,258 771,293 661,291

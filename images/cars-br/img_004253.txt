@@ -1,4 +1,0 @@
-type: car
-plate: NTG9212
-layout: Brazilian
-corners: 794,346 927,345 931,391 795,393

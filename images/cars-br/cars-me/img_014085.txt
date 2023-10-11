@@ -1,4 +1,0 @@
-type: car
-plate: ODC7F29
-layout: Mercosur
-corners: 844,317 975,315 979,358 845,360

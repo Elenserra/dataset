@@ -1,4 +1,0 @@
-type: car
-plate: GVF5485
-layout: Brazilian
-corners: 812,340 945,340 947,385 813,385

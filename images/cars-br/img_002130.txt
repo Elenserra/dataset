@@ -1,4 +1,0 @@
-type: car
-plate: ODH4584
-layout: Brazilian
-corners: 471,413 602,414 603,460 473,459

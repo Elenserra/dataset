@@ -1,4 +1,0 @@
-type: car
-plate: KYR2071
-layout: Brazilian
-corners: 857,276 977,272 981,314 860,316

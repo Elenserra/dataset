@@ -1,4 +1,0 @@
-type: car
-plate: QRB8270
-layout: Brazilian
-corners: 879,216 993,212 996,251 880,255

@@ -1,4 +1,0 @@
-type: car
-plate: EOY0572
-layout: Brazilian
-corners: 555,369 674,369 676,409 558,407

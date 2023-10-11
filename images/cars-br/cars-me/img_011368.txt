@@ -1,4 +1,0 @@
-type: car
-plate: QAM0A21
-layout: Mercosur
-corners: 777,123 855,121 856,149 776,150

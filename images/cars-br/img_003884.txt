@@ -1,4 +1,0 @@
-type: car
-plate: OYO5010
-layout: Brazilian
-corners: 743,268 878,261 887,304 746,311

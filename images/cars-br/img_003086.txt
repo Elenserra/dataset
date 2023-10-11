@@ -1,4 +1,0 @@
-type: car
-plate: ODT1578
-layout: Brazilian
-corners: 573,292 694,297 694,338 573,333

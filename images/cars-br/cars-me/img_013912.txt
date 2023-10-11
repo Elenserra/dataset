@@ -1,4 +1,0 @@
-type: car
-plate: PYA8B93
-layout: Mercosur
-corners: 802,332 936,329 940,376 802,378

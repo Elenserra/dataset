@@ -1,4 +1,0 @@
-type: car
-plate: OCZ6222
-layout: Brazilian
-corners: 604,331 728,331 728,372 604,373

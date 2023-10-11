@@ -1,4 +1,0 @@
-type: car
-plate: PPQ1A85
-layout: Mercosur
-corners: 813,323 946,321 949,365 813,366

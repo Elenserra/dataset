@@ -1,4 +1,0 @@
-type: car
-plate: PPK7880
-layout: Brazilian
-corners: 997,115 1082,113 1083,139 998,141

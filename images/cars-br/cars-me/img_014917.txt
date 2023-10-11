@@ -1,4 +1,0 @@
-type: car
-plate: PPC1F29
-layout: Mercosur
-corners: 729,260 851,267 851,307 727,300

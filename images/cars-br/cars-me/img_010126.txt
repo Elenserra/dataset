@@ -1,4 +1,0 @@
-type: car
-plate: MSZ2J38
-layout: Mercosur
-corners: 695,237 795,236 795,270 696,270

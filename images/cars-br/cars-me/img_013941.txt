@@ -1,4 +1,0 @@
-type: car
-plate: PLP6B74
-layout: Mercosur
-corners: 781,342 916,340 920,387 781,388

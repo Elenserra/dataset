@@ -1,4 +1,0 @@
-type: car
-plate: OLF2G88
-layout: Mercosur
-corners: 785,357 917,355 922,398 785,400

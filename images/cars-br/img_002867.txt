@@ -1,4 +1,0 @@
-type: car
-plate: ODE4548
-layout: Brazilian
-corners: 631,313 754,314 755,357 634,356

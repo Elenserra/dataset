@@ -1,4 +1,0 @@
-type: car
-plate: MTF9808
-layout: Brazilian
-corners: 874,120 960,121 961,151 875,150

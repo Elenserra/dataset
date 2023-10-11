@@ -1,4 +1,0 @@
-type: car
-plate: OYK3627
-layout: Brazilian
-corners: 515,410 640,411 640,454 516,452

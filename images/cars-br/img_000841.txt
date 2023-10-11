@@ -1,4 +1,0 @@
-type: car
-plate: PPM2757
-layout: Brazilian
-corners: 471,306 593,305 594,349 472,349

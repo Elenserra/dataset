@@ -1,4 +1,0 @@
-type: car
-plate: OCX3707
-layout: Brazilian
-corners: 620,330 735,330 737,370 620,369

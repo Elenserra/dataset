@@ -1,4 +1,0 @@
-type: car
-plate: ODR1583
-layout: Brazilian
-corners: 699,315 827,319 827,361 700,359

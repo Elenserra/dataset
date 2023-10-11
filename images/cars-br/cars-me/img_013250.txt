@@ -1,4 +1,0 @@
-type: car
-plate: ODF0C19
-layout: Mercosur
-corners: 821,213 924,215 926,247 821,246

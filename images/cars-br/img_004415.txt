@@ -1,4 +1,0 @@
-type: car
-plate: MTV9714
-layout: Brazilian
-corners: 860,331 986,333 987,378 860,374

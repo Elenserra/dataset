@@ -1,4 +1,0 @@
-type: car
-plate: PLG8011
-layout: Brazilian
-corners: 672,330 804,328 807,374 673,375

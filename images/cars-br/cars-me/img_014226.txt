@@ -1,4 +1,0 @@
-type: car
-plate: AVY0I24
-layout: Mercosur
-corners: 953,201 1053,199 1055,233 953,235

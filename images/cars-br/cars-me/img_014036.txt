@@ -1,4 +1,0 @@
-type: car
-plate: MTE4D41
-layout: Mercosur
-corners: 827,334 957,333 962,374 830,375

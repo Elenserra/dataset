@@ -1,4 +1,0 @@
-type: car
-plate: ODF2786
-layout: Brazilian
-corners: 444,299 568,298 570,339 444,339

@@ -1,4 +1,0 @@
-type: car
-plate: QRG7E53
-layout: Mercosur
-corners: 506,371 632,370 635,411 507,412

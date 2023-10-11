@@ -1,4 +1,0 @@
-type: car
-plate: ODG1893
-layout: Brazilian
-corners: 602,286 726,289 727,330 602,327

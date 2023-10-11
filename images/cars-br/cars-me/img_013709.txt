@@ -1,4 +1,0 @@
-type: car
-plate: QRH7C54
-layout: Mercosur
-corners: 807,68 892,67 892,96 808,98

@@ -1,4 +1,0 @@
-type: car
-plate: DKB8587
-layout: Brazilian
-corners: 407,488 552,491 552,536 409,535

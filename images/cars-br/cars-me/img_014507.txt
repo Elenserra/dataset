@@ -1,4 +1,0 @@
-type: car
-plate: ODD2B09
-layout: Mercosur
-corners: 780,329 909,328 912,374 781,373

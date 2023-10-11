@@ -1,4 +1,0 @@
-type: car
-plate: QRE0F26
-layout: Mercosur
-corners: 522,409 650,410 651,453 522,451

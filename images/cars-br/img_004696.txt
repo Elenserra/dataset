@@ -1,4 +1,0 @@
-type: car
-plate: OYD9025
-layout: Brazilian
-corners: 785,333 921,330 924,377 788,376

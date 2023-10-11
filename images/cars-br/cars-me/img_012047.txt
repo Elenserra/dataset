@@ -1,4 +1,0 @@
-type: car
-plate: NRN0D54
-layout: Mercosur
-corners: 682,206 775,203 777,235 684,236

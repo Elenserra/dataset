@@ -1,4 +1,0 @@
-type: car
-plate: GYL3311
-layout: Brazilian
-corners: 533,416 660,417 661,457 533,456

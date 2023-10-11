@@ -1,4 +1,0 @@
-type: car
-plate: ODN1B19
-layout: Mercosur
-corners: 489,325 614,326 618,367 491,366

@@ -1,4 +1,0 @@
-type: car
-plate: LPC7695
-layout: Brazilian
-corners: 658,230 759,231 760,264 659,264

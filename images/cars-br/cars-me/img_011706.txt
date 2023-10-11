@@ -1,4 +1,0 @@
-type: car
-plate: PWF1D69
-layout: Mercosur
-corners: 580,310 693,311 695,350 581,347

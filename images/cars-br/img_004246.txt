@@ -1,4 +1,0 @@
-type: car
-plate: PPT5778
-layout: Brazilian
-corners: 751,305 883,302 885,345 753,348

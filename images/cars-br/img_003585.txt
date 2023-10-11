@@ -1,4 +1,0 @@
-type: car
-plate: ODM3765
-layout: Brazilian
-corners: 828,337 958,338 963,380 828,378

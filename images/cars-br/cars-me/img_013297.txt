@@ -1,4 +1,0 @@
-type: car
-plate: OVI2A76
-layout: Mercosur
-corners: 694,349 822,349 822,389 695,390

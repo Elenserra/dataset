@@ -1,4 +1,0 @@
-type: car
-plate: LRR9C91
-layout: Mercosur
-corners: 717,348 850,348 853,391 718,392

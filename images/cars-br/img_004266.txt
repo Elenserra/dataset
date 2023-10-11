@@ -1,4 +1,0 @@
-type: car
-plate: LSC6123
-layout: Brazilian
-corners: 760,334 895,331 898,379 760,382

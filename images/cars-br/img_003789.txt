@@ -1,4 +1,0 @@
-type: car
-plate: ANJ1023
-layout: Brazilian
-corners: 824,329 959,323 964,370 825,374

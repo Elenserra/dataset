@@ -1,4 +1,0 @@
-type: car
-plate: OVK4394
-layout: Brazilian
-corners: 397,439 535,442 535,492 396,489

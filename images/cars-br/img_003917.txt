@@ -1,4 +1,0 @@
-type: car
-plate: OCW4796
-layout: Brazilian
-corners: 938,235 1050,234 1054,271 940,273

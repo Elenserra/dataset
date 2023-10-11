@@ -1,4 +1,0 @@
-type: car
-plate: PPC9747
-layout: Brazilian
-corners: 825,329 957,327 960,375 825,375

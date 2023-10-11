@@ -1,4 +1,0 @@
-type: car
-plate: FIM1755
-layout: Brazilian
-corners: 638,368 780,375 778,423 637,414

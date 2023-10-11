@@ -1,4 +1,0 @@
-type: car
-plate: OOJ1A21
-layout: Mercosur
-corners: 633,289 741,289 742,323 634,324

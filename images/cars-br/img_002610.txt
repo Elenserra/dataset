@@ -1,4 +1,0 @@
-type: car
-plate: OVL7967
-layout: Brazilian
-corners: 909,49 982,49 983,73 910,74

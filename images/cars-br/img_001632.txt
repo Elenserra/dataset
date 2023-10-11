@@ -1,4 +1,0 @@
-type: car
-plate: QRD2724
-layout: Brazilian
-corners: 843,87 911,86 911,109 843,110

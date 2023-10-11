@@ -1,4 +1,0 @@
-type: car
-plate: PPO9472
-layout: Brazilian
-corners: 839,321 970,318 972,363 839,365

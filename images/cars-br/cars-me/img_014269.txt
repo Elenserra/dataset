@@ -1,4 +1,0 @@
-type: car
-plate: KVY9B32
-layout: Mercosur
-corners: 711,274 843,272 847,316 714,318

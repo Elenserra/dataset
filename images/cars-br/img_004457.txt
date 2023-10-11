@@ -1,4 +1,0 @@
-type: car
-plate: MTE7821
-layout: Brazilian
-corners: 829,349 968,348 971,395 830,395

@@ -1,4 +1,0 @@
-type: car
-plate: OYI4B35
-layout: Mercosur
-corners: 494,330 623,331 626,373 497,370

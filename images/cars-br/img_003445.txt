@@ -1,4 +1,0 @@
-type: car
-plate: EIB7543
-layout: Brazilian
-corners: 908,18 977,18 978,41 909,42

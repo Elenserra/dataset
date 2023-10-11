@@ -1,4 +1,0 @@
-type: car
-plate: KXD8A83
-layout: Mercosur
-corners: 810,358 947,356 949,403 811,403

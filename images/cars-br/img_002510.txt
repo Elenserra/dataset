@@ -1,4 +1,0 @@
-type: car
-plate: QNS7486
-layout: Brazilian
-corners: 746,24 818,22 820,46 747,49

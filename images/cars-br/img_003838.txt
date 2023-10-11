@@ -1,4 +1,0 @@
-type: car
-plate: NOD5387
-layout: Brazilian
-corners: 677,244 804,240 809,282 679,286

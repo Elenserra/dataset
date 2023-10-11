@@ -1,4 +1,0 @@
-type: car
-plate: PPT1G04
-layout: Mercosur
-corners: 754,163 839,161 840,191 754,191

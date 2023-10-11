@@ -1,4 +1,0 @@
-type: car
-plate: MTM8C60
-layout: Mercosur
-corners: 808,353 942,351 945,395 809,396

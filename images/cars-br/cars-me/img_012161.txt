@@ -1,4 +1,0 @@
-type: car
-plate: MTK3D08
-layout: Mercosur
-corners: 558,343 673,341 679,378 560,379

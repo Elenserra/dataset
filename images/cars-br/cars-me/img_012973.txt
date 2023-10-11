@@ -1,4 +1,0 @@
-type: car
-plate: LTT8D33
-layout: Mercosur
-corners: 588,334 714,334 714,374 591,375

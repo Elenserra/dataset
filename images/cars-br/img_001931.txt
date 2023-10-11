@@ -1,4 +1,0 @@
-type: car
-plate: PWZ0050
-layout: Brazilian
-corners: 603,271 714,272 714,308 603,307

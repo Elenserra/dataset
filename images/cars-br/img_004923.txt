@@ -1,4 +1,0 @@
-type: car
-plate: QQA0258
-layout: Brazilian
-corners: 924,213 1029,210 1032,247 925,250

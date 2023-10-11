@@ -1,4 +1,0 @@
-type: car
-plate: PPS1807
-layout: Brazilian
-corners: 841,313 972,311 974,357 841,360

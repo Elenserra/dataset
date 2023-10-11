@@ -1,4 +1,0 @@
-type: car
-plate: MPT6696
-layout: Brazilian
-corners: 837,309 965,303 970,347 840,352

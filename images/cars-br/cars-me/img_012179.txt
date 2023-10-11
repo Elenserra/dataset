@@ -1,4 +1,0 @@
-type: car
-plate: MQU7F11
-layout: Mercosur
-corners: 541,291 651,293 657,326 544,323

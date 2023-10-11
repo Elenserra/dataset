@@ -1,4 +1,0 @@
-type: car
-plate: MTL0940
-layout: Brazilian
-corners: 789,374 914,370 918,410 792,414

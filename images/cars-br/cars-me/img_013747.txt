@@ -1,4 +1,0 @@
-type: car
-plate: RBA5G68
-layout: Mercosur
-corners: 683,311 807,313 809,355 682,350

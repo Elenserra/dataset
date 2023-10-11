@@ -1,4 +1,0 @@
-type: car
-plate: KXK5188
-layout: Brazilian
-corners: 1069,45 1137,41 1138,61 1071,63

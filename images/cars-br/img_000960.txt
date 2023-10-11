@@ -1,4 +1,0 @@
-type: car
-plate: PWW9166
-layout: Brazilian
-corners: 511,396 640,397 640,443 510,440

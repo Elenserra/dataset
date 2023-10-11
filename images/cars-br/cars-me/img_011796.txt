@@ -1,4 +1,0 @@
-type: car
-plate: OYF0A79
-layout: Mercosur
-corners: 553,366 673,368 676,408 553,405

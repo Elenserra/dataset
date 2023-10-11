@@ -1,4 +1,0 @@
-type: car
-plate: ODL3B36
-layout: Mercosur
-corners: 786,325 911,324 914,366 786,367

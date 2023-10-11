@@ -1,4 +1,0 @@
-type: car
-plate: PPY7727
-layout: Brazilian
-corners: 633,251 737,251 737,286 633,286

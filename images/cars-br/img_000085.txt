@@ -1,4 +1,0 @@
-type: car
-plate: OYH9528
-layout: Brazilian
-corners: 597,262 701,262 702,296 598,296

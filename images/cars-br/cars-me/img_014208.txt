@@ -1,4 +1,0 @@
-type: car
-plate: PPU7D87
-layout: Mercosur
-corners: 794,321 921,320 924,363 794,363

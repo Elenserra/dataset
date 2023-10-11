@@ -1,4 +1,0 @@
-type: car
-plate: MTH9401
-layout: Brazilian
-corners: 587,379 713,379 714,422 590,421

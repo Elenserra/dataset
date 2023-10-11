@@ -1,4 +1,0 @@
-type: car
-plate: MSM1I02
-layout: Mercosur
-corners: 812,207 917,208 918,239 812,238

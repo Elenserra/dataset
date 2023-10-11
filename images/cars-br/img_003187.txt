@@ -1,4 +1,0 @@
-type: car
-plate: PPA9043
-layout: Brazilian
-corners: 679,317 805,317 807,360 685,358

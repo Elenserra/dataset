@@ -1,4 +1,0 @@
-type: car
-plate: ODD6E85
-layout: Mercosur
-corners: 522,329 640,329 644,368 522,368

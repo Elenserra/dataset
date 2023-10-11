@@ -1,4 +1,0 @@
-type: car
-plate: PPZ9321
-layout: Brazilian
-corners: 842,166 938,167 939,199 842,199

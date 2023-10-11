@@ -1,4 +1,0 @@
-type: car
-plate: OYI2F43
-layout: Mercosur
-corners: 550,312 675,315 677,356 553,353

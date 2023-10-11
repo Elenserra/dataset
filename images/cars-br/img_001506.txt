@@ -1,4 +1,0 @@
-type: car
-plate: PPR1573
-layout: Brazilian
-corners: 597,353 711,355 712,399 597,397

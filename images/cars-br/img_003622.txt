@@ -1,4 +1,0 @@
-type: car
-plate: MRE8327
-layout: Brazilian
-corners: 877,222 996,224 999,261 877,262

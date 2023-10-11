@@ -1,4 +1,0 @@
-type: car
-plate: ODA0782
-layout: Brazilian
-corners: 832,243 948,239 951,278 835,280

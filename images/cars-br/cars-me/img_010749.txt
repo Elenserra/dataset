@@ -1,4 +1,0 @@
-type: car
-plate: MTQ7C43
-layout: Mercosur
-corners: 515,397 646,400 647,445 515,441

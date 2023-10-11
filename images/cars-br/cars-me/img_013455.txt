@@ -1,4 +1,0 @@
-type: car
-plate: LMQ6F27
-layout: Mercosur
-corners: 769,138 864,138 864,171 770,170

@@ -1,4 +1,0 @@
-type: car
-plate: PPU6399
-layout: Brazilian
-corners: 473,447 602,448 603,490 473,488

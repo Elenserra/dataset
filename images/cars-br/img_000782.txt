@@ -1,4 +1,0 @@
-type: car
-plate: OVE4103
-layout: Brazilian
-corners: 570,393 699,392 701,436 572,438

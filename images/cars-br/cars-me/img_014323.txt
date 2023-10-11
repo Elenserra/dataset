@@ -1,4 +1,0 @@
-type: car
-plate: LOA0B76
-layout: Mercosur
-corners: 778,247 895,243 897,282 778,287

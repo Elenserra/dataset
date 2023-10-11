@@ -1,4 +1,0 @@
-type: car
-plate: QRK7I04
-layout: Mercosur
-corners: 742,274 877,272 880,319 743,319

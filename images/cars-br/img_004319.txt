@@ -1,4 +1,0 @@
-type: car
-plate: MRL0389
-layout: Brazilian
-corners: 788,286 920,283 920,328 787,331

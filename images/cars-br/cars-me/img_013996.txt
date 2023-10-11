@@ -1,4 +1,0 @@
-type: car
-plate: HIM3D53
-layout: Mercosur
-corners: 815,316 945,315 948,357 817,358

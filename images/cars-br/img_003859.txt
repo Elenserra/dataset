@@ -1,4 +1,0 @@
-type: car
-plate: MRX2138
-layout: Brazilian
-corners: 854,317 984,315 988,358 856,359

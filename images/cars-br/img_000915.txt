@@ -1,4 +1,0 @@
-type: car
-plate: MSP1814
-layout: Brazilian
-corners: 516,368 643,367 645,410 517,412

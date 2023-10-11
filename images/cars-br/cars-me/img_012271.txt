@@ -1,4 +1,0 @@
-type: car
-plate: PPH1I22
-layout: Mercosur
-corners: 465,300 590,297 592,337 468,339

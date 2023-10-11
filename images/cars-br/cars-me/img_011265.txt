@@ -1,4 +1,0 @@
-type: car
-plate: GUH1F17
-layout: Mercosur
-corners: 502,384 624,384 628,421 505,421

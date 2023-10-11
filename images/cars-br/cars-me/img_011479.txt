@@ -1,4 +1,0 @@
-type: car
-plate: QRG5H58
-layout: Mercosur
-corners: 488,367 617,369 619,410 489,408

@@ -1,4 +1,0 @@
-type: car
-plate: ODJ3I88
-layout: Mercosur
-corners: 703,335 839,341 838,385 703,379

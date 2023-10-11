@@ -1,4 +1,0 @@
-type: car
-plate: PAG4933
-layout: Brazilian
-corners: 815,341 950,339 954,384 817,386

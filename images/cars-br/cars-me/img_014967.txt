@@ -1,4 +1,0 @@
-type: car
-plate: ODT1E08
-layout: Mercosur
-corners: 643,320 783,328 782,375 642,367

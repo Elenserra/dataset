@@ -1,4 +1,0 @@
-type: car
-plate: QGP1987
-layout: Brazilian
-corners: 552,376 679,377 680,421 553,420

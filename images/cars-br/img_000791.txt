@@ -1,4 +1,0 @@
-type: car
-plate: OUT2108
-layout: Brazilian
-corners: 514,399 640,399 640,440 513,439

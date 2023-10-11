@@ -1,4 +1,0 @@
-type: car
-plate: PXE4J95
-layout: Mercosur
-corners: 792,313 921,311 925,354 793,355

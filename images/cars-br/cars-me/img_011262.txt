@@ -1,4 +1,0 @@
-type: car
-plate: ODQ9D66
-layout: Mercosur
-corners: 627,302 736,303 736,338 628,338

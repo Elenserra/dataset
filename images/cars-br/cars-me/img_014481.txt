@@ -1,4 +1,0 @@
-type: car
-plate: OYF7E10
-layout: Mercosur
-corners: 780,381 915,381 917,426 782,424

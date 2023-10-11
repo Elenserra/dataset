@@ -1,4 +1,0 @@
-type: car
-plate: PPX4369
-layout: Brazilian
-corners: 616,340 743,342 746,384 620,380

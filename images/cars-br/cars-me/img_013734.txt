@@ -1,4 +1,0 @@
-type: car
-plate: MSC4G65
-layout: Mercosur
-corners: 654,339 782,344 783,387 654,380

@@ -1,4 +1,0 @@
-type: car
-plate: PPX0B56
-layout: Mercosur
-corners: 529,410 655,413 655,452 531,448

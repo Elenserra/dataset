@@ -1,4 +1,0 @@
-type: car
-plate: ODF9A46
-layout: Mercosur
-corners: 542,411 666,412 668,451 544,450

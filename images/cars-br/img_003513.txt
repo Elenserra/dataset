@@ -1,4 +1,0 @@
-type: car
-plate: PPW2766
-layout: Brazilian
-corners: 778,345 913,344 916,391 780,391

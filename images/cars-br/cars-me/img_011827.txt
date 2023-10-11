@@ -1,4 +1,0 @@
-type: car
-plate: OCX4H47
-layout: Mercosur
-corners: 513,321 637,323 639,368 513,363

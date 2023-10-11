@@ -1,4 +1,0 @@
-type: car
-plate: ODO6478
-layout: Brazilian
-corners: 529,404 660,405 659,451 530,450

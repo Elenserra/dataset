@@ -1,4 +1,0 @@
-type: car
-plate: HEL4180
-layout: Brazilian
-corners: 775,341 905,339 908,385 774,387

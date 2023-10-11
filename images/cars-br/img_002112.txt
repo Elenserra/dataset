@@ -1,4 +1,0 @@
-type: car
-plate: QRC0468
-layout: Brazilian
-corners: 719,149 800,149 800,176 719,176

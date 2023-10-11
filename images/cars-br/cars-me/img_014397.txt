@@ -1,4 +1,0 @@
-type: car
-plate: PPP5J77
-layout: Mercosur
-corners: 783,340 915,336 918,381 785,383

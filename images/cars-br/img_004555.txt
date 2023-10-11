@@ -1,4 +1,0 @@
-type: car
-plate: MTI4428
-layout: Brazilian
-corners: 792,339 929,337 934,382 795,383

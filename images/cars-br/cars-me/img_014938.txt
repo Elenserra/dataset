@@ -1,4 +1,0 @@
-type: car
-plate: MTI5E25
-layout: Mercosur
-corners: 658,378 796,385 795,428 658,423

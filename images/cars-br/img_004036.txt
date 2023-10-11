@@ -1,4 +1,0 @@
-type: car
-plate: KWC5510
-layout: Brazilian
-corners: 705,348 842,344 844,391 706,394

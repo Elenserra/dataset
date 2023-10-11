@@ -1,4 +1,0 @@
-type: car
-plate: QRH8I72
-layout: Mercosur
-corners: 661,329 784,331 785,371 665,369

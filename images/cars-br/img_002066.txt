@@ -1,4 +1,0 @@
-type: car
-plate: ODF7443
-layout: Brazilian
-corners: 533,373 658,374 658,417 533,415

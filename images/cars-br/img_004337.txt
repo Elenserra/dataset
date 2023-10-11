@@ -1,4 +1,0 @@
-type: car
-plate: LSZ8546
-layout: Brazilian
-corners: 712,316 851,312 854,361 714,364

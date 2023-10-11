@@ -1,4 +1,0 @@
-type: car
-plate: OYJ1J24
-layout: Mercosur
-corners: 490,336 620,337 624,380 493,378

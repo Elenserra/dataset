@@ -1,4 +1,0 @@
-type: car
-plate: CGL4C54
-layout: Mercosur
-corners: 518,397 646,397 651,435 522,433

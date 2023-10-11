@@ -1,4 +1,0 @@
-type: car
-plate: PPV3I96
-layout: Mercosur
-corners: 675,334 812,340 811,385 675,378

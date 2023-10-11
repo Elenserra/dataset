@@ -1,4 +1,0 @@
-type: car
-plate: PPZ3416
-layout: Brazilian
-corners: 971,44 1039,43 1040,67 970,68

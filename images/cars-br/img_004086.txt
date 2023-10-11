@@ -1,4 +1,0 @@
-type: car
-plate: OYK4261
-layout: Brazilian
-corners: 768,312 896,308 900,354 771,355

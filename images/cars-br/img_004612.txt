@@ -1,4 +1,0 @@
-type: car
-plate: OCY4344
-layout: Brazilian
-corners: 755,388 887,389 888,433 754,432

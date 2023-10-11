@@ -1,4 +1,0 @@
-type: car
-plate: MQQ2I62
-layout: Mercosur
-corners: 685,385 830,387 832,435 687,433

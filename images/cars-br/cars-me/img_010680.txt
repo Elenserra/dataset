@@ -1,4 +1,0 @@
-type: car
-plate: QRK3E93
-layout: Mercosur
-corners: 768,204 856,202 857,231 769,232

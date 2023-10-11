@@ -1,4 +1,0 @@
-type: car
-plate: QWT4740
-layout: Brazilian
-corners: 940,187 1040,185 1041,219 941,221

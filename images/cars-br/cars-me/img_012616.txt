@@ -1,4 +1,0 @@
-type: car
-plate: OCY5B52
-layout: Mercosur
-corners: 679,319 806,323 807,364 679,360

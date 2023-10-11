@@ -1,4 +1,0 @@
-type: car
-plate: ORY5A53
-layout: Mercosur
-corners: 712,334 837,336 835,375 712,372

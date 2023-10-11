@@ -1,4 +1,0 @@
-type: car
-plate: ODD7225
-layout: Brazilian
-corners: 423,463 559,464 560,509 424,506

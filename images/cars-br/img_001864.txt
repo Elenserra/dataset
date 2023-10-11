@@ -1,4 +1,0 @@
-type: car
-plate: MQC8617
-layout: Brazilian
-corners: 670,208 757,209 758,239 671,239

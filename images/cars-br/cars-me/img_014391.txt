@@ -1,4 +1,0 @@
-type: car
-plate: OCY4E26
-layout: Mercosur
-corners: 802,358 941,358 943,403 804,404

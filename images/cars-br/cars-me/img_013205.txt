@@ -1,4 +1,0 @@
-type: car
-plate: PPL8J09
-layout: Mercosur
-corners: 714,231 819,232 820,268 715,265

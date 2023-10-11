@@ -1,4 +1,0 @@
-type: car
-plate: OCV0D10
-layout: Mercosur
-corners: 830,315 962,314 964,357 830,358

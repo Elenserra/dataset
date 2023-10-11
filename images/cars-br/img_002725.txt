@@ -1,4 +1,0 @@
-type: car
-plate: MSX2549
-layout: Brazilian
-corners: 288,578 455,590 458,649 292,636

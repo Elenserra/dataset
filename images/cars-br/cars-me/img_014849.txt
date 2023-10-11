@@ -1,4 +1,0 @@
-type: car
-plate: GUK1G00
-layout: Mercosur
-corners: 645,345 782,353 780,399 645,390

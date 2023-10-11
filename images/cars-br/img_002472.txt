@@ -1,4 +1,0 @@
-type: car
-plate: MKA7333
-layout: Brazilian
-corners: 419,308 538,307 542,349 420,348

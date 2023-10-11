@@ -1,4 +1,0 @@
-type: car
-plate: EKT9278
-layout: Brazilian
-corners: 758,326 890,324 893,369 759,370

@@ -1,4 +1,0 @@
-type: car
-plate: QRJ8D68
-layout: Mercosur
-corners: 818,356 949,355 953,398 819,399

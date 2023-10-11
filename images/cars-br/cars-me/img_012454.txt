@@ -1,4 +1,0 @@
-type: car
-plate: QRG8C43
-layout: Mercosur
-corners: 590,322 705,324 707,362 591,359

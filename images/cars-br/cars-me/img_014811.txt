@@ -1,4 +1,0 @@
-type: car
-plate: HMD8G41
-layout: Mercosur
-corners: 686,347 822,357 819,401 684,391

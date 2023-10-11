@@ -1,4 +1,0 @@
-type: car
-plate: MHR2F13
-layout: Mercosur
-corners: 639,314 782,323 781,370 639,361

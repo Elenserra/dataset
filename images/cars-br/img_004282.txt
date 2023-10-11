@@ -1,4 +1,0 @@
-type: car
-plate: OQG1325
-layout: Brazilian
-corners: 750,248 866,245 874,283 756,286

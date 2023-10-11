@@ -1,4 +1,0 @@
-type: car
-plate: LMV3A64
-layout: Mercosur
-corners: 735,335 869,331 873,377 738,379

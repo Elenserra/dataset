@@ -1,4 +1,0 @@
-type: car
-plate: PPN5781
-layout: Brazilian
-corners: 773,218 890,215 894,257 773,258

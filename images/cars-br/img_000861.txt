@@ -1,4 +1,0 @@
-type: car
-plate: MSV5784
-layout: Brazilian
-corners: 530,421 657,421 659,464 531,464

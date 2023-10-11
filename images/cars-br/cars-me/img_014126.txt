@@ -1,4 +1,0 @@
-type: car
-plate: GYE6H00
-layout: Mercosur
-corners: 820,333 948,331 950,373 822,375

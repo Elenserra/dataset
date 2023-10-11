@@ -1,4 +1,0 @@
-type: car
-plate: PPD4515
-layout: Brazilian
-corners: 543,359 663,358 664,400 544,401

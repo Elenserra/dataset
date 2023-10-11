@@ -1,4 +1,0 @@
-type: car
-plate: PPW9073
-layout: Brazilian
-corners: 669,284 773,283 773,319 670,320

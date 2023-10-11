@@ -1,4 +1,0 @@
-type: car
-plate: HYZ6474
-layout: Brazilian
-corners: 792,322 925,318 927,366 794,367

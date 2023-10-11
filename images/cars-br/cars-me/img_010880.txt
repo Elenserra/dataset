@@ -1,4 +1,0 @@
-type: car
-plate: OKX3E13
-layout: Mercosur
-corners: 562,362 680,362 681,399 563,400

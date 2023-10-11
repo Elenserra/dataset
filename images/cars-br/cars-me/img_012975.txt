@@ -1,4 +1,0 @@
-type: car
-plate: HGA9A49
-layout: Mercosur
-corners: 649,330 777,333 776,372 652,369

@@ -1,4 +1,0 @@
-type: car
-plate: OPI5371
-layout: Brazilian
-corners: 519,389 642,389 645,432 521,433

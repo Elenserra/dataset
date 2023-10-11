@@ -1,4 +1,0 @@
-type: car
-plate: MTA6166
-layout: Brazilian
-corners: 883,130 971,132 971,162 884,158

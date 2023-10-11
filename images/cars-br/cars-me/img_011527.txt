@@ -1,4 +1,0 @@
-type: car
-plate: QRB0H49
-layout: Mercosur
-corners: 566,300 680,301 682,338 568,336

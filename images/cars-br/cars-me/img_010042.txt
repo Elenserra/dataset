@@ -1,4 +1,0 @@
-type: car
-plate: MTX5I56
-layout: Mercosur
-corners: 515,415 637,418 635,459 512,455

@@ -1,4 +1,0 @@
-type: car
-plate: QDM1A62
-layout: Mercosur
-corners: 721,343 859,351 859,395 721,388

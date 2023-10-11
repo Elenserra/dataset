@@ -1,4 +1,0 @@
-type: car
-plate: MSQ5F92
-layout: Mercosur
-corners: 694,381 834,379 834,423 696,425

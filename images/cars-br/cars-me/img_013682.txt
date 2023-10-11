@@ -1,4 +1,0 @@
-type: car
-plate: MTU8G14
-layout: Mercosur
-corners: 651,398 782,402 783,445 650,441

@@ -1,4 +1,0 @@
-type: car
-plate: FSE3408
-layout: Brazilian
-corners: 290,591 444,597 447,652 291,643

@@ -1,4 +1,0 @@
-type: car
-plate: MSD0C50
-layout: Mercosur
-corners: 461,392 587,393 588,436 459,434

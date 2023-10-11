@@ -1,4 +1,0 @@
-type: car
-plate: MTB9E95
-layout: Mercosur
-corners: 672,351 806,359 804,401 671,394

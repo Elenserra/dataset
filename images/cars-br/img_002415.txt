@@ -1,4 +1,0 @@
-type: car
-plate: PPA5141
-layout: Brazilian
-corners: 616,51 689,50 689,77 617,76

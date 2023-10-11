@@ -1,4 +1,0 @@
-type: car
-plate: HIP8J44
-layout: Mercosur
-corners: 673,316 808,316 811,360 674,360

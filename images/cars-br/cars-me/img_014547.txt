@@ -1,4 +1,0 @@
-type: car
-plate: LCS6F35
-layout: Mercosur
-corners: 813,339 946,337 950,382 816,382

@@ -1,4 +1,0 @@
-type: car
-plate: MRV0043
-layout: Brazilian
-corners: 783,345 908,341 912,387 784,389

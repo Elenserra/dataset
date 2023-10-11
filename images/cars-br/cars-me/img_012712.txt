@@ -1,4 +1,0 @@
-type: car
-plate: QNK9F41
-layout: Mercosur
-corners: 661,307 785,310 786,350 661,348

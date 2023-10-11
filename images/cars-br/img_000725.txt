@@ -1,4 +1,0 @@
-type: car
-plate: PPD1306
-layout: Brazilian
-corners: 972,193 1073,189 1075,224 973,227

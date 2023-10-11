@@ -1,4 +1,0 @@
-type: car
-plate: MPL8215
-layout: Brazilian
-corners: 584,303 697,303 699,342 585,342

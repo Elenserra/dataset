@@ -1,4 +1,0 @@
-type: car
-plate: MTC5670
-layout: Brazilian
-corners: 562,463 689,468 691,508 565,503

@@ -1,4 +1,0 @@
-type: car
-plate: MVN3322
-layout: Brazilian
-corners: 420,458 554,462 561,502 427,497

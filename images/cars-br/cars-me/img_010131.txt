@@ -1,4 +1,0 @@
-type: car
-plate: PWK6D91
-layout: Mercosur
-corners: 489,363 617,364 620,406 491,405

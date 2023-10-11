@@ -1,4 +1,0 @@
-type: car
-plate: QRD8588
-layout: Brazilian
-corners: 985,105 1072,103 1073,132 986,134

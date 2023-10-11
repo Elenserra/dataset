@@ -1,4 +1,0 @@
-type: car
-plate: ODS2167
-layout: Brazilian
-corners: 602,332 730,333 731,378 602,377

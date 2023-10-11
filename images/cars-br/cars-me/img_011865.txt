@@ -1,4 +1,0 @@
-type: car
-plate: PWC5B10
-layout: Mercosur
-corners: 501,413 631,416 634,459 501,459

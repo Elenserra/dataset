@@ -1,4 +1,0 @@
-type: car
-plate: ODD4421
-layout: Brazilian
-corners: 602,265 719,264 720,302 604,302

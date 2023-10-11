@@ -1,4 +1,0 @@
-type: car
-plate: GFQ5A08
-layout: Mercosur
-corners: 725,315 847,316 848,355 726,355

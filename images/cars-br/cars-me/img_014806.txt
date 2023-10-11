@@ -1,4 +1,0 @@
-type: car
-plate: QRF7E39
-layout: Mercosur
-corners: 694,336 835,344 833,392 693,383

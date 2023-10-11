@@ -1,4 +1,0 @@
-type: car
-plate: GOE5F88
-layout: Mercosur
-corners: 641,369 783,376 783,424 641,416

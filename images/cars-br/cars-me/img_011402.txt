@@ -1,4 +1,0 @@
-type: car
-plate: DLG8C25
-layout: Mercosur
-corners: 505,360 635,359 637,402 506,402

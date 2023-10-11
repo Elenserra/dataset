@@ -1,4 +1,0 @@
-type: car
-plate: JMX2J90
-layout: Mercosur
-corners: 805,329 934,328 936,370 804,373

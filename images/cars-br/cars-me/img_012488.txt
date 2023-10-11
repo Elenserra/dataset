@@ -1,4 +1,0 @@
-type: car
-plate: OVL5H57
-layout: Mercosur
-corners: 583,312 710,312 711,353 587,352

@@ -1,4 +1,0 @@
-type: car
-plate: MSC9F31
-layout: Mercosur
-corners: 812,315 942,312 944,356 811,357

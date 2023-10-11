@@ -1,4 +1,0 @@
-type: car
-plate: QRC7572
-layout: Brazilian
-corners: 993,104 1075,102 1077,131 994,133

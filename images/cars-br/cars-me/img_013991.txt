@@ -1,4 +1,0 @@
-type: car
-plate: PPM0E23
-layout: Mercosur
-corners: 985,125 1064,122 1067,148 985,151

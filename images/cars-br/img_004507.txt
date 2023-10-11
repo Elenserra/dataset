@@ -1,4 +1,0 @@
-type: car
-plate: HNZ4414
-layout: Brazilian
-corners: 774,323 906,320 911,368 776,369

@@ -1,4 +1,0 @@
-type: car
-plate: MTQ7B71
-layout: Mercosur
-corners: 774,308 902,304 904,348 776,351

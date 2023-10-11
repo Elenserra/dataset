@@ -1,4 +1,0 @@
-type: car
-plate: PPL9177
-layout: Brazilian
-corners: 527,420 651,421 652,463 527,460

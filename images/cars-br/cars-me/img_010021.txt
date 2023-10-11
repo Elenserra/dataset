@@ -1,4 +1,0 @@
-type: car
-plate: MTC2E14
-layout: Mercosur
-corners: 597,355 721,354 723,394 598,396

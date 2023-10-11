@@ -1,4 +1,0 @@
-type: car
-plate: ODM9447
-layout: Brazilian
-corners: 531,393 657,397 657,437 531,434

@@ -1,4 +1,0 @@
-type: car
-plate: JOP4I88
-layout: Mercosur
-corners: 565,334 699,340 704,379 570,376

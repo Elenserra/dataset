@@ -1,4 +1,0 @@
-type: car
-plate: MSJ2926
-layout: Brazilian
-corners: 1063,57 1132,55 1133,80 1065,82

@@ -1,4 +1,0 @@
-type: car
-plate: QRK9C38
-layout: Mercosur
-corners: 534,390 660,390 662,429 536,428

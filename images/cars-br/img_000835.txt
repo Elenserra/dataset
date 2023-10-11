@@ -1,4 +1,0 @@
-type: car
-plate: PPE9212
-layout: Brazilian
-corners: 717,210 811,209 811,242 718,242

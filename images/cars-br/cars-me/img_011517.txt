@@ -1,4 +1,0 @@
-type: car
-plate: IXP0I45
-layout: Mercosur
-corners: 474,351 605,350 608,393 476,396

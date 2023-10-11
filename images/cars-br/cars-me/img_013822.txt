@@ -1,4 +1,0 @@
-type: car
-plate: GXT7F18
-layout: Mercosur
-corners: 883,421 991,424 992,456 883,455

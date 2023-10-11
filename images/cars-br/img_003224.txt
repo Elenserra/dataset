@@ -1,4 +1,0 @@
-type: car
-plate: MTS3329
-layout: Brazilian
-corners: 703,315 826,315 828,357 707,355

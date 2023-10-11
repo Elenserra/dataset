@@ -1,4 +1,0 @@
-type: car
-plate: ODJ7418
-layout: Brazilian
-corners: 888,263 1005,261 1010,301 889,303

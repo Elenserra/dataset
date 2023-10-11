@@ -1,4 +1,0 @@
-type: car
-plate: ODF1J83
-layout: Mercosur
-corners: 836,322 962,320 966,360 836,364

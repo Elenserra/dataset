@@ -1,4 +1,0 @@
-type: car
-plate: MSS6709
-layout: Brazilian
-corners: 580,434 706,435 707,477 581,476

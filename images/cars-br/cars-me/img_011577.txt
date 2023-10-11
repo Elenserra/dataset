@@ -1,4 +1,0 @@
-type: car
-plate: QRM0J47
-layout: Mercosur
-corners: 544,390 672,390 674,432 545,433

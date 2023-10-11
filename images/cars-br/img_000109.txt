@@ -1,4 +1,0 @@
-type: car
-plate: OZH4614
-layout: Brazilian
-corners: 731,236 827,236 827,267 731,268

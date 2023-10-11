@@ -1,4 +1,0 @@
-type: car
-plate: MSY2288
-layout: Brazilian
-corners: 758,304 886,302 891,346 760,350

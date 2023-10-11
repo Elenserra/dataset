@@ -1,4 +1,0 @@
-type: car
-plate: QRC9399
-layout: Brazilian
-corners: 881,222 1003,220 1005,263 882,265

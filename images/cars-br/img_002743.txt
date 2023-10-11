@@ -1,4 +1,0 @@
-type: car
-plate: PPK0655
-layout: Brazilian
-corners: 652,314 778,315 780,357 652,355

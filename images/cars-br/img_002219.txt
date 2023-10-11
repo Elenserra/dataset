@@ -1,4 +1,0 @@
-type: car
-plate: QRC6734
-layout: Brazilian
-corners: 566,398 693,399 694,441 567,440

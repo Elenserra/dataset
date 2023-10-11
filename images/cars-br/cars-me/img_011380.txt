@@ -1,4 +1,0 @@
-type: car
-plate: QRH1I40
-layout: Mercosur
-corners: 494,375 624,377 626,423 496,420

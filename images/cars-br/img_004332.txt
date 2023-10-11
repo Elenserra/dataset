@@ -1,4 +1,0 @@
-type: car
-plate: MSL0077
-layout: Brazilian
-corners: 993,68 1074,64 1078,92 994,96

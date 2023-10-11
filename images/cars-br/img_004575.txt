@@ -1,4 +1,0 @@
-type: car
-plate: OVK3448
-layout: Brazilian
-corners: 837,320 973,316 974,360 839,363

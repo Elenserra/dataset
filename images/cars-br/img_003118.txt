@@ -1,4 +1,0 @@
-type: car
-plate: GYS3208
-layout: Brazilian
-corners: 737,203 851,203 853,242 738,241

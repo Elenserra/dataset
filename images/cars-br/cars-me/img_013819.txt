@@ -1,4 +1,0 @@
-type: car
-plate: RBA6F60
-layout: Mercosur
-corners: 656,310 783,311 784,352 656,351

@@ -1,4 +1,0 @@
-type: car
-plate: KRF5242
-layout: Brazilian
-corners: 837,308 966,305 969,348 839,353

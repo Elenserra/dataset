@@ -1,4 +1,0 @@
-type: car
-plate: PPW1955
-layout: Brazilian
-corners: 611,334 738,335 739,379 613,375

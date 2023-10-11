@@ -1,4 +1,0 @@
-type: car
-plate: QRK2D57
-layout: Mercosur
-corners: 495,427 627,427 629,467 498,466

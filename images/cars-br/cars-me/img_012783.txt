@@ -1,4 +1,0 @@
-type: car
-plate: OGB1H02
-layout: Mercosur
-corners: 665,330 788,332 790,371 666,369

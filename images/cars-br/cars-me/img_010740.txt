@@ -1,4 +1,0 @@
-type: car
-plate: PYS2H40
-layout: Mercosur
-corners: 559,417 689,416 689,458 562,458

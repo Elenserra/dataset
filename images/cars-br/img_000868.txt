@@ -1,4 +1,0 @@
-type: car
-plate: LVZ1701
-layout: Brazilian
-corners: 431,540 583,544 586,596 436,590

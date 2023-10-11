@@ -1,4 +1,0 @@
-type: car
-plate: ODP4D72
-layout: Mercosur
-corners: 562,295 673,294 674,331 565,330

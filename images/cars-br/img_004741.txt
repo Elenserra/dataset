@@ -1,4 +1,0 @@
-type: car
-plate: HOI3150
-layout: Brazilian
-corners: 844,264 963,264 965,303 845,304

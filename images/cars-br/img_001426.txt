@@ -1,4 +1,0 @@
-type: car
-plate: LRU3311
-layout: Brazilian
-corners: 483,387 606,387 607,428 484,426

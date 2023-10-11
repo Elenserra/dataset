@@ -1,4 +1,0 @@
-type: car
-plate: OVE2395
-layout: Brazilian
-corners: 623,308 732,307 733,346 624,346

@@ -1,4 +1,0 @@
-type: car
-plate: ODP5721
-layout: Brazilian
-corners: 279,658 443,662 452,713 289,709

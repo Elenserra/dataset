@@ -1,4 +1,0 @@
-type: car
-plate: QQB7715
-layout: Brazilian
-corners: 990,128 1069,126 1072,153 992,155

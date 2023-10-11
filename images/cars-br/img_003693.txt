@@ -1,4 +1,0 @@
-type: car
-plate: ODH3771
-layout: Brazilian
-corners: 852,310 983,306 987,352 853,354

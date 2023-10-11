@@ -1,4 +1,0 @@
-type: car
-plate: PJV8445
-layout: Brazilian
-corners: 493,411 623,412 624,453 496,453

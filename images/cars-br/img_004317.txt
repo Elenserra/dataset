@@ -1,4 +1,0 @@
-type: car
-plate: PPG2516
-layout: Brazilian
-corners: 783,319 914,318 915,361 785,363

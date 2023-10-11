@@ -1,4 +1,0 @@
-type: car
-plate: NSO0791
-layout: Brazilian
-corners: 846,330 979,328 983,374 846,374

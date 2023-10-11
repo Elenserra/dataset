@@ -1,4 +1,0 @@
-type: car
-plate: OVK0721
-layout: Brazilian
-corners: 903,212 1012,211 1015,246 906,248

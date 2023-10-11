@@ -1,4 +1,0 @@
-type: car
-plate: GZE6588
-layout: Brazilian
-corners: 822,344 957,341 958,387 822,389

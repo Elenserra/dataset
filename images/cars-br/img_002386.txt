@@ -1,4 +1,0 @@
-type: car
-plate: ODP9185
-layout: Brazilian
-corners: 545,250 666,247 668,288 545,291

@@ -1,4 +1,0 @@
-type: car
-plate: MSA6746
-layout: Brazilian
-corners: 776,319 908,316 910,362 775,364

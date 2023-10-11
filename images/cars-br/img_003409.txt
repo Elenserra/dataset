@@ -1,4 +1,0 @@
-type: car
-plate: PPD9936
-layout: Brazilian
-corners: 578,365 705,369 708,414 578,410

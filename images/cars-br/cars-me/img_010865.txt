@@ -1,4 +1,0 @@
-type: car
-plate: OOB1J26
-layout: Mercosur
-corners: 645,304 752,304 753,339 645,339

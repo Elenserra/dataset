@@ -1,4 +1,0 @@
-type: car
-plate: BLB4B68
-layout: Mercosur
-corners: 467,409 593,407 597,446 473,447

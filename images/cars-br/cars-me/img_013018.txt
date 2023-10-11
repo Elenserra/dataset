@@ -1,4 +1,0 @@
-type: car
-plate: MTV2G41
-layout: Mercosur
-corners: 717,244 833,244 834,282 720,281

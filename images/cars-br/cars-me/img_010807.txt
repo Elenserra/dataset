@@ -1,4 +1,0 @@
-type: car
-plate: PPL1I61
-layout: Mercosur
-corners: 752,136 829,136 829,161 753,161

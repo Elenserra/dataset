@@ -1,4 +1,0 @@
-type: car
-plate: MSX8326
-layout: Brazilian
-corners: 605,397 730,397 731,437 606,436

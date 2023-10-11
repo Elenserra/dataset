@@ -1,4 +1,0 @@
-type: car
-plate: MTX7616
-layout: Brazilian
-corners: 746,341 878,340 881,384 748,384

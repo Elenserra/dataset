@@ -1,4 +1,0 @@
-type: car
-plate: MTB4715
-layout: Brazilian
-corners: 668,326 796,328 798,371 670,367

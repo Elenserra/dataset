@@ -1,4 +1,0 @@
-type: car
-plate: MQQ5887
-layout: Brazilian
-corners: 640,355 748,354 751,383 642,384

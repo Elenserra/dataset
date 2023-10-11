@@ -1,4 +1,0 @@
-type: car
-plate: LLZ8954
-layout: Brazilian
-corners: 972,148 1064,144 1065,175 973,179

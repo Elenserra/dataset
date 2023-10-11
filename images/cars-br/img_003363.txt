@@ -1,4 +1,0 @@
-type: car
-plate: OPQ3943
-layout: Brazilian
-corners: 717,246 833,246 835,287 718,285

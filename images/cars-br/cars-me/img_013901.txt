@@ -1,4 +1,0 @@
-type: car
-plate: MTM7B86
-layout: Mercosur
-corners: 768,325 903,322 905,369 769,370

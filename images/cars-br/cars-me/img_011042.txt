@@ -1,4 +1,0 @@
-type: car
-plate: OVJ5H29
-layout: Mercosur
-corners: 661,260 764,260 764,293 662,292

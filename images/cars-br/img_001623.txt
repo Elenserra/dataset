@@ -1,4 +1,0 @@
-type: car
-plate: PPX5162
-layout: Brazilian
-corners: 465,420 593,423 593,466 467,464

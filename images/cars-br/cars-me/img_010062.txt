@@ -1,4 +1,0 @@
-type: car
-plate: ODJ7G38
-layout: Mercosur
-corners: 808,105 879,105 879,128 808,128

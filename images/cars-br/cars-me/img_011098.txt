@@ -1,4 +1,0 @@
-type: car
-plate: QRF5E18
-layout: Mercosur
-corners: 569,385 694,388 696,428 570,427

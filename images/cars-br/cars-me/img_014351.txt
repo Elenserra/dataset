@@ -1,4 +1,0 @@
-type: car
-plate: ODI4I78
-layout: Mercosur
-corners: 839,346 974,342 979,386 842,390

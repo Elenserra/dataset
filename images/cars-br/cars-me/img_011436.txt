@@ -1,4 +1,0 @@
-type: car
-plate: KYC9B10
-layout: Mercosur
-corners: 504,328 637,329 639,372 506,370

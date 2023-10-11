@@ -1,4 +1,0 @@
-type: car
-plate: LMP7C03
-layout: Mercosur
-corners: 532,380 663,377 666,420 533,422

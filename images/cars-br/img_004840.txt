@@ -1,4 +1,0 @@
-type: car
-plate: MQN4935
-layout: Brazilian
-corners: 1070,94 1149,91 1150,118 1070,121

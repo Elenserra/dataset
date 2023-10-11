@@ -1,4 +1,0 @@
-type: car
-plate: ODR3G64
-layout: Mercosur
-corners: 653,243 772,244 774,282 655,283

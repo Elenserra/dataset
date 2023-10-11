@@ -1,4 +1,0 @@
-type: car
-plate: ODG1753
-layout: Brazilian
-corners: 472,342 587,343 588,384 472,384

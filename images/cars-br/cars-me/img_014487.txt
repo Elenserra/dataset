@@ -1,4 +1,0 @@
-type: car
-plate: OYE1C93
-layout: Mercosur
-corners: 802,332 934,329 937,371 806,373

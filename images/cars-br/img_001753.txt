@@ -1,4 +1,0 @@
-type: car
-plate: PPH0659
-layout: Brazilian
-corners: 542,325 657,325 658,367 543,366

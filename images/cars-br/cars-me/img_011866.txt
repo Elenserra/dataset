@@ -1,4 +1,0 @@
-type: car
-plate: ODP9J48
-layout: Mercosur
-corners: 510,290 634,290 636,330 511,329

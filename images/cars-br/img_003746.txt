@@ -1,4 +1,0 @@
-type: car
-plate: FDA4010
-layout: Brazilian
-corners: 461,407 591,408 593,453 463,450

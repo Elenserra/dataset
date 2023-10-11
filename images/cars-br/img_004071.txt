@@ -1,4 +1,0 @@
-type: car
-plate: ODG7842
-layout: Brazilian
-corners: 826,327 960,325 963,374 826,374

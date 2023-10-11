@@ -1,4 +1,0 @@
-type: car
-plate: ODP6B82
-layout: Mercosur
-corners: 771,269 896,267 898,308 773,309

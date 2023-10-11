@@ -1,4 +1,0 @@
-type: car
-plate: MRB2E02
-layout: Mercosur
-corners: 539,311 649,311 653,348 541,348

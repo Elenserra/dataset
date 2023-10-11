@@ -1,4 +1,0 @@
-type: car
-plate: KPD6E75
-layout: Mercosur
-corners: 650,419 795,419 798,468 652,467

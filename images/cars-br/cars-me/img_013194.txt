@@ -1,4 +1,0 @@
-type: car
-plate: PPS2H75
-layout: Mercosur
-corners: 636,343 765,346 765,389 637,385

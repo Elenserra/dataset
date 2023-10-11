@@ -1,4 +1,0 @@
-type: car
-plate: OKJ0979
-layout: Brazilian
-corners: 801,306 933,304 936,348 800,349

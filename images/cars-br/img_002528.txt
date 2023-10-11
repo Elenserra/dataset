@@ -1,4 +1,0 @@
-type: car
-plate: KOR8637
-layout: Brazilian
-corners: 721,278 831,279 832,315 721,314

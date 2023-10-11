@@ -1,4 +1,0 @@
-type: car
-plate: MTZ4291
-layout: Brazilian
-corners: 489,437 624,436 626,482 492,481

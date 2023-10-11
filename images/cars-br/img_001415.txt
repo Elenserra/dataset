@@ -1,4 +1,0 @@
-type: car
-plate: MSP5302
-layout: Brazilian
-corners: 553,384 680,385 679,431 552,430

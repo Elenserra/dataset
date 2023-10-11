@@ -1,4 +1,0 @@
-type: car
-plate: ODK4672
-layout: Brazilian
-corners: 588,393 717,393 717,438 587,438

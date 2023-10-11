@@ -1,4 +1,0 @@
-type: car
-plate: EEO7107
-layout: Brazilian
-corners: 452,368 584,367 586,415 455,415

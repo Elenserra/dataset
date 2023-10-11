@@ -1,4 +1,0 @@
-type: car
-plate: MQE0D04
-layout: Mercosur
-corners: 857,131 933,130 935,154 858,156

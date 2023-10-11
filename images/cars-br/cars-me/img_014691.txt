@@ -1,4 +1,0 @@
-type: car
-plate: LLS1H84
-layout: Mercosur
-corners: 699,341 838,344 839,391 700,387

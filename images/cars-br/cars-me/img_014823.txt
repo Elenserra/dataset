@@ -1,4 +1,0 @@
-type: car
-plate: MSM1C40
-layout: Mercosur
-corners: 737,342 876,348 875,395 736,389

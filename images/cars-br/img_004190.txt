@@ -1,4 +1,0 @@
-type: car
-plate: QPH1710
-layout: Brazilian
-corners: 991,76 1078,76 1079,104 992,106

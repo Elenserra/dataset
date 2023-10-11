@@ -1,4 +1,0 @@
-type: car
-plate: RBA6C08
-layout: Mercosur
-corners: 669,329 791,332 792,374 669,370

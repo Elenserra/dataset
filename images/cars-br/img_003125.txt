@@ -1,4 +1,0 @@
-type: car
-plate: MTZ7504
-layout: Brazilian
-corners: 474,386 609,394 612,440 475,435

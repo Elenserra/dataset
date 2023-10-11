@@ -1,4 +1,0 @@
-type: car
-plate: MTY6D71
-layout: Mercosur
-corners: 719,277 832,280 835,319 720,315

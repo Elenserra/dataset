@@ -1,4 +1,0 @@
-type: car
-plate: MSH9419
-layout: Brazilian
-corners: 859,333 990,331 992,374 860,375

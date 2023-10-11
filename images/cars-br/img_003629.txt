@@ -1,4 +1,0 @@
-type: car
-plate: FPB2742
-layout: Brazilian
-corners: 776,352 906,349 908,395 776,395

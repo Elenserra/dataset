@@ -1,4 +1,0 @@
-type: car
-plate: NZS9628
-layout: Brazilian
-corners: 888,251 1003,248 1005,287 889,288

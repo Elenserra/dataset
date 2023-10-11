@@ -1,4 +1,0 @@
-type: car
-plate: PPX8957
-layout: Brazilian
-corners: 795,320 930,315 933,363 796,367

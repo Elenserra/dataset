@@ -1,4 +1,0 @@
-type: car
-plate: DXW4I00
-layout: Mercosur
-corners: 556,328 674,328 677,368 558,366

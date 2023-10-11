@@ -1,4 +1,0 @@
-type: car
-plate: HMV1D80
-layout: Mercosur
-corners: 756,331 884,330 887,374 757,375

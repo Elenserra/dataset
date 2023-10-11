@@ -1,4 +1,0 @@
-type: car
-plate: DOM8908
-layout: Brazilian
-corners: 754,301 876,310 876,347 753,341

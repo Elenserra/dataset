@@ -1,4 +1,0 @@
-type: car
-plate: PPO5092
-layout: Brazilian
-corners: 806,208 908,210 910,245 807,245

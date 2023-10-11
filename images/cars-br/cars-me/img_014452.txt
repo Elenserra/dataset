@@ -1,4 +1,0 @@
-type: car
-plate: ODJ1C67
-layout: Mercosur
-corners: 784,210 897,202 902,242 787,249

@@ -1,4 +1,0 @@
-type: car
-plate: PPZ3367
-layout: Brazilian
-corners: 928,169 1021,166 1024,197 929,201

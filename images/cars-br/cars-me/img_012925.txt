@@ -1,4 +1,0 @@
-type: car
-plate: QRE7H10
-layout: Mercosur
-corners: 654,271 768,273 769,311 656,308

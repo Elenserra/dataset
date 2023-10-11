@@ -1,4 +1,0 @@
-type: car
-plate: PXI5H29
-layout: Mercosur
-corners: 822,337 955,337 957,383 824,381

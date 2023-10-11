@@ -1,4 +1,0 @@
-type: car
-plate: MRZ3J86
-layout: Mercosur
-corners: 857,347 992,346 995,389 860,389

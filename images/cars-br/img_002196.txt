@@ -1,4 +1,0 @@
-type: car
-plate: ODS2624
-layout: Brazilian
-corners: 503,417 634,418 635,462 505,460

@@ -1,4 +1,0 @@
-type: car
-plate: QRJ0G88
-layout: Mercosur
-corners: 525,422 652,422 654,464 527,462

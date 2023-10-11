@@ -1,4 +1,0 @@
-type: car
-plate: PPE7802
-layout: Brazilian
-corners: 724,275 862,273 867,320 725,322

@@ -1,4 +1,0 @@
-type: car
-plate: QRF8I06
-layout: Mercosur
-corners: 676,325 800,326 800,369 676,366

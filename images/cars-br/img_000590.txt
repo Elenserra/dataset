@@ -1,4 +1,0 @@
-type: car
-plate: QRC0811
-layout: Brazilian
-corners: 813,101 888,100 890,126 815,127

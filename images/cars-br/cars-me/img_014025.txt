@@ -1,4 +1,0 @@
-type: car
-plate: OLA0A33
-layout: Mercosur
-corners: 767,343 906,341 907,388 768,390

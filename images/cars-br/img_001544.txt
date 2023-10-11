@@ -1,4 +1,0 @@
-type: car
-plate: PYD9944
-layout: Brazilian
-corners: 481,338 595,339 596,381 481,381

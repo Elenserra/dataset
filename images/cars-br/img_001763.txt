@@ -1,4 +1,0 @@
-type: car
-plate: OLQ5547
-layout: Brazilian
-corners: 775,107 859,108 859,138 776,137

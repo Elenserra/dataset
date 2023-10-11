@@ -1,4 +1,0 @@
-type: car
-plate: KZA3I08
-layout: Mercosur
-corners: 769,203 874,202 875,237 770,238

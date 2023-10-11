@@ -1,4 +1,0 @@
-type: car
-plate: OYK7347
-layout: Brazilian
-corners: 429,419 555,420 556,464 429,463

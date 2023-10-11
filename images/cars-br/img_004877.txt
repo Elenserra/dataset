@@ -1,4 +1,0 @@
-type: car
-plate: QAG7665
-layout: Brazilian
-corners: 748,322 882,321 883,366 749,368

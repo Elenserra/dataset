@@ -1,4 +1,0 @@
-type: car
-plate: PPR2A57
-layout: Mercosur
-corners: 470,404 604,406 605,447 474,446

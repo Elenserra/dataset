@@ -1,4 +1,0 @@
-type: car
-plate: KPL6B20
-layout: Mercosur
-corners: 654,324 778,328 776,367 655,363

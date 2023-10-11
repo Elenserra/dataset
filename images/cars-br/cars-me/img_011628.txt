@@ -1,4 +1,0 @@
-type: car
-plate: AKG2G72
-layout: Mercosur
-corners: 547,380 672,382 676,422 551,417

@@ -1,4 +1,0 @@
-type: car
-plate: PXL5988
-layout: Brazilian
-corners: 781,333 915,329 918,376 782,378

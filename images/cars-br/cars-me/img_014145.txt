@@ -1,4 +1,0 @@
-type: car
-plate: KYG7D40
-layout: Mercosur
-corners: 751,326 883,324 888,370 753,369

@@ -1,4 +1,0 @@
-type: car
-plate: OVF6317
-layout: Brazilian
-corners: 557,358 680,364 682,398 560,393

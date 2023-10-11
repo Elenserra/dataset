@@ -1,4 +1,0 @@
-type: car
-plate: QRH7C82
-layout: Mercosur
-corners: 600,267 720,269 721,307 603,306

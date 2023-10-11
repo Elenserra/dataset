@@ -1,4 +1,0 @@
-type: car
-plate: LOY7410
-layout: Brazilian
-corners: 605,242 738,242 742,288 607,286

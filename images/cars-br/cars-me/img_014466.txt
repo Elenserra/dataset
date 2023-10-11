@@ -1,4 +1,0 @@
-type: car
-plate: ODL1B92
-layout: Mercosur
-corners: 762,319 892,317 894,361 764,363

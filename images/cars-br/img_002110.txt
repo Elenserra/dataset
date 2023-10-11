@@ -1,4 +1,0 @@
-type: car
-plate: PPP6110
-layout: Brazilian
-corners: 629,179 720,179 720,210 629,210

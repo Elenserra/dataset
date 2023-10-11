@@ -1,4 +1,0 @@
-type: car
-plate: PPB8H62
-layout: Mercosur
-corners: 558,400 680,401 680,440 559,439

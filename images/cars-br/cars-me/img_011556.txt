@@ -1,4 +1,0 @@
-type: car
-plate: QUM1B24
-layout: Mercosur
-corners: 484,330 608,334 607,378 483,373

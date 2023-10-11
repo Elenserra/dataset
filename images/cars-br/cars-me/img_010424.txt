@@ -1,4 +1,0 @@
-type: car
-plate: JVW1I08
-layout: Mercosur
-corners: 593,363 709,364 708,397 594,397

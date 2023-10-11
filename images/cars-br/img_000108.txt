@@ -1,4 +1,0 @@
-type: car
-plate: MRQ9317
-layout: Brazilian
-corners: 543,358 659,357 661,397 542,397

@@ -1,4 +1,0 @@
-type: car
-plate: MPK3827
-layout: Brazilian
-corners: 934,225 1047,222 1049,259 935,263

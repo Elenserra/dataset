@@ -1,4 +1,0 @@
-type: car
-plate: PPZ8402
-layout: Brazilian
-corners: 553,417 681,419 682,462 553,460

@@ -1,4 +1,0 @@
-type: car
-plate: QQI7718
-layout: Brazilian
-corners: 581,402 711,400 712,446 581,447

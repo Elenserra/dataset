@@ -1,4 +1,0 @@
-type: car
-plate: QRD7151
-layout: Brazilian
-corners: 565,344 680,345 681,385 565,384

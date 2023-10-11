@@ -1,4 +1,0 @@
-type: car
-plate: OYJ6986
-layout: Brazilian
-corners: 978,198 1085,195 1087,232 979,234

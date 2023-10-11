@@ -1,4 +1,0 @@
-type: car
-plate: OMJ0D51
-layout: Mercosur
-corners: 642,240 742,240 742,274 644,273

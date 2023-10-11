@@ -1,4 +1,0 @@
-type: car
-plate: BYB9009
-layout: Brazilian
-corners: 549,349 676,346 677,389 549,391

@@ -1,4 +1,0 @@
-type: car
-plate: OVE3F52
-layout: Mercosur
-corners: 721,320 843,321 842,361 722,358

@@ -1,4 +1,0 @@
-type: car
-plate: KGD4016
-layout: Brazilian
-corners: 634,324 747,324 746,362 635,360

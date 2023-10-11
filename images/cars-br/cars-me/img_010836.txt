@@ -1,4 +1,0 @@
-type: car
-plate: OVF8B04
-layout: Mercosur
-corners: 550,384 675,384 676,424 551,423

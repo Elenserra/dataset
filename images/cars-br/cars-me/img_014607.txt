@@ -1,4 +1,0 @@
-type: car
-plate: QNS4H47
-layout: Mercosur
-corners: 819,349 949,346 953,391 820,392

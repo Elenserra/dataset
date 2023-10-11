@@ -1,4 +1,0 @@
-type: car
-plate: JDG0242
-layout: Brazilian
-corners: 1030,139 1119,136 1122,168 1032,169

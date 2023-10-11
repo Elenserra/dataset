@@ -1,4 +1,0 @@
-type: car
-plate: QDB2B71
-layout: Mercosur
-corners: 567,337 682,337 684,375 569,375

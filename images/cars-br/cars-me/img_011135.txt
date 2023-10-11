@@ -1,4 +1,0 @@
-type: car
-plate: PPP4E42
-layout: Mercosur
-corners: 727,145 813,144 815,174 727,174

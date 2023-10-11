@@ -1,4 +1,0 @@
-type: car
-plate: IGY3945
-layout: Brazilian
-corners: 692,262 823,262 827,302 696,302

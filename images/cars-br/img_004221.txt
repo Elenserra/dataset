@@ -1,4 +1,0 @@
-type: car
-plate: MSR6079
-layout: Brazilian
-corners: 802,320 938,318 941,363 804,365

@@ -1,4 +1,0 @@
-type: car
-plate: EAN2G57
-layout: Mercosur
-corners: 703,254 814,254 815,289 704,288

@@ -1,4 +1,0 @@
-type: car
-plate: MQK5949
-layout: Brazilian
-corners: 783,324 915,323 920,366 784,367

@@ -1,4 +1,0 @@
-type: car
-plate: GMF8421
-layout: Brazilian
-corners: 455,378 580,378 580,413 455,411

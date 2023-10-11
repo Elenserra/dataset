@@ -1,4 +1,0 @@
-type: car
-plate: MSQ5B98
-layout: Mercosur
-corners: 534,350 665,351 667,396 535,394

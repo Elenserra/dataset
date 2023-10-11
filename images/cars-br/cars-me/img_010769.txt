@@ -1,4 +1,0 @@
-type: car
-plate: PUI6B00
-layout: Mercosur
-corners: 454,353 585,353 587,391 460,392

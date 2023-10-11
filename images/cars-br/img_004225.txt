@@ -1,4 +1,0 @@
-type: car
-plate: MSI4228
-layout: Brazilian
-corners: 748,309 888,305 892,352 751,355

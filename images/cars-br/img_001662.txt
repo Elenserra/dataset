@@ -1,4 +1,0 @@
-type: car
-plate: GTT1448
-layout: Brazilian
-corners: 535,318 646,317 646,357 533,357

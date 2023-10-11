@@ -1,4 +1,0 @@
-type: car
-plate: JHT7994
-layout: Brazilian
-corners: 938,203 1037,201 1040,236 938,237

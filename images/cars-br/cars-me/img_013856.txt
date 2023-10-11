@@ -1,4 +1,0 @@
-type: car
-plate: DRM4E11
-layout: Mercosur
-corners: 867,266 984,265 986,304 869,308

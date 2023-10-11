@@ -1,4 +1,0 @@
-type: car
-plate: MSJ8238
-layout: Brazilian
-corners: 830,247 951,243 952,285 830,286

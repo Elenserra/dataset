@@ -1,4 +1,0 @@
-type: car
-plate: MTB4022
-layout: Brazilian
-corners: 799,309 925,307 929,351 800,352

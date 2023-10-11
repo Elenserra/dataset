@@ -1,4 +1,0 @@
-type: car
-plate: ODG4038
-layout: Brazilian
-corners: 503,364 627,365 629,407 505,405

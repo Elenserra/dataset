@@ -1,4 +1,0 @@
-type: car
-plate: OYG5329
-layout: Brazilian
-corners: 599,351 714,351 716,391 601,390

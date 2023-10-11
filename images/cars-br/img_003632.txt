@@ -1,4 +1,0 @@
-type: car
-plate: HDR5451
-layout: Brazilian
-corners: 720,353 842,353 844,393 720,395

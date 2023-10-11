@@ -1,4 +1,0 @@
-type: car
-plate: MTX8520
-layout: Brazilian
-corners: 629,327 757,328 758,372 630,370

@@ -1,4 +1,0 @@
-type: car
-plate: OCW3138
-layout: Brazilian
-corners: 859,303 989,299 992,346 860,348

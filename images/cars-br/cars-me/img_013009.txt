@@ -1,4 +1,0 @@
-type: car
-plate: OVL2E56
-layout: Mercosur
-corners: 730,298 852,299 853,339 730,336

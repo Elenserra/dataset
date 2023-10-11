@@ -1,4 +1,0 @@
-type: car
-plate: OWR4753
-layout: Brazilian
-corners: 881,226 992,222 995,261 883,263

@@ -1,4 +1,0 @@
-type: car
-plate: PPZ7593
-layout: Brazilian
-corners: 693,309 820,312 820,357 694,353

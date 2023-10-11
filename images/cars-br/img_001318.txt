@@ -1,4 +1,0 @@
-type: car
-plate: OVK9607
-layout: Brazilian
-corners: 338,595 505,599 507,657 343,652

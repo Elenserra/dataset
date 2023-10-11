@@ -1,4 +1,0 @@
-type: car
-plate: LRZ6528
-layout: Brazilian
-corners: 818,352 954,349 957,397 819,397

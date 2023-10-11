@@ -1,4 +1,0 @@
-type: car
-plate: OCX2I38
-layout: Mercosur
-corners: 483,344 613,344 617,388 486,387

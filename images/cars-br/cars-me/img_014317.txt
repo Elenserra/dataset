@@ -1,4 +1,0 @@
-type: car
-plate: KJG6H87
-layout: Mercosur
-corners: 829,323 965,322 967,367 831,369

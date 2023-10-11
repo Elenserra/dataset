@@ -1,4 +1,0 @@
-type: car
-plate: OKO0458
-layout: Brazilian
-corners: 525,397 653,395 655,440 526,439

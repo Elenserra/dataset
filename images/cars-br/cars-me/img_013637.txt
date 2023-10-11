@@ -1,4 +1,0 @@
-type: car
-plate: QRF4J46
-layout: Mercosur
-corners: 739,114 832,112 834,142 739,146

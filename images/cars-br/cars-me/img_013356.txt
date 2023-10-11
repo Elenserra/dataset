@@ -1,4 +1,0 @@
-type: car
-plate: QRG8D34
-layout: Mercosur
-corners: 550,297 666,301 667,339 551,334

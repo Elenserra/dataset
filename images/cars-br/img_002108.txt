@@ -1,4 +1,0 @@
-type: car
-plate: ODQ1034
-layout: Brazilian
-corners: 564,378 687,379 689,420 564,419

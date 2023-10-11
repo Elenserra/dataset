@@ -1,4 +1,0 @@
-type: car
-plate: MQN7J86
-layout: Mercosur
-corners: 816,321 947,322 949,366 817,366

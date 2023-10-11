@@ -1,4 +1,0 @@
-type: car
-plate: LTY6A81
-layout: Mercosur
-corners: 791,280 922,277 927,320 793,322

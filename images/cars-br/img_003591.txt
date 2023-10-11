@@ -1,4 +1,0 @@
-type: car
-plate: PPA3624
-layout: Brazilian
-corners: 754,311 880,307 885,351 758,353

@@ -1,4 +1,0 @@
-type: car
-plate: QRJ9G14
-layout: Mercosur
-corners: 554,379 674,379 674,417 555,417

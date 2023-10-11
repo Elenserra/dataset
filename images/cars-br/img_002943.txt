@@ -1,4 +1,0 @@
-type: car
-plate: PUK3709
-layout: Brazilian
-corners: 656,321 782,319 784,363 660,363

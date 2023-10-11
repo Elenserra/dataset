@@ -1,4 +1,0 @@
-type: car
-plate: QRG1B09
-layout: Mercosur
-corners: 785,310 914,307 915,351 784,353

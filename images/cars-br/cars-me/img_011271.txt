@@ -1,4 +1,0 @@
-type: car
-plate: ODH3B10
-layout: Mercosur
-corners: 543,367 665,366 668,409 546,408

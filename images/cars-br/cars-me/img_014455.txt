@@ -1,4 +1,0 @@
-type: car
-plate: HJB9A25
-layout: Mercosur
-corners: 968,109 1047,106 1048,134 969,136

@@ -1,4 +1,0 @@
-type: car
-plate: ODI2H88
-layout: Mercosur
-corners: 497,411 630,411 634,457 498,456

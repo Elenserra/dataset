@@ -1,4 +1,0 @@
-type: car
-plate: PPQ6I43
-layout: Mercosur
-corners: 574,286 697,284 700,323 576,323

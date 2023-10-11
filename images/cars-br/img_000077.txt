@@ -1,4 +1,0 @@
-type: car
-plate: MQC8984
-layout: Brazilian
-corners: 491,317 597,316 602,352 495,354

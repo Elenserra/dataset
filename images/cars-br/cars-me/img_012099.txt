@@ -1,4 +1,0 @@
-type: car
-plate: OYD9F55
-layout: Mercosur
-corners: 582,270 697,269 697,308 581,307

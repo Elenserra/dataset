@@ -1,4 +1,0 @@
-type: car
-plate: MSV3B97
-layout: Mercosur
-corners: 533,348 656,348 655,391 534,389

@@ -1,4 +1,0 @@
-type: car
-plate: MSX1694
-layout: Brazilian
-corners: 785,155 868,155 868,182 786,183

@@ -1,4 +1,0 @@
-type: car
-plate: QQS0213
-layout: Brazilian
-corners: 944,204 1049,200 1051,236 946,240

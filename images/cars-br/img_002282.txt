@@ -1,4 +1,0 @@
-type: car
-plate: MRA7567
-layout: Brazilian
-corners: 742,94 828,90 830,120 744,123

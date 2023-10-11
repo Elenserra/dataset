@@ -1,4 +1,0 @@
-type: car
-plate: QRL9D02
-layout: Mercosur
-corners: 777,290 902,286 904,328 777,331

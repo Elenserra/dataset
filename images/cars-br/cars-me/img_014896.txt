@@ -1,4 +1,0 @@
-type: car
-plate: PPI4I74
-layout: Mercosur
-corners: 618,294 752,300 752,345 618,339

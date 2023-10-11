@@ -1,4 +1,0 @@
-type: car
-plate: PPW7324
-layout: Brazilian
-corners: 508,422 643,421 645,464 512,465

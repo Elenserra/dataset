@@ -1,4 +1,0 @@
-type: car
-plate: MSN8166
-layout: Brazilian
-corners: 681,243 811,245 811,286 684,285

@@ -1,4 +1,0 @@
-type: car
-plate: PPO3H68
-layout: Mercosur
-corners: 543,333 673,335 675,376 545,373

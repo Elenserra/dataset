@@ -1,4 +1,0 @@
-type: car
-plate: PWL6172
-layout: Brazilian
-corners: 630,343 749,344 749,381 631,380

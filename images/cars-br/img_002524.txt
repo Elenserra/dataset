@@ -1,4 +1,0 @@
-type: car
-plate: QOD0956
-layout: Brazilian
-corners: 709,335 829,337 831,378 711,375

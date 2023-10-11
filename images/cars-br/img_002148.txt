@@ -1,4 +1,0 @@
-type: car
-plate: LAJ1744
-layout: Brazilian
-corners: 532,324 650,323 651,364 532,364

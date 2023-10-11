@@ -1,4 +1,0 @@
-type: car
-plate: ODQ5G32
-layout: Mercosur
-corners: 742,328 871,329 872,371 743,370

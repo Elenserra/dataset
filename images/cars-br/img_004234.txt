@@ -1,4 +1,0 @@
-type: car
-plate: EEX3746
-layout: Brazilian
-corners: 793,357 921,354 923,397 794,398

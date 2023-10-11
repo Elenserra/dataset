@@ -1,4 +1,0 @@
-type: car
-plate: OYK7770
-layout: Brazilian
-corners: 717,119 803,122 803,151 719,149

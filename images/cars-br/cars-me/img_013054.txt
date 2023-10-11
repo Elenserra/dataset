@@ -1,4 +1,0 @@
-type: car
-plate: PPV3B56
-layout: Mercosur
-corners: 642,317 772,320 771,360 646,358

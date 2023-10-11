@@ -1,4 +1,0 @@
-type: car
-plate: MQA5335
-layout: Brazilian
-corners: 815,357 952,353 955,402 817,404

@@ -1,4 +1,0 @@
-type: car
-plate: FBT6969
-layout: Brazilian
-corners: 784,368 925,366 928,414 785,415

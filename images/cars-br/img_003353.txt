@@ -1,4 +1,0 @@
-type: car
-plate: ODF5761
-layout: Brazilian
-corners: 816,62 904,63 904,92 816,90

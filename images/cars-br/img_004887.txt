@@ -1,4 +1,0 @@
-type: car
-plate: MQZ7504
-layout: Brazilian
-corners: 795,149 906,144 908,180 797,185

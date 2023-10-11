@@ -1,4 +1,0 @@
-type: car
-plate: PPM2H41
-layout: Mercosur
-corners: 783,307 913,304 916,350 785,350

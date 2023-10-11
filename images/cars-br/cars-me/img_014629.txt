@@ -1,4 +1,0 @@
-type: car
-plate: PPN6H40
-layout: Mercosur
-corners: 1013,118 1093,115 1095,140 1013,144

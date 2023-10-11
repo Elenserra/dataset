@@ -1,4 +1,0 @@
-type: car
-plate: PPD6888
-layout: Brazilian
-corners: 799,327 935,323 938,367 803,371

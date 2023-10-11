@@ -1,4 +1,0 @@
-type: car
-plate: PPR3F48
-layout: Mercosur
-corners: 738,333 875,330 880,378 740,380

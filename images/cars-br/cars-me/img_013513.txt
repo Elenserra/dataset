@@ -1,4 +1,0 @@
-type: car
-plate: QRK4C44
-layout: Mercosur
-corners: 835,140 925,141 926,170 836,169

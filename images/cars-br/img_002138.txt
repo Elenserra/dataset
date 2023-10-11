@@ -1,4 +1,0 @@
-type: car
-plate: PPQ3580
-layout: Brazilian
-corners: 566,388 694,388 695,432 566,432

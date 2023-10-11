@@ -1,4 +1,0 @@
-type: car
-plate: MQZ0325
-layout: Brazilian
-corners: 692,233 823,227 830,272 695,277

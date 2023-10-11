@@ -1,4 +1,0 @@
-type: car
-plate: ODT6185
-layout: Brazilian
-corners: 908,6 982,7 983,33 909,32

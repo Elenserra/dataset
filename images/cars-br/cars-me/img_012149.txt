@@ -1,4 +1,0 @@
-type: car
-plate: PPL5H51
-layout: Mercosur
-corners: 469,327 597,329 598,372 467,370

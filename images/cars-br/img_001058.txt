@@ -1,4 +1,0 @@
-type: car
-plate: QPH1426
-layout: Brazilian
-corners: 543,409 667,411 668,456 544,453

@@ -1,4 +1,0 @@
-type: car
-plate: EIY8I27
-layout: Mercosur
-corners: 446,503 586,506 586,553 446,549

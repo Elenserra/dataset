@@ -1,4 +1,0 @@
-type: car
-plate: MQI9275
-layout: Brazilian
-corners: 521,359 647,357 650,402 522,402

@@ -1,4 +1,0 @@
-type: car
-plate: PPV6G66
-layout: Mercosur
-corners: 548,293 662,294 664,331 550,332

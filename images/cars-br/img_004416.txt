@@ -1,4 +1,0 @@
-type: car
-plate: MSX3343
-layout: Brazilian
-corners: 778,328 910,325 913,371 779,370

@@ -1,4 +1,0 @@
-type: car
-plate: OVH2168
-layout: Brazilian
-corners: 863,300 990,298 991,342 863,343

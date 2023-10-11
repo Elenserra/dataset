@@ -1,4 +1,0 @@
-type: car
-plate: MTX8B86
-layout: Mercosur
-corners: 838,167 936,167 936,199 838,201

@@ -1,4 +1,0 @@
-type: car
-plate: PPX8156
-layout: Brazilian
-corners: 749,220 869,217 871,260 749,261

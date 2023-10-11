@@ -1,4 +1,0 @@
-type: car
-plate: PPW1121
-layout: Brazilian
-corners: 581,316 705,320 708,366 581,360

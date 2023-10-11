@@ -1,4 +1,0 @@
-type: car
-plate: LUD6G99
-layout: Mercosur
-corners: 893,221 1000,219 1003,253 893,257

@@ -1,4 +1,0 @@
-type: car
-plate: MQS8H56
-layout: Mercosur
-corners: 601,372 720,372 720,408 603,408

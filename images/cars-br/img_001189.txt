@@ -1,4 +1,0 @@
-type: car
-plate: ODF4825
-layout: Brazilian
-corners: 466,380 588,381 590,424 467,423

@@ -1,4 +1,0 @@
-type: car
-plate: PPA3833
-layout: Brazilian
-corners: 652,305 757,302 760,340 654,342

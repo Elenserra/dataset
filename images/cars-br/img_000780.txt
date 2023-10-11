@@ -1,4 +1,0 @@
-type: car
-plate: QNY4536
-layout: Brazilian
-corners: 507,377 633,378 632,422 508,420

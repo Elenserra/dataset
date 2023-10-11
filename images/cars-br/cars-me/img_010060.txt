@@ -1,4 +1,0 @@
-type: car
-plate: OVL0I25
-layout: Mercosur
-corners: 869,49 928,49 928,68 869,68

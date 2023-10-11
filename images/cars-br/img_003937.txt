@@ -1,4 +1,0 @@
-type: car
-plate: MSU6054
-layout: Brazilian
-corners: 892,282 1012,284 1016,323 893,322

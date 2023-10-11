@@ -1,4 +1,0 @@
-type: car
-plate: QNM4G70
-layout: Mercosur
-corners: 656,333 786,335 786,377 657,375

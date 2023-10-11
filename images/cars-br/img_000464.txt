@@ -1,4 +1,0 @@
-type: car
-plate: ODD9364
-layout: Brazilian
-corners: 561,356 679,354 680,392 561,394

@@ -1,4 +1,0 @@
-type: car
-plate: MSF9E76
-layout: Mercosur
-corners: 714,328 852,336 850,384 712,375

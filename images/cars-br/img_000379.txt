@@ -1,4 +1,0 @@
-type: car
-plate: MRR1187
-layout: Brazilian
-corners: 625,301 732,302 735,335 626,333

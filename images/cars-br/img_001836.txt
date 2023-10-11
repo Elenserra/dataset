@@ -1,4 +1,0 @@
-type: car
-plate: ODT6073
-layout: Brazilian
-corners: 669,258 773,259 774,296 669,296

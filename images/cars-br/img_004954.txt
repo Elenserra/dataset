@@ -1,4 +1,0 @@
-type: car
-plate: PPM2393
-layout: Brazilian
-corners: 839,318 969,318 969,358 840,360

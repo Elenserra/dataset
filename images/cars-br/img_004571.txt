@@ -1,4 +1,0 @@
-type: car
-plate: LRS5078
-layout: Brazilian
-corners: 838,370 982,366 984,415 840,419

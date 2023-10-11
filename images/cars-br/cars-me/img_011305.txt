@@ -1,4 +1,0 @@
-type: car
-plate: OYH0E91
-layout: Mercosur
-corners: 638,315 752,313 754,350 640,353

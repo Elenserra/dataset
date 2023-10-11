@@ -1,4 +1,0 @@
-type: car
-plate: MQH4J22
-layout: Mercosur
-corners: 660,346 783,347 784,386 662,383

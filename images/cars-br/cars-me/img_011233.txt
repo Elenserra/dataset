@@ -1,4 +1,0 @@
-type: car
-plate: ODY9A33
-layout: Mercosur
-corners: 702,129 790,128 791,160 701,159

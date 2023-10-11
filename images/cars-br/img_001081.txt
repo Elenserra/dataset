@@ -1,4 +1,0 @@
-type: car
-plate: MTF1704
-layout: Brazilian
-corners: 548,383 664,383 667,422 551,422

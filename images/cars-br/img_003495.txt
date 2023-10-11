@@ -1,4 +1,0 @@
-type: car
-plate: DOR2030
-layout: Brazilian
-corners: 886,196 978,194 981,227 887,228

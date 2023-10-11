@@ -1,4 +1,0 @@
-type: car
-plate: OQI5224
-layout: Brazilian
-corners: 581,412 709,411 710,452 582,452

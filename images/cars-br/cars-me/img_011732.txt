@@ -1,4 +1,0 @@
-type: car
-plate: MTV3B31
-layout: Mercosur
-corners: 599,292 713,291 718,329 601,329

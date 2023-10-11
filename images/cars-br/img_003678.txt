@@ -1,4 +1,0 @@
-type: car
-plate: ODS8457
-layout: Brazilian
-corners: 828,318 961,316 965,358 828,361

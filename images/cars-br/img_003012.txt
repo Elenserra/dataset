@@ -1,4 +1,0 @@
-type: car
-plate: KQF4385
-layout: Brazilian
-corners: 803,292 929,289 932,332 804,335

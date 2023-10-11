@@ -1,4 +1,0 @@
-type: car
-plate: FAN0977
-layout: Brazilian
-corners: 606,352 724,352 724,393 607,392

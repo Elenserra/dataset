@@ -1,4 +1,0 @@
-type: car
-plate: PYQ7502
-layout: Brazilian
-corners: 784,320 914,319 917,365 785,363

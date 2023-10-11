@@ -1,4 +1,0 @@
-type: car
-plate: QOE1909
-layout: Brazilian
-corners: 605,314 734,314 737,360 607,357

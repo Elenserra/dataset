@@ -1,4 +1,0 @@
-type: car
-plate: PPQ9635
-layout: Brazilian
-corners: 770,349 905,346 907,391 771,393

@@ -1,4 +1,0 @@
-type: car
-plate: MPV1368
-layout: Brazilian
-corners: 512,426 641,427 641,465 513,464

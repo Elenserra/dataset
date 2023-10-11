@@ -1,4 +1,0 @@
-type: car
-plate: OYF6B91
-layout: Mercosur
-corners: 358,503 496,509 499,555 359,551

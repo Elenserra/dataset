@@ -1,4 +1,0 @@
-type: car
-plate: IZB3B56
-layout: Mercosur
-corners: 486,249 597,250 598,285 487,284

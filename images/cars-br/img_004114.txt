@@ -1,4 +1,0 @@
-type: car
-plate: MSU0421
-layout: Brazilian
-corners: 794,352 930,350 935,397 797,396

@@ -1,4 +1,0 @@
-type: car
-plate: LTH5B28
-layout: Mercosur
-corners: 504,324 631,325 634,365 506,364

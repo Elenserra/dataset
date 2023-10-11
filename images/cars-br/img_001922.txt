@@ -1,4 +1,0 @@
-type: car
-plate: OYH4566
-layout: Brazilian
-corners: 581,346 699,346 700,386 581,385

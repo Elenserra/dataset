@@ -1,4 +1,0 @@
-type: car
-plate: JSQ9H31
-layout: Mercosur
-corners: 700,358 839,369 836,415 696,404

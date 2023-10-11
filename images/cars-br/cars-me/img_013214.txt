@@ -1,4 +1,0 @@
-type: car
-plate: HNW3E32
-layout: Mercosur
-corners: 732,281 851,282 852,321 732,320

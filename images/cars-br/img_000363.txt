@@ -1,4 +1,0 @@
-type: car
-plate: MTX3205
-layout: Brazilian
-corners: 533,501 664,501 667,546 535,543

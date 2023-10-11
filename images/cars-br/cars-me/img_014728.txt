@@ -1,4 +1,0 @@
-type: car
-plate: PPQ8J37
-layout: Mercosur
-corners: 812,321 938,322 937,361 812,361

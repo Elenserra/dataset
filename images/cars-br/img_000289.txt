@@ -1,4 +1,0 @@
-type: car
-plate: PPF9168
-layout: Brazilian
-corners: 783,155 861,155 861,183 782,183

@@ -1,4 +1,0 @@
-type: car
-plate: MSE4866
-layout: Brazilian
-corners: 944,193 1045,190 1047,224 944,226

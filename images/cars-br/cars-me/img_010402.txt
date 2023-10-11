@@ -1,4 +1,0 @@
-type: car
-plate: QRE3G72
-layout: Mercosur
-corners: 566,424 694,424 694,467 566,466

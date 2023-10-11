@@ -1,4 +1,0 @@
-type: car
-plate: PPX5I28
-layout: Mercosur
-corners: 505,348 632,351 634,393 506,390

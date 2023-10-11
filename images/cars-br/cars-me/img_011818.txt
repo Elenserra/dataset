@@ -1,4 +1,0 @@
-type: car
-plate: QBN4E00
-layout: Mercosur
-corners: 820,51 890,51 891,76 819,77

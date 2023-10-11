@@ -1,4 +1,0 @@
-type: car
-plate: OPH4043
-layout: Brazilian
-corners: 678,281 783,280 783,315 678,316

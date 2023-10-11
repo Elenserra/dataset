@@ -1,4 +1,0 @@
-type: car
-plate: OYI1J82
-layout: Mercosur
-corners: 671,332 807,341 806,387 670,377

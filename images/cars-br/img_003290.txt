@@ -1,4 +1,0 @@
-type: car
-plate: PPE4457
-layout: Brazilian
-corners: 666,294 788,296 788,339 666,336

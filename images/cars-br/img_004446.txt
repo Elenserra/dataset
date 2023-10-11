@@ -1,4 +1,0 @@
-type: car
-plate: CGS9378
-layout: Brazilian
-corners: 744,230 860,229 863,270 745,270

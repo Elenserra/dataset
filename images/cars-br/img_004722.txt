@@ -1,4 +1,0 @@
-type: car
-plate: PPJ7924
-layout: Brazilian
-corners: 1039,84 1115,81 1116,107 1041,108

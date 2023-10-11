@@ -1,4 +1,0 @@
-type: car
-plate: MRD6262
-layout: Brazilian
-corners: 591,339 710,339 710,382 591,381

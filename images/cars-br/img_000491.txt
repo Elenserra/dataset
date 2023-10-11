@@ -1,4 +1,0 @@
-type: car
-plate: ODR5917
-layout: Brazilian
-corners: 610,237 717,235 719,270 611,271

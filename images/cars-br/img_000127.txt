@@ -1,4 +1,0 @@
-type: car
-plate: PPS9591
-layout: Brazilian
-corners: 776,173 859,171 861,200 777,202

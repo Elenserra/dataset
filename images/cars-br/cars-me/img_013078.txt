@@ -1,4 +1,0 @@
-type: car
-plate: PPW3J64
-layout: Mercosur
-corners: 641,351 766,353 767,392 642,390

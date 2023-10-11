@@ -1,4 +1,0 @@
-type: car
-plate: MTX5H45
-layout: Mercosur
-corners: 655,348 788,355 787,400 655,393

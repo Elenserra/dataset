@@ -1,4 +1,0 @@
-type: car
-plate: PPB0869
-layout: Brazilian
-corners: 571,395 693,395 693,433 573,434

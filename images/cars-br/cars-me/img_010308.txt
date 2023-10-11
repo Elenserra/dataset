@@ -1,4 +1,0 @@
-type: car
-plate: MSA5B77
-layout: Mercosur
-corners: 566,366 686,368 685,408 568,405

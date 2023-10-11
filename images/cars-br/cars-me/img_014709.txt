@@ -1,4 +1,0 @@
-type: car
-plate: PFG1I94
-layout: Mercosur
-corners: 803,374 940,375 942,419 804,418

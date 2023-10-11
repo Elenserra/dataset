@@ -1,4 +1,0 @@
-type: car
-plate: NVL1F15
-layout: Mercosur
-corners: 543,404 665,405 667,441 545,441

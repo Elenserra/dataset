@@ -1,4 +1,0 @@
-type: car
-plate: MOX4428
-layout: Brazilian
-corners: 553,401 667,399 670,439 556,439

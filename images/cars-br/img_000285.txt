@@ -1,4 +1,0 @@
-type: car
-plate: ODO4239
-layout: Brazilian
-corners: 731,181 819,181 818,209 731,210

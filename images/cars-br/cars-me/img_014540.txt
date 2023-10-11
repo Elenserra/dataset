@@ -1,4 +1,0 @@
-type: car
-plate: MRZ0J37
-layout: Mercosur
-corners: 769,351 903,350 905,397 770,396

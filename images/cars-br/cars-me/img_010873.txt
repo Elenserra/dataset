@@ -1,4 +1,0 @@
-type: car
-plate: MQO5D53
-layout: Mercosur
-corners: 583,355 701,355 701,393 583,393

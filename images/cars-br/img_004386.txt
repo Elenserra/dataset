@@ -1,4 +1,0 @@
-type: car
-plate: DQS5659
-layout: Brazilian
-corners: 1022,117 1107,114 1109,142 1024,146

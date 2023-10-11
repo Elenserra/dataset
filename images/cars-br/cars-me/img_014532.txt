@@ -1,4 +1,0 @@
-type: car
-plate: NVI0I99
-layout: Mercosur
-corners: 991,118 1072,116 1073,145 991,147

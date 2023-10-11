@@ -1,4 +1,0 @@
-type: car
-plate: QRE9J97
-layout: Mercosur
-corners: 416,423 547,425 550,469 420,466

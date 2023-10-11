@@ -1,4 +1,0 @@
-type: car
-plate: PPL1J28
-layout: Mercosur
-corners: 635,308 759,310 760,352 636,348

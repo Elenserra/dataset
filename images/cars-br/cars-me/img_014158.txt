@@ -1,4 +1,0 @@
-type: car
-plate: MPW6D80
-layout: Mercosur
-corners: 672,288 803,285 811,323 678,326

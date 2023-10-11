@@ -1,4 +1,0 @@
-type: car
-plate: ODT6208
-layout: Brazilian
-corners: 581,193 663,193 664,223 581,222

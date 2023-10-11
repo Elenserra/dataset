@@ -1,4 +1,0 @@
-type: car
-plate: QOK6I93
-layout: Mercosur
-corners: 538,423 673,425 672,467 541,465

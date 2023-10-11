@@ -1,4 +1,0 @@
-type: car
-plate: LOQ5504
-layout: Brazilian
-corners: 850,474 960,460 958,498 841,520

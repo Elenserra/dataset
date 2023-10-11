@@ -1,4 +1,0 @@
-type: car
-plate: QRF3D01
-layout: Mercosur
-corners: 811,304 947,300 950,347 812,349

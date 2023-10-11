@@ -1,4 +1,0 @@
-type: car
-plate: MRB4275
-layout: Brazilian
-corners: 903,327 1032,322 1037,366 905,370

@@ -1,4 +1,0 @@
-type: car
-plate: MTU2F92
-layout: Mercosur
-corners: 520,343 648,344 650,387 521,386

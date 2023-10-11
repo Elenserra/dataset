@@ -1,4 +1,0 @@
-type: car
-plate: MTE1H25
-layout: Mercosur
-corners: 575,291 697,294 697,336 573,332

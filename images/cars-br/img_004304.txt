@@ -1,4 +1,0 @@
-type: car
-plate: OCZ1037
-layout: Brazilian
-corners: 828,312 960,312 963,357 828,357

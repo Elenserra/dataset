@@ -1,4 +1,0 @@
-type: car
-plate: MRG2A66
-layout: Mercosur
-corners: 532,358 659,355 661,395 536,398

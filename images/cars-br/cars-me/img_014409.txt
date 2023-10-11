@@ -1,4 +1,0 @@
-type: car
-plate: MQY7A51
-layout: Mercosur
-corners: 765,285 893,283 894,325 766,325

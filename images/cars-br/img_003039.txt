@@ -1,4 +1,0 @@
-type: car
-plate: DDO2680
-layout: Brazilian
-corners: 530,485 680,493 683,542 534,533

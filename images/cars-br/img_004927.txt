@@ -1,4 +1,0 @@
-type: car
-plate: PPU9784
-layout: Brazilian
-corners: 842,305 968,304 970,348 840,349

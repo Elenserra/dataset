@@ -1,4 +1,0 @@
-type: car
-plate: BYQ3760
-layout: Brazilian
-corners: 674,137 748,136 748,161 675,162

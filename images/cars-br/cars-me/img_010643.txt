@@ -1,4 +1,0 @@
-type: car
-plate: QRK0H28
-layout: Mercosur
-corners: 800,130 871,130 871,151 801,152

@@ -1,4 +1,0 @@
-type: car
-plate: ODQ3176
-layout: Brazilian
-corners: 769,331 899,330 905,373 770,375

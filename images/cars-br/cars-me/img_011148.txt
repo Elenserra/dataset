@@ -1,4 +1,0 @@
-type: car
-plate: OCV5J78
-layout: Mercosur
-corners: 467,415 607,415 611,463 469,460

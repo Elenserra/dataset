@@ -1,4 +1,0 @@
-type: car
-plate: PVY2016
-layout: Brazilian
-corners: 735,354 872,355 875,402 737,402

@@ -1,4 +1,0 @@
-type: car
-plate: PPW9J90
-layout: Mercosur
-corners: 660,317 796,325 794,370 660,361

@@ -1,4 +1,0 @@
-type: car
-plate: HOE5I93
-layout: Mercosur
-corners: 512,411 646,411 648,455 514,457

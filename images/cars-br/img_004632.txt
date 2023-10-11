@@ -1,4 +1,0 @@
-type: car
-plate: ODI4419
-layout: Brazilian
-corners: 879,269 1002,266 1004,310 880,311

@@ -1,4 +1,0 @@
-type: car
-plate: MSF6603
-layout: Brazilian
-corners: 889,89 963,89 963,114 890,115

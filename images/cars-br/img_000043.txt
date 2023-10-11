@@ -1,4 +1,0 @@
-type: car
-plate: QPE1764
-layout: Brazilian
-corners: 543,374 668,375 669,416 544,414

@@ -1,4 +1,0 @@
-type: car
-plate: LQR5015
-layout: Brazilian
-corners: 492,367 610,367 610,409 492,410

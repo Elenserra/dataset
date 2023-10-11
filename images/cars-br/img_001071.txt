@@ -1,4 +1,0 @@
-type: car
-plate: OPO2947
-layout: Brazilian
-corners: 480,385 600,388 601,428 482,424

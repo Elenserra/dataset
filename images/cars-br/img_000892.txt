@@ -1,4 +1,0 @@
-type: car
-plate: MQP6736
-layout: Brazilian
-corners: 553,407 682,407 683,451 555,450

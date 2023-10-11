@@ -1,4 +1,0 @@
-type: car
-plate: OVI5960
-layout: Brazilian
-corners: 722,102 798,102 799,128 722,128

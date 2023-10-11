@@ -1,4 +1,0 @@
-type: car
-plate: MQF8976
-layout: Brazilian
-corners: 846,328 978,328 979,369 848,370

@@ -1,4 +1,0 @@
-type: car
-plate: MST8D62
-layout: Mercosur
-corners: 597,378 719,378 719,417 598,418

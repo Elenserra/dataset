@@ -1,4 +1,0 @@
-type: car
-plate: QRG5C25
-layout: Mercosur
-corners: 480,395 611,395 614,438 483,438

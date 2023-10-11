@@ -1,4 +1,0 @@
-type: car
-plate: GDL4498
-layout: Brazilian
-corners: 789,133 864,131 864,157 790,159

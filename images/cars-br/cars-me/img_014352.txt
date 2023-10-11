@@ -1,4 +1,0 @@
-type: car
-plate: LLL5H22
-layout: Mercosur
-corners: 801,333 931,331 934,374 803,377

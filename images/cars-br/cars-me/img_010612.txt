@@ -1,4 +1,0 @@
-type: car
-plate: PPB4H83
-layout: Mercosur
-corners: 474,396 597,398 598,436 477,434

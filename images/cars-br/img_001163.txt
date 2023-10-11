@@ -1,4 +1,0 @@
-type: car
-plate: MQJ5849
-layout: Brazilian
-corners: 549,353 665,353 666,394 549,394

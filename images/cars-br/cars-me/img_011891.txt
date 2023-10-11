@@ -1,4 +1,0 @@
-type: car
-plate: OVI8C86
-layout: Mercosur
-corners: 480,321 606,323 609,366 480,365

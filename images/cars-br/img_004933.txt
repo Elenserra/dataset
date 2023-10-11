@@ -1,4 +1,0 @@
-type: car
-plate: PPQ6562
-layout: Brazilian
-corners: 791,335 925,333 928,375 794,379

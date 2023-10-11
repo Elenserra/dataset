@@ -1,4 +1,0 @@
-type: car
-plate: MRL5357
-layout: Brazilian
-corners: 503,426 634,426 634,471 504,469

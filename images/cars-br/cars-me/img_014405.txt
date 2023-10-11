@@ -1,4 +1,0 @@
-type: car
-plate: MQF0F99
-layout: Mercosur
-corners: 811,375 938,371 941,412 815,412

@@ -1,4 +1,0 @@
-type: car
-plate: OCV6153
-layout: Brazilian
-corners: 529,319 657,320 658,362 530,362

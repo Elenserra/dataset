@@ -1,4 +1,0 @@
-type: car
-plate: MQW8039
-layout: Brazilian
-corners: 652,288 760,288 760,324 652,324

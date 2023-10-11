@@ -1,4 +1,0 @@
-type: car
-plate: PPE9E91
-layout: Mercosur
-corners: 819,148 908,149 909,177 820,176

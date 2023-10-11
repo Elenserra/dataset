@@ -1,4 +1,0 @@
-type: car
-plate: PPY3354
-layout: Brazilian
-corners: 797,389 935,387 938,432 799,434

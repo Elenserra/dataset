@@ -1,4 +1,0 @@
-type: car
-plate: LRE1G32
-layout: Mercosur
-corners: 525,390 647,394 651,435 526,430

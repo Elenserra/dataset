@@ -1,4 +1,0 @@
-type: car
-plate: QRE9C23
-layout: Mercosur
-corners: 805,329 939,329 940,374 805,374

@@ -1,4 +1,0 @@
-type: car
-plate: ODT7C89
-layout: Mercosur
-corners: 703,178 815,177 815,216 703,215

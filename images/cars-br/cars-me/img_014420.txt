@@ -1,4 +1,0 @@
-type: car
-plate: LSE5G18
-layout: Mercosur
-corners: 831,325 963,322 966,365 833,368

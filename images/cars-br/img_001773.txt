@@ -1,4 +1,0 @@
-type: car
-plate: ODR5144
-layout: Brazilian
-corners: 485,402 618,405 618,452 485,449

@@ -1,4 +1,0 @@
-type: car
-plate: MTZ9687
-layout: Brazilian
-corners: 562,380 691,386 692,428 565,423

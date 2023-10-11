@@ -1,4 +1,0 @@
-type: car
-plate: QNY8B37
-layout: Mercosur
-corners: 635,324 760,326 760,368 637,364

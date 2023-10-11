@@ -1,4 +1,0 @@
-type: car
-plate: HIO4I10
-layout: Mercosur
-corners: 670,313 793,317 794,360 672,353

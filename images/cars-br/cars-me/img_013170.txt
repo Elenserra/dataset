@@ -1,4 +1,0 @@
-type: car
-plate: MTU8I67
-layout: Mercosur
-corners: 703,320 826,323 827,362 703,361

@@ -1,4 +1,0 @@
-type: car
-plate: OCZ2846
-layout: Brazilian
-corners: 345,546 501,549 503,602 346,596

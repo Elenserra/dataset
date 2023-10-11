@@ -1,4 +1,0 @@
-type: car
-plate: MTX9C25
-layout: Mercosur
-corners: 614,333 739,337 740,378 615,375

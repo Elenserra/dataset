@@ -1,4 +1,0 @@
-type: car
-plate: PPR1067
-layout: Brazilian
-corners: 562,387 686,388 687,430 563,429

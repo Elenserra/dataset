@@ -1,4 +1,0 @@
-type: car
-plate: OVK8I54
-layout: Mercosur
-corners: 523,303 647,303 649,343 525,342

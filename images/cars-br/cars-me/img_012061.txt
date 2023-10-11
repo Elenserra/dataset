@@ -1,4 +1,0 @@
-type: car
-plate: QRE7J23
-layout: Mercosur
-corners: 612,267 721,266 724,303 613,303

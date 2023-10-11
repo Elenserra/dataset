@@ -1,4 +1,0 @@
-type: car
-plate: ODQ0904
-layout: Brazilian
-corners: 824,307 952,304 956,347 825,351

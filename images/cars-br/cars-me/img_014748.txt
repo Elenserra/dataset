@@ -1,4 +1,0 @@
-type: car
-plate: MRS1A15
-layout: Mercosur
-corners: 860,266 978,266 979,306 861,305

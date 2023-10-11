@@ -1,4 +1,0 @@
-type: car
-plate: HNY1980
-layout: Brazilian
-corners: 807,329 939,327 941,371 811,372

@@ -1,4 +1,0 @@
-type: car
-plate: MQU8874
-layout: Brazilian
-corners: 968,169 1054,168 1056,198 969,199

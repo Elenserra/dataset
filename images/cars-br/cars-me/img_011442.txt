@@ -1,4 +1,0 @@
-type: car
-plate: ODA2E64
-layout: Mercosur
-corners: 644,237 747,237 749,273 647,272

@@ -1,4 +1,0 @@
-type: car
-plate: QOO5925
-layout: Brazilian
-corners: 599,378 723,377 725,419 603,419

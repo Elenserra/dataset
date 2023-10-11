@@ -1,4 +1,0 @@
-type: car
-plate: PPF4062
-layout: Brazilian
-corners: 860,316 987,312 991,357 861,360

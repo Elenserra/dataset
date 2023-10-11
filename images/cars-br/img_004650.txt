@@ -1,4 +1,0 @@
-type: car
-plate: MRS9917
-layout: Brazilian
-corners: 988,154 1076,155 1076,186 988,185

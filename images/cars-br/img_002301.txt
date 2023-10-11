@@ -1,4 +1,0 @@
-type: car
-plate: OVF4034
-layout: Brazilian
-corners: 705,115 797,113 799,144 706,145

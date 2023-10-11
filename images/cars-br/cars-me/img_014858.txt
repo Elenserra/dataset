@@ -1,4 +1,0 @@
-type: car
-plate: MQZ4I31
-layout: Mercosur
-corners: 691,358 828,368 827,414 690,404

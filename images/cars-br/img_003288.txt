@@ -1,4 +1,0 @@
-type: car
-plate: PPC5253
-layout: Brazilian
-corners: 979,48 1051,48 1052,72 980,71

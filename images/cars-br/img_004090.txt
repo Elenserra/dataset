@@ -1,4 +1,0 @@
-type: car
-plate: MQL0663
-layout: Brazilian
-corners: 736,398 876,398 880,447 735,445

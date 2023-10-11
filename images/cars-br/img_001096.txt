@@ -1,4 +1,0 @@
-type: car
-plate: PPA0280
-layout: Brazilian
-corners: 668,247 767,248 767,282 668,282

@@ -1,4 +1,0 @@
-type: car
-plate: KWB6E76
-layout: Mercosur
-corners: 640,341 766,344 767,387 641,384

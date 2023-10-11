@@ -1,4 +1,0 @@
-type: car
-plate: MTM8F68
-layout: Mercosur
-corners: 805,301 941,299 942,345 805,347

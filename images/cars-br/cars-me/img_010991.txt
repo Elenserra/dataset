@@ -1,4 +1,0 @@
-type: car
-plate: ODC8B66
-layout: Mercosur
-corners: 512,404 638,406 637,445 513,442

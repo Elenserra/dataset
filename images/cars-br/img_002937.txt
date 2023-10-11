@@ -1,4 +1,0 @@
-type: car
-plate: PPX4326
-layout: Brazilian
-corners: 594,337 721,339 724,384 595,382

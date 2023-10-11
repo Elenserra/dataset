@@ -1,4 +1,0 @@
-type: car
-plate: MTG6455
-layout: Brazilian
-corners: 571,407 701,405 702,450 572,452

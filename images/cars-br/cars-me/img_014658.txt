@@ -1,4 +1,0 @@
-type: car
-plate: LSS5H32
-layout: Mercosur
-corners: 998,92 1077,89 1079,116 999,119

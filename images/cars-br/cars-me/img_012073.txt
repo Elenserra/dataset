@@ -1,4 +1,0 @@
-type: car
-plate: PFY1A33
-layout: Mercosur
-corners: 535,325 651,323 654,363 536,363

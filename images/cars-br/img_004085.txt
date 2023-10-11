@@ -1,4 +1,0 @@
-type: car
-plate: MSG1403
-layout: Brazilian
-corners: 868,321 997,317 1000,362 868,365

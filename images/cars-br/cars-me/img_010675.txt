@@ -1,4 +1,0 @@
-type: car
-plate: ODE8A15
-layout: Mercosur
-corners: 808,119 880,118 880,142 808,143

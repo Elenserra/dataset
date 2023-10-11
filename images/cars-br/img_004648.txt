@@ -1,4 +1,0 @@
-type: car
-plate: PPA0253
-layout: Brazilian
-corners: 1062,50 1131,48 1131,72 1062,75

@@ -1,4 +1,0 @@
-type: car
-plate: ODQ9369
-layout: Brazilian
-corners: 692,163 781,161 781,190 694,191

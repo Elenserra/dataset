@@ -1,4 +1,0 @@
-type: car
-plate: MSG4H01
-layout: Mercosur
-corners: 880,314 1002,311 1005,351 880,353

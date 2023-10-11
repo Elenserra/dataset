@@ -1,4 +1,0 @@
-type: car
-plate: PPS6D95
-layout: Mercosur
-corners: 477,420 602,420 603,460 477,460

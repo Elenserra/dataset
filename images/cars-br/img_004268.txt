@@ -1,4 +1,0 @@
-type: car
-plate: OVL7821
-layout: Brazilian
-corners: 792,323 924,322 927,366 795,367

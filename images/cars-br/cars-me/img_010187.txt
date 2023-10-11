@@ -1,4 +1,0 @@
-type: car
-plate: QRF5I33
-layout: Mercosur
-corners: 507,411 634,412 635,453 509,452

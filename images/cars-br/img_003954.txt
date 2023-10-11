@@ -1,4 +1,0 @@
-type: car
-plate: MOX7829
-layout: Brazilian
-corners: 801,383 939,384 942,430 800,428

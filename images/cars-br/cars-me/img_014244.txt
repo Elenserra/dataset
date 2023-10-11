@@ -1,4 +1,0 @@
-type: car
-plate: HMA7E20
-layout: Mercosur
-corners: 777,305 903,302 906,346 779,348

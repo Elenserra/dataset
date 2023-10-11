@@ -1,4 +1,0 @@
-type: car
-plate: ODN9810
-layout: Brazilian
-corners: 499,394 616,396 617,439 500,435

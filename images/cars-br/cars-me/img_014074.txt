@@ -1,4 +1,0 @@
-type: car
-plate: MQE7A82
-layout: Mercosur
-corners: 790,328 918,327 921,368 791,369

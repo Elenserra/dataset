@@ -1,4 +1,0 @@
-type: car
-plate: ODF7E30
-layout: Mercosur
-corners: 570,392 694,396 694,438 570,432

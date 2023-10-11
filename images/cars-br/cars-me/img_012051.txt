@@ -1,4 +1,0 @@
-type: car
-plate: MSG0F98
-layout: Mercosur
-corners: 526,326 654,324 655,364 527,366

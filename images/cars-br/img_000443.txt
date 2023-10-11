@@ -1,4 +1,0 @@
-type: car
-plate: MSL8231
-layout: Brazilian
-corners: 591,402 718,402 718,443 589,443

@@ -1,4 +1,0 @@
-type: car
-plate: OYJ3195
-layout: Brazilian
-corners: 775,338 907,336 912,381 778,383

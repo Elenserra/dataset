@@ -1,4 +1,0 @@
-type: car
-plate: OVF2B53
-layout: Mercosur
-corners: 869,122 954,123 953,150 870,150

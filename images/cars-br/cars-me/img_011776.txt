@@ -1,4 +1,0 @@
-type: car
-plate: MPL9D56
-layout: Mercosur
-corners: 559,369 680,364 684,406 563,409

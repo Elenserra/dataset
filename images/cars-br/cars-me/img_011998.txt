@@ -1,4 +1,0 @@
-type: car
-plate: OTN9A00
-layout: Mercosur
-corners: 542,325 666,325 670,367 542,367

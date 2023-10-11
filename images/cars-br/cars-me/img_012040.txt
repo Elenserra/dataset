@@ -1,4 +1,0 @@
-type: car
-plate: MPJ4I75
-layout: Mercosur
-corners: 572,316 697,319 699,360 572,355

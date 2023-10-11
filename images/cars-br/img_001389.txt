@@ -1,4 +1,0 @@
-type: car
-plate: PPV2861
-layout: Brazilian
-corners: 539,423 666,423 667,466 540,465

@@ -1,4 +1,0 @@
-type: car
-plate: HMA6157
-layout: Brazilian
-corners: 691,263 795,261 796,296 692,296

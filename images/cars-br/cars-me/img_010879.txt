@@ -1,4 +1,0 @@
-type: car
-plate: PPK3D26
-layout: Mercosur
-corners: 533,360 654,359 654,397 535,398

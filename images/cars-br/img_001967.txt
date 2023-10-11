@@ -1,4 +1,0 @@
-type: car
-plate: MTJ9335
-layout: Brazilian
-corners: 658,260 759,260 759,294 659,295

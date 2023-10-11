@@ -1,4 +1,0 @@
-type: car
-plate: MSF3995
-layout: Brazilian
-corners: 531,447 665,448 666,491 532,491

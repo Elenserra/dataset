@@ -1,4 +1,0 @@
-type: car
-plate: BCH9517
-layout: Brazilian
-corners: 755,270 870,267 874,303 759,305

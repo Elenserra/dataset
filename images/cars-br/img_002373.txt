@@ -1,4 +1,0 @@
-type: car
-plate: KKU4086
-layout: Brazilian
-corners: 539,314 665,311 671,354 542,355

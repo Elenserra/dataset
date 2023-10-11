@@ -1,4 +1,0 @@
-type: car
-plate: OWH8385
-layout: Brazilian
-corners: 725,319 865,316 867,364 726,367

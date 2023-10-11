@@ -1,4 +1,0 @@
-type: car
-plate: PXE3F60
-layout: Mercosur
-corners: 470,425 603,428 605,472 473,469

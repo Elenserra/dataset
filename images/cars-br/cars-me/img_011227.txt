@@ -1,4 +1,0 @@
-type: car
-plate: MTY6E16
-layout: Mercosur
-corners: 564,276 684,275 684,314 566,314

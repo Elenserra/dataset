@@ -1,4 +1,0 @@
-type: car
-plate: PPP8356
-layout: Brazilian
-corners: 561,355 687,361 687,405 561,399

@@ -1,4 +1,0 @@
-type: car
-plate: ODQ9418
-layout: Brazilian
-corners: 631,318 745,320 747,359 632,359

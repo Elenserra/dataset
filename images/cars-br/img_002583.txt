@@ -1,4 +1,0 @@
-type: car
-plate: HAX6942
-layout: Brazilian
-corners: 780,303 914,301 916,345 783,346

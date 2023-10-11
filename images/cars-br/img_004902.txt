@@ -1,4 +1,0 @@
-type: car
-plate: MTV2007
-layout: Brazilian
-corners: 876,267 997,264 999,305 877,308

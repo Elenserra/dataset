@@ -1,4 +1,0 @@
-type: car
-plate: AMY7325
-layout: Brazilian
-corners: 830,271 941,268 945,306 831,307

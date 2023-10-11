@@ -1,4 +1,0 @@
-type: car
-plate: MPH9B72
-layout: Mercosur
-corners: 500,412 627,414 629,454 503,451

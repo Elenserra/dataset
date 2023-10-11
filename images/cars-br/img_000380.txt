@@ -1,4 +1,0 @@
-type: car
-plate: MSU1292
-layout: Brazilian
-corners: 727,233 823,232 824,264 727,263

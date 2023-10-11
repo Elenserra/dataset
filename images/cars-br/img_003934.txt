@@ -1,4 +1,0 @@
-type: car
-plate: NYS3671
-layout: Brazilian
-corners: 907,298 1032,294 1036,334 910,338

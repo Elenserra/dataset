@@ -1,4 +1,0 @@
-type: car
-plate: MTK6939
-layout: Brazilian
-corners: 575,405 697,406 697,446 575,444

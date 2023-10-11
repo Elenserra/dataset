@@ -1,4 +1,0 @@
-type: car
-plate: HEH9344
-layout: Brazilian
-corners: 910,166 1000,162 1005,192 912,195

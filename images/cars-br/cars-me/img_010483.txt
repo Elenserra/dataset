@@ -1,4 +1,0 @@
-type: car
-plate: MTU3C65
-layout: Mercosur
-corners: 545,410 670,410 670,450 547,449

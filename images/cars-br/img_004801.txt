@@ -1,4 +1,0 @@
-type: car
-plate: PPB7809
-layout: Brazilian
-corners: 836,329 974,325 976,372 837,375

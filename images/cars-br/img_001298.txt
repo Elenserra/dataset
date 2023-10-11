@@ -1,4 +1,0 @@
-type: car
-plate: MSN7625
-layout: Brazilian
-corners: 554,410 681,412 681,453 555,451

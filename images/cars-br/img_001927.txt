@@ -1,4 +1,0 @@
-type: car
-plate: MTC6112
-layout: Brazilian
-corners: 436,264 551,265 552,306 437,305

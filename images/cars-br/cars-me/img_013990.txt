@@ -1,4 +1,0 @@
-type: car
-plate: KPV0E05
-layout: Mercosur
-corners: 770,349 903,349 904,393 770,392

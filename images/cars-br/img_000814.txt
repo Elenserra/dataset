@@ -1,4 +1,0 @@
-type: car
-plate: MQL3554
-layout: Brazilian
-corners: 511,348 642,344 645,391 513,394

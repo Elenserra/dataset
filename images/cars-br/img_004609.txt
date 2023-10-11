@@ -1,4 +1,0 @@
-type: car
-plate: OYG2595
-layout: Brazilian
-corners: 805,290 941,285 945,330 808,333

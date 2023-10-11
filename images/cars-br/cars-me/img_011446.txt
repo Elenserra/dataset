@@ -1,4 +1,0 @@
-type: car
-plate: ODO0B71
-layout: Mercosur
-corners: 542,316 673,316 675,359 542,360

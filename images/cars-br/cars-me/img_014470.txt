@@ -1,4 +1,0 @@
-type: car
-plate: NBT3A91
-layout: Mercosur
-corners: 844,318 973,314 977,358 846,361

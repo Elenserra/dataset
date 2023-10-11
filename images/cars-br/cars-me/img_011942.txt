@@ -1,4 +1,0 @@
-type: car
-plate: QRJ7B99
-layout: Mercosur
-corners: 595,210 700,210 702,246 597,246

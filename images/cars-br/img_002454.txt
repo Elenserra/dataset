@@ -1,4 +1,0 @@
-type: car
-plate: MSH8964
-layout: Brazilian
-corners: 544,319 674,316 679,359 548,363

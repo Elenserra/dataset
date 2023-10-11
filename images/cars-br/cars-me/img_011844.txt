@@ -1,4 +1,0 @@
-type: car
-plate: PDC7C60
-layout: Mercosur
-corners: 530,340 659,341 660,385 529,385

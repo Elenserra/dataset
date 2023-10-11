@@ -1,4 +1,0 @@
-type: car
-plate: MSX1G07
-layout: Mercosur
-corners: 573,281 697,280 698,320 576,321

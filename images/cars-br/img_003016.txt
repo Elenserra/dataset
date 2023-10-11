@@ -1,4 +1,0 @@
-type: car
-plate: OYF9087
-layout: Brazilian
-corners: 803,204 909,206 909,242 804,239

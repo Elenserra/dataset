@@ -1,4 +1,0 @@
-type: car
-plate: LTM8D16
-layout: Mercosur
-corners: 749,263 867,259 871,296 753,298

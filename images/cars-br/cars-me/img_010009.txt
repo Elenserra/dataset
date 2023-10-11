@@ -1,4 +1,0 @@
-type: car
-plate: OCV6I89
-layout: Mercosur
-corners: 714,295 824,291 827,324 715,329

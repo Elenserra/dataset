@@ -1,4 +1,0 @@
-type: car
-plate: MQV6B38
-layout: Mercosur
-corners: 694,331 831,337 830,383 693,377

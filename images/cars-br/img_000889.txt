@@ -1,4 +1,0 @@
-type: car
-plate: MSE5742
-layout: Brazilian
-corners: 559,412 686,412 687,456 561,454

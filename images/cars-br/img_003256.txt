@@ -1,4 +1,0 @@
-type: car
-plate: MTW3128
-layout: Brazilian
-corners: 679,336 810,338 811,383 680,381

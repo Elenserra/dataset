@@ -1,4 +1,0 @@
-type: car
-plate: OYH2J33
-layout: Mercosur
-corners: 762,224 869,226 870,261 762,259

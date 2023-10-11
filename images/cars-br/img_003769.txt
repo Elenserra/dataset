@@ -1,4 +1,0 @@
-type: car
-plate: MRR2523
-layout: Brazilian
-corners: 782,339 917,337 920,381 784,384

@@ -1,4 +1,0 @@
-type: car
-plate: PPU0817
-layout: Brazilian
-corners: 559,378 679,378 680,421 560,421

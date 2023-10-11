@@ -1,4 +1,0 @@
-type: car
-plate: LVC9418
-layout: Brazilian
-corners: 792,279 924,275 927,323 793,325

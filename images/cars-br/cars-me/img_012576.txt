@@ -1,4 +1,0 @@
-type: car
-plate: QRI4F70
-layout: Mercosur
-corners: 675,317 799,320 799,359 676,357

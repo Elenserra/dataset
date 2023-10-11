@@ -1,4 +1,0 @@
-type: car
-plate: HMF0G82
-layout: Mercosur
-corners: 215,566 390,570 394,629 224,622

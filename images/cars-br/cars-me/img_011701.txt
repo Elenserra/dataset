@@ -1,4 +1,0 @@
-type: car
-plate: NZM2A30
-layout: Mercosur
-corners: 588,275 696,273 698,310 589,311

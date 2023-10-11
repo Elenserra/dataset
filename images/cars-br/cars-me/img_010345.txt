@@ -1,4 +1,0 @@
-type: car
-plate: MPI3C84
-layout: Mercosur
-corners: 442,432 571,436 570,477 453,472

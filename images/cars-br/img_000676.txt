@@ -1,4 +1,0 @@
-type: car
-plate: ODK7987
-layout: Brazilian
-corners: 443,352 558,355 562,392 444,385

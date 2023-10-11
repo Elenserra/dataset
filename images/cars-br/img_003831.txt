@@ -1,4 +1,0 @@
-type: car
-plate: MTH2345
-layout: Brazilian
-corners: 789,256 904,255 909,293 791,295

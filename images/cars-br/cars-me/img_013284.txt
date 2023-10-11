@@ -1,4 +1,0 @@
-type: car
-plate: PPE9E15
-layout: Mercosur
-corners: 327,425 490,435 493,494 329,482

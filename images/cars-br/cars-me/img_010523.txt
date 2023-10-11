@@ -1,4 +1,0 @@
-type: car
-plate: OQB6A08
-layout: Mercosur
-corners: 545,402 671,402 671,441 547,441

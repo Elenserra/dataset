@@ -1,4 +1,0 @@
-type: car
-plate: MRT7I83
-layout: Mercosur
-corners: 638,339 768,347 768,390 637,381

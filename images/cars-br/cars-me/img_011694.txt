@@ -1,4 +1,0 @@
-type: car
-plate: QRG5C94
-layout: Mercosur
-corners: 489,363 618,365 621,409 493,406

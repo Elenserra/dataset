@@ -1,4 +1,0 @@
-type: car
-plate: PPW7538
-layout: Brazilian
-corners: 578,371 697,373 698,413 579,412

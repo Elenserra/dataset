@@ -1,4 +1,0 @@
-type: car
-plate: JSK0I28
-layout: Mercosur
-corners: 661,308 781,312 782,349 663,344

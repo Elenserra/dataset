@@ -1,4 +1,0 @@
-type: car
-plate: GDS5B60
-layout: Mercosur
-corners: 672,306 805,317 804,361 670,352

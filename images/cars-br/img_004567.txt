@@ -1,4 +1,0 @@
-type: car
-plate: GSP3362
-layout: Brazilian
-corners: 770,361 909,357 913,405 772,407

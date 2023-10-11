@@ -1,4 +1,0 @@
-type: car
-plate: PPN7877
-layout: Brazilian
-corners: 773,353 908,355 909,401 773,398

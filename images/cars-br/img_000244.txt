@@ -1,4 +1,0 @@
-type: car
-plate: ODR2295
-layout: Brazilian
-corners: 671,198 759,198 760,228 671,229

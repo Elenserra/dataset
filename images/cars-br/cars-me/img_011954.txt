@@ -1,4 +1,0 @@
-type: car
-plate: PPE4E61
-layout: Mercosur
-corners: 610,350 725,351 728,389 611,388

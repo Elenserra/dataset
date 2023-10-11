@@ -1,4 +1,0 @@
-type: car
-plate: LSV6A37
-layout: Mercosur
-corners: 588,252 704,253 705,293 589,293

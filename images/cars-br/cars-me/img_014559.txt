@@ -1,4 +1,0 @@
-type: car
-plate: QRH5J60
-layout: Mercosur
-corners: 831,331 965,329 968,374 833,373

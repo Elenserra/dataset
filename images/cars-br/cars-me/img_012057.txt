@@ -1,4 +1,0 @@
-type: car
-plate: PPK5E44
-layout: Mercosur
-corners: 601,295 716,295 716,332 600,333

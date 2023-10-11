@@ -1,4 +1,0 @@
-type: car
-plate: QQF9929
-layout: Brazilian
-corners: 589,363 713,363 714,407 591,406

@@ -1,4 +1,0 @@
-type: car
-plate: PPD9475
-layout: Brazilian
-corners: 725,264 859,261 864,308 727,309

@@ -1,4 +1,0 @@
-type: car
-plate: PPW8965
-layout: Brazilian
-corners: 821,320 953,317 955,363 823,364

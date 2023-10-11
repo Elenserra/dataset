@@ -1,4 +1,0 @@
-type: car
-plate: ODS2955
-layout: Brazilian
-corners: 450,404 574,406 575,450 452,445

@@ -1,4 +1,0 @@
-type: car
-plate: MQM2157
-layout: Brazilian
-corners: 601,392 727,394 730,435 603,434

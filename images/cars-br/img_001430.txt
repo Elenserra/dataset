@@ -1,4 +1,0 @@
-type: car
-plate: OVI1629
-layout: Brazilian
-corners: 742,205 835,206 835,237 742,237

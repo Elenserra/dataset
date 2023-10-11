@@ -1,4 +1,0 @@
-type: car
-plate: PYM8647
-layout: Brazilian
-corners: 799,349 930,347 936,392 800,394

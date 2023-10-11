@@ -1,4 +1,0 @@
-type: car
-plate: MRK0F05
-layout: Mercosur
-corners: 517,366 644,366 644,409 517,408

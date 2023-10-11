@@ -1,4 +1,0 @@
-type: car
-plate: ODF1587
-layout: Brazilian
-corners: 619,319 746,320 748,364 621,363

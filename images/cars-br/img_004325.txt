@@ -1,4 +1,0 @@
-type: car
-plate: OCX2709
-layout: Brazilian
-corners: 814,345 946,344 949,388 815,387

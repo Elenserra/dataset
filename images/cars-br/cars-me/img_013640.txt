@@ -1,4 +1,0 @@
-type: car
-plate: QRL3A41
-layout: Mercosur
-corners: 571,287 691,290 695,334 572,327

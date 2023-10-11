@@ -1,4 +1,0 @@
-type: car
-plate: PPW9B82
-layout: Mercosur
-corners: 506,385 634,386 635,426 507,426

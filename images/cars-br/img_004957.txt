@@ -1,4 +1,0 @@
-type: car
-plate: MSG6735
-layout: Brazilian
-corners: 842,287 963,286 964,329 842,329

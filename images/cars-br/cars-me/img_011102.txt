@@ -1,4 +1,0 @@
-type: car
-plate: QRL7D63
-layout: Mercosur
-corners: 488,336 620,336 621,382 490,381

@@ -1,4 +1,0 @@
-type: car
-plate: QRI5G47
-layout: Mercosur
-corners: 859,57 922,57 922,77 859,78

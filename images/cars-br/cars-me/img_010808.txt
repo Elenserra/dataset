@@ -1,4 +1,0 @@
-type: car
-plate: OYG1B08
-layout: Mercosur
-corners: 570,398 692,398 693,436 573,434

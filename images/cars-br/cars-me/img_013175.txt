@@ -1,4 +1,0 @@
-type: car
-plate: GBG9F27
-layout: Mercosur
-corners: 745,257 856,260 856,295 747,291

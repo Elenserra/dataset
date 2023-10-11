@@ -1,4 +1,0 @@
-type: car
-plate: HLO7E88
-layout: Mercosur
-corners: 572,239 684,238 684,276 571,276

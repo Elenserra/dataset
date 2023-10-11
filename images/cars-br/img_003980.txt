@@ -1,4 +1,0 @@
-type: car
-plate: HKD2212
-layout: Brazilian
-corners: 993,73 1075,71 1076,100 994,102

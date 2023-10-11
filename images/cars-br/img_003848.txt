@@ -1,4 +1,0 @@
-type: car
-plate: PPB7254
-layout: Brazilian
-corners: 808,314 939,313 940,357 809,359

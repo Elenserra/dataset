@@ -1,4 +1,0 @@
-type: car
-plate: OVL6005
-layout: Brazilian
-corners: 819,265 955,262 961,306 822,309

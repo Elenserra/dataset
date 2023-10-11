@@ -1,4 +1,0 @@
-type: car
-plate: MTW9122
-layout: Brazilian
-corners: 548,358 673,358 674,401 548,400

@@ -1,4 +1,0 @@
-type: car
-plate: MTH5431
-layout: Brazilian
-corners: 650,328 778,331 777,374 651,370

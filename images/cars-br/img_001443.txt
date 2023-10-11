@@ -1,4 +1,0 @@
-type: car
-plate: OVE4572
-layout: Brazilian
-corners: 816,634 959,603 955,646 815,681

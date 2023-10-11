@@ -1,4 +1,0 @@
-type: car
-plate: QOA9B92
-layout: Mercosur
-corners: 632,337 752,339 754,378 634,376

@@ -1,4 +1,0 @@
-type: car
-plate: QRD8410
-layout: Brazilian
-corners: 777,176 859,175 859,204 777,204

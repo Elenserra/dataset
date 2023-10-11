@@ -1,4 +1,0 @@
-type: car
-plate: OYD0384
-layout: Brazilian
-corners: 851,320 985,315 990,363 853,367

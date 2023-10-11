@@ -1,4 +1,0 @@
-type: car
-plate: MST3983
-layout: Brazilian
-corners: 765,343 897,341 903,385 768,387

@@ -1,4 +1,0 @@
-type: car
-plate: AXZ5434
-layout: Brazilian
-corners: 866,221 973,219 976,256 866,258

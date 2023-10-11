@@ -1,4 +1,0 @@
-type: car
-plate: QRB2C68
-layout: Mercosur
-corners: 781,354 918,351 920,395 783,398

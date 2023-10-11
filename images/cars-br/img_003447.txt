@@ -1,4 +1,0 @@
-type: car
-plate: KZS7719
-layout: Brazilian
-corners: 607,351 732,355 735,397 608,391

@@ -1,4 +1,0 @@
-type: car
-plate: HCI1J20
-layout: Mercosur
-corners: 1009,121 1090,118 1092,146 1009,149

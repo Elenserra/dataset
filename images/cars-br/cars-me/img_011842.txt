@@ -1,4 +1,0 @@
-type: car
-plate: QKN7B92
-layout: Mercosur
-corners: 597,229 709,227 711,266 600,265

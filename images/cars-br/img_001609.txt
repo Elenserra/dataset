@@ -1,4 +1,0 @@
-type: car
-plate: PPO4419
-layout: Brazilian
-corners: 560,384 687,385 688,433 561,432

@@ -1,4 +1,0 @@
-type: car
-plate: MRD4618
-layout: Brazilian
-corners: 484,442 610,443 612,484 485,483

@@ -1,4 +1,0 @@
-type: car
-plate: PPC8F95
-layout: Mercosur
-corners: 694,282 811,284 811,323 695,320

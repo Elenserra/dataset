@@ -1,4 +1,0 @@
-type: car
-plate: PPB4562
-layout: Brazilian
-corners: 795,327 928,325 932,371 796,372

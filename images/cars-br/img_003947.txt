@@ -1,4 +1,0 @@
-type: car
-plate: MSR1128
-layout: Brazilian
-corners: 836,292 958,289 962,332 837,334

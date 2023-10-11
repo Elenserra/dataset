@@ -1,4 +1,0 @@
-type: car
-plate: PPP7I60
-layout: Mercosur
-corners: 594,231 704,232 706,271 595,270

@@ -1,4 +1,0 @@
-type: car
-plate: PPW7B98
-layout: Mercosur
-corners: 639,252 741,252 741,284 640,284

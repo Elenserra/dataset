@@ -1,4 +1,0 @@
-type: car
-plate: MTQ4I54
-layout: Mercosur
-corners: 994,129 1079,127 1081,156 995,156

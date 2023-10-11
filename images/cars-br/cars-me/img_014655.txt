@@ -1,4 +1,0 @@
-type: car
-plate: ODE0A22
-layout: Mercosur
-corners: 710,359 845,360 848,405 711,403

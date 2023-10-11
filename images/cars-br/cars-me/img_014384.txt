@@ -1,4 +1,0 @@
-type: car
-plate: GAV2B96
-layout: Mercosur
-corners: 739,363 872,363 875,405 741,405

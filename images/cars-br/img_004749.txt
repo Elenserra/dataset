@@ -1,4 +1,0 @@
-type: car
-plate: ODS2861
-layout: Brazilian
-corners: 737,363 868,362 869,407 739,406

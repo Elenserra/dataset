@@ -1,4 +1,0 @@
-type: car
-plate: OVJ9582
-layout: Brazilian
-corners: 916,241 1032,240 1033,281 917,281

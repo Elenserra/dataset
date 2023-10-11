@@ -1,4 +1,0 @@
-type: car
-plate: OCY5093
-layout: Brazilian
-corners: 765,99 850,100 849,127 765,129

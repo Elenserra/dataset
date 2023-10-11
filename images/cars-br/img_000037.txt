@@ -1,4 +1,0 @@
-type: car
-plate: ODQ7026
-layout: Brazilian
-corners: 516,392 635,391 637,431 517,431

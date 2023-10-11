@@ -1,4 +1,0 @@
-type: car
-plate: QRD2J89
-layout: Mercosur
-corners: 517,332 637,333 636,372 517,372

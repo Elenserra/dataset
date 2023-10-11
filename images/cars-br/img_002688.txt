@@ -1,4 +1,0 @@
-type: car
-plate: MQM7541
-layout: Brazilian
-corners: 779,222 889,222 890,258 780,258

@@ -1,4 +1,0 @@
-type: car
-plate: OCX7086
-layout: Brazilian
-corners: 528,384 655,384 655,430 530,431

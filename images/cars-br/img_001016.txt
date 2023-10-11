@@ -1,4 +1,0 @@
-type: car
-plate: MSI0631
-layout: Brazilian
-corners: 593,358 709,360 710,398 595,395

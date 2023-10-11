@@ -1,4 +1,0 @@
-type: car
-plate: MQF4262
-layout: Brazilian
-corners: 818,330 952,330 953,375 820,374

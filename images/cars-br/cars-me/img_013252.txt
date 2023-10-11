@@ -1,4 +1,0 @@
-type: car
-plate: KVN8C92
-layout: Mercosur
-corners: 688,336 808,337 810,377 689,375

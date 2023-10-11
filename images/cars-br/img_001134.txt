@@ -1,4 +1,0 @@
-type: car
-plate: MSY1064
-layout: Brazilian
-corners: 747,189 824,188 824,217 747,217

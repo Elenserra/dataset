@@ -1,4 +1,0 @@
-type: car
-plate: QRF9C99
-layout: Mercosur
-corners: 659,335 795,341 794,385 659,379

@@ -1,4 +1,0 @@
-type: car
-plate: PPS6D77
-layout: Mercosur
-corners: 633,306 758,310 759,353 632,350

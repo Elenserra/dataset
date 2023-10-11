@@ -1,4 +1,0 @@
-type: car
-plate: ODR5A34
-layout: Mercosur
-corners: 432,434 565,435 570,478 436,477

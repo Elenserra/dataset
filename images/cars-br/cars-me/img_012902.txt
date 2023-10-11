@@ -1,4 +1,0 @@
-type: car
-plate: QRE2B69
-layout: Mercosur
-corners: 548,429 689,435 691,481 551,475

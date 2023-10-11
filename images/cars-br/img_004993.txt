@@ -1,4 +1,0 @@
-type: car
-plate: PPL6292
-layout: Brazilian
-corners: 664,276 807,285 806,335 663,324

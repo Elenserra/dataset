@@ -1,4 +1,0 @@
-type: car
-plate: QRG6J18
-layout: Mercosur
-corners: 569,411 694,412 695,451 571,450

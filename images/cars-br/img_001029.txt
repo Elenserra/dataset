@@ -1,4 +1,0 @@
-type: car
-plate: PPS8693
-layout: Brazilian
-corners: 603,420 737,420 737,467 602,467

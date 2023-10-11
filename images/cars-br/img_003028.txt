@@ -1,4 +1,0 @@
-type: car
-plate: PPG4180
-layout: Brazilian
-corners: 654,325 780,327 781,372 652,370

@@ -1,4 +1,0 @@
-type: car
-plate: PPD7090
-layout: Brazilian
-corners: 812,334 947,333 948,377 814,378

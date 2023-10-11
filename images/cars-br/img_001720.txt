@@ -1,4 +1,0 @@
-type: car
-plate: OVJ9709
-layout: Brazilian
-corners: 347,495 487,499 491,546 349,542

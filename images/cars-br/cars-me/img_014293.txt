@@ -1,4 +1,0 @@
-type: car
-plate: ODO6A04
-layout: Mercosur
-corners: 999,144 1084,142 1086,170 999,172

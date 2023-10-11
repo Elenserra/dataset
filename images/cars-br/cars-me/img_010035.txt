@@ -1,4 +1,0 @@
-type: car
-plate: QRG1J77
-layout: Mercosur
-corners: 536,376 658,376 658,414 537,414

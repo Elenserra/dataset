@@ -1,4 +1,0 @@
-type: car
-plate: LMO8A28
-layout: Mercosur
-corners: 784,341 915,337 919,380 786,383

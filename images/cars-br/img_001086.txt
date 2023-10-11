@@ -1,4 +1,0 @@
-type: car
-plate: ODA2795
-layout: Brazilian
-corners: 576,344 688,342 690,382 577,383

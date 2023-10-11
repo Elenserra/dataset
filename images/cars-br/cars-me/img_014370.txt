@@ -1,4 +1,0 @@
-type: car
-plate: PPS1F46
-layout: Mercosur
-corners: 808,331 938,330 941,372 810,373

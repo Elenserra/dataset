@@ -1,4 +1,0 @@
-type: car
-plate: PPC7653
-layout: Brazilian
-corners: 733,359 868,357 870,402 734,403

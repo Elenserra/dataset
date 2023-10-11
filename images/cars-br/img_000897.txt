@@ -1,4 +1,0 @@
-type: car
-plate: ODE4300
-layout: Brazilian
-corners: 590,327 704,327 704,368 592,367

@@ -1,4 +1,0 @@
-type: car
-plate: PLS6G35
-layout: Mercosur
-corners: 529,364 655,363 658,404 532,406

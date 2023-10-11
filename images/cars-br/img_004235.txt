@@ -1,4 +1,0 @@
-type: car
-plate: QRD6178
-layout: Brazilian
-corners: 753,324 890,323 895,371 757,372

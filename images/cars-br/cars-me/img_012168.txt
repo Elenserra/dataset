@@ -1,4 +1,0 @@
-type: car
-plate: QRL5D88
-layout: Mercosur
-corners: 540,332 669,330 672,371 540,372

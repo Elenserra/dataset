@@ -1,4 +1,0 @@
-type: car
-plate: PZD5476
-layout: Brazilian
-corners: 832,313 964,310 966,356 832,357

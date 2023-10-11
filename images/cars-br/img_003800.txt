@@ -1,4 +1,0 @@
-type: car
-plate: PPD1667
-layout: Brazilian
-corners: 877,236 986,233 989,270 877,272

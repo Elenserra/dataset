@@ -1,4 +1,0 @@
-type: car
-plate: OVI2024
-layout: Brazilian
-corners: 774,242 891,237 894,278 776,282

@@ -1,4 +1,0 @@
-type: car
-plate: MQX3427
-layout: Brazilian
-corners: 623,344 731,344 732,379 625,380

@@ -1,4 +1,0 @@
-type: car
-plate: PPH8A08
-layout: Mercosur
-corners: 800,294 924,294 924,336 800,335

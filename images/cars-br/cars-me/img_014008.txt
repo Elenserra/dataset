@@ -1,4 +1,0 @@
-type: car
-plate: PPH7B56
-layout: Mercosur
-corners: 803,352 939,350 941,394 805,396

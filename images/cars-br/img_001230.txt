@@ -1,4 +1,0 @@
-type: car
-plate: ODP2906
-layout: Brazilian
-corners: 516,429 645,430 646,476 516,473

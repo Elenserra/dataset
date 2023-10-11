@@ -1,4 +1,0 @@
-type: car
-plate: PPN5445
-layout: Brazilian
-corners: 953,239 1066,235 1069,274 955,276

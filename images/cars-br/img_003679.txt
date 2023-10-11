@@ -1,4 +1,0 @@
-type: car
-plate: MSN9151
-layout: Brazilian
-corners: 790,426 928,427 930,472 791,468

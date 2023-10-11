@@ -1,4 +1,0 @@
-type: car
-plate: MSW7J83
-layout: Mercosur
-corners: 696,290 820,290 820,331 697,332

@@ -1,4 +1,0 @@
-type: car
-plate: OOD6J24
-layout: Mercosur
-corners: 582,300 705,299 706,339 583,338

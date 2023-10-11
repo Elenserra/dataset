@@ -1,4 +1,0 @@
-type: car
-plate: ODR2162
-layout: Brazilian
-corners: 640,153 745,156 745,190 641,188

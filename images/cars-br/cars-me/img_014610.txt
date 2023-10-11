@@ -1,4 +1,0 @@
-type: car
-plate: KZD7C05
-layout: Mercosur
-corners: 838,314 968,309 970,352 839,355

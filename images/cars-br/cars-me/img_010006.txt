@@ -1,4 +1,0 @@
-type: car
-plate: PPG0B29
-layout: Mercosur
-corners: 1086,145 1177,143 1178,172 1087,174

@@ -1,4 +1,0 @@
-type: car
-plate: LTT9E77
-layout: Mercosur
-corners: 811,102 901,102 902,131 812,131

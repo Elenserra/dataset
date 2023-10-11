@@ -1,4 +1,0 @@
-type: car
-plate: PPW2994
-layout: Brazilian
-corners: 803,317 934,312 938,355 806,360

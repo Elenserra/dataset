@@ -1,4 +1,0 @@
-type: car
-plate: PPX5E22
-layout: Mercosur
-corners: 732,121 817,121 817,149 733,149

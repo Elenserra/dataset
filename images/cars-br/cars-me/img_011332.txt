@@ -1,4 +1,0 @@
-type: car
-plate: OYE3H99
-layout: Mercosur
-corners: 636,305 749,307 750,346 637,343

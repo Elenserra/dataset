@@ -1,4 +1,0 @@
-type: car
-plate: ODE8182
-layout: Brazilian
-corners: 622,264 742,265 746,304 625,302

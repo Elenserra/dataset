@@ -1,4 +1,0 @@
-type: car
-plate: QRG3J65
-layout: Mercosur
-corners: 633,311 755,313 757,353 634,351

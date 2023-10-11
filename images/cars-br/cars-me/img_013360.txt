@@ -1,4 +1,0 @@
-type: car
-plate: MTE0D29
-layout: Mercosur
-corners: 907,89 989,89 989,116 908,116

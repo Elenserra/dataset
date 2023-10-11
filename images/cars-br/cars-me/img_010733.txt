@@ -1,4 +1,0 @@
-type: car
-plate: QRE6B82
-layout: Mercosur
-corners: 638,224 731,223 731,252 639,252

@@ -1,4 +1,0 @@
-type: car
-plate: LPY1910
-layout: Brazilian
-corners: 799,136 879,134 879,162 801,163

@@ -1,4 +1,0 @@
-type: car
-plate: PPX0911
-layout: Brazilian
-corners: 513,423 640,423 641,468 515,466

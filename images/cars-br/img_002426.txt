@@ -1,4 +1,0 @@
-type: car
-plate: PPI4116
-layout: Brazilian
-corners: 239,403 379,405 383,454 244,451

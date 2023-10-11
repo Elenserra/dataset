@@ -1,4 +1,0 @@
-type: car
-plate: OYG7F49
-layout: Mercosur
-corners: 561,373 688,375 690,415 561,416

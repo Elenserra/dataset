@@ -1,4 +1,0 @@
-type: car
-plate: OVI5H65
-layout: Mercosur
-corners: 554,423 683,425 683,467 554,465

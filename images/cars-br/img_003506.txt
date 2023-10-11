@@ -1,4 +1,0 @@
-type: car
-plate: PPW2175
-layout: Brazilian
-corners: 1007,90 1089,87 1091,115 1008,119

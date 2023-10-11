@@ -1,4 +1,0 @@
-type: car
-plate: MSU2805
-layout: Brazilian
-corners: 530,399 657,401 658,443 530,441

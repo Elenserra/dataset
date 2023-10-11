@@ -1,4 +1,0 @@
-type: car
-plate: MTV2J42
-layout: Mercosur
-corners: 616,336 731,335 732,370 617,372

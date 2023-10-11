@@ -1,4 +1,0 @@
-type: car
-plate: MTC4480
-layout: Brazilian
-corners: 544,287 664,287 667,327 545,327

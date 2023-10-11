@@ -1,4 +1,0 @@
-type: car
-plate: OVF1H19
-layout: Mercosur
-corners: 771,361 909,358 912,403 772,406

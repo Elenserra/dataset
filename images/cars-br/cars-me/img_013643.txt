@@ -1,4 +1,0 @@
-type: car
-plate: QRM0G97
-layout: Mercosur
-corners: 596,307 723,309 723,352 597,350

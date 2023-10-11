@@ -1,4 +1,0 @@
-type: car
-plate: MSV2120
-layout: Brazilian
-corners: 620,361 737,362 740,401 623,401

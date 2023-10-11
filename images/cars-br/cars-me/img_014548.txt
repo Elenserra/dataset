@@ -1,4 +1,0 @@
-type: car
-plate: ETO5B55
-layout: Mercosur
-corners: 775,376 912,374 918,419 777,420

@@ -1,4 +1,0 @@
-type: car
-plate: ODI4I73
-layout: Mercosur
-corners: 650,321 777,325 778,367 651,363

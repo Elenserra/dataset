@@ -1,4 +1,0 @@
-type: car
-plate: OYH3F72
-layout: Mercosur
-corners: 655,344 779,346 780,387 654,385

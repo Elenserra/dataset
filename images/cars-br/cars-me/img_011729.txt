@@ -1,4 +1,0 @@
-type: car
-plate: MTV8G22
-layout: Mercosur
-corners: 586,314 694,316 695,355 585,353

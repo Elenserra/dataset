@@ -1,4 +1,0 @@
-type: car
-plate: OOK0200
-layout: Brazilian
-corners: 542,436 672,436 675,481 544,481

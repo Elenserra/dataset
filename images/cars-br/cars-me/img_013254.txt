@@ -1,4 +1,0 @@
-type: car
-plate: OCZ9A66
-layout: Mercosur
-corners: 830,176 924,177 924,208 831,206

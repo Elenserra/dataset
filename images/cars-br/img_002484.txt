@@ -1,4 +1,0 @@
-type: car
-plate: MRC1366
-layout: Brazilian
-corners: 505,306 628,304 632,345 507,348

@@ -1,4 +1,0 @@
-type: car
-plate: OVK8324
-layout: Brazilian
-corners: 658,326 785,328 785,372 659,370

@@ -1,4 +1,0 @@
-type: car
-plate: QNZ3913
-layout: Brazilian
-corners: 712,253 831,248 837,285 716,288

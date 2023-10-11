@@ -1,4 +1,0 @@
-type: car
-plate: QRK7B48
-layout: Mercosur
-corners: 764,302 890,300 891,342 764,343

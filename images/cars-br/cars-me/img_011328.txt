@@ -1,4 +1,0 @@
-type: car
-plate: OCZ3D22
-layout: Mercosur
-corners: 601,389 729,389 732,430 602,429

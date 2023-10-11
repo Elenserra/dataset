@@ -1,4 +1,0 @@
-type: car
-plate: MTC9253
-layout: Brazilian
-corners: 752,345 886,342 890,386 754,389

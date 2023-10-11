@@ -1,4 +1,0 @@
-type: car
-plate: LTX4485
-layout: Brazilian
-corners: 616,336 752,345 751,392 619,382

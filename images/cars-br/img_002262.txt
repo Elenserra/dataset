@@ -1,4 +1,0 @@
-type: car
-plate: CVT3644
-layout: Brazilian
-corners: 713,197 800,196 800,227 713,227

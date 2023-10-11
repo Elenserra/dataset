@@ -1,4 +1,0 @@
-type: car
-plate: OVK7215
-layout: Brazilian
-corners: 781,332 913,330 916,375 784,375

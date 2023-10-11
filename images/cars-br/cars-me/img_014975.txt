@@ -1,4 +1,0 @@
-type: car
-plate: LMS1C63
-layout: Mercosur
-corners: 641,311 777,318 777,366 640,357

@@ -1,4 +1,0 @@
-type: car
-plate: KJF9722
-layout: Brazilian
-corners: 743,362 874,357 877,404 745,406

@@ -1,4 +1,0 @@
-type: car
-plate: PPD0H71
-layout: Mercosur
-corners: 663,272 762,273 763,304 664,303

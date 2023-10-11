@@ -1,4 +1,0 @@
-type: car
-plate: PPW6B71
-layout: Mercosur
-corners: 533,400 660,400 660,440 536,439

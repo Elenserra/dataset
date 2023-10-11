@@ -1,4 +1,0 @@
-type: car
-plate: MBL4248
-layout: Brazilian
-corners: 621,269 748,263 757,306 627,309

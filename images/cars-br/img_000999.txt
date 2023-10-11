@@ -1,4 +1,0 @@
-type: car
-plate: OCW3557
-layout: Brazilian
-corners: 509,424 646,424 646,469 513,470

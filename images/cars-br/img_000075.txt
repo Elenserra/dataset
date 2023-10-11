@@ -1,4 +1,0 @@
-type: car
-plate: OVK3931
-layout: Brazilian
-corners: 509,290 618,286 620,322 510,327

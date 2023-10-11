@@ -1,4 +1,0 @@
-type: car
-plate: AUE1B95
-layout: Mercosur
-corners: 647,344 778,346 779,388 649,386

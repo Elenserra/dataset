@@ -1,4 +1,0 @@
-type: car
-plate: OYH9330
-layout: Brazilian
-corners: 633,381 753,382 754,422 633,421

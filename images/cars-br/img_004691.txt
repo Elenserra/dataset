@@ -1,4 +1,0 @@
-type: car
-plate: MJA9799
-layout: Brazilian
-corners: 727,329 857,329 859,373 729,372

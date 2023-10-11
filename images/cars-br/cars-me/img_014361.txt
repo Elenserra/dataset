@@ -1,4 +1,0 @@
-type: car
-plate: QRJ3D32
-layout: Mercosur
-corners: 764,345 897,345 900,388 767,389

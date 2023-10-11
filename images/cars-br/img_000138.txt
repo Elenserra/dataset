@@ -1,4 +1,0 @@
-type: car
-plate: ODM7278
-layout: Brazilian
-corners: 775,136 852,136 853,162 776,163

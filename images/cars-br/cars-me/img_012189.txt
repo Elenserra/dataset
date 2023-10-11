@@ -1,4 +1,0 @@
-type: car
-plate: HDT2G19
-layout: Mercosur
-corners: 112,649 294,658 299,718 121,710

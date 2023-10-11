@@ -1,4 +1,0 @@
-type: car
-plate: PPR3064
-layout: Brazilian
-corners: 415,406 537,406 538,445 416,445

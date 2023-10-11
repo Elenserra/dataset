@@ -1,4 +1,0 @@
-type: car
-plate: PPT5330
-layout: Brazilian
-corners: 758,306 888,303 890,348 759,349

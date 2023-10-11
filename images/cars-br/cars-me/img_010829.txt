@@ -1,4 +1,0 @@
-type: car
-plate: MQY9E77
-layout: Mercosur
-corners: 535,414 661,416 661,457 537,454

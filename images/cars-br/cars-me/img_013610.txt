@@ -1,4 +1,0 @@
-type: car
-plate: FJP1A52
-layout: Mercosur
-corners: 658,295 782,298 784,339 659,335

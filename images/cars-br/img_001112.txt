@@ -1,4 +1,0 @@
-type: car
-plate: GIL1830
-layout: Brazilian
-corners: 648,315 760,316 760,355 647,354

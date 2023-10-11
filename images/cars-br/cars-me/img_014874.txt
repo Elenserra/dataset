@@ -1,4 +1,0 @@
-type: car
-plate: QRF7B72
-layout: Mercosur
-corners: 595,354 735,361 734,408 595,401

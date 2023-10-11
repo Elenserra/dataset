@@ -1,4 +1,0 @@
-type: car
-plate: OYD7576
-layout: Brazilian
-corners: 537,404 665,404 666,448 539,447

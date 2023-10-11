@@ -1,4 +1,0 @@
-type: car
-plate: KRO2873
-layout: Brazilian
-corners: 931,219 1041,218 1041,255 932,256

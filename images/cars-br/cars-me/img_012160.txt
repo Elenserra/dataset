@@ -1,4 +1,0 @@
-type: car
-plate: QRM5E68
-layout: Mercosur
-corners: 738,120 827,119 828,149 740,150

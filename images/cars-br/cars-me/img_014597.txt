@@ -1,4 +1,0 @@
-type: car
-plate: OVL9B72
-layout: Mercosur
-corners: 747,336 877,332 879,377 747,378

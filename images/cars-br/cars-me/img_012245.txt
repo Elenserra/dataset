@@ -1,4 +1,0 @@
-type: car
-plate: MTO1I61
-layout: Mercosur
-corners: 466,300 590,301 591,340 471,337

@@ -1,4 +1,0 @@
-type: car
-plate: QRG3D23
-layout: Mercosur
-corners: 518,338 650,340 650,385 518,382

@@ -1,4 +1,0 @@
-type: car
-plate: QRL8H45
-layout: Mercosur
-corners: 457,297 576,297 581,338 458,337

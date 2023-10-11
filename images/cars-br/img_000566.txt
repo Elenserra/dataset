@@ -1,4 +1,0 @@
-type: car
-plate: ODD3296
-layout: Brazilian
-corners: 474,439 608,442 609,485 477,483

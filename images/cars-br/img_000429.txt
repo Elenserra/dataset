@@ -1,4 +1,0 @@
-type: car
-plate: PPT5522
-layout: Brazilian
-corners: 497,429 635,427 637,475 501,474

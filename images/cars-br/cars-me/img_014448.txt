@@ -1,4 +1,0 @@
-type: car
-plate: KYA9F76
-layout: Mercosur
-corners: 920,240 1031,236 1033,275 923,276

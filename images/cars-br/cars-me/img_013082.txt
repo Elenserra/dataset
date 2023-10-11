@@ -1,4 +1,0 @@
-type: car
-plate: LQA4D90
-layout: Mercosur
-corners: 684,370 810,372 810,411 685,410

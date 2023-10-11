@@ -1,4 +1,0 @@
-type: car
-plate: MTZ7H99
-layout: Mercosur
-corners: 797,283 925,284 925,326 798,325

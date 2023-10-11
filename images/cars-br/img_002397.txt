@@ -1,4 +1,0 @@
-type: car
-plate: EAN2657
-layout: Brazilian
-corners: 619,118 712,114 715,145 621,147

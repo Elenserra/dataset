@@ -1,4 +1,0 @@
-type: car
-plate: KQS4856
-layout: Brazilian
-corners: 837,332 964,327 967,372 838,374

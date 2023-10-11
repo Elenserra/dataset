@@ -1,4 +1,0 @@
-type: car
-plate: ODK3C29
-layout: Mercosur
-corners: 668,362 805,372 805,418 666,408

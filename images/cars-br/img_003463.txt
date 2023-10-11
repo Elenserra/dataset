@@ -1,4 +1,0 @@
-type: car
-plate: MQP3411
-layout: Brazilian
-corners: 911,129 1008,124 1010,156 914,161

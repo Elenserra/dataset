@@ -1,4 +1,0 @@
-type: car
-plate: MTM7H82
-layout: Mercosur
-corners: 591,374 712,375 714,413 590,413

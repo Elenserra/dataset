@@ -1,4 +1,0 @@
-type: car
-plate: MJV7748
-layout: Brazilian
-corners: 723,182 843,177 847,219 726,225

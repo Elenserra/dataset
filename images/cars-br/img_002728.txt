@@ -1,4 +1,0 @@
-type: car
-plate: MPC2008
-layout: Brazilian
-corners: 716,312 834,315 838,351 720,349

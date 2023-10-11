@@ -1,4 +1,0 @@
-type: car
-plate: EID6F59
-layout: Mercosur
-corners: 968,119 1051,115 1054,143 969,147

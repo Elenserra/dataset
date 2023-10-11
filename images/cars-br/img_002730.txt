@@ -1,4 +1,0 @@
-type: car
-plate: AYH3828
-layout: Brazilian
-corners: 666,312 794,314 795,358 668,356

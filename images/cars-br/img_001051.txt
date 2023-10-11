@@ -1,4 +1,0 @@
-type: car
-plate: QRB8644
-layout: Brazilian
-corners: 647,255 749,256 750,291 648,291

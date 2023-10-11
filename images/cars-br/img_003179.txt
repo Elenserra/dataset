@@ -1,4 +1,0 @@
-type: car
-plate: OCZ9247
-layout: Brazilian
-corners: 681,302 801,304 802,343 683,342

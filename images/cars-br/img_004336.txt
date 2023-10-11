@@ -1,4 +1,0 @@
-type: car
-plate: HKU3355
-layout: Brazilian
-corners: 884,220 998,218 1001,258 885,260

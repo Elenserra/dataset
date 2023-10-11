@@ -1,4 +1,0 @@
-type: car
-plate: MRM4027
-layout: Brazilian
-corners: 782,374 923,369 926,420 784,421

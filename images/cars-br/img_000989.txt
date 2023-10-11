@@ -1,4 +1,0 @@
-type: car
-plate: QON0153
-layout: Brazilian
-corners: 534,368 657,368 657,409 534,408

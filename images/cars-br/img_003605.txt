@@ -1,4 +1,0 @@
-type: car
-plate: ODK0930
-layout: Brazilian
-corners: 780,340 918,338 921,386 781,386

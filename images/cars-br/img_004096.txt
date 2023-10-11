@@ -1,4 +1,0 @@
-type: car
-plate: ODE0144
-layout: Brazilian
-corners: 795,328 927,327 931,372 797,371

@@ -1,4 +1,0 @@
-type: car
-plate: KWQ9B21
-layout: Mercosur
-corners: 552,380 684,382 689,424 556,421

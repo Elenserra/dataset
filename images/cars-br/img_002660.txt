@@ -1,4 +1,0 @@
-type: car
-plate: ODS4852
-layout: Brazilian
-corners: 657,239 777,240 778,272 658,271

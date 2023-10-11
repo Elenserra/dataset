@@ -1,4 +1,0 @@
-type: car
-plate: JJU5239
-layout: Brazilian
-corners: 768,272 905,268 907,314 770,318

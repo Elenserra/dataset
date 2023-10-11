@@ -1,4 +1,0 @@
-type: car
-plate: ODG5904
-layout: Brazilian
-corners: 549,340 669,341 671,380 549,380

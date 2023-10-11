@@ -1,4 +1,0 @@
-type: car
-plate: QRF6D83
-layout: Mercosur
-corners: 690,186 778,186 778,214 691,214

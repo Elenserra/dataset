@@ -1,4 +1,0 @@
-type: car
-plate: QUK2971
-layout: Brazilian
-corners: 751,279 880,278 883,323 752,323

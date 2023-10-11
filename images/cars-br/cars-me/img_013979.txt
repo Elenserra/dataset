@@ -1,4 +1,0 @@
-type: car
-plate: MQH6I52
-layout: Mercosur
-corners: 814,330 943,329 947,373 816,372

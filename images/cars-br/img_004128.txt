@@ -1,4 +1,0 @@
-type: car
-plate: PVO6483
-layout: Brazilian
-corners: 820,296 949,294 951,340 819,342

@@ -1,4 +1,0 @@
-type: car
-plate: MRP9D89
-layout: Mercosur
-corners: 803,328 933,328 935,374 802,374

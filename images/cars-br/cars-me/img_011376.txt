@@ -1,4 +1,0 @@
-type: car
-plate: QRI6F69
-layout: Mercosur
-corners: 656,230 757,229 758,263 657,264

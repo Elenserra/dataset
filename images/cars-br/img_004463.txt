@@ -1,4 +1,0 @@
-type: car
-plate: MSW1316
-layout: Brazilian
-corners: 811,212 933,208 934,250 813,252

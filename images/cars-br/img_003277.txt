@@ -1,4 +1,0 @@
-type: car
-plate: PPW3952
-layout: Brazilian
-corners: 542,323 663,325 665,365 544,363

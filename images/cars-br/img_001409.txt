@@ -1,4 +1,0 @@
-type: car
-plate: MSC9128
-layout: Brazilian
-corners: 455,406 581,407 581,452 456,450

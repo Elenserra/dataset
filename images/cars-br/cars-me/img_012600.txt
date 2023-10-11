@@ -1,4 +1,0 @@
-type: car
-plate: GGP1C23
-layout: Mercosur
-corners: 547,370 683,374 685,420 549,415

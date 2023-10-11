@@ -1,4 +1,0 @@
-type: car
-plate: MTU9549
-layout: Brazilian
-corners: 777,161 857,160 858,190 777,190

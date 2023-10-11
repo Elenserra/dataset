@@ -1,4 +1,0 @@
-type: car
-plate: OVD7F71
-layout: Mercosur
-corners: 616,351 746,354 746,395 618,393

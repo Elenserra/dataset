@@ -1,4 +1,0 @@
-type: car
-plate: PPJ0F16
-layout: Mercosur
-corners: 494,325 625,325 628,368 494,369

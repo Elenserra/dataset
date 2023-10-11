@@ -1,4 +1,0 @@
-type: car
-plate: PPU9D37
-layout: Mercosur
-corners: 697,323 825,323 824,363 700,362

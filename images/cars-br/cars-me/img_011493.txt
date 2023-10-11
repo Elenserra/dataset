@@ -1,4 +1,0 @@
-type: car
-plate: ANU9D96
-layout: Mercosur
-corners: 483,399 614,398 616,441 484,441

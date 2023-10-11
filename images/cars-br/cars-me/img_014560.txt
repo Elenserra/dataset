@@ -1,4 +1,0 @@
-type: car
-plate: MTT0B53
-layout: Mercosur
-corners: 725,324 860,323 862,369 726,371

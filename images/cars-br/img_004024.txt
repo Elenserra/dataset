@@ -1,4 +1,0 @@
-type: car
-plate: PPL8918
-layout: Brazilian
-corners: 745,342 875,341 878,385 746,383

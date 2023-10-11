@@ -1,4 +1,0 @@
-type: car
-plate: PPX4015
-layout: Brazilian
-corners: 550,364 679,366 679,411 550,410

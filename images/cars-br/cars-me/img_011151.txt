@@ -1,4 +1,0 @@
-type: car
-plate: QRK8E11
-layout: Mercosur
-corners: 498,326 626,325 629,369 498,368

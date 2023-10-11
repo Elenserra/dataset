@@ -1,4 +1,0 @@
-type: car
-plate: QRL3F84
-layout: Mercosur
-corners: 413,436 553,437 556,483 416,482

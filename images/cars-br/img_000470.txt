@@ -1,4 +1,0 @@
-type: car
-plate: ODG9132
-layout: Brazilian
-corners: 320,587 476,595 477,644 322,638

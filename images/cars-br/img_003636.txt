@@ -1,4 +1,0 @@
-type: car
-plate: NXZ9695
-layout: Brazilian
-corners: 791,326 923,324 927,367 791,371

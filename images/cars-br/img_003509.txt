@@ -1,4 +1,0 @@
-type: car
-plate: OYG3532
-layout: Brazilian
-corners: 934,178 1032,175 1033,208 935,211

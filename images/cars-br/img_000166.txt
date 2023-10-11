@@ -1,4 +1,0 @@
-type: car
-plate: LQT4070
-layout: Brazilian
-corners: 466,341 596,338 601,384 469,387

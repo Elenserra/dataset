@@ -1,4 +1,0 @@
-type: car
-plate: MQU8858
-layout: Brazilian
-corners: 659,301 781,303 782,345 660,343

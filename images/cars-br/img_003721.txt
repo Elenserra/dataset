@@ -1,4 +1,0 @@
-type: car
-plate: MTX2227
-layout: Brazilian
-corners: 622,259 751,259 755,301 624,303

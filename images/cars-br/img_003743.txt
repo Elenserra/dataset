@@ -1,4 +1,0 @@
-type: car
-plate: ODQ5904
-layout: Brazilian
-corners: 777,316 906,314 908,360 777,361

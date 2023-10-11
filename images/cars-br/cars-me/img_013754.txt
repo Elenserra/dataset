@@ -1,4 +1,0 @@
-type: car
-plate: QRF6G26
-layout: Mercosur
-corners: 889,110 975,110 976,139 890,138

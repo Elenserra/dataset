@@ -1,4 +1,0 @@
-type: car
-plate: QRL7J48
-layout: Mercosur
-corners: 808,161 903,162 904,193 808,192

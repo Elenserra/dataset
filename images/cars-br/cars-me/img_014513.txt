@@ -1,4 +1,0 @@
-type: car
-plate: LVE4B20
-layout: Mercosur
-corners: 744,320 874,318 876,363 745,363

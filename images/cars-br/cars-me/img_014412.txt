@@ -1,4 +1,0 @@
-type: car
-plate: QKA4C10
-layout: Mercosur
-corners: 726,335 860,332 863,377 728,379

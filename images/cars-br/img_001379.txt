@@ -1,4 +1,0 @@
-type: car
-plate: MRG1153
-layout: Brazilian
-corners: 561,350 676,351 677,392 561,391

@@ -1,4 +1,0 @@
-type: car
-plate: ODK9096
-layout: Brazilian
-corners: 807,324 940,322 944,368 808,370

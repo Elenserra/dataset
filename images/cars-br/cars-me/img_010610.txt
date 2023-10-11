@@ -1,4 +1,0 @@
-type: car
-plate: MTE0G02
-layout: Mercosur
-corners: 688,252 787,253 788,286 688,285

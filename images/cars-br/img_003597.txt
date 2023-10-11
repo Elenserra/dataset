@@ -1,4 +1,0 @@
-type: car
-plate: MTX4895
-layout: Brazilian
-corners: 806,318 936,316 940,358 808,359

@@ -1,4 +1,0 @@
-type: car
-plate: MSW2C42
-layout: Mercosur
-corners: 795,306 922,305 924,348 795,349

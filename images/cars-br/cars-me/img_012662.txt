@@ -1,4 +1,0 @@
-type: car
-plate: MPL8C17
-layout: Mercosur
-corners: 722,235 828,236 828,272 723,270

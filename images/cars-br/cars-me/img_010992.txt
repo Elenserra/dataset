@@ -1,4 +1,0 @@
-type: car
-plate: MRC5D93
-layout: Mercosur
-corners: 549,331 661,333 662,366 553,364

@@ -1,4 +1,0 @@
-type: car
-plate: QPQ2A40
-layout: Mercosur
-corners: 506,377 632,380 636,422 507,421

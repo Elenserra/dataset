@@ -1,4 +1,0 @@
-type: car
-plate: IVT5F12
-layout: Mercosur
-corners: 614,347 727,348 726,384 615,383

@@ -1,4 +1,0 @@
-type: car
-plate: MQP8428
-layout: Brazilian
-corners: 657,222 785,217 788,262 658,266

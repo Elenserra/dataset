@@ -1,4 +1,0 @@
-type: car
-plate: OVL5924
-layout: Brazilian
-corners: 774,337 910,340 910,383 775,384

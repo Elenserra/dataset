@@ -1,4 +1,0 @@
-type: car
-plate: PPF7F71
-layout: Mercosur
-corners: 865,281 985,278 987,319 867,321

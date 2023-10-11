@@ -1,4 +1,0 @@
-type: car
-plate: PPU0728
-layout: Brazilian
-corners: 986,168 1080,165 1081,198 987,201

@@ -1,4 +1,0 @@
-type: car
-plate: HRM2277
-layout: Brazilian
-corners: 921,149 1008,148 1010,178 924,178

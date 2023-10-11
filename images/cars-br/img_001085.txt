@@ -1,4 +1,0 @@
-type: car
-plate: PPB9046
-layout: Brazilian
-corners: 589,339 708,339 710,380 591,380

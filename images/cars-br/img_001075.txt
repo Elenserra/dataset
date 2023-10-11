@@ -1,4 +1,0 @@
-type: car
-plate: OYI6078
-layout: Brazilian
-corners: 551,398 680,399 679,442 551,441

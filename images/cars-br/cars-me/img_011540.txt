@@ -1,4 +1,0 @@
-type: car
-plate: QRK7H94
-layout: Mercosur
-corners: 395,413 530,415 535,461 397,458

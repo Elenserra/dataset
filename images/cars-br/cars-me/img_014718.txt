@@ -1,4 +1,0 @@
-type: car
-plate: LQU5F14
-layout: Mercosur
-corners: 845,348 983,351 983,396 846,394

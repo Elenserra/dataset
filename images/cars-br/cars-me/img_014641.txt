@@ -1,4 +1,0 @@
-type: car
-plate: PPV2D04
-layout: Mercosur
-corners: 787,330 915,329 920,372 787,373

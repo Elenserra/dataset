@@ -1,4 +1,0 @@
-type: car
-plate: QRJ8F25
-layout: Mercosur
-corners: 786,307 913,305 916,347 786,350

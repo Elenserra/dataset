@@ -1,4 +1,0 @@
-type: car
-plate: MQM5A93
-layout: Mercosur
-corners: 631,364 751,367 751,405 631,401

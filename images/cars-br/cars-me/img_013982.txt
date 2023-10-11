@@ -1,4 +1,0 @@
-type: car
-plate: LTT9G05
-layout: Mercosur
-corners: 955,109 1033,106 1035,132 957,136

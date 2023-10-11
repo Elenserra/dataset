@@ -1,4 +1,0 @@
-type: car
-plate: PPD4853
-layout: Brazilian
-corners: 510,416 640,416 640,458 510,456

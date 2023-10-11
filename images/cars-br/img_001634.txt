@@ -1,4 +1,0 @@
-type: car
-plate: MRX7902
-layout: Brazilian
-corners: 683,222 783,221 785,254 684,255

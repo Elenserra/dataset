@@ -1,4 +1,0 @@
-type: car
-plate: ODC5I05
-layout: Mercosur
-corners: 528,302 649,303 652,344 529,341

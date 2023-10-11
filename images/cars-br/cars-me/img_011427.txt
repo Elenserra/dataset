@@ -1,4 +1,0 @@
-type: car
-plate: OPS5J59
-layout: Mercosur
-corners: 493,452 628,451 630,495 492,496

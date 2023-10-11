@@ -1,4 +1,0 @@
-type: car
-plate: PXD1027
-layout: Brazilian
-corners: 806,320 939,316 942,359 810,364

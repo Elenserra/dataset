@@ -1,4 +1,0 @@
-type: car
-plate: MTD0J22
-layout: Mercosur
-corners: 769,307 883,308 887,345 770,345

@@ -1,4 +1,0 @@
-type: car
-plate: QHY2D26
-layout: Mercosur
-corners: 507,403 631,405 631,445 506,442

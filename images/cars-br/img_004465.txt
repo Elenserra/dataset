@@ -1,4 +1,0 @@
-type: car
-plate: EQO6813
-layout: Brazilian
-corners: 937,176 1039,175 1040,211 937,211

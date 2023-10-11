@@ -1,4 +1,0 @@
-type: car
-plate: NOZ6127
-layout: Brazilian
-corners: 752,335 886,333 889,380 753,381

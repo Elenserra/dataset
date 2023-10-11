@@ -1,4 +1,0 @@
-type: car
-plate: MSP1487
-layout: Brazilian
-corners: 817,137 908,137 908,169 819,168

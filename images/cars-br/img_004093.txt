@@ -1,4 +1,0 @@
-type: car
-plate: MTW3853
-layout: Brazilian
-corners: 766,161 883,154 888,193 770,200

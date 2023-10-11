@@ -1,4 +1,0 @@
-type: car
-plate: MQC8J84
-layout: Mercosur
-corners: 486,301 595,302 595,337 486,336

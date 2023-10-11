@@ -1,4 +1,0 @@
-type: car
-plate: MPZ5H12
-layout: Mercosur
-corners: 595,347 714,349 715,387 595,386

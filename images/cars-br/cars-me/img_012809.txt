@@ -1,4 +1,0 @@
-type: car
-plate: OVK4C56
-layout: Mercosur
-corners: 638,323 762,325 763,364 640,361

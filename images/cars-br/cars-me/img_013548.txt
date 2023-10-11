@@ -1,4 +1,0 @@
-type: car
-plate: MSS6F77
-layout: Mercosur
-corners: 683,373 810,377 812,417 685,413

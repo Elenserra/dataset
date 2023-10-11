@@ -1,4 +1,0 @@
-type: car
-plate: PPT8G88
-layout: Mercosur
-corners: 636,350 763,352 765,394 638,391

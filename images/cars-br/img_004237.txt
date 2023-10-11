@@ -1,4 +1,0 @@
-type: car
-plate: HKF8750
-layout: Brazilian
-corners: 794,320 931,318 933,364 795,365

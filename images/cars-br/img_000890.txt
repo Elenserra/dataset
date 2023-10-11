@@ -1,4 +1,0 @@
-type: car
-plate: ODS9237
-layout: Brazilian
-corners: 567,377 692,379 694,423 567,422

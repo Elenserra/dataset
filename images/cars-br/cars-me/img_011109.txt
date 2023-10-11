@@ -1,4 +1,0 @@
-type: car
-plate: PPQ6A69
-layout: Mercosur
-corners: 637,321 751,321 753,358 638,358

@@ -1,4 +1,0 @@
-type: car
-plate: NZA5541
-layout: Brazilian
-corners: 574,391 700,391 701,435 574,434

@@ -1,4 +1,0 @@
-type: car
-plate: PPZ1B67
-layout: Mercosur
-corners: 680,322 812,322 813,366 682,364

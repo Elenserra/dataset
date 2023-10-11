@@ -1,4 +1,0 @@
-type: car
-plate: PKD6F49
-layout: Mercosur
-corners: 680,361 807,364 807,403 683,398

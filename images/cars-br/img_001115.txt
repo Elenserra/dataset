@@ -1,4 +1,0 @@
-type: car
-plate: ODR3611
-layout: Brazilian
-corners: 570,242 678,242 682,276 574,276

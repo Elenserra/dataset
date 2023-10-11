@@ -1,4 +1,0 @@
-type: car
-plate: LRS5F30
-layout: Mercosur
-corners: 987,129 1066,126 1069,152 988,154

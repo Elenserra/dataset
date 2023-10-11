@@ -1,4 +1,0 @@
-type: car
-plate: PPP7700
-layout: Brazilian
-corners: 795,358 929,355 932,401 794,404

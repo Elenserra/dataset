@@ -1,4 +1,0 @@
-type: car
-plate: OCZ2F49
-layout: Mercosur
-corners: 657,339 781,342 781,383 660,379

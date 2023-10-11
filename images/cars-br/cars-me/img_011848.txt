@@ -1,4 +1,0 @@
-type: car
-plate: MQO5G29
-layout: Mercosur
-corners: 482,326 602,325 604,366 482,366

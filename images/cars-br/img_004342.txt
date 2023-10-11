@@ -1,4 +1,0 @@
-type: car
-plate: OQK0656
-layout: Brazilian
-corners: 713,336 853,335 855,381 715,384

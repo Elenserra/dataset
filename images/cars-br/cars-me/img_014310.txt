@@ -1,4 +1,0 @@
-type: car
-plate: QRL8C75
-layout: Mercosur
-corners: 846,326 978,323 980,365 847,368

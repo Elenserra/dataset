@@ -1,4 +1,0 @@
-type: car
-plate: MRY2487
-layout: Brazilian
-corners: 826,320 957,318 961,363 827,365

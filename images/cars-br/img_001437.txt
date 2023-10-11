@@ -1,4 +1,0 @@
-type: car
-plate: ODE0018
-layout: Brazilian
-corners: 835,65 899,65 899,88 834,89

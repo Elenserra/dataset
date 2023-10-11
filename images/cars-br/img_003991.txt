@@ -1,4 +1,0 @@
-type: car
-plate: NXL8285
-layout: Brazilian
-corners: 710,265 825,259 831,299 712,304

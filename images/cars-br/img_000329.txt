@@ -1,4 +1,0 @@
-type: car
-plate: LMA4241
-layout: Brazilian
-corners: 584,350 699,352 699,392 584,391

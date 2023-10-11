@@ -1,4 +1,0 @@
-type: car
-plate: OHZ6I38
-layout: Mercosur
-corners: 662,239 780,240 782,279 663,277

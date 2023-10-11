@@ -1,4 +1,0 @@
-type: car
-plate: OCW8859
-layout: Brazilian
-corners: 563,385 691,380 694,424 567,427

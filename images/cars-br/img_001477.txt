@@ -1,4 +1,0 @@
-type: car
-plate: PPS5495
-layout: Brazilian
-corners: 788,153 869,152 870,183 788,183

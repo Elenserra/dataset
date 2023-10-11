@@ -1,4 +1,0 @@
-type: car
-plate: PPO9492
-layout: Brazilian
-corners: 924,234 1039,229 1042,267 927,271

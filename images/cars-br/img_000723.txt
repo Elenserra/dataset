@@ -1,4 +1,0 @@
-type: car
-plate: MRD6023
-layout: Brazilian
-corners: 682,275 784,277 785,311 683,310

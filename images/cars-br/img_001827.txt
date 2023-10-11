@@ -1,4 +1,0 @@
-type: car
-plate: JHH0555
-layout: Brazilian
-corners: 490,440 618,443 618,487 491,485

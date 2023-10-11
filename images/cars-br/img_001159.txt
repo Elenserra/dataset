@@ -1,4 +1,0 @@
-type: car
-plate: QPK3360
-layout: Brazilian
-corners: 778,191 863,191 864,221 779,221

@@ -1,4 +1,0 @@
-type: car
-plate: NGD5F99
-layout: Mercosur
-corners: 655,333 798,342 797,387 655,379

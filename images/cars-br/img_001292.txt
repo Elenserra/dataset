@@ -1,4 +1,0 @@
-type: car
-plate: OYH2941
-layout: Brazilian
-corners: 519,374 643,375 644,419 520,418

@@ -1,4 +1,0 @@
-type: car
-plate: MRG4C54
-layout: Mercosur
-corners: 655,309 781,312 781,355 657,351

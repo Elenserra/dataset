@@ -1,4 +1,0 @@
-type: car
-plate: LUF6J93
-layout: Mercosur
-corners: 642,350 779,359 778,403 643,394

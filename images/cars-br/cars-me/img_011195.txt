@@ -1,4 +1,0 @@
-type: car
-plate: AMG5A22
-layout: Mercosur
-corners: 502,415 627,419 630,461 504,456

@@ -1,4 +1,0 @@
-type: car
-plate: QRK3F67
-layout: Mercosur
-corners: 803,324 939,323 939,368 805,368

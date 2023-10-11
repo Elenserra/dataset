@@ -1,4 +1,0 @@
-type: car
-plate: MSE5H84
-layout: Mercosur
-corners: 1066,90 1135,88 1135,111 1067,112

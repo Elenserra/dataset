@@ -1,4 +1,0 @@
-type: car
-plate: PPZ5100
-layout: Brazilian
-corners: 815,329 950,331 951,375 816,375

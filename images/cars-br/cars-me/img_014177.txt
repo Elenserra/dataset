@@ -1,4 +1,0 @@
-type: car
-plate: QOV5A73
-layout: Mercosur
-corners: 885,220 995,217 997,253 886,256

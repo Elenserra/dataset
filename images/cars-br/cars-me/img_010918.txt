@@ -1,4 +1,0 @@
-type: car
-plate: OYI9A14
-layout: Mercosur
-corners: 512,428 645,430 645,472 514,470

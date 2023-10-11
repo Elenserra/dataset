@@ -1,4 +1,0 @@
-type: car
-plate: PPK3940
-layout: Brazilian
-corners: 567,346 689,346 689,387 569,388

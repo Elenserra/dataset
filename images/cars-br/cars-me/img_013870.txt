@@ -1,4 +1,0 @@
-type: car
-plate: OVF4G35
-layout: Mercosur
-corners: 827,322 956,317 958,361 829,365

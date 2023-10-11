@@ -1,4 +1,0 @@
-type: car
-plate: MRP3B59
-layout: Mercosur
-corners: 581,276 683,276 684,312 581,312

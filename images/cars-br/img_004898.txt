@@ -1,4 +1,0 @@
-type: car
-plate: MRE1721
-layout: Brazilian
-corners: 773,247 888,246 889,285 774,285

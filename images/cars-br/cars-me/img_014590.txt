@@ -1,4 +1,0 @@
-type: car
-plate: QRL3I28
-layout: Mercosur
-corners: 904,189 1001,186 1003,219 905,221

@@ -1,4 +1,0 @@
-type: car
-plate: PPM1763
-layout: Brazilian
-corners: 619,144 709,144 713,174 621,175

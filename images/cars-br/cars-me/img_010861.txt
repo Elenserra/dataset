@@ -1,4 +1,0 @@
-type: car
-plate: DRQ0J22
-layout: Mercosur
-corners: 571,388 692,389 692,428 571,427

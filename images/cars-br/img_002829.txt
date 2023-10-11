@@ -1,4 +1,0 @@
-type: car
-plate: QRD5034
-layout: Brazilian
-corners: 551,310 672,315 673,357 551,352

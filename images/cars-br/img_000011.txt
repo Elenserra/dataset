@@ -1,4 +1,0 @@
-type: car
-plate: MQI3733
-layout: Brazilian
-corners: 630,341 740,340 741,375 631,375

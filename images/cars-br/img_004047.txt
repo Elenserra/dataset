@@ -1,4 +1,0 @@
-type: car
-plate: ODT1522
-layout: Brazilian
-corners: 779,325 909,322 911,367 778,370

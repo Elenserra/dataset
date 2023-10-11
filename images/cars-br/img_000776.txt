@@ -1,4 +1,0 @@
-type: car
-plate: MPJ4391
-layout: Brazilian
-corners: 558,385 679,386 680,429 556,427

@@ -1,4 +1,0 @@
-type: car
-plate: MQQ9045
-layout: Brazilian
-corners: 807,81 874,81 874,105 807,105

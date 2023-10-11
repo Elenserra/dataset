@@ -1,4 +1,0 @@
-type: car
-plate: MTE0438
-layout: Brazilian
-corners: 909,101 988,101 989,128 910,129

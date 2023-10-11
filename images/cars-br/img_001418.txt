@@ -1,4 +1,0 @@
-type: car
-plate: HAI9942
-layout: Brazilian
-corners: 335,557 486,557 487,608 336,608

@@ -1,4 +1,0 @@
-type: car
-plate: QNV4G18
-layout: Mercosur
-corners: 799,329 931,329 934,373 799,376

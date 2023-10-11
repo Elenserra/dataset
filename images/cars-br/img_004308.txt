@@ -1,4 +1,0 @@
-type: car
-plate: KVE2984
-layout: Brazilian
-corners: 790,346 926,341 930,387 794,390

@@ -1,4 +1,0 @@
-type: car
-plate: PPL5934
-layout: Brazilian
-corners: 716,303 840,305 842,348 717,346

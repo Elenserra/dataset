@@ -1,4 +1,0 @@
-type: car
-plate: MQM1J45
-layout: Mercosur
-corners: 661,306 785,305 787,344 663,347

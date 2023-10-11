@@ -1,4 +1,0 @@
-type: car
-plate: ODG4C98
-layout: Mercosur
-corners: 814,348 949,346 952,390 815,392

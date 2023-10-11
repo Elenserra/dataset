@@ -1,4 +1,0 @@
-type: car
-plate: QRF3J55
-layout: Mercosur
-corners: 890,137 979,137 978,168 890,167

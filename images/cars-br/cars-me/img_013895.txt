@@ -1,4 +1,0 @@
-type: car
-plate: OYG1J31
-layout: Mercosur
-corners: 770,341 901,337 903,383 772,382

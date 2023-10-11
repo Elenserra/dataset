@@ -1,4 +1,0 @@
-type: car
-plate: GMK5871
-layout: Brazilian
-corners: 722,381 852,383 853,418 722,414

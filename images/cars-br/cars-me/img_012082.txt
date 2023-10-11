@@ -1,4 +1,0 @@
-type: car
-plate: EEW8H94
-layout: Mercosur
-corners: 559,330 688,330 690,372 559,373

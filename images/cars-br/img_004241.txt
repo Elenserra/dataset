@@ -1,4 +1,0 @@
-type: car
-plate: MTS1910
-layout: Brazilian
-corners: 829,333 964,332 966,377 829,377

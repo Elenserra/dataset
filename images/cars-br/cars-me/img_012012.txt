@@ -1,4 +1,0 @@
-type: car
-plate: AZU2B82
-layout: Mercosur
-corners: 475,349 603,349 606,392 475,390

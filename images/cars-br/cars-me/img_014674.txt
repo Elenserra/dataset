@@ -1,4 +1,0 @@
-type: car
-plate: MTT3G89
-layout: Mercosur
-corners: 748,326 887,324 891,366 753,368

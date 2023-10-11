@@ -1,4 +1,0 @@
-type: car
-plate: FOG2E83
-layout: Mercosur
-corners: 695,317 817,318 818,356 696,355

@@ -1,4 +1,0 @@
-type: car
-plate: LSQ9A21
-layout: Mercosur
-corners: 649,302 771,304 772,344 650,341

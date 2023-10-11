@@ -1,4 +1,0 @@
-type: car
-plate: PPC2H15
-layout: Mercosur
-corners: 738,327 871,334 869,376 737,370

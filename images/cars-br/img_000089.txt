@@ -1,4 +1,0 @@
-type: car
-plate: JSB6303
-layout: Brazilian
-corners: 340,528 486,531 488,580 343,575

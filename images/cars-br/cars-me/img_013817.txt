@@ -1,4 +1,0 @@
-type: car
-plate: QRK3J75
-layout: Mercosur
-corners: 604,324 735,327 737,369 605,366

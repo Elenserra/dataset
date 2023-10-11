@@ -1,4 +1,0 @@
-type: car
-plate: MTD1323
-layout: Brazilian
-corners: 431,454 565,454 566,501 431,500

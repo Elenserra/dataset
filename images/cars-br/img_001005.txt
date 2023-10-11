@@ -1,4 +1,0 @@
-type: car
-plate: PKS2528
-layout: Brazilian
-corners: 511,400 634,400 639,438 516,438

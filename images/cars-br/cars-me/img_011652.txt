@@ -1,4 +1,0 @@
-type: car
-plate: MEN0I28
-layout: Mercosur
-corners: 468,364 601,363 605,405 471,404

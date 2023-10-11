@@ -1,4 +1,0 @@
-type: car
-plate: QRI2A15
-layout: Mercosur
-corners: 758,281 896,279 900,324 760,328

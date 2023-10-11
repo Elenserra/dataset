@@ -1,4 +1,0 @@
-type: car
-plate: QRJ1H35
-layout: Mercosur
-corners: 545,274 656,277 659,315 546,312

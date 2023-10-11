@@ -1,4 +1,0 @@
-type: car
-plate: PPO1G65
-layout: Mercosur
-corners: 768,278 903,275 906,321 771,322

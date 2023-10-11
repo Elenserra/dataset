@@ -1,4 +1,0 @@
-type: car
-plate: OCY6836
-layout: Brazilian
-corners: 540,390 663,392 664,435 540,433

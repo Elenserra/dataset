@@ -1,4 +1,0 @@
-type: car
-plate: LRL4891
-layout: Brazilian
-corners: 686,166 765,165 766,187 688,187

@@ -1,4 +1,0 @@
-type: car
-plate: FOU9480
-layout: Brazilian
-corners: 536,425 666,423 668,463 539,463

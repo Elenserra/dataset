@@ -1,4 +1,0 @@
-type: car
-plate: FXI1A38
-layout: Mercosur
-corners: 702,356 841,364 840,408 703,399

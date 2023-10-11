@@ -1,4 +1,0 @@
-type: car
-plate: MRP3988
-layout: Brazilian
-corners: 753,376 883,376 885,417 756,416

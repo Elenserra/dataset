@@ -1,4 +1,0 @@
-type: car
-plate: QRK1B49
-layout: Mercosur
-corners: 601,259 715,261 716,300 601,299

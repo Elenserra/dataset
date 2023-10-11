@@ -1,4 +1,0 @@
-type: car
-plate: OYJ6978
-layout: Brazilian
-corners: 532,414 658,415 660,460 534,459

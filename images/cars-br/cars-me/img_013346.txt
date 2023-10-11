@@ -1,4 +1,0 @@
-type: car
-plate: QRE8F57
-layout: Mercosur
-corners: 658,322 786,324 786,367 659,365

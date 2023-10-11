@@ -1,4 +1,0 @@
-type: car
-plate: BWE0715
-layout: Brazilian
-corners: 583,260 716,255 721,301 584,307

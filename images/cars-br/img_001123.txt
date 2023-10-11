@@ -1,4 +1,0 @@
-type: car
-plate: MTC5843
-layout: Brazilian
-corners: 578,309 690,309 691,347 578,347

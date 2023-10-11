@@ -1,4 +1,0 @@
-type: car
-plate: POQ2469
-layout: Brazilian
-corners: 642,329 770,333 772,374 643,371

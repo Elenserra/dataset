@@ -1,4 +1,0 @@
-type: car
-plate: MQV5881
-layout: Brazilian
-corners: 856,338 990,335 992,379 857,384

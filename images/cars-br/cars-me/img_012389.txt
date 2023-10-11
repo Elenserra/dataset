@@ -1,4 +1,0 @@
-type: car
-plate: QRG2H19
-layout: Mercosur
-corners: 853,96 936,95 936,122 854,123

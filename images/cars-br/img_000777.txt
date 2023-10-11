@@ -1,4 +1,0 @@
-type: car
-plate: MPJ5046
-layout: Brazilian
-corners: 487,346 616,345 617,391 488,390

@@ -1,4 +1,0 @@
-type: car
-plate: KXQ9069
-layout: Brazilian
-corners: 807,339 941,334 947,377 810,382

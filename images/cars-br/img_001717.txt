@@ -1,4 +1,0 @@
-type: car
-plate: PPW9332
-layout: Brazilian
-corners: 530,400 658,402 659,447 530,447

@@ -1,4 +1,0 @@
-type: car
-plate: OYH7391
-layout: Brazilian
-corners: 701,293 826,300 825,342 701,334

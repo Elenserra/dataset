@@ -1,4 +1,0 @@
-type: car
-plate: MTT8575
-layout: Brazilian
-corners: 767,294 904,292 904,341 767,341

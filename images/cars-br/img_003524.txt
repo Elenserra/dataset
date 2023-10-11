@@ -1,4 +1,0 @@
-type: car
-plate: MTV0022
-layout: Brazilian
-corners: 842,301 968,295 971,338 843,342

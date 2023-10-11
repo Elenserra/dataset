@@ -1,4 +1,0 @@
-type: car
-plate: OYI9947
-layout: Brazilian
-corners: 529,425 658,424 659,468 530,468

@@ -1,4 +1,0 @@
-type: car
-plate: PPP8B43
-layout: Mercosur
-corners: 643,343 782,350 781,396 642,388

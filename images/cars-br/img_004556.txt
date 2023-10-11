@@ -1,4 +1,0 @@
-type: car
-plate: QQW3603
-layout: Brazilian
-corners: 922,191 1019,188 1021,221 923,223

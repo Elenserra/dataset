@@ -1,4 +1,0 @@
-type: car
-plate: PWQ3538
-layout: Brazilian
-corners: 814,334 943,332 942,377 811,380

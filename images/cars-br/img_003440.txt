@@ -1,4 +1,0 @@
-type: car
-plate: MSP3357
-layout: Brazilian
-corners: 699,335 828,336 829,381 700,377

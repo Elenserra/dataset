@@ -1,4 +1,0 @@
-type: car
-plate: GSV6301
-layout: Brazilian
-corners: 828,394 961,392 964,437 829,435

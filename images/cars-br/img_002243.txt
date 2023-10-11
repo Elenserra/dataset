@@ -1,4 +1,0 @@
-type: car
-plate: ODR8565
-layout: Brazilian
-corners: 547,418 681,419 681,464 548,463

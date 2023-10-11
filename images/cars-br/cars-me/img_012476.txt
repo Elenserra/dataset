@@ -1,4 +1,0 @@
-type: car
-plate: PYS5H96
-layout: Mercosur
-corners: 715,241 824,242 825,277 715,277

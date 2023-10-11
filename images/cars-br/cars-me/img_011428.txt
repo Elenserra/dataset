@@ -1,4 +1,0 @@
-type: car
-plate: MSQ2C90
-layout: Mercosur
-corners: 526,378 651,380 653,420 526,419

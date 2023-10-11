@@ -1,4 +1,0 @@
-type: car
-plate: QRE1H19
-layout: Mercosur
-corners: 534,415 661,416 663,457 538,457

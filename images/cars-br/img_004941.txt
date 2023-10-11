@@ -1,4 +1,0 @@
-type: car
-plate: ODT8713
-layout: Brazilian
-corners: 705,378 838,377 843,423 708,424

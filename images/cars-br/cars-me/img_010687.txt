@@ -1,4 +1,0 @@
-type: car
-plate: QRI4I67
-layout: Mercosur
-corners: 538,386 665,385 667,426 540,427

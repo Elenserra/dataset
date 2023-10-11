@@ -1,4 +1,0 @@
-type: car
-plate: OCZ7A13
-layout: Mercosur
-corners: 556,418 682,418 685,455 561,456

@@ -1,4 +1,0 @@
-type: car
-plate: MQZ1E86
-layout: Mercosur
-corners: 803,163 901,164 900,196 803,195

@@ -1,4 +1,0 @@
-type: car
-plate: ODR1H80
-layout: Mercosur
-corners: 767,329 900,329 902,374 767,373

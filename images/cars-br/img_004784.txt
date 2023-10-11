@@ -1,4 +1,0 @@
-type: car
-plate: OCV6449
-layout: Brazilian
-corners: 768,297 896,294 900,339 770,341

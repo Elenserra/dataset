@@ -1,4 +1,0 @@
-type: car
-plate: PUK6H24
-layout: Mercosur
-corners: 600,364 733,368 734,412 602,408

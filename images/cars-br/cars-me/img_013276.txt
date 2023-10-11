@@ -1,4 +1,0 @@
-type: car
-plate: MTS2J08
-layout: Mercosur
-corners: 572,306 690,310 690,350 573,346

@@ -1,4 +1,0 @@
-type: car
-plate: DHV2916
-layout: Brazilian
-corners: 798,346 941,345 941,392 799,394

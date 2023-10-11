@@ -1,4 +1,0 @@
-type: car
-plate: MRG0195
-layout: Brazilian
-corners: 839,342 971,337 974,384 838,388

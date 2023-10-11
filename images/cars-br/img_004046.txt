@@ -1,4 +1,0 @@
-type: car
-plate: PPN7834
-layout: Brazilian
-corners: 873,250 987,248 991,286 875,285

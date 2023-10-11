@@ -1,4 +1,0 @@
-type: car
-plate: PPL0D47
-layout: Mercosur
-corners: 674,334 802,337 803,379 674,376

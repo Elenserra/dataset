@@ -1,4 +1,0 @@
-type: car
-plate: PPJ4025
-layout: Brazilian
-corners: 822,195 926,195 926,229 822,228

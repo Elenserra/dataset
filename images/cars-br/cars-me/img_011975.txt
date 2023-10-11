@@ -1,4 +1,0 @@
-type: car
-plate: QRM7G98
-layout: Mercosur
-corners: 630,248 742,246 744,284 632,285

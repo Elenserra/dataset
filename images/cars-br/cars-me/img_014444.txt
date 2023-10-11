@@ -1,4 +1,0 @@
-type: car
-plate: QRE7B17
-layout: Mercosur
-corners: 799,327 930,325 932,368 801,369

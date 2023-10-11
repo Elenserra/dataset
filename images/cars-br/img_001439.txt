@@ -1,4 +1,0 @@
-type: car
-plate: OYH9080
-layout: Brazilian
-corners: 766,109 838,109 838,134 766,134

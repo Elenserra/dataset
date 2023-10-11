@@ -1,4 +1,0 @@
-type: car
-plate: ODP0C63
-layout: Mercosur
-corners: 509,400 632,401 634,441 510,440

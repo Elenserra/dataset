@@ -1,4 +1,0 @@
-type: car
-plate: MSA9309
-layout: Brazilian
-corners: 624,341 737,342 738,381 625,379

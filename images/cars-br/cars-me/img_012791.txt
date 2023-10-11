@@ -1,4 +1,0 @@
-type: car
-plate: QRJ2F10
-layout: Mercosur
-corners: 633,313 761,315 762,355 635,352

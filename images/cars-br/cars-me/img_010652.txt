@@ -1,4 +1,0 @@
-type: car
-plate: FEZ6A46
-layout: Mercosur
-corners: 790,149 865,147 866,172 791,172

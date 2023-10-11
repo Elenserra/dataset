@@ -1,4 +1,0 @@
-type: car
-plate: ODK1589
-layout: Brazilian
-corners: 629,453 783,457 786,508 631,501

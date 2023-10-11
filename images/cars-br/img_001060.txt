@@ -1,4 +1,0 @@
-type: car
-plate: PPV4916
-layout: Brazilian
-corners: 541,441 674,443 676,488 542,487

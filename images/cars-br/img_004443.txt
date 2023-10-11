@@ -1,4 +1,0 @@
-type: car
-plate: OCZ2526
-layout: Brazilian
-corners: 997,101 1077,97 1079,126 997,128

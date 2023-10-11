@@ -1,4 +1,0 @@
-type: car
-plate: PPV1887
-layout: Brazilian
-corners: 511,385 636,386 636,426 511,426

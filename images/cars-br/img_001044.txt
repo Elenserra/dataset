@@ -1,4 +1,0 @@
-type: car
-plate: MTW9302
-layout: Brazilian
-corners: 698,266 799,265 800,299 698,300

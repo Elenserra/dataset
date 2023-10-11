@@ -1,4 +1,0 @@
-type: car
-plate: PPW2168
-layout: Brazilian
-corners: 829,243 952,239 954,283 830,284

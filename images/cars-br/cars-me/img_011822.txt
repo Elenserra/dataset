@@ -1,4 +1,0 @@
-type: car
-plate: PVL0G62
-layout: Mercosur
-corners: 464,315 594,317 597,361 464,358

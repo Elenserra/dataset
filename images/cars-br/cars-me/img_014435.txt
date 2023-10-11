@@ -1,4 +1,0 @@
-type: car
-plate: QRK4C75
-layout: Mercosur
-corners: 810,320 939,318 941,362 811,364

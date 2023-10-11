@@ -1,4 +1,0 @@
-type: car
-plate: MRJ2234
-layout: Brazilian
-corners: 570,416 698,417 699,461 571,461

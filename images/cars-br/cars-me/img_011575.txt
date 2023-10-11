@@ -1,4 +1,0 @@
-type: car
-plate: PPR7B93
-layout: Mercosur
-corners: 639,271 742,270 742,306 640,306

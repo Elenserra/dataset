@@ -1,4 +1,0 @@
-type: car
-plate: HBN1I94
-layout: Mercosur
-corners: 920,94 1009,92 1011,121 922,124

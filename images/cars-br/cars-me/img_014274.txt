@@ -1,4 +1,0 @@
-type: car
-plate: QRG4F37
-layout: Mercosur
-corners: 800,360 940,358 944,406 801,406

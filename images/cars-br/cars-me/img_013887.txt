@@ -1,4 +1,0 @@
-type: car
-plate: ONB1G02
-layout: Mercosur
-corners: 824,335 953,333 956,377 826,379

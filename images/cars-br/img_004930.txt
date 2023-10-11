@@ -1,4 +1,0 @@
-type: car
-plate: KNP9048
-layout: Brazilian
-corners: 776,209 882,207 884,242 778,244

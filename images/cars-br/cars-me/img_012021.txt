@@ -1,4 +1,0 @@
-type: car
-plate: MTV1E84
-layout: Mercosur
-corners: 580,295 705,295 707,336 581,335

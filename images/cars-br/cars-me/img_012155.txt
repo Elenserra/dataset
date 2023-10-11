@@ -1,4 +1,0 @@
-type: car
-plate: RBL8H32
-layout: Mercosur
-corners: 585,263 703,260 705,298 585,300

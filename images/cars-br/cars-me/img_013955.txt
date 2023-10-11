@@ -1,4 +1,0 @@
-type: car
-plate: PPF4H21
-layout: Mercosur
-corners: 759,266 886,265 889,307 759,309

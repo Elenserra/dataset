@@ -1,4 +1,0 @@
-type: car
-plate: QRJ3H14
-layout: Mercosur
-corners: 1059,86 1129,84 1131,109 1059,110

@@ -1,4 +1,0 @@
-type: car
-plate: QRG3A82
-layout: Mercosur
-corners: 661,230 755,229 755,259 663,259

@@ -1,4 +1,0 @@
-type: car
-plate: MTW3G97
-layout: Mercosur
-corners: 664,289 783,291 783,332 664,329

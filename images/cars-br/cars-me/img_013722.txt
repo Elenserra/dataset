@@ -1,4 +1,0 @@
-type: car
-plate: QRL8I71
-layout: Mercosur
-corners: 797,69 886,69 887,99 797,100

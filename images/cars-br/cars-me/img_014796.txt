@@ -1,4 +1,0 @@
-type: car
-plate: MLF1H71
-layout: Mercosur
-corners: 572,339 714,348 713,392 573,385

@@ -1,4 +1,0 @@
-type: car
-plate: ODG0F02
-layout: Mercosur
-corners: 645,310 774,312 776,355 646,353

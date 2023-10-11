@@ -1,4 +1,0 @@
-type: car
-plate: ODC6250
-layout: Brazilian
-corners: 774,388 900,389 904,431 775,430

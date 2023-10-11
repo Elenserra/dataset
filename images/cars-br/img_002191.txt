@@ -1,4 +1,0 @@
-type: car
-plate: PZT7967
-layout: Brazilian
-corners: 546,382 665,382 666,422 547,422

@@ -1,4 +1,0 @@
-type: car
-plate: MQJ2744
-layout: Brazilian
-corners: 513,388 635,389 636,431 515,429

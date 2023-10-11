@@ -1,4 +1,0 @@
-type: car
-plate: QOK1C00
-layout: Mercosur
-corners: 678,318 817,326 816,372 678,364

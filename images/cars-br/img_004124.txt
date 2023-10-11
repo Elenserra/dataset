@@ -1,4 +1,0 @@
-type: car
-plate: OPI9440
-layout: Brazilian
-corners: 856,306 986,304 988,346 856,349

@@ -1,4 +1,0 @@
-type: car
-plate: KRZ1B16
-layout: Mercosur
-corners: 790,333 922,332 923,377 790,377

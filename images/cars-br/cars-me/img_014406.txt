@@ -1,4 +1,0 @@
-type: car
-plate: MRC1C55
-layout: Mercosur
-corners: 800,357 939,354 941,404 800,406

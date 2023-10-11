@@ -1,4 +1,0 @@
-type: car
-plate: MSL5551
-layout: Brazilian
-corners: 463,398 601,401 601,447 462,445

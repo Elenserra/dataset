@@ -1,4 +1,0 @@
-type: car
-plate: PZZ4C98
-layout: Mercosur
-corners: 544,273 662,273 665,314 545,316

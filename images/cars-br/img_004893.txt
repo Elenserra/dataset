@@ -1,4 +1,0 @@
-type: car
-plate: QOS4398
-layout: Brazilian
-corners: 812,341 949,339 949,384 811,386

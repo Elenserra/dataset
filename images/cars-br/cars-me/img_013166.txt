@@ -1,4 +1,0 @@
-type: car
-plate: PPP1B01
-layout: Mercosur
-corners: 692,268 807,270 807,309 693,306

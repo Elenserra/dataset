@@ -1,4 +1,0 @@
-type: car
-plate: OVK2I46
-layout: Mercosur
-corners: 508,466 646,468 646,514 508,511

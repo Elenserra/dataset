@@ -1,4 +1,0 @@
-type: car
-plate: MTW3H47
-layout: Mercosur
-corners: 691,312 812,315 812,355 692,352

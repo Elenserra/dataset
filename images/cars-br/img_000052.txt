@@ -1,4 +1,0 @@
-type: car
-plate: QQD3031
-layout: Brazilian
-corners: 551,411 671,412 672,447 552,446

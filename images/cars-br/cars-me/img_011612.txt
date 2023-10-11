@@ -1,4 +1,0 @@
-type: car
-plate: PPO2F94
-layout: Mercosur
-corners: 708,239 802,238 803,269 708,269

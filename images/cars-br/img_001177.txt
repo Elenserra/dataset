@@ -1,4 +1,0 @@
-type: car
-plate: PPK8945
-layout: Brazilian
-corners: 558,369 678,369 679,408 560,407

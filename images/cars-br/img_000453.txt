@@ -1,4 +1,0 @@
-type: car
-plate: PPO2122
-layout: Brazilian
-corners: 648,286 752,283 754,318 650,321

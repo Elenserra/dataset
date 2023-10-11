@@ -1,4 +1,0 @@
-type: car
-plate: LSO9405
-layout: Brazilian
-corners: 823,291 948,288 951,333 824,335

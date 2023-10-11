@@ -1,4 +1,0 @@
-type: car
-plate: QRJ4B19
-layout: Mercosur
-corners: 687,353 820,360 819,404 688,398

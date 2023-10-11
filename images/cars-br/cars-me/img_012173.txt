@@ -1,4 +1,0 @@
-type: car
-plate: QRH4A55
-layout: Mercosur
-corners: 494,329 622,329 625,371 493,371

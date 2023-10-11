@@ -1,4 +1,0 @@
-type: car
-plate: MRS2H47
-layout: Mercosur
-corners: 779,321 905,319 909,361 779,363

@@ -1,4 +1,0 @@
-type: car
-plate: MRB5624
-layout: Brazilian
-corners: 422,447 555,447 557,489 424,488

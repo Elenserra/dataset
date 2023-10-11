@@ -1,4 +1,0 @@
-type: car
-plate: MTU2844
-layout: Brazilian
-corners: 697,328 835,337 833,383 695,374

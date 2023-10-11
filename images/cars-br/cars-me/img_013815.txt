@@ -1,4 +1,0 @@
-type: car
-plate: KVH5H95
-layout: Mercosur
-corners: 735,310 858,310 861,349 736,348

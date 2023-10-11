@@ -1,4 +1,0 @@
-type: car
-plate: PPX7685
-layout: Brazilian
-corners: 692,237 809,238 812,277 693,276

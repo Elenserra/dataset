@@ -1,4 +1,0 @@
-type: car
-plate: HIZ1J55
-layout: Mercosur
-corners: 723,221 835,223 835,258 724,256

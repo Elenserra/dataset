@@ -1,4 +1,0 @@
-type: car
-plate: MPQ7C52
-layout: Mercosur
-corners: 525,389 648,392 650,433 525,432

@@ -1,4 +1,0 @@
-type: car
-plate: MSZ2300
-layout: Brazilian
-corners: 866,291 991,286 995,330 868,332

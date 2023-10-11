@@ -1,4 +1,0 @@
-type: car
-plate: OYG2548
-layout: Brazilian
-corners: 124,591 291,600 299,661 131,649

@@ -1,4 +1,0 @@
-type: car
-plate: QRF1H23
-layout: Mercosur
-corners: 584,261 689,261 690,294 585,294

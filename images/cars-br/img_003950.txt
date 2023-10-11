@@ -1,4 +1,0 @@
-type: car
-plate: MTR7454
-layout: Brazilian
-corners: 880,239 990,237 992,275 879,277

@@ -1,4 +1,0 @@
-type: car
-plate: OVI6104
-layout: Brazilian
-corners: 562,384 687,386 687,429 562,426

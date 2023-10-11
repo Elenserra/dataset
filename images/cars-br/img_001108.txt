@@ -1,4 +1,0 @@
-type: car
-plate: MQY8567
-layout: Brazilian
-corners: 630,306 740,306 740,344 631,344

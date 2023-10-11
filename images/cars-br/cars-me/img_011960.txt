@@ -1,4 +1,0 @@
-type: car
-plate: EDZ5F72
-layout: Mercosur
-corners: 521,383 647,385 649,428 523,426

@@ -1,4 +1,0 @@
-type: car
-plate: MRO0B61
-layout: Mercosur
-corners: 784,333 913,330 916,374 784,375

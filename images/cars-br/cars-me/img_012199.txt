@@ -1,4 +1,0 @@
-type: car
-plate: ODJ6C21
-layout: Mercosur
-corners: 251,514 414,521 417,575 257,569

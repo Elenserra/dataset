@@ -1,4 +1,0 @@
-type: car
-plate: PPW7D03
-layout: Mercosur
-corners: 478,398 610,399 615,441 482,442

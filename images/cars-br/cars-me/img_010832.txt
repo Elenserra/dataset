@@ -1,4 +1,0 @@
-type: car
-plate: PPH0G75
-layout: Mercosur
-corners: 476,492 616,494 618,540 476,537

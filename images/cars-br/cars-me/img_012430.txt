@@ -1,4 +1,0 @@
-type: car
-plate: PPO2E25
-layout: Mercosur
-corners: 613,354 742,356 742,396 615,394

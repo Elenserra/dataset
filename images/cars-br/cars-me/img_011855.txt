@@ -1,4 +1,0 @@
-type: car
-plate: QEV1B59
-layout: Mercosur
-corners: 585,277 697,275 699,312 584,315

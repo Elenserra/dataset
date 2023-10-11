@@ -1,4 +1,0 @@
-type: car
-plate: KRB7880
-layout: Brazilian
-corners: 803,325 934,323 936,367 806,369

@@ -1,4 +1,0 @@
-type: car
-plate: MSP1B71
-layout: Mercosur
-corners: 652,259 758,259 759,294 652,295

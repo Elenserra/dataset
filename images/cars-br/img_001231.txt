@@ -1,4 +1,0 @@
-type: car
-plate: QRB1720
-layout: Brazilian
-corners: 633,320 743,321 743,358 633,357

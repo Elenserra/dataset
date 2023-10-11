@@ -1,4 +1,0 @@
-type: car
-plate: QIV8920
-layout: Brazilian
-corners: 918,236 1028,232 1031,269 919,272

@@ -1,4 +1,0 @@
-type: car
-plate: MRR0B16
-layout: Mercosur
-corners: 784,369 918,368 921,414 786,414

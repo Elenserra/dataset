@@ -1,4 +1,0 @@
-type: car
-plate: ODT9C72
-layout: Mercosur
-corners: 678,347 812,356 811,399 676,391

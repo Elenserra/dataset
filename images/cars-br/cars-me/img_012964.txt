@@ -1,4 +1,0 @@
-type: car
-plate: ODN3B67
-layout: Mercosur
-corners: 536,334 659,336 659,375 538,372

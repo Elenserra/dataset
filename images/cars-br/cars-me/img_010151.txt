@@ -1,4 +1,0 @@
-type: car
-plate: KXB3I58
-layout: Mercosur
-corners: 486,342 613,343 615,383 488,383

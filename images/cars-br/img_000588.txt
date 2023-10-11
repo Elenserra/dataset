@@ -1,4 +1,0 @@
-type: car
-plate: PPZ9997
-layout: Brazilian
-corners: 520,417 650,420 650,463 520,460

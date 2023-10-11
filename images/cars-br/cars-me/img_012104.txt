@@ -1,4 +1,0 @@
-type: car
-plate: MSP1J22
-layout: Mercosur
-corners: 836,87 906,86 907,110 836,112

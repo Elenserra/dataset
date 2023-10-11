@@ -1,4 +1,0 @@
-type: car
-plate: ODH3455
-layout: Brazilian
-corners: 645,331 773,335 775,378 645,375

@@ -1,4 +1,0 @@
-type: car
-plate: ODL3I87
-layout: Mercosur
-corners: 778,320 910,319 912,364 779,364

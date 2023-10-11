@@ -1,4 +1,0 @@
-type: car
-plate: HJT6532
-layout: Brazilian
-corners: 861,358 1000,357 1000,399 861,399

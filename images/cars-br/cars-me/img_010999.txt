@@ -1,4 +1,0 @@
-type: car
-plate: QRL0A85
-layout: Mercosur
-corners: 567,333 687,333 688,372 569,371

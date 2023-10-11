@@ -1,4 +1,0 @@
-type: car
-plate: OYE4G02
-layout: Mercosur
-corners: 640,325 769,328 768,370 640,367

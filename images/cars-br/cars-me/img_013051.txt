@@ -1,4 +1,0 @@
-type: car
-plate: MRX2G60
-layout: Mercosur
-corners: 643,376 777,378 778,421 645,418

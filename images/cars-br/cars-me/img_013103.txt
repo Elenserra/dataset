@@ -1,4 +1,0 @@
-type: car
-plate: QRI9C51
-layout: Mercosur
-corners: 462,475 608,489 610,537 463,522

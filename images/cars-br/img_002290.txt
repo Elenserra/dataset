@@ -1,4 +1,0 @@
-type: car
-plate: QNT6723
-layout: Brazilian
-corners: 214,505 366,508 367,561 212,556

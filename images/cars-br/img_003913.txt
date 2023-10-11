@@ -1,4 +1,0 @@
-type: car
-plate: PGY3439
-layout: Brazilian
-corners: 804,292 931,289 934,333 805,335

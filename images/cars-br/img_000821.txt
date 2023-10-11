@@ -1,4 +1,0 @@
-type: car
-plate: PPC8284
-layout: Brazilian
-corners: 574,387 705,389 705,432 573,432

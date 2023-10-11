@@ -1,4 +1,0 @@
-type: car
-plate: QRE6A59
-layout: Mercosur
-corners: 819,344 955,341 959,386 820,389

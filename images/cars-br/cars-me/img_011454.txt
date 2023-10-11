@@ -1,4 +1,0 @@
-type: car
-plate: PPW2B10
-layout: Mercosur
-corners: 478,330 605,332 607,375 476,372

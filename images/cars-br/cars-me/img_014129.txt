@@ -1,4 +1,0 @@
-type: car
-plate: ODP6A33
-layout: Mercosur
-corners: 834,309 967,306 970,349 836,352

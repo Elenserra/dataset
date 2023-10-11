@@ -1,4 +1,0 @@
-type: car
-plate: ODO9564
-layout: Brazilian
-corners: 472,417 599,418 601,463 475,461

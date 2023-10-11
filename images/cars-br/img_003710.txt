@@ -1,4 +1,0 @@
-type: car
-plate: ODJ0355
-layout: Brazilian
-corners: 829,320 962,317 966,364 829,365

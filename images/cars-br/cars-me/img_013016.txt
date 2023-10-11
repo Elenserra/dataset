@@ -1,4 +1,0 @@
-type: car
-plate: HDH0H56
-layout: Mercosur
-corners: 678,301 800,304 799,345 678,341

@@ -1,4 +1,0 @@
-type: car
-plate: KOL7I79
-layout: Mercosur
-corners: 477,388 606,390 608,432 478,429

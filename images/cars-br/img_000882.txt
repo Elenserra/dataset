@@ -1,4 +1,0 @@
-type: car
-plate: OCZ5336
-layout: Brazilian
-corners: 541,389 666,387 668,429 544,429

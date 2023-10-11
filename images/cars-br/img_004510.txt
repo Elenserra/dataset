@@ -1,4 +1,0 @@
-type: car
-plate: KYA2043
-layout: Brazilian
-corners: 745,369 879,366 883,411 746,413

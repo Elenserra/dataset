@@ -1,4 +1,0 @@
-type: car
-plate: OYE8685
-layout: Brazilian
-corners: 516,401 644,403 644,447 517,444

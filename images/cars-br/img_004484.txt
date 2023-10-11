@@ -1,4 +1,0 @@
-type: car
-plate: JGJ2547
-layout: Brazilian
-corners: 813,327 941,325 944,368 814,370

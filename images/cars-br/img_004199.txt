@@ -1,4 +1,0 @@
-type: car
-plate: MQR8242
-layout: Brazilian
-corners: 739,196 854,195 857,233 741,235

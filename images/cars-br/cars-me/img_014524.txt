@@ -1,4 +1,0 @@
-type: car
-plate: MSI8A55
-layout: Mercosur
-corners: 1008,106 1092,102 1094,131 1009,134

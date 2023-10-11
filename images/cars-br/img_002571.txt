@@ -1,4 +1,0 @@
-type: car
-plate: ODP1405
-layout: Brazilian
-corners: 793,315 928,314 928,360 793,361

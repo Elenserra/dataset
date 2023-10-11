@@ -1,4 +1,0 @@
-type: car
-plate: QRF6J19
-layout: Mercosur
-corners: 685,225 797,228 796,264 687,261

@@ -1,4 +1,0 @@
-type: car
-plate: JKE1H37
-layout: Mercosur
-corners: 625,367 761,376 759,424 623,413

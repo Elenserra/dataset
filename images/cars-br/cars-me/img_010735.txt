@@ -1,4 +1,0 @@
-type: car
-plate: PPU6D79
-layout: Mercosur
-corners: 559,327 667,327 668,361 560,361

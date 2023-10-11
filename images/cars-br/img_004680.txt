@@ -1,4 +1,0 @@
-type: car
-plate: MRS7313
-layout: Brazilian
-corners: 805,406 939,406 942,450 804,451

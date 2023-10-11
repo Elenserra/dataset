@@ -1,4 +1,0 @@
-type: car
-plate: PPS4B48
-layout: Mercosur
-corners: 627,246 734,247 734,283 628,282

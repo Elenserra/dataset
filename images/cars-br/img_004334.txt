@@ -1,4 +1,0 @@
-type: car
-plate: PPK4616
-layout: Brazilian
-corners: 831,289 949,288 952,330 833,330

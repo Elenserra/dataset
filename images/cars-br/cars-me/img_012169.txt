@@ -1,4 +1,0 @@
-type: car
-plate: NRW0F55
-layout: Mercosur
-corners: 775,153 856,151 857,177 774,177

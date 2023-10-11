@@ -1,4 +1,0 @@
-type: car
-plate: OQJ2254
-layout: Brazilian
-corners: 757,305 884,301 888,347 758,349

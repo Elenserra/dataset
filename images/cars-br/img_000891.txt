@@ -1,4 +1,0 @@
-type: car
-plate: MQY2128
-layout: Brazilian
-corners: 552,414 681,414 683,457 554,456

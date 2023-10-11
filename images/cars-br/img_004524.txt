@@ -1,4 +1,0 @@
-type: car
-plate: OQN2320
-layout: Brazilian
-corners: 838,312 966,308 971,352 841,355

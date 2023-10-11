@@ -1,4 +1,0 @@
-type: car
-plate: QRK3C45
-layout: Mercosur
-corners: 491,326 619,325 620,369 493,369

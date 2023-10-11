@@ -1,4 +1,0 @@
-type: car
-plate: MRQ7581
-layout: Brazilian
-corners: 574,392 699,393 699,436 576,435

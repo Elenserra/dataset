@@ -1,4 +1,0 @@
-type: car
-plate: MPF4284
-layout: Brazilian
-corners: 837,194 944,190 948,230 837,231

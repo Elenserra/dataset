@@ -1,4 +1,0 @@
-type: car
-plate: QQJ5943
-layout: Brazilian
-corners: 559,420 684,422 687,464 559,463

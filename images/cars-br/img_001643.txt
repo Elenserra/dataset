@@ -1,4 +1,0 @@
-type: car
-plate: ODF7548
-layout: Brazilian
-corners: 451,418 581,419 582,463 451,463

@@ -1,4 +1,0 @@
-type: car
-plate: MQD1850
-layout: Brazilian
-corners: 862,310 989,307 991,348 862,349

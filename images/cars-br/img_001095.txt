@@ -1,4 +1,0 @@
-type: car
-plate: PPC7990
-layout: Brazilian
-corners: 516,407 639,407 641,450 517,450

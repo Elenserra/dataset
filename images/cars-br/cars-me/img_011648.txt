@@ -1,4 +1,0 @@
-type: car
-plate: MQG8A95
-layout: Mercosur
-corners: 562,368 685,368 688,411 562,411

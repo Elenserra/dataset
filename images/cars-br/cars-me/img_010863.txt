@@ -1,4 +1,0 @@
-type: car
-plate: ODT1G38
-layout: Mercosur
-corners: 543,425 675,424 675,467 544,468

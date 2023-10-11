@@ -1,4 +1,0 @@
-type: car
-plate: ODK0705
-layout: Brazilian
-corners: 515,297 640,295 642,340 518,339

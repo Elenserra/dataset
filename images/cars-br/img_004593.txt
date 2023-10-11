@@ -1,4 +1,0 @@
-type: car
-plate: MSX0755
-layout: Brazilian
-corners: 762,332 895,329 898,373 762,376

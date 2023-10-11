@@ -1,4 +1,0 @@
-type: car
-plate: QRK2E20
-layout: Mercosur
-corners: 699,171 796,172 796,204 700,203

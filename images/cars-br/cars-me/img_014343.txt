@@ -1,4 +1,0 @@
-type: car
-plate: MTW7D51
-layout: Mercosur
-corners: 744,331 874,329 876,373 743,373

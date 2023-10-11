@@ -1,4 +1,0 @@
-type: car
-plate: PPV9053
-layout: Brazilian
-corners: 590,382 712,382 713,423 590,423

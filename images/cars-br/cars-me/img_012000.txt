@@ -1,4 +1,0 @@
-type: car
-plate: QRJ2E65
-layout: Mercosur
-corners: 493,339 617,338 617,382 494,381

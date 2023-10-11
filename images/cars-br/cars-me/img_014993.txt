@@ -1,4 +1,0 @@
-type: car
-plate: LML5E98
-layout: Mercosur
-corners: 723,322 849,328 848,368 724,362

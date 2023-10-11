@@ -1,4 +1,0 @@
-type: car
-plate: MTX2E16
-layout: Mercosur
-corners: 558,380 680,383 681,424 557,421

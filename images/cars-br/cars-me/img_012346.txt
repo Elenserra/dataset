@@ -1,4 +1,0 @@
-type: car
-plate: PPK0G10
-layout: Mercosur
-corners: 673,318 793,320 793,357 675,356

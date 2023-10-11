@@ -1,4 +1,0 @@
-type: car
-plate: PPS5D73
-layout: Mercosur
-corners: 534,338 658,337 661,379 534,379

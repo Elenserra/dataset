@@ -1,4 +1,0 @@
-type: car
-plate: QRE7C73
-layout: Mercosur
-corners: 423,420 557,421 558,463 426,462

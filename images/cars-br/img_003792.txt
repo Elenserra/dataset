@@ -1,4 +1,0 @@
-type: car
-plate: MRK8744
-layout: Brazilian
-corners: 815,300 943,297 946,340 816,341

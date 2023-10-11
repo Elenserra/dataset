@@ -1,4 +1,0 @@
-type: car
-plate: MSW8C14
-layout: Mercosur
-corners: 619,355 756,363 755,410 619,401

@@ -1,4 +1,0 @@
-type: car
-plate: OMN7A78
-layout: Mercosur
-corners: 813,306 938,303 942,347 816,348

@@ -1,4 +1,0 @@
-type: car
-plate: OMH2663
-layout: Brazilian
-corners: 887,86 969,87 970,117 887,115

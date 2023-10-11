@@ -1,4 +1,0 @@
-type: car
-plate: MSY6522
-layout: Brazilian
-corners: 787,333 917,329 921,373 789,376

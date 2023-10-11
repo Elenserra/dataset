@@ -1,4 +1,0 @@
-type: car
-plate: OVH6J60
-layout: Mercosur
-corners: 744,328 880,327 882,374 745,374

@@ -1,4 +1,0 @@
-type: car
-plate: PPR9C90
-layout: Mercosur
-corners: 641,320 774,330 772,374 639,365

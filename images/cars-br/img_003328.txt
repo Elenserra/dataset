@@ -1,4 +1,0 @@
-type: car
-plate: MSE4881
-layout: Brazilian
-corners: 636,356 762,361 763,401 637,394

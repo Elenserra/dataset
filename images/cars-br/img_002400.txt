@@ -1,4 +1,0 @@
-type: car
-plate: PPW5169
-layout: Brazilian
-corners: 384,311 503,312 505,352 384,349

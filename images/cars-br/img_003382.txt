@@ -1,4 +1,0 @@
-type: car
-plate: HDK6742
-layout: Brazilian
-corners: 699,343 826,345 828,384 703,383

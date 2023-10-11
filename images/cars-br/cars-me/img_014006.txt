@@ -1,4 +1,0 @@
-type: car
-plate: JOR1J90
-layout: Mercosur
-corners: 686,406 830,404 833,455 689,453

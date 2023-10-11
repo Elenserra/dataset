@@ -1,4 +1,0 @@
-type: car
-plate: MQY6980
-layout: Brazilian
-corners: 737,228 832,228 832,259 738,259

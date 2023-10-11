@@ -1,4 +1,0 @@
-type: car
-plate: OVL4093
-layout: Brazilian
-corners: 806,440 948,427 949,481 805,503

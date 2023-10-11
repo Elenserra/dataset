@@ -1,4 +1,0 @@
-type: car
-plate: MSL8B17
-layout: Mercosur
-corners: 658,322 767,322 767,355 659,356

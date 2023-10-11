@@ -1,4 +1,0 @@
-type: car
-plate: GXG7B65
-layout: Mercosur
-corners: 835,296 959,294 962,335 837,336

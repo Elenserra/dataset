@@ -1,4 +1,0 @@
-type: car
-plate: ODT7222
-layout: Brazilian
-corners: 486,336 600,335 601,377 486,377

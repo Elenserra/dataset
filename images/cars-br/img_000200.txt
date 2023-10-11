@@ -1,4 +1,0 @@
-type: car
-plate: PPY2852
-layout: Brazilian
-corners: 740,199 831,197 831,229 740,230

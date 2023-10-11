@@ -1,4 +1,0 @@
-type: car
-plate: PPE9423
-layout: Brazilian
-corners: 768,354 904,351 907,396 768,398

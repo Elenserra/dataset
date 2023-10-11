@@ -1,4 +1,0 @@
-type: car
-plate: MRF3420
-layout: Brazilian
-corners: 777,322 906,321 909,364 778,365

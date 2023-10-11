@@ -1,4 +1,0 @@
-type: car
-plate: PPD9A96
-layout: Mercosur
-corners: 824,335 959,329 963,374 829,378

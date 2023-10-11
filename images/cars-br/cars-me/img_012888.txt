@@ -1,4 +1,0 @@
-type: car
-plate: PPU5G90
-layout: Mercosur
-corners: 599,350 721,352 721,391 600,387

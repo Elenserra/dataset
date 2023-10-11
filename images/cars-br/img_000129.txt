@@ -1,4 +1,0 @@
-type: car
-plate: PPY2924
-layout: Brazilian
-corners: 705,218 799,216 800,249 705,250

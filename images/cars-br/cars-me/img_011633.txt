@@ -1,4 +1,0 @@
-type: car
-plate: OYH9A66
-layout: Mercosur
-corners: 509,318 621,316 624,356 511,355

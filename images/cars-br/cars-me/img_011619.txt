@@ -1,4 +1,0 @@
-type: car
-plate: QRB3B21
-layout: Mercosur
-corners: 470,408 606,410 608,453 471,453

@@ -1,4 +1,0 @@
-type: car
-plate: ODM9838
-layout: Brazilian
-corners: 798,256 932,251 937,294 801,300

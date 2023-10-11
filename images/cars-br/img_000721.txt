@@ -1,4 +1,0 @@
-type: car
-plate: MRR3239
-layout: Brazilian
-corners: 508,419 638,419 640,464 508,463

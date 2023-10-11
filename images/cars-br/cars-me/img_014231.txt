@@ -1,4 +1,0 @@
-type: car
-plate: MQG6C42
-layout: Mercosur
-corners: 848,323 979,322 980,363 849,364

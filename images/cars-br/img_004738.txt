@@ -1,4 +1,0 @@
-type: car
-plate: PPJ8278
-layout: Brazilian
-corners: 855,266 972,265 975,304 856,304

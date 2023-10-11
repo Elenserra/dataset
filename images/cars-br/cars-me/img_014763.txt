@@ -1,4 +1,0 @@
-type: car
-plate: EET3E28
-layout: Mercosur
-corners: 818,331 953,332 952,377 819,376

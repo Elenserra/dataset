@@ -1,4 +1,0 @@
-type: car
-plate: PPQ2E26
-layout: Mercosur
-corners: 674,191 771,188 773,222 675,224

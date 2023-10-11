@@ -1,4 +1,0 @@
-type: car
-plate: ODS2D73
-layout: Mercosur
-corners: 713,332 849,330 852,374 715,377

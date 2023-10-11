@@ -1,4 +1,0 @@
-type: car
-plate: PPW2262
-layout: Brazilian
-corners: 1067,62 1132,60 1134,84 1067,85

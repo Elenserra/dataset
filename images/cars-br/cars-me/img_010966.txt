@@ -1,4 +1,0 @@
-type: car
-plate: MTL2E77
-layout: Mercosur
-corners: 560,366 676,367 676,404 561,402

@@ -1,4 +1,0 @@
-type: car
-plate: OYF7863
-layout: Brazilian
-corners: 618,336 744,338 746,383 620,380

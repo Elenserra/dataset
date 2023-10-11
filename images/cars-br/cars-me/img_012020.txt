@@ -1,4 +1,0 @@
-type: car
-plate: QRK6C62
-layout: Mercosur
-corners: 524,339 644,339 646,379 524,378

@@ -1,4 +1,0 @@
-type: car
-plate: QRG2B39
-layout: Mercosur
-corners: 640,290 745,289 746,322 642,324

@@ -1,4 +1,0 @@
-type: car
-plate: LRX0573
-layout: Brazilian
-corners: 776,351 916,348 918,394 779,396

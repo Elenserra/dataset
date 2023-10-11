@@ -1,4 +1,0 @@
-type: car
-plate: PPM7H48
-layout: Mercosur
-corners: 488,416 621,418 622,462 490,460

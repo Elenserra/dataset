@@ -1,4 +1,0 @@
-type: car
-plate: MTT4943
-layout: Brazilian
-corners: 775,323 905,323 909,370 775,369

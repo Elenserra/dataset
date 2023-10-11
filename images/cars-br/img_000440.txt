@@ -1,4 +1,0 @@
-type: car
-plate: MQK1972
-layout: Brazilian
-corners: 331,616 494,623 496,678 332,675

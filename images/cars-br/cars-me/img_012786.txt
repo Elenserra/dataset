@@ -1,4 +1,0 @@
-type: car
-plate: KQR2E94
-layout: Mercosur
-corners: 608,413 745,416 746,460 609,455

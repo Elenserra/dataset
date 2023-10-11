@@ -1,4 +1,0 @@
-type: car
-plate: LTL9770
-layout: Brazilian
-corners: 456,432 581,433 583,478 456,474

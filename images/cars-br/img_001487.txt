@@ -1,4 +1,0 @@
-type: car
-plate: PPG4536
-layout: Brazilian
-corners: 714,430 853,417 856,465 717,484

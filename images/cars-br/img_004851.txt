@@ -1,4 +1,0 @@
-type: car
-plate: PUF5278
-layout: Brazilian
-corners: 944,220 1055,216 1057,254 944,257

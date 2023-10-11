@@ -1,4 +1,0 @@
-type: car
-plate: MSF4584
-layout: Brazilian
-corners: 833,297 959,292 962,337 834,340

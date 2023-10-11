@@ -1,4 +1,0 @@
-type: car
-plate: QQW6897
-layout: Brazilian
-corners: 998,109 1080,106 1082,134 999,138

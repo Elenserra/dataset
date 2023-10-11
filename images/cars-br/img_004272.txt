@@ -1,4 +1,0 @@
-type: car
-plate: MTO6374
-layout: Brazilian
-corners: 807,335 937,336 941,381 808,379

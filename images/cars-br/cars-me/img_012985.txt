@@ -1,4 +1,0 @@
-type: car
-plate: MSR4E38
-layout: Mercosur
-corners: 677,310 802,312 800,351 679,349

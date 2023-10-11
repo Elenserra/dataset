@@ -1,4 +1,0 @@
-type: car
-plate: DQF5959
-layout: Brazilian
-corners: 496,415 608,415 610,459 498,461

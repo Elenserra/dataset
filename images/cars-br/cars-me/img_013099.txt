@@ -1,4 +1,0 @@
-type: car
-plate: QRH8G36
-layout: Mercosur
-corners: 668,308 800,306 802,349 672,349

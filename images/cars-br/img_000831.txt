@@ -1,4 +1,0 @@
-type: car
-plate: MSY5362
-layout: Brazilian
-corners: 559,374 680,374 681,416 559,417

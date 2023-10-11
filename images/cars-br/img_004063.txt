@@ -1,4 +1,0 @@
-type: car
-plate: MSY1984
-layout: Brazilian
-corners: 833,212 952,212 954,252 833,252

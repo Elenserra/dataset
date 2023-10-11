@@ -1,4 +1,0 @@
-type: car
-plate: MTC0626
-layout: Brazilian
-corners: 566,292 679,290 682,330 567,331

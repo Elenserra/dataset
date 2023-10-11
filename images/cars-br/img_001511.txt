@@ -1,4 +1,0 @@
-type: car
-plate: MSB8136
-layout: Brazilian
-corners: 493,415 618,416 619,460 493,460

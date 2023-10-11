@@ -1,4 +1,0 @@
-type: car
-plate: PAF3507
-layout: Brazilian
-corners: 611,312 735,314 736,356 614,354

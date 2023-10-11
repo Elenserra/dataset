@@ -1,4 +1,0 @@
-type: car
-plate: QQV3330
-layout: Brazilian
-corners: 833,254 948,251 950,291 834,291

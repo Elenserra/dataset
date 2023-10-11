@@ -1,4 +1,0 @@
-type: car
-plate: NZJ1306
-layout: Brazilian
-corners: 736,307 870,303 875,348 738,351

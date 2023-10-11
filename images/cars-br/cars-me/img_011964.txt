@@ -1,4 +1,0 @@
-type: car
-plate: ODQ0J31
-layout: Mercosur
-corners: 572,367 698,366 701,409 575,408

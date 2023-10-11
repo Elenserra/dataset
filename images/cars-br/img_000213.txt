@@ -1,4 +1,0 @@
-type: car
-plate: PPJ6812
-layout: Brazilian
-corners: 493,405 617,405 618,448 494,447

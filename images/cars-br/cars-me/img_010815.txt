@@ -1,4 +1,0 @@
-type: car
-plate: MTD4I17
-layout: Mercosur
-corners: 614,381 739,381 740,420 615,420

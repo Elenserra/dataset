@@ -1,4 +1,0 @@
-type: car
-plate: MPL8D12
-layout: Mercosur
-corners: 745,362 881,361 883,409 746,407

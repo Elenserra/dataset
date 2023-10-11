@@ -1,4 +1,0 @@
-type: car
-plate: MTM3A54
-layout: Mercosur
-corners: 609,297 748,302 749,349 610,341

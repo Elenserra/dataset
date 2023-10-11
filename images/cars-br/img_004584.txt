@@ -1,4 +1,0 @@
-type: car
-plate: MRG7582
-layout: Brazilian
-corners: 804,338 940,335 941,380 806,382

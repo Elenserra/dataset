@@ -1,4 +1,0 @@
-type: car
-plate: OCZ1A48
-layout: Mercosur
-corners: 579,370 703,371 704,412 579,411

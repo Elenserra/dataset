@@ -1,4 +1,0 @@
-type: car
-plate: ODF1G93
-layout: Mercosur
-corners: 783,310 917,308 919,352 784,354

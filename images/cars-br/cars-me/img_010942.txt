@@ -1,4 +1,0 @@
-type: car
-plate: MSD4G97
-layout: Mercosur
-corners: 574,433 701,433 702,472 575,472

@@ -1,4 +1,0 @@
-type: car
-plate: MSP6328
-layout: Brazilian
-corners: 686,382 816,383 818,426 689,424

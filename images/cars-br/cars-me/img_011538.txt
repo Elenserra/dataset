@@ -1,4 +1,0 @@
-type: car
-plate: DMF7C05
-layout: Mercosur
-corners: 533,396 663,394 667,434 537,431

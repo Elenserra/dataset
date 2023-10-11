@@ -1,4 +1,0 @@
-type: car
-plate: PPT9E93
-layout: Mercosur
-corners: 687,293 809,298 811,339 688,334

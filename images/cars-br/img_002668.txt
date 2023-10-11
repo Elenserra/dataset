@@ -1,4 +1,0 @@
-type: car
-plate: QNN5778
-layout: Brazilian
-corners: 629,277 745,279 748,317 632,314

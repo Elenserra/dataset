@@ -1,4 +1,0 @@
-type: car
-plate: ODM8539
-layout: Brazilian
-corners: 709,334 840,333 844,379 711,377

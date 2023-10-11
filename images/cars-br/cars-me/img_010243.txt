@@ -1,4 +1,0 @@
-type: car
-plate: MPJ4J34
-layout: Mercosur
-corners: 480,395 606,397 605,437 481,435

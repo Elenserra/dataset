@@ -1,4 +1,0 @@
-type: car
-plate: QRB3F96
-layout: Mercosur
-corners: 621,329 736,329 737,365 623,365

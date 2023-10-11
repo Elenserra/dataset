@@ -1,4 +1,0 @@
-type: car
-plate: MTB6924
-layout: Brazilian
-corners: 825,336 960,334 963,381 826,380

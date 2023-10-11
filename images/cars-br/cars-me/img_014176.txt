@@ -1,4 +1,0 @@
-type: car
-plate: MTX4I61
-layout: Mercosur
-corners: 835,354 969,351 971,397 835,399

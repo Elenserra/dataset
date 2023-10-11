@@ -1,4 +1,0 @@
-type: car
-plate: GFM6J33
-layout: Mercosur
-corners: 485,375 621,373 623,419 489,419

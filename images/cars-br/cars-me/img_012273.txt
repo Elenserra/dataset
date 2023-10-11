@@ -1,4 +1,0 @@
-type: car
-plate: QRF3A85
-layout: Mercosur
-corners: 196,448 335,451 338,497 204,494

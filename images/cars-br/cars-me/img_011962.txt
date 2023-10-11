@@ -1,4 +1,0 @@
-type: car
-plate: MQI1C02
-layout: Mercosur
-corners: 559,395 685,395 689,437 559,436

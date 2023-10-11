@@ -1,4 +1,0 @@
-type: car
-plate: JSQ7B92
-layout: Mercosur
-corners: 603,322 722,320 725,359 605,358

@@ -1,4 +1,0 @@
-type: car
-plate: OYE6F10
-layout: Mercosur
-corners: 697,297 823,297 823,337 699,337

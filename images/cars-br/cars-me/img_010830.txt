@@ -1,4 +1,0 @@
-type: car
-plate: QNI6D69
-layout: Mercosur
-corners: 546,384 672,385 673,425 547,424

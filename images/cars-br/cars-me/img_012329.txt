@@ -1,4 +1,0 @@
-type: car
-plate: LLG7D24
-layout: Mercosur
-corners: 550,238 667,236 669,275 552,276

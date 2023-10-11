@@ -1,4 +1,0 @@
-type: car
-plate: MQX9G99
-layout: Mercosur
-corners: 556,408 678,406 682,439 558,442

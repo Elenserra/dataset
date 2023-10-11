@@ -1,4 +1,0 @@
-type: car
-plate: QRF6I31
-layout: Mercosur
-corners: 739,214 850,215 851,252 740,252

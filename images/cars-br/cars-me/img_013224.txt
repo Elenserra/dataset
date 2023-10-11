@@ -1,4 +1,0 @@
-type: car
-plate: MPJ0D59
-layout: Mercosur
-corners: 697,299 818,300 819,341 698,340

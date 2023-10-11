@@ -1,4 +1,0 @@
-type: car
-plate: NMP7J20
-layout: Mercosur
-corners: 577,376 700,377 704,417 579,416

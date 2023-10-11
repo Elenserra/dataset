@@ -1,4 +1,0 @@
-type: car
-plate: MPL6C52
-layout: Mercosur
-corners: 696,323 814,325 816,362 698,360

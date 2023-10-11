@@ -1,4 +1,0 @@
-type: car
-plate: LLY5D39
-layout: Mercosur
-corners: 557,356 683,355 686,398 558,400

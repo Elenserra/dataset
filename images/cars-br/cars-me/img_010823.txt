@@ -1,4 +1,0 @@
-type: car
-plate: GGC0F37
-layout: Mercosur
-corners: 468,421 601,422 604,463 470,460
