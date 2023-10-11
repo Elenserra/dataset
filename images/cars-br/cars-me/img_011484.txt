@@ -1,0 +1,4 @@
+type: car
+plate: MQS6C22
+layout: Mercosur
+corners: 562,401 683,404 683,444 561,441

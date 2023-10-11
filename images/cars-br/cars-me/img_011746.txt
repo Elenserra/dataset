@@ -1,0 +1,4 @@
+type: car
+plate: ODL2H30
+layout: Mercosur
+corners: 565,277 683,277 686,317 565,314

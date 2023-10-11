@@ -1,0 +1,4 @@
+type: car
+plate: ODQ8I61
+layout: Mercosur
+corners: 587,362 702,362 702,401 585,400

@@ -1,0 +1,4 @@
+type: car
+plate: OKZ6B83
+layout: Mercosur
+corners: 662,332 791,335 793,375 663,372

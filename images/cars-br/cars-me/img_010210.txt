@@ -1,0 +1,4 @@
+type: car
+plate: PPE2A41
+layout: Mercosur
+corners: 693,267 793,266 793,299 693,300

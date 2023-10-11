@@ -1,0 +1,4 @@
+type: car
+plate: PPC0E60
+layout: Mercosur
+corners: 651,315 771,318 772,358 652,355

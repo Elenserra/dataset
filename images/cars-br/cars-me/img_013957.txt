@@ -1,0 +1,4 @@
+type: car
+plate: LMP8A52
+layout: Mercosur
+corners: 800,325 934,323 936,367 801,369

@@ -1,0 +1,4 @@
+type: car
+plate: OYF2H92
+layout: Mercosur
+corners: 613,332 740,334 740,375 615,372

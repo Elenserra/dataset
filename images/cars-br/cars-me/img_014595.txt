@@ -1,0 +1,4 @@
+type: car
+plate: QRK4C91
+layout: Mercosur
+corners: 747,322 882,320 884,365 746,365

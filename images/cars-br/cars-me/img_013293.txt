@@ -1,0 +1,4 @@
+type: car
+plate: QRF9I43
+layout: Mercosur
+corners: 613,349 741,353 741,397 613,392

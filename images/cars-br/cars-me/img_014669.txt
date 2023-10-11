@@ -1,0 +1,4 @@
+type: car
+plate: MTA5I65
+layout: Mercosur
+corners: 975,106 1053,106 1054,131 976,132

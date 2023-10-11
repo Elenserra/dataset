@@ -1,0 +1,4 @@
+type: car
+plate: LUN5B82
+layout: Mercosur
+corners: 632,318 758,321 759,363 634,360

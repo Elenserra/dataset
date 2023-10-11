@@ -1,0 +1,4 @@
+type: car
+plate: QRF8G01
+layout: Mercosur
+corners: 463,475 600,477 603,521 464,519

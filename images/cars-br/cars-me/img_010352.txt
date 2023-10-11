@@ -1,0 +1,4 @@
+type: car
+plate: QRC7H26
+layout: Mercosur
+corners: 497,358 623,358 623,401 497,401

@@ -1,0 +1,4 @@
+type: car
+plate: OYF9I29
+layout: Mercosur
+corners: 716,377 852,375 856,421 719,422

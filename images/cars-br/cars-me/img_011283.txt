@@ -1,0 +1,4 @@
+type: car
+plate: QRJ2C09
+layout: Mercosur
+corners: 528,291 648,293 650,333 530,330

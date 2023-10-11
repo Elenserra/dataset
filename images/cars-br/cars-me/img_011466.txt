@@ -1,0 +1,4 @@
+type: car
+plate: QTU8I45
+layout: Mercosur
+corners: 573,242 684,243 686,281 572,280

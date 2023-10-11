@@ -1,0 +1,4 @@
+type: car
+plate: NZP0A06
+layout: Mercosur
+corners: 479,401 610,400 612,443 481,441

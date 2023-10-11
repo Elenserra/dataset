@@ -1,0 +1,4 @@
+type: car
+plate: EPL2J77
+layout: Mercosur
+corners: 725,234 835,237 835,274 726,271

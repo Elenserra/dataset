@@ -1,0 +1,4 @@
+type: car
+plate: PPS3G06
+layout: Mercosur
+corners: 835,312 958,311 962,351 837,352

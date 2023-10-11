@@ -1,0 +1,4 @@
+type: car
+plate: PPA7I61
+layout: Mercosur
+corners: 592,362 710,362 711,401 593,401

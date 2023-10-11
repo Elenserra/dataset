@@ -1,0 +1,4 @@
+type: car
+plate: PPB6H50
+layout: Mercosur
+corners: 747,319 873,319 876,361 749,361

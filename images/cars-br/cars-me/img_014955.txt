@@ -1,0 +1,4 @@
+type: car
+plate: ODL0C13
+layout: Mercosur
+corners: 673,346 809,354 809,401 672,392

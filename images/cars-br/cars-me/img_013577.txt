@@ -1,0 +1,4 @@
+type: car
+plate: MSU4H19
+layout: Mercosur
+corners: 745,247 858,249 856,287 743,285

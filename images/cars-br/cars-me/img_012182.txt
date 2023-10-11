@@ -1,0 +1,4 @@
+type: car
+plate: PDF4J53
+layout: Mercosur
+corners: 457,333 585,333 586,375 457,375

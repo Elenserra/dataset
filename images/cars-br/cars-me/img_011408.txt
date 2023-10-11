@@ -1,0 +1,4 @@
+type: car
+plate: MTD8D09
+layout: Mercosur
+corners: 576,310 704,310 706,351 577,350

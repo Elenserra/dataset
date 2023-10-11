@@ -1,0 +1,4 @@
+type: car
+plate: OWS0C31
+layout: Mercosur
+corners: 707,272 834,281 833,321 707,312

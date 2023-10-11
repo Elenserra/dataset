@@ -1,0 +1,4 @@
+type: car
+plate: PPC2I82
+layout: Mercosur
+corners: 645,248 753,248 754,284 645,283

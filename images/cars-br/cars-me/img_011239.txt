@@ -1,0 +1,4 @@
+type: car
+plate: MTV2H59
+layout: Mercosur
+corners: 552,303 676,302 678,343 553,343

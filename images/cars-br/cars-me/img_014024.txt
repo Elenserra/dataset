@@ -1,0 +1,4 @@
+type: car
+plate: KZG7J69
+layout: Mercosur
+corners: 704,343 832,344 835,388 706,386

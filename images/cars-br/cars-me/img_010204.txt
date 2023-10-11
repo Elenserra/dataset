@@ -1,0 +1,4 @@
+type: car
+plate: QRD7B71
+layout: Mercosur
+corners: 636,255 739,256 740,289 637,289

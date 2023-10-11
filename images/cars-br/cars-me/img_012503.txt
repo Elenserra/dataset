@@ -1,0 +1,4 @@
+type: car
+plate: QRB0I30
+layout: Mercosur
+corners: 588,358 716,361 716,402 591,399

@@ -1,0 +1,4 @@
+type: car
+plate: MTY6J15
+layout: Mercosur
+corners: 652,303 760,302 760,338 653,338

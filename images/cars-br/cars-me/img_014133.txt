@@ -1,0 +1,4 @@
+type: car
+plate: OVL4D11
+layout: Mercosur
+corners: 847,312 976,310 981,355 849,358

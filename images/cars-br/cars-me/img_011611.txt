@@ -1,0 +1,4 @@
+type: car
+plate: QRK8B15
+layout: Mercosur
+corners: 579,343 697,342 700,380 580,381

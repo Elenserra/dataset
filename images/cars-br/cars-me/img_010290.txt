@@ -1,0 +1,4 @@
+type: car
+plate: QRE4I97
+layout: Mercosur
+corners: 617,231 722,231 722,264 618,265

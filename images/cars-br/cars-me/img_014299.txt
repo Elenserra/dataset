@@ -1,0 +1,4 @@
+type: car
+plate: PPJ2I72
+layout: Mercosur
+corners: 811,322 943,321 945,365 811,368

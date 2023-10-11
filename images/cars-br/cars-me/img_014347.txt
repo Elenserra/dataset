@@ -1,0 +1,4 @@
+type: car
+plate: KWN8A42
+layout: Mercosur
+corners: 948,91 1030,87 1034,114 949,118

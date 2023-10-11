@@ -1,0 +1,4 @@
+type: car
+plate: PZY5G12
+layout: Mercosur
+corners: 567,402 695,400 698,442 570,441

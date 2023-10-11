@@ -1,0 +1,4 @@
+type: car
+plate: QRJ3D66
+layout: Mercosur
+corners: 510,381 635,381 635,424 511,423

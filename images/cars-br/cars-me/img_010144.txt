@@ -1,0 +1,4 @@
+type: car
+plate: MRP1J82
+layout: Mercosur
+corners: 660,318 768,321 768,356 660,352

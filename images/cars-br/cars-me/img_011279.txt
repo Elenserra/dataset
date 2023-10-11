@@ -1,0 +1,4 @@
+type: car
+plate: PPS0A07
+layout: Mercosur
+corners: 479,323 611,324 612,369 478,369

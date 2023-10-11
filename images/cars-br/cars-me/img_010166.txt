@@ -1,0 +1,4 @@
+type: car
+plate: OYD3B92
+layout: Mercosur
+corners: 554,388 683,388 684,432 554,431

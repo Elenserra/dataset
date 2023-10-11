@@ -1,0 +1,4 @@
+type: car
+plate: QRG3A60
+layout: Mercosur
+corners: 680,360 821,368 821,414 680,409

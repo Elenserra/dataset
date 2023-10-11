@@ -1,0 +1,4 @@
+type: car
+plate: MTM7G64
+layout: Mercosur
+corners: 811,374 951,369 954,416 813,420

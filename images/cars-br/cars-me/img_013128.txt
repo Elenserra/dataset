@@ -1,0 +1,4 @@
+type: car
+plate: ODF9D78
+layout: Mercosur
+corners: 760,307 881,307 882,346 761,345

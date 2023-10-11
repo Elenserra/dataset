@@ -1,0 +1,4 @@
+type: car
+plate: LQC0J14
+layout: Mercosur
+corners: 664,235 761,232 764,262 666,263

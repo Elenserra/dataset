@@ -1,0 +1,4 @@
+type: car
+plate: HFU5I40
+layout: Mercosur
+corners: 817,347 947,343 949,387 819,390

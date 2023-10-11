@@ -1,0 +1,4 @@
+type: car
+plate: QRH1H27
+layout: Mercosur
+corners: 913,50 992,51 992,78 913,78

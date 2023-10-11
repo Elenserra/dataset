@@ -1,0 +1,4 @@
+type: car
+plate: PPX5C98
+layout: Mercosur
+corners: 911,222 1015,220 1018,255 911,255

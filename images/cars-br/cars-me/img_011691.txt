@@ -1,0 +1,4 @@
+type: car
+plate: MQE7F26
+layout: Mercosur
+corners: 546,352 676,352 679,394 547,394

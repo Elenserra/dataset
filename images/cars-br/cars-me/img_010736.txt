@@ -1,0 +1,4 @@
+type: car
+plate: MTY0G49
+layout: Mercosur
+corners: 560,425 696,426 696,468 560,465

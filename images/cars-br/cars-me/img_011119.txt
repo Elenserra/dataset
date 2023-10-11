@@ -1,0 +1,4 @@
+type: car
+plate: PYZ6I84
+layout: Mercosur
+corners: 552,315 670,316 672,355 553,353

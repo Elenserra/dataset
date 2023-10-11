@@ -1,0 +1,4 @@
+type: car
+plate: PPS6I32
+layout: Mercosur
+corners: 658,302 781,303 783,344 659,341

@@ -1,0 +1,4 @@
+type: car
+plate: LRH3H00
+layout: Mercosur
+corners: 710,287 828,288 829,327 712,325

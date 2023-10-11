@@ -1,0 +1,4 @@
+type: car
+plate: MTR3C02
+layout: Mercosur
+corners: 533,313 662,310 665,354 533,356

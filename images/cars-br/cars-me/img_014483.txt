@@ -1,0 +1,4 @@
+type: car
+plate: MPZ6I44
+layout: Mercosur
+corners: 768,331 902,330 905,376 768,375

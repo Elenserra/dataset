@@ -1,0 +1,4 @@
+type: car
+plate: PPX7G86
+layout: Mercosur
+corners: 598,390 723,390 724,430 599,429

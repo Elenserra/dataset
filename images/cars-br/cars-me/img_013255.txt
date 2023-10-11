@@ -1,0 +1,4 @@
+type: car
+plate: MQY1F17
+layout: Mercosur
+corners: 714,391 839,393 838,427 714,426

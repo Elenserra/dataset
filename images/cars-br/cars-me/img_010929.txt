@@ -1,0 +1,4 @@
+type: car
+plate: MTO0B78
+layout: Mercosur
+corners: 644,364 759,364 759,399 645,400

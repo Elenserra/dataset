@@ -1,0 +1,4 @@
+type: car
+plate: NUK0I10
+layout: Mercosur
+corners: 824,334 963,335 963,382 825,381

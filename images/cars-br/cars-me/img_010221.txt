@@ -1,0 +1,4 @@
+type: car
+plate: MQE2I45
+layout: Mercosur
+corners: 634,359 748,356 750,389 637,393

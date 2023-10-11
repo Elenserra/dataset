@@ -1,0 +1,4 @@
+type: car
+plate: GPP5A39
+layout: Mercosur
+corners: 548,371 670,371 675,405 554,405

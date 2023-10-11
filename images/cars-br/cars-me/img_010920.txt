@@ -1,0 +1,4 @@
+type: car
+plate: MTY1B73
+layout: Mercosur
+corners: 585,338 705,338 705,374 586,375

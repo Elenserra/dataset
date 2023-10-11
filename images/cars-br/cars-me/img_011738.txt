@@ -1,0 +1,4 @@
+type: car
+plate: OYE0C26
+layout: Mercosur
+corners: 510,414 640,413 642,458 513,458

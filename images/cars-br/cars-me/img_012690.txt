@@ -1,0 +1,4 @@
+type: car
+plate: KRA6C96
+layout: Mercosur
+corners: 736,254 845,255 846,291 736,290

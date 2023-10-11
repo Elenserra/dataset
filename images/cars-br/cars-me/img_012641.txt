@@ -1,0 +1,4 @@
+type: car
+plate: GSA4H53
+layout: Mercosur
+corners: 675,316 802,318 802,360 676,358

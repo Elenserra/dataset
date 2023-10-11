@@ -1,0 +1,4 @@
+type: car
+plate: QRJ0G87
+layout: Mercosur
+corners: 473,392 594,394 596,433 475,433

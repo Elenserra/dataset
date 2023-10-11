@@ -1,0 +1,4 @@
+type: car
+plate: QRI7I85
+layout: Mercosur
+corners: 802,316 941,313 944,359 804,362

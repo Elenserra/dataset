@@ -1,0 +1,4 @@
+type: car
+plate: PPC6D70
+layout: Mercosur
+corners: 504,407 630,408 631,450 505,448

@@ -1,0 +1,4 @@
+type: car
+plate: LUC0G16
+layout: Mercosur
+corners: 977,193 1076,191 1077,223 979,227

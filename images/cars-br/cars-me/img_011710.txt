@@ -1,0 +1,4 @@
+type: car
+plate: MDO6E68
+layout: Mercosur
+corners: 526,368 654,370 654,413 524,410

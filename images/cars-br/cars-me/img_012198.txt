@@ -1,0 +1,4 @@
+type: car
+plate: MPY5A63
+layout: Mercosur
+corners: 485,331 614,330 615,372 487,371

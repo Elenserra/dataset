@@ -1,0 +1,4 @@
+type: car
+plate: MPK9F54
+layout: Mercosur
+corners: 889,264 1002,262 1004,300 890,302

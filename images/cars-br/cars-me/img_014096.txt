@@ -1,0 +1,4 @@
+type: car
+plate: OOD9H31
+layout: Mercosur
+corners: 780,331 908,328 911,371 780,373

@@ -1,0 +1,4 @@
+type: car
+plate: KZB1A47
+layout: Mercosur
+corners: 980,128 1068,126 1071,155 981,157

@@ -1,0 +1,4 @@
+type: car
+plate: MTX2F14
+layout: Mercosur
+corners: 515,386 642,386 644,428 517,427

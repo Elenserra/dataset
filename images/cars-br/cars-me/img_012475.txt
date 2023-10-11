@@ -1,0 +1,4 @@
+type: car
+plate: FHN6I20
+layout: Mercosur
+corners: 647,379 775,383 776,422 650,418

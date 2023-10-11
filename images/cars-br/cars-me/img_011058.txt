@@ -1,0 +1,4 @@
+type: car
+plate: MSJ4D82
+layout: Mercosur
+corners: 766,187 855,188 855,219 766,218

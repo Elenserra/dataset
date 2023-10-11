@@ -1,0 +1,4 @@
+type: car
+plate: ODJ0G64
+layout: Mercosur
+corners: 550,378 676,377 677,417 551,418

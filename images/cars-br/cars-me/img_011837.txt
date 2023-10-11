@@ -1,0 +1,4 @@
+type: car
+plate: MRL0B65
+layout: Mercosur
+corners: 498,382 621,383 627,419 504,419

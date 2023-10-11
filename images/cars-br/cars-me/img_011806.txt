@@ -1,0 +1,4 @@
+type: car
+plate: PPB5H53
+layout: Mercosur
+corners: 543,284 658,284 659,322 544,321

@@ -1,0 +1,4 @@
+type: car
+plate: QRK6I26
+layout: Mercosur
+corners: 526,393 655,394 655,435 527,432

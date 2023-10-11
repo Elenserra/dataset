@@ -1,0 +1,4 @@
+type: car
+plate: PPC8F63
+layout: Mercosur
+corners: 755,330 883,328 885,371 755,371

@@ -1,0 +1,4 @@
+type: car
+plate: PXM7F37
+layout: Mercosur
+corners: 552,375 672,375 672,411 554,412

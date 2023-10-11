@@ -1,0 +1,4 @@
+type: car
+plate: LPW4C86
+layout: Mercosur
+corners: 1002,126 1085,122 1086,151 1004,153

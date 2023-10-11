@@ -1,0 +1,4 @@
+type: car
+plate: QRF4C83
+layout: Mercosur
+corners: 600,363 718,361 719,397 601,398

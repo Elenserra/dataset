@@ -1,0 +1,4 @@
+type: car
+plate: QGA1C25
+layout: Mercosur
+corners: 519,336 638,337 641,377 522,376

@@ -1,0 +1,4 @@
+type: car
+plate: ODG1I10
+layout: Mercosur
+corners: 495,442 625,443 627,485 496,483

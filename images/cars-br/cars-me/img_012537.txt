@@ -1,0 +1,4 @@
+type: car
+plate: MSR7G21
+layout: Mercosur
+corners: 827,184 916,183 917,211 830,211

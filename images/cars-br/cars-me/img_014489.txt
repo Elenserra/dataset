@@ -1,0 +1,4 @@
+type: car
+plate: OXI3J28
+layout: Mercosur
+corners: 865,329 998,325 999,370 865,372

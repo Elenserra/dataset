@@ -1,0 +1,4 @@
+type: car
+plate: OVK3G65
+layout: Mercosur
+corners: 766,201 873,206 874,242 766,239

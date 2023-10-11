@@ -1,0 +1,4 @@
+type: car
+plate: MSQ2C44
+layout: Mercosur
+corners: 536,395 657,396 659,434 538,434

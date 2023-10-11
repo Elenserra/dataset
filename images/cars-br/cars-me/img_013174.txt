@@ -1,0 +1,4 @@
+type: car
+plate: PPU5H46
+layout: Mercosur
+corners: 638,322 763,325 766,366 638,363

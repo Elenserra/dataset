@@ -1,0 +1,4 @@
+type: car
+plate: QRL2H38
+layout: Mercosur
+corners: 827,247 942,244 945,283 830,283

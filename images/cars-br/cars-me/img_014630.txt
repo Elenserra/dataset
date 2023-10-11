@@ -1,0 +1,4 @@
+type: car
+plate: PPO0F14
+layout: Mercosur
+corners: 795,291 930,289 932,334 798,336

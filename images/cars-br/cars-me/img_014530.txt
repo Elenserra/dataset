@@ -1,0 +1,4 @@
+type: car
+plate: ODB1H91
+layout: Mercosur
+corners: 823,351 956,349 960,394 826,395

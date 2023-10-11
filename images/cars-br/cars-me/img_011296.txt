@@ -1,0 +1,4 @@
+type: car
+plate: MWF9B99
+layout: Mercosur
+corners: 561,340 687,341 685,384 561,382

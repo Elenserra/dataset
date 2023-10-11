@@ -1,0 +1,4 @@
+type: car
+plate: QRE2G60
+layout: Mercosur
+corners: 803,127 878,126 879,150 804,151

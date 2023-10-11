@@ -1,0 +1,4 @@
+type: car
+plate: MTT5B72
+layout: Mercosur
+corners: 969,16 1032,17 1032,38 969,37

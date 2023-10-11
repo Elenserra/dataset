@@ -1,0 +1,4 @@
+type: car
+plate: MRL6A99
+layout: Mercosur
+corners: 756,336 885,334 889,378 756,378

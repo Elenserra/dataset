@@ -1,0 +1,4 @@
+type: car
+plate: QRI3F46
+layout: Mercosur
+corners: 749,271 886,267 889,313 751,315

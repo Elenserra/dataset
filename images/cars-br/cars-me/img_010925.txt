@@ -1,0 +1,4 @@
+type: car
+plate: QRH4A11
+layout: Mercosur
+corners: 701,233 794,232 795,261 702,262

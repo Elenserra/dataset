@@ -1,0 +1,4 @@
+type: car
+plate: FES2I55
+layout: Mercosur
+corners: 465,349 603,347 605,396 468,397

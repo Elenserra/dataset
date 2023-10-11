@@ -1,0 +1,4 @@
+type: car
+plate: MRS9C22
+layout: Mercosur
+corners: 599,441 724,441 725,477 601,478

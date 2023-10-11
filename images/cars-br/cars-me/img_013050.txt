@@ -1,0 +1,4 @@
+type: car
+plate: PPX6H11
+layout: Mercosur
+corners: 720,313 844,314 844,355 721,352

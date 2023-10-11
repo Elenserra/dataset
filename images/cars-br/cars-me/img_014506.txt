@@ -1,0 +1,4 @@
+type: car
+plate: OYG1B57
+layout: Mercosur
+corners: 753,316 890,314 893,359 755,361

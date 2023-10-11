@@ -1,0 +1,4 @@
+type: car
+plate: PPY9J65
+layout: Mercosur
+corners: 785,335 918,332 922,375 787,377

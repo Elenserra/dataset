@@ -1,0 +1,4 @@
+type: car
+plate: PAL9F76
+layout: Mercosur
+corners: 547,278 679,282 682,327 546,322

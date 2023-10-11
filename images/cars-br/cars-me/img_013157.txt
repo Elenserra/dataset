@@ -1,0 +1,4 @@
+type: car
+plate: ODM0J99
+layout: Mercosur
+corners: 683,225 791,227 791,265 685,262

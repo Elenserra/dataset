@@ -1,0 +1,4 @@
+type: car
+plate: JKK6A99
+layout: Mercosur
+corners: 489,315 616,317 617,361 490,360

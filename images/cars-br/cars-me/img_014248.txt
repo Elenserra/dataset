@@ -1,0 +1,4 @@
+type: car
+plate: MSZ6A05
+layout: Mercosur
+corners: 802,370 944,368 944,414 803,415

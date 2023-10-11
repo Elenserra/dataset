@@ -1,0 +1,4 @@
+type: car
+plate: QRF6J33
+layout: Mercosur
+corners: 530,339 649,339 650,379 532,379

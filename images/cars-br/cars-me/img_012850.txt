@@ -1,0 +1,4 @@
+type: car
+plate: PVK8E91
+layout: Mercosur
+corners: 560,373 692,377 693,421 561,417

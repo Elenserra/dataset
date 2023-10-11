@@ -1,0 +1,4 @@
+type: car
+plate: MTW3G74
+layout: Mercosur
+corners: 649,273 751,272 752,307 649,307

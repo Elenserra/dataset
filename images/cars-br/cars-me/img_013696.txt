@@ -1,0 +1,4 @@
+type: car
+plate: PPB9G19
+layout: Mercosur
+corners: 665,309 790,312 791,354 664,351

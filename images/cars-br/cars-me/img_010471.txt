@@ -1,0 +1,4 @@
+type: car
+plate: QRG8D14
+layout: Mercosur
+corners: 449,353 566,353 566,391 451,390

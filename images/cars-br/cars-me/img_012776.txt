@@ -1,0 +1,4 @@
+type: car
+plate: ODQ9D63
+layout: Mercosur
+corners: 765,242 876,242 877,279 766,279

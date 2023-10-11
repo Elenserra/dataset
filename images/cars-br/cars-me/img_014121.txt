@@ -1,0 +1,4 @@
+type: car
+plate: HHX3F00
+layout: Mercosur
+corners: 613,338 753,336 760,378 620,378

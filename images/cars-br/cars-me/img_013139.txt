@@ -1,0 +1,4 @@
+type: car
+plate: QRK7J25
+layout: Mercosur
+corners: 677,284 798,284 799,323 679,322

@@ -1,0 +1,4 @@
+type: car
+plate: LMT3D95
+layout: Mercosur
+corners: 444,394 573,396 573,436 445,434

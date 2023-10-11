@@ -1,0 +1,4 @@
+type: car
+plate: PPO2H44
+layout: Mercosur
+corners: 683,263 804,265 807,305 685,304

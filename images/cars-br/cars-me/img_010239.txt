@@ -1,0 +1,4 @@
+type: car
+plate: FFB3E26
+layout: Mercosur
+corners: 550,414 679,415 679,456 552,455

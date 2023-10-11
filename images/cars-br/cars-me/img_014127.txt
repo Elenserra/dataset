@@ -1,0 +1,4 @@
+type: car
+plate: EFB5E48
+layout: Mercosur
+corners: 773,316 895,312 899,354 773,357

@@ -1,0 +1,4 @@
+type: car
+plate: MSR0C30
+layout: Mercosur
+corners: 656,295 762,295 762,330 656,330

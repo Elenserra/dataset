@@ -1,0 +1,4 @@
+type: car
+plate: LPX4H48
+layout: Mercosur
+corners: 619,331 752,333 752,377 622,375

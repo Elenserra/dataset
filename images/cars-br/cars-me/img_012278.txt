@@ -1,0 +1,4 @@
+type: car
+plate: MST1H25
+layout: Mercosur
+corners: 516,279 635,281 634,320 518,317

@@ -1,0 +1,4 @@
+type: car
+plate: GVO2H50
+layout: Mercosur
+corners: 665,351 792,355 792,396 665,393

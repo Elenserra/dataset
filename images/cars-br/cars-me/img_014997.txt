@@ -1,0 +1,4 @@
+type: car
+plate: PPO9C06
+layout: Mercosur
+corners: 644,325 786,333 785,381 644,373

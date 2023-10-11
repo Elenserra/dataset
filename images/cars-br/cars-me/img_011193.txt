@@ -1,0 +1,4 @@
+type: car
+plate: PPL6A38
+layout: Mercosur
+corners: 467,303 590,304 593,346 467,345

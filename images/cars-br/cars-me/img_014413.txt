@@ -1,0 +1,4 @@
+type: car
+plate: MSW8A74
+layout: Mercosur
+corners: 774,308 907,304 908,350 776,354

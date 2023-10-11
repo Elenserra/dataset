@@ -1,0 +1,4 @@
+type: car
+plate: PPK4J99
+layout: Mercosur
+corners: 779,305 913,301 917,347 782,350

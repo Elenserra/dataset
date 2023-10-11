@@ -1,0 +1,4 @@
+type: car
+plate: ODB0D77
+layout: Mercosur
+corners: 807,144 909,141 913,175 809,179

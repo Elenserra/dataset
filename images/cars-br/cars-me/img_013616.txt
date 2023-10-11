@@ -1,0 +1,4 @@
+type: car
+plate: QRL0H55
+layout: Mercosur
+corners: 686,241 803,242 804,283 687,281

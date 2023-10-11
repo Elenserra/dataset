@@ -1,0 +1,4 @@
+type: car
+plate: QRK1I61
+layout: Mercosur
+corners: 741,287 866,287 867,328 743,328

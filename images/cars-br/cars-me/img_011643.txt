@@ -1,0 +1,4 @@
+type: car
+plate: PKF0A92
+layout: Mercosur
+corners: 511,313 636,313 638,357 513,354

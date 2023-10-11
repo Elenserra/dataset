@@ -1,0 +1,4 @@
+type: car
+plate: OVH5A54
+layout: Mercosur
+corners: 495,295 618,297 620,340 495,337

@@ -1,0 +1,4 @@
+type: car
+plate: OYI7E85
+layout: Mercosur
+corners: 516,264 631,264 632,299 518,299

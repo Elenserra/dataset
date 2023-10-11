@@ -1,0 +1,4 @@
+type: car
+plate: JUX5D87
+layout: Mercosur
+corners: 407,368 536,369 541,409 412,407

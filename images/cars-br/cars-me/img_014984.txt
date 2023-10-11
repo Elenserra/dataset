@@ -1,0 +1,4 @@
+type: car
+plate: QRG8A31
+layout: Mercosur
+corners: 784,307 907,312 907,353 784,348

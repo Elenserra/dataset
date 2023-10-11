@@ -1,0 +1,4 @@
+type: car
+plate: QRH9A91
+layout: Mercosur
+corners: 657,361 789,365 788,407 659,403

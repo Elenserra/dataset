@@ -1,0 +1,4 @@
+type: car
+plate: ETF8C86
+layout: Mercosur
+corners: 475,348 602,348 604,389 476,388

@@ -1,0 +1,4 @@
+type: car
+plate: QRL3D85
+layout: Mercosur
+corners: 549,332 675,332 678,371 550,372

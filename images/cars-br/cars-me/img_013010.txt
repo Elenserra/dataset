@@ -1,0 +1,4 @@
+type: car
+plate: PPD4J24
+layout: Mercosur
+corners: 697,356 823,358 824,397 699,394

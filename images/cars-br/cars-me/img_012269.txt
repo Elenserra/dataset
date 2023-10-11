@@ -1,0 +1,4 @@
+type: car
+plate: MQZ0J93
+layout: Mercosur
+corners: 755,107 842,105 843,134 755,136

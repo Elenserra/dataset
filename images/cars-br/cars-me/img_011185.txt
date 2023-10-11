@@ -1,0 +1,4 @@
+type: car
+plate: ODI2I59
+layout: Mercosur
+corners: 876,328 1011,324 1013,371 877,373

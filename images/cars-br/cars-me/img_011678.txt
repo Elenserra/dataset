@@ -1,0 +1,4 @@
+type: car
+plate: BJQ8J33
+layout: Mercosur
+corners: 501,405 627,406 632,446 503,446

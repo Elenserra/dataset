@@ -1,0 +1,4 @@
+type: car
+plate: OYG9F39
+layout: Mercosur
+corners: 649,366 788,374 786,419 649,411

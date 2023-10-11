@@ -1,0 +1,4 @@
+type: car
+plate: AWH4F80
+layout: Mercosur
+corners: 838,302 967,300 969,344 839,344

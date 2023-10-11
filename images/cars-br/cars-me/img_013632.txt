@@ -1,0 +1,4 @@
+type: car
+plate: MTI3C44
+layout: Mercosur
+corners: 726,251 836,255 837,292 725,292

@@ -1,0 +1,4 @@
+type: car
+plate: FOR9I01
+layout: Mercosur
+corners: 482,351 616,352 619,396 484,394

@@ -1,0 +1,4 @@
+type: car
+plate: QRK2A23
+layout: Mercosur
+corners: 818,353 949,350 952,393 820,395

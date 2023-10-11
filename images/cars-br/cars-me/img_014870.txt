@@ -1,0 +1,4 @@
+type: car
+plate: MRE8B12
+layout: Mercosur
+corners: 665,341 797,349 797,391 665,385

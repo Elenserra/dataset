@@ -1,0 +1,4 @@
+type: car
+plate: GQZ9H06
+layout: Mercosur
+corners: 642,354 770,356 771,399 643,396

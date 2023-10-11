@@ -1,0 +1,4 @@
+type: car
+plate: ODI9J39
+layout: Mercosur
+corners: 822,325 954,325 956,368 824,368

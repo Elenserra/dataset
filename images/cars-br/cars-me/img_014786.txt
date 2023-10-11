@@ -1,0 +1,4 @@
+type: car
+plate: PPI7A68
+layout: Mercosur
+corners: 681,358 816,366 814,410 681,403

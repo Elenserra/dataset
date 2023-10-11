@@ -1,0 +1,4 @@
+type: car
+plate: OCV5C77
+layout: Mercosur
+corners: 778,293 911,291 913,337 779,338

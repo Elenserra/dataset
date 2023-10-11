@@ -1,0 +1,4 @@
+type: car
+plate: MTV2G00
+layout: Mercosur
+corners: 681,260 778,261 781,293 681,293

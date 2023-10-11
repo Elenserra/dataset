@@ -1,0 +1,4 @@
+type: car
+plate: QRK8G12
+layout: Mercosur
+corners: 564,330 690,329 692,372 566,373

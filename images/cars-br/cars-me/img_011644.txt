@@ -1,0 +1,4 @@
+type: car
+plate: ANQ9B24
+layout: Mercosur
+corners: 630,310 747,309 748,347 630,348

@@ -1,0 +1,4 @@
+type: car
+plate: ODH0J31
+layout: Mercosur
+corners: 608,355 744,360 743,407 607,399

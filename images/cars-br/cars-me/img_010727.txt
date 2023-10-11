@@ -1,0 +1,4 @@
+type: car
+plate: QRI8I03
+layout: Mercosur
+corners: 540,421 665,421 665,459 542,457

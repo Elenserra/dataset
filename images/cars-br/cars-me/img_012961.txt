@@ -1,0 +1,4 @@
+type: car
+plate: KNX6G54
+layout: Mercosur
+corners: 650,342 774,343 775,382 653,380

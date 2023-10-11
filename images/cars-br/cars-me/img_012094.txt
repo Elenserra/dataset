@@ -1,0 +1,4 @@
+type: car
+plate: QRL5G63
+layout: Mercosur
+corners: 396,351 516,350 518,390 400,391

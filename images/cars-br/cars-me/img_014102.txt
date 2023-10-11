@@ -1,0 +1,4 @@
+type: car
+plate: MRD8C79
+layout: Mercosur
+corners: 913,212 1017,208 1019,245 914,248

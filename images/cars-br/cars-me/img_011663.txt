@@ -1,0 +1,4 @@
+type: car
+plate: PPS6G29
+layout: Mercosur
+corners: 503,324 631,325 633,370 503,368

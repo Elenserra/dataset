@@ -1,0 +1,4 @@
+type: car
+plate: QRF5I89
+layout: Mercosur
+corners: 775,19 846,17 847,39 776,41

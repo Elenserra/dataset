@@ -1,0 +1,4 @@
+type: car
+plate: MPH4F34
+layout: Mercosur
+corners: 600,250 710,255 712,289 603,285

@@ -1,0 +1,4 @@
+type: car
+plate: QRG0J78
+layout: Mercosur
+corners: 788,349 924,345 926,391 789,393

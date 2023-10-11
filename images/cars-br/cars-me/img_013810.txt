@@ -1,0 +1,4 @@
+type: car
+plate: RBA5H21
+layout: Mercosur
+corners: 618,328 743,330 744,372 617,368

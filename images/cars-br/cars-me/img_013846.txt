@@ -1,0 +1,4 @@
+type: car
+plate: PPM7G93
+layout: Mercosur
+corners: 706,332 838,330 841,372 711,375

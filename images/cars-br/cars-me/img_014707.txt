@@ -1,0 +1,4 @@
+type: car
+plate: PPV9H33
+layout: Mercosur
+corners: 679,327 818,330 819,377 679,375

@@ -1,0 +1,4 @@
+type: car
+plate: PPV2A74
+layout: Mercosur
+corners: 582,368 701,367 702,404 582,404

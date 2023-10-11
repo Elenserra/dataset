@@ -1,0 +1,4 @@
+type: car
+plate: QRK9G65
+layout: Mercosur
+corners: 539,281 654,281 654,319 541,319

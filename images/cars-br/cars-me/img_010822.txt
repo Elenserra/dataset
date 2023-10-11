@@ -1,0 +1,4 @@
+type: car
+plate: KOL4I69
+layout: Mercosur
+corners: 707,222 802,222 803,252 707,252

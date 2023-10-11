@@ -1,0 +1,4 @@
+type: car
+plate: QRE9A37
+layout: Mercosur
+corners: 808,357 941,357 944,400 809,402

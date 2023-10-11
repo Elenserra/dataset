@@ -1,0 +1,4 @@
+type: car
+plate: PPX5A50
+layout: Mercosur
+corners: 494,368 619,370 619,411 492,409

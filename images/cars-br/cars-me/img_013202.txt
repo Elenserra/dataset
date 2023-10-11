@@ -1,0 +1,4 @@
+type: car
+plate: MQF1B29
+layout: Mercosur
+corners: 646,326 771,324 773,365 648,365

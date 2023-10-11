@@ -1,0 +1,4 @@
+type: car
+plate: OVH8I96
+layout: Mercosur
+corners: 807,315 940,313 942,356 810,358

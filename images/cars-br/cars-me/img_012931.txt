@@ -1,0 +1,4 @@
+type: car
+plate: MSH8A98
+layout: Mercosur
+corners: 609,349 737,352 736,394 609,391

@@ -1,0 +1,4 @@
+type: car
+plate: LLZ6F94
+layout: Mercosur
+corners: 871,306 993,302 995,342 873,347

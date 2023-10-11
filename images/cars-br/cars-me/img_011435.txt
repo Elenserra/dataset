@@ -1,0 +1,4 @@
+type: car
+plate: HGI5H67
+layout: Mercosur
+corners: 519,258 628,258 634,296 520,294

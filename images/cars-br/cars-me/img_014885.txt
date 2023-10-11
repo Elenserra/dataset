@@ -1,0 +1,4 @@
+type: car
+plate: OCX9J27
+layout: Mercosur
+corners: 707,345 843,351 842,398 706,391

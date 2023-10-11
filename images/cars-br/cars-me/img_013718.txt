@@ -1,0 +1,4 @@
+type: car
+plate: MSV6C10
+layout: Mercosur
+corners: 649,249 776,251 779,292 652,292

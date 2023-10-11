@@ -1,0 +1,4 @@
+type: car
+plate: KXV4J88
+layout: Mercosur
+corners: 827,226 941,225 944,264 828,266

@@ -1,0 +1,4 @@
+type: car
+plate: OEQ9C82
+layout: Mercosur
+corners: 551,364 672,362 674,402 553,404

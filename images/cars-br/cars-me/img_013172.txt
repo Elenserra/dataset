@@ -1,0 +1,4 @@
+type: car
+plate: EYW2E59
+layout: Mercosur
+corners: 702,294 826,298 825,339 702,336

@@ -1,0 +1,4 @@
+type: car
+plate: MSW2G28
+layout: Mercosur
+corners: 858,100 945,100 946,129 857,129

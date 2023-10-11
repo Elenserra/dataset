@@ -1,0 +1,4 @@
+type: car
+plate: PPV6D27
+layout: Mercosur
+corners: 532,399 658,403 662,444 534,441

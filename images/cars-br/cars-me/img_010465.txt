@@ -1,0 +1,4 @@
+type: car
+plate: QRG3D95
+layout: Mercosur
+corners: 445,333 571,334 573,377 446,376

@@ -1,0 +1,4 @@
+type: car
+plate: OLP1G34
+layout: Mercosur
+corners: 725,293 858,294 861,339 726,339

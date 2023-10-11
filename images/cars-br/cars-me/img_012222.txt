@@ -1,0 +1,4 @@
+type: car
+plate: PPF5A00
+layout: Mercosur
+corners: 637,185 740,183 742,216 640,218

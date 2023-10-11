@@ -1,0 +1,4 @@
+type: car
+plate: MPK7J14
+layout: Mercosur
+corners: 596,424 727,427 729,468 599,466

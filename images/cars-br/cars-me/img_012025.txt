@@ -1,0 +1,4 @@
+type: car
+plate: OVE9C72
+layout: Mercosur
+corners: 444,408 574,410 577,451 445,451

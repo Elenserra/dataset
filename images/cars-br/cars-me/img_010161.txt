@@ -1,0 +1,4 @@
+type: car
+plate: ODO6J68
+layout: Mercosur
+corners: 597,355 717,355 718,396 597,396

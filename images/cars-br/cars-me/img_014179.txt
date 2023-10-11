@@ -1,0 +1,4 @@
+type: car
+plate: ODG4C13
+layout: Mercosur
+corners: 858,283 982,281 985,321 861,325

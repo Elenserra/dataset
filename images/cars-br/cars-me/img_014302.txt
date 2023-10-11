@@ -1,0 +1,4 @@
+type: car
+plate: KPV1C35
+layout: Mercosur
+corners: 745,364 880,363 884,410 745,409

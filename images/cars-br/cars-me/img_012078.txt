@@ -1,0 +1,4 @@
+type: car
+plate: HBL8B72
+layout: Mercosur
+corners: 542,331 671,335 675,375 543,369

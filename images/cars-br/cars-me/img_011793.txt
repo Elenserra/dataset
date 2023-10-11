@@ -1,0 +1,4 @@
+type: car
+plate: MST7F68
+layout: Mercosur
+corners: 490,390 616,392 618,434 490,432

@@ -1,0 +1,4 @@
+type: car
+plate: OCZ5J34
+layout: Mercosur
+corners: 840,398 956,403 956,442 839,437

@@ -1,0 +1,4 @@
+type: car
+plate: MRT6F12
+layout: Mercosur
+corners: 800,319 934,315 936,360 800,363

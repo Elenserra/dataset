@@ -1,0 +1,4 @@
+type: car
+plate: DMT5J29
+layout: Mercosur
+corners: 683,286 803,288 805,329 683,327

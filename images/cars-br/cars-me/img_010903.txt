@@ -1,0 +1,4 @@
+type: car
+plate: PPX8D22
+layout: Mercosur
+corners: 598,383 721,383 721,421 598,421

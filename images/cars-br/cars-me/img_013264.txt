@@ -1,0 +1,4 @@
+type: car
+plate: OYK7E74
+layout: Mercosur
+corners: 632,314 756,318 756,358 633,354

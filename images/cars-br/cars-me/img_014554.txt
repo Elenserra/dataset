@@ -1,0 +1,4 @@
+type: car
+plate: QRB8G21
+layout: Mercosur
+corners: 760,359 900,356 902,403 762,405

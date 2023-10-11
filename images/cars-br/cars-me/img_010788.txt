@@ -1,0 +1,4 @@
+type: car
+plate: PZO6E24
+layout: Mercosur
+corners: 552,396 678,396 679,437 553,436

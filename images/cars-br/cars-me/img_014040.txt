@@ -1,0 +1,4 @@
+type: car
+plate: OCY0B60
+layout: Mercosur
+corners: 823,325 960,322 963,367 824,370

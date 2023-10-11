@@ -1,0 +1,4 @@
+type: car
+plate: OVF6B01
+layout: Mercosur
+corners: 471,404 595,405 595,444 471,443

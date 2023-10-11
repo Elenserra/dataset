@@ -1,0 +1,4 @@
+type: car
+plate: LQK7B95
+layout: Mercosur
+corners: 749,340 883,347 883,392 748,384

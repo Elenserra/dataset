@@ -1,0 +1,4 @@
+type: car
+plate: MSS2E71
+layout: Mercosur
+corners: 677,263 811,270 809,316 673,308

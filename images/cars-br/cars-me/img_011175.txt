@@ -1,0 +1,4 @@
+type: car
+plate: IWI5A82
+layout: Mercosur
+corners: 527,344 661,343 665,385 530,386

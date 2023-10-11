@@ -1,0 +1,4 @@
+type: car
+plate: QRE8E70
+layout: Mercosur
+corners: 428,342 560,343 561,384 432,384

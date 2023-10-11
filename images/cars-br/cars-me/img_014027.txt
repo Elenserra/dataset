@@ -1,0 +1,4 @@
+type: car
+plate: OYD1B83
+layout: Mercosur
+corners: 774,336 906,334 911,380 776,380

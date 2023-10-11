@@ -1,0 +1,4 @@
+type: car
+plate: PPH7D73
+layout: Mercosur
+corners: 659,321 781,323 782,362 660,360

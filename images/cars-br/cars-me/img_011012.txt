@@ -1,0 +1,4 @@
+type: car
+plate: OVL4A59
+layout: Mercosur
+corners: 532,320 652,320 655,360 533,360

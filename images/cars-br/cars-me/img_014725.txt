@@ -1,0 +1,4 @@
+type: car
+plate: OXE4G29
+layout: Mercosur
+corners: 830,319 961,320 961,362 831,361

@@ -1,0 +1,4 @@
+type: car
+plate: MTB4E39
+layout: Mercosur
+corners: 585,418 717,418 718,459 585,459

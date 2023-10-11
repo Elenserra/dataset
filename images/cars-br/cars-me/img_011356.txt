@@ -1,0 +1,4 @@
+type: car
+plate: QRJ1I60
+layout: Mercosur
+corners: 498,339 631,341 632,383 499,381

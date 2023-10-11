@@ -1,0 +1,4 @@
+type: car
+plate: FGJ5J09
+layout: Mercosur
+corners: 533,406 658,407 657,447 533,445

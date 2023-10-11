@@ -1,0 +1,4 @@
+type: car
+plate: QNF9C87
+layout: Mercosur
+corners: 715,335 846,343 845,387 715,378

@@ -1,0 +1,4 @@
+type: car
+plate: ODK9D38
+layout: Mercosur
+corners: 492,312 613,313 615,353 493,351

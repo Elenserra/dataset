@@ -1,0 +1,4 @@
+type: car
+plate: EZW1J65
+layout: Mercosur
+corners: 764,297 897,295 900,338 765,340

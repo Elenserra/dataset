@@ -1,0 +1,4 @@
+type: car
+plate: QRF1D25
+layout: Mercosur
+corners: 715,336 853,339 854,383 715,381

@@ -1,0 +1,4 @@
+type: car
+plate: ODK8E12
+layout: Mercosur
+corners: 753,332 883,330 885,374 752,375

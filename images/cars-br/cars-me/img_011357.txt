@@ -1,0 +1,4 @@
+type: car
+plate: MRO1A05
+layout: Mercosur
+corners: 549,381 677,380 678,425 549,424

@@ -1,0 +1,4 @@
+type: car
+plate: OYF3I45
+layout: Mercosur
+corners: 668,313 791,315 791,355 669,351

@@ -1,0 +1,4 @@
+type: car
+plate: OVL1G07
+layout: Mercosur
+corners: 561,316 679,314 682,353 562,353

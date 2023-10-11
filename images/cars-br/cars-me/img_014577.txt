@@ -1,0 +1,4 @@
+type: car
+plate: OVI8G89
+layout: Mercosur
+corners: 848,335 981,333 984,376 851,378

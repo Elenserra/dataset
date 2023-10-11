@@ -1,0 +1,4 @@
+type: car
+plate: OCW4D40
+layout: Mercosur
+corners: 783,353 917,352 918,396 782,397

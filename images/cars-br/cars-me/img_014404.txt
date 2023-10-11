@@ -1,0 +1,4 @@
+type: car
+plate: PPM7C12
+layout: Mercosur
+corners: 673,272 807,272 809,317 671,318

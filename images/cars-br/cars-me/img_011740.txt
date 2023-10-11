@@ -1,0 +1,4 @@
+type: car
+plate: PPL2J70
+layout: Mercosur
+corners: 563,320 682,320 683,361 564,359

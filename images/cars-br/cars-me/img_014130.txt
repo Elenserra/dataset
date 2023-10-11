@@ -1,0 +1,4 @@
+type: car
+plate: QRL0J92
+layout: Mercosur
+corners: 851,310 981,306 983,348 852,352

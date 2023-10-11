@@ -1,0 +1,4 @@
+type: car
+plate: PPP4C37
+layout: Mercosur
+corners: 673,161 761,162 762,190 674,190

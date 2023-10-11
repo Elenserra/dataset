@@ -1,0 +1,4 @@
+type: car
+plate: LKT4G66
+layout: Mercosur
+corners: 861,348 994,349 994,388 863,388

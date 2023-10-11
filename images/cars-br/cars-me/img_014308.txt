@@ -1,0 +1,4 @@
+type: car
+plate: PPQ0J91
+layout: Mercosur
+corners: 772,333 905,329 909,374 774,377

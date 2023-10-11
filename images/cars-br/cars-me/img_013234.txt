@@ -1,0 +1,4 @@
+type: car
+plate: ODI7C93
+layout: Mercosur
+corners: 716,330 841,331 842,371 718,370

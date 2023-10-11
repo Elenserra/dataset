@@ -1,0 +1,4 @@
+type: car
+plate: QRF9G22
+layout: Mercosur
+corners: 557,271 673,272 675,311 557,310

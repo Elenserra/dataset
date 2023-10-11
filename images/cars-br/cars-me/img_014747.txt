@@ -1,0 +1,4 @@
+type: car
+plate: MSF4E02
+layout: Mercosur
+corners: 855,324 989,325 990,367 856,367

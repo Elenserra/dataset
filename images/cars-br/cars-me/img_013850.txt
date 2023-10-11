@@ -1,0 +1,4 @@
+type: car
+plate: OYJ7I19
+layout: Mercosur
+corners: 783,348 909,347 912,387 782,389

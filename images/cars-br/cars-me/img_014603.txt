@@ -1,0 +1,4 @@
+type: car
+plate: PPR6F73
+layout: Mercosur
+corners: 860,264 976,262 977,300 860,302

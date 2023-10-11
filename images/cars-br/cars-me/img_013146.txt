@@ -1,0 +1,4 @@
+type: car
+plate: OCW3F50
+layout: Mercosur
+corners: 671,343 798,344 800,382 673,382

@@ -1,0 +1,4 @@
+type: car
+plate: MTM0B01
+layout: Mercosur
+corners: 807,330 941,326 945,371 810,374

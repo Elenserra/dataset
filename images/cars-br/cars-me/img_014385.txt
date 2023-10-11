@@ -1,0 +1,4 @@
+type: car
+plate: KNV3G47
+layout: Mercosur
+corners: 778,357 905,354 909,395 780,397

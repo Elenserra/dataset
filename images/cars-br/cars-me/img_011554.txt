@@ -1,0 +1,4 @@
+type: car
+plate: KGG4H47
+layout: Mercosur
+corners: 525,313 641,311 642,352 526,352

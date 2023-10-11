@@ -1,0 +1,4 @@
+type: car
+plate: LUD8J13
+layout: Mercosur
+corners: 950,121 1030,118 1032,144 951,147

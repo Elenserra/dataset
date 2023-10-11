@@ -1,0 +1,4 @@
+type: car
+plate: QRK5B43
+layout: Mercosur
+corners: 534,268 650,271 651,312 534,309

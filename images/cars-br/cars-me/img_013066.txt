@@ -1,0 +1,4 @@
+type: car
+plate: QRK3F95
+layout: Mercosur
+corners: 639,307 764,309 765,348 642,346

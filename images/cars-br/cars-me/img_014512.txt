@@ -1,0 +1,4 @@
+type: car
+plate: MPK3G06
+layout: Mercosur
+corners: 825,354 958,353 961,396 827,396

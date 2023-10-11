@@ -1,0 +1,4 @@
+type: car
+plate: KYQ5E92
+layout: Mercosur
+corners: 824,318 955,316 958,360 824,361

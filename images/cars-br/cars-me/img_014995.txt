@@ -1,0 +1,4 @@
+type: car
+plate: MPL9E44
+layout: Mercosur
+corners: 669,355 808,366 805,411 668,400

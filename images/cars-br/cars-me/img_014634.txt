@@ -1,0 +1,4 @@
+type: car
+plate: QRF5D92
+layout: Mercosur
+corners: 839,332 970,331 970,375 840,376

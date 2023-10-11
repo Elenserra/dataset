@@ -1,0 +1,4 @@
+type: car
+plate: QOT6J81
+layout: Mercosur
+corners: 944,166 1038,162 1040,193 946,197

@@ -1,0 +1,4 @@
+type: car
+plate: ODQ5G46
+layout: Mercosur
+corners: 847,173 943,173 943,204 848,204

@@ -1,0 +1,4 @@
+type: car
+plate: MQA3D68
+layout: Mercosur
+corners: 755,301 879,301 879,341 756,340

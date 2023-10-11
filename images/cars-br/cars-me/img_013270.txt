@@ -1,0 +1,4 @@
+type: car
+plate: QNJ5B81
+layout: Mercosur
+corners: 728,292 841,294 840,331 728,328

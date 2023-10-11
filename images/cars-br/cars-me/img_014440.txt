@@ -1,0 +1,4 @@
+type: car
+plate: QRG7H56
+layout: Mercosur
+corners: 755,339 891,338 894,385 757,385

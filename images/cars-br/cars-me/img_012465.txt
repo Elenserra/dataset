@@ -1,0 +1,4 @@
+type: car
+plate: OUW8F56
+layout: Mercosur
+corners: 596,336 712,340 712,378 597,373

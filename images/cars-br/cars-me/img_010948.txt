@@ -1,0 +1,4 @@
+type: car
+plate: ODA0B36
+layout: Mercosur
+corners: 542,407 665,408 667,447 544,446

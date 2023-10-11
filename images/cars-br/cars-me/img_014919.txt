@@ -1,0 +1,4 @@
+type: car
+plate: MTB7C29
+layout: Mercosur
+corners: 671,342 807,350 804,395 669,387

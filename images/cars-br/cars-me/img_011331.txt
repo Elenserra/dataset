@@ -1,0 +1,4 @@
+type: car
+plate: PPQ0I63
+layout: Mercosur
+corners: 566,315 687,314 689,353 567,355

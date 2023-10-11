@@ -1,0 +1,4 @@
+type: car
+plate: QRE4F51
+layout: Mercosur
+corners: 680,290 804,290 806,329 681,329

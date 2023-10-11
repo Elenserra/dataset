@@ -1,0 +1,4 @@
+type: car
+plate: QRJ5B58
+layout: Mercosur
+corners: 589,302 708,303 710,343 591,341

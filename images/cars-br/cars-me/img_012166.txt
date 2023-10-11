@@ -1,0 +1,4 @@
+type: car
+plate: RBA3H05
+layout: Mercosur
+corners: 720,114 806,111 807,139 721,143

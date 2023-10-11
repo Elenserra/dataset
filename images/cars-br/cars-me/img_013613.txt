@@ -1,0 +1,4 @@
+type: car
+plate: PPG1A13
+layout: Mercosur
+corners: 678,297 802,301 802,344 676,339

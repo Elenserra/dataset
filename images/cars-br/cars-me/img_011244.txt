@@ -1,0 +1,4 @@
+type: car
+plate: LLI6I01
+layout: Mercosur
+corners: 565,321 685,321 688,361 567,362

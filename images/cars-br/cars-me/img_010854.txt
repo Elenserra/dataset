@@ -1,0 +1,4 @@
+type: car
+plate: FGN1G71
+layout: Mercosur
+corners: 573,366 695,365 695,402 576,403

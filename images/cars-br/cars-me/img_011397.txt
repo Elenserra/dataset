@@ -1,0 +1,4 @@
+type: car
+plate: QRJ0E38
+layout: Mercosur
+corners: 438,317 566,317 568,360 438,360

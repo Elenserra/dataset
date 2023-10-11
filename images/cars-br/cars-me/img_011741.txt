@@ -1,0 +1,4 @@
+type: car
+plate: MRL0G17
+layout: Mercosur
+corners: 529,378 659,380 658,425 529,422

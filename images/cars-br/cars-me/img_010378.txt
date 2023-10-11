@@ -1,0 +1,4 @@
+type: car
+plate: OVL3G68
+layout: Mercosur
+corners: 708,224 804,224 804,254 708,254

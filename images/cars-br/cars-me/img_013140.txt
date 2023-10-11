@@ -1,0 +1,4 @@
+type: car
+plate: PPO8C77
+layout: Mercosur
+corners: 681,309 804,310 803,350 682,347

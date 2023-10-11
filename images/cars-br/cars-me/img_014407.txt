@@ -1,0 +1,4 @@
+type: car
+plate: QRK9J23
+layout: Mercosur
+corners: 755,333 893,330 897,375 757,377

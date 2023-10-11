@@ -1,0 +1,4 @@
+type: car
+plate: PPJ6C44
+layout: Mercosur
+corners: 756,343 890,340 894,386 756,388

@@ -1,0 +1,4 @@
+type: car
+plate: OVL2D38
+layout: Mercosur
+corners: 525,408 652,409 653,452 526,450

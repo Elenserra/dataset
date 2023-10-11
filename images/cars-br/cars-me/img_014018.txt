@@ -1,0 +1,4 @@
+type: car
+plate: PPT6E31
+layout: Mercosur
+corners: 779,367 915,367 918,413 779,412

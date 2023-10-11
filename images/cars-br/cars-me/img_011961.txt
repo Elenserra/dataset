@@ -1,0 +1,4 @@
+type: car
+plate: QRI9A66
+layout: Mercosur
+corners: 526,317 656,314 659,358 527,360

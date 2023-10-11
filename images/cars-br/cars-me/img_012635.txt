@@ -1,0 +1,4 @@
+type: car
+plate: PPK8I04
+layout: Mercosur
+corners: 639,307 758,310 757,348 641,344

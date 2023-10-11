@@ -1,0 +1,4 @@
+type: car
+plate: MSL0J08
+layout: Mercosur
+corners: 741,209 831,206 832,234 741,237

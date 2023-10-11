@@ -1,0 +1,4 @@
+type: car
+plate: KZE2I09
+layout: Mercosur
+corners: 581,345 692,344 694,380 583,380

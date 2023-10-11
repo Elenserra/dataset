@@ -1,0 +1,4 @@
+type: car
+plate: ODT3C16
+layout: Mercosur
+corners: 623,339 749,342 748,382 625,379

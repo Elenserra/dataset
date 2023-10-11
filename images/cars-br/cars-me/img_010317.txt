@@ -1,0 +1,4 @@
+type: car
+plate: ODA3D66
+layout: Mercosur
+corners: 612,360 729,359 729,396 612,397

@@ -1,0 +1,4 @@
+type: car
+plate: MPW6J42
+layout: Mercosur
+corners: 831,359 966,356 970,398 833,402

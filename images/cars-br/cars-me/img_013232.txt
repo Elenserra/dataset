@@ -1,0 +1,4 @@
+type: car
+plate: MTQ0I72
+layout: Mercosur
+corners: 865,95 948,95 948,124 865,125

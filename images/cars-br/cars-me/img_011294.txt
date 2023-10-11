@@ -1,0 +1,4 @@
+type: car
+plate: PPJ2E93
+layout: Mercosur
+corners: 483,398 611,401 615,445 486,442

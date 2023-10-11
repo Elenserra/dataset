@@ -1,0 +1,4 @@
+type: car
+plate: OYF4I12
+layout: Mercosur
+corners: 714,175 822,178 822,213 714,209

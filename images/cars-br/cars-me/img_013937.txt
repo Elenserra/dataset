@@ -1,0 +1,4 @@
+type: car
+plate: QRH6E61
+layout: Mercosur
+corners: 718,334 852,332 857,377 721,378

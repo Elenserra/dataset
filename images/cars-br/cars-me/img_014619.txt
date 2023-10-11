@@ -1,0 +1,4 @@
+type: car
+plate: PPO4B00
+layout: Mercosur
+corners: 800,333 932,330 934,376 800,376

@@ -1,0 +1,4 @@
+type: car
+plate: ORA9G08
+layout: Mercosur
+corners: 611,221 729,223 728,261 612,258

@@ -1,0 +1,4 @@
+type: car
+plate: QRG1B02
+layout: Mercosur
+corners: 776,327 907,325 908,369 773,370

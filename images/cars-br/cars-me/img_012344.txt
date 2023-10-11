@@ -1,0 +1,4 @@
+type: car
+plate: MTT8F14
+layout: Mercosur
+corners: 678,339 809,340 810,382 680,383

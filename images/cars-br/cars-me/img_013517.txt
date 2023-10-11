@@ -1,0 +1,4 @@
+type: car
+plate: LRE5I01
+layout: Mercosur
+corners: 591,365 721,369 724,411 592,406

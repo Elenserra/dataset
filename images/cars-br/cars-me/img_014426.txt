@@ -1,0 +1,4 @@
+type: car
+plate: QOX1B76
+layout: Mercosur
+corners: 863,328 997,324 1000,368 865,370

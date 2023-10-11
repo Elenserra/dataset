@@ -1,0 +1,4 @@
+type: car
+plate: MSW1I69
+layout: Mercosur
+corners: 707,303 833,305 832,347 708,345

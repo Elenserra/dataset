@@ -1,0 +1,4 @@
+type: car
+plate: QRK2A84
+layout: Mercosur
+corners: 818,324 951,324 952,371 817,371

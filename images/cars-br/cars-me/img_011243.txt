@@ -1,0 +1,4 @@
+type: car
+plate: OYJ3J99
+layout: Mercosur
+corners: 524,295 649,296 651,338 524,337

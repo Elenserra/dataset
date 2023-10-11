@@ -1,0 +1,4 @@
+type: car
+plate: PPO8F18
+layout: Mercosur
+corners: 779,335 911,333 913,378 780,377

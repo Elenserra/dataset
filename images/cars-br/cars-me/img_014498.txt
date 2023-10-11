@@ -1,0 +1,4 @@
+type: car
+plate: QRJ7F57
+layout: Mercosur
+corners: 827,304 959,302 962,347 830,347

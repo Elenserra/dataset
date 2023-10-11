@@ -1,0 +1,4 @@
+type: car
+plate: QRJ3E50
+layout: Mercosur
+corners: 477,389 603,390 605,431 478,430

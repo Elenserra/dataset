@@ -1,0 +1,4 @@
+type: car
+plate: QRK3J82
+layout: Mercosur
+corners: 663,315 794,316 795,359 664,360

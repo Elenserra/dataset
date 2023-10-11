@@ -1,0 +1,4 @@
+type: car
+plate: MQA4H65
+layout: Mercosur
+corners: 610,360 728,361 728,400 611,399

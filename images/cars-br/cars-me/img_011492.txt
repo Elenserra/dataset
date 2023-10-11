@@ -1,0 +1,4 @@
+type: car
+plate: ETO0A22
+layout: Mercosur
+corners: 458,342 586,343 588,386 457,383

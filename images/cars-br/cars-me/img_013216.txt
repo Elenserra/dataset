@@ -1,0 +1,4 @@
+type: car
+plate: FOE5I53
+layout: Mercosur
+corners: 815,359 949,356 952,399 816,404

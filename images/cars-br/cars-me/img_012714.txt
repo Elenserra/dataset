@@ -1,0 +1,4 @@
+type: car
+plate: MQH4F44
+layout: Mercosur
+corners: 606,349 733,357 733,402 604,393

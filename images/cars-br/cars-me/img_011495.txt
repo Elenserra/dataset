@@ -1,0 +1,4 @@
+type: car
+plate: MSU2D34
+layout: Mercosur
+corners: 540,336 667,336 668,379 540,377

@@ -1,0 +1,4 @@
+type: car
+plate: QRG6E76
+layout: Mercosur
+corners: 745,319 881,317 883,363 745,364

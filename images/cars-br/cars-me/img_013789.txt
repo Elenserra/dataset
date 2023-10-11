@@ -1,0 +1,4 @@
+type: car
+plate: ODE6C70
+layout: Mercosur
+corners: 634,307 754,307 756,348 634,346

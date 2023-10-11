@@ -1,0 +1,4 @@
+type: car
+plate: ODK1F78
+layout: Mercosur
+corners: 652,356 786,356 787,399 654,397

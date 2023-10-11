@@ -1,0 +1,4 @@
+type: car
+plate: ODF8J12
+layout: Mercosur
+corners: 630,325 764,335 762,377 630,369

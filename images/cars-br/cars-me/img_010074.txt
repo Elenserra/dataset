@@ -1,0 +1,4 @@
+type: car
+plate: QRD8E16
+layout: Mercosur
+corners: 500,407 631,407 633,449 502,448

@@ -1,0 +1,4 @@
+type: car
+plate: MSB9B52
+layout: Mercosur
+corners: 689,303 810,306 810,345 689,342

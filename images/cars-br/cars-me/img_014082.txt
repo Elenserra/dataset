@@ -1,0 +1,4 @@
+type: car
+plate: ODO6F41
+layout: Mercosur
+corners: 763,340 892,336 896,380 766,383

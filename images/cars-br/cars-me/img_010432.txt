@@ -1,0 +1,4 @@
+type: car
+plate: QRH2C89
+layout: Mercosur
+corners: 849,74 912,74 913,94 849,94

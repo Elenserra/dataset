@@ -1,0 +1,4 @@
+type: car
+plate: OYK7H68
+layout: Mercosur
+corners: 709,166 807,166 808,199 710,198

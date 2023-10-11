@@ -1,0 +1,4 @@
+type: car
+plate: PPV1G92
+layout: Mercosur
+corners: 795,117 887,116 889,147 796,148

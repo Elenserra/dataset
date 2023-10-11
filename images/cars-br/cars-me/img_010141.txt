@@ -1,0 +1,4 @@
+type: car
+plate: PPQ0D29
+layout: Mercosur
+corners: 554,379 676,379 677,419 555,418

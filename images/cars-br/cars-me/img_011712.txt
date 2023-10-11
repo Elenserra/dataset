@@ -1,0 +1,4 @@
+type: car
+plate: QFR0H07
+layout: Mercosur
+corners: 392,442 531,445 535,494 394,489

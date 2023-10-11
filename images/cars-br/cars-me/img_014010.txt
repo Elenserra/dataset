@@ -1,0 +1,4 @@
+type: car
+plate: QNZ0J69
+layout: Mercosur
+corners: 786,353 916,352 919,394 786,395

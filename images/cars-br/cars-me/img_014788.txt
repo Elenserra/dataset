@@ -1,0 +1,4 @@
+type: car
+plate: ODN5D18
+layout: Mercosur
+corners: 683,330 816,337 814,380 682,373

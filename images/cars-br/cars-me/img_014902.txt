@@ -1,0 +1,4 @@
+type: car
+plate: PPM7B98
+layout: Mercosur
+corners: 660,341 799,348 798,395 660,387

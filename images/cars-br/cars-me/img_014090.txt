@@ -1,0 +1,4 @@
+type: car
+plate: DTQ6D10
+layout: Mercosur
+corners: 815,338 949,337 953,381 816,384

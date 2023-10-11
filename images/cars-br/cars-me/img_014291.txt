@@ -1,0 +1,4 @@
+type: car
+plate: MPQ4F04
+layout: Mercosur
+corners: 789,359 919,361 922,401 790,402

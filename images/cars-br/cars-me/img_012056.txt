@@ -1,0 +1,4 @@
+type: car
+plate: QRK1F82
+layout: Mercosur
+corners: 589,285 706,283 709,320 593,321

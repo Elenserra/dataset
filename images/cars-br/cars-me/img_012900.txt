@@ -1,0 +1,4 @@
+type: car
+plate: JST2I73
+layout: Mercosur
+corners: 782,196 888,197 888,232 783,231

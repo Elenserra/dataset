@@ -1,0 +1,4 @@
+type: car
+plate: QNS7E99
+layout: Mercosur
+corners: 817,328 947,325 952,367 818,370

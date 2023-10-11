@@ -1,0 +1,4 @@
+type: car
+plate: MSN9F19
+layout: Mercosur
+corners: 728,320 854,319 854,360 730,360

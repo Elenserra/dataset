@@ -1,0 +1,4 @@
+type: car
+plate: LMR0D66
+layout: Mercosur
+corners: 964,103 1046,100 1046,128 964,130

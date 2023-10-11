@@ -1,0 +1,4 @@
+type: car
+plate: QRF8G68
+layout: Mercosur
+corners: 655,330 779,333 781,372 657,370

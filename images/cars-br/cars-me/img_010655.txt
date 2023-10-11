@@ -1,0 +1,4 @@
+type: car
+plate: EGZ3D30
+layout: Mercosur
+corners: 516,366 640,368 640,409 518,407

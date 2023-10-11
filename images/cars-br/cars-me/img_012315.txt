@@ -1,0 +1,4 @@
+type: car
+plate: PPO3I50
+layout: Mercosur
+corners: 765,55 842,53 844,78 766,80

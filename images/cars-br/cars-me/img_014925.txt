@@ -1,0 +1,4 @@
+type: car
+plate: HJQ1J79
+layout: Mercosur
+corners: 678,402 815,411 814,451 678,442

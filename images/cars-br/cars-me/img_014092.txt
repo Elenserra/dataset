@@ -1,0 +1,4 @@
+type: car
+plate: MRY9F29
+layout: Mercosur
+corners: 863,323 995,323 996,365 863,365

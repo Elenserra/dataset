@@ -1,0 +1,4 @@
+type: car
+plate: PPO0H05
+layout: Mercosur
+corners: 814,332 943,329 945,372 816,375

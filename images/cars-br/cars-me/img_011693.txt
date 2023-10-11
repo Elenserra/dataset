@@ -1,0 +1,4 @@
+type: car
+plate: QRK9B84
+layout: Mercosur
+corners: 548,318 670,319 671,360 549,359

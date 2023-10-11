@@ -1,0 +1,4 @@
+type: car
+plate: PPQ8E42
+layout: Mercosur
+corners: 739,186 842,186 843,220 740,221

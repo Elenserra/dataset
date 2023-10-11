@@ -1,0 +1,4 @@
+type: car
+plate: QRE7C42
+layout: Mercosur
+corners: 522,288 635,290 636,328 523,326

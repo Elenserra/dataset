@@ -1,0 +1,4 @@
+type: car
+plate: QRK6F95
+layout: Mercosur
+corners: 549,387 675,387 676,428 550,428

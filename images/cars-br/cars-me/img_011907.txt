@@ -1,0 +1,4 @@
+type: car
+plate: MTD5B22
+layout: Mercosur
+corners: 563,383 690,382 692,423 565,423

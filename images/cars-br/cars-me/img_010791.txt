@@ -1,0 +1,4 @@
+type: car
+plate: QRK4H78
+layout: Mercosur
+corners: 711,175 798,175 798,203 711,204

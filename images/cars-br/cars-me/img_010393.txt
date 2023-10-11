@@ -1,0 +1,4 @@
+type: car
+plate: PUB9E34
+layout: Mercosur
+corners: 611,350 732,348 732,389 613,391

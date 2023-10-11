@@ -1,0 +1,4 @@
+type: car
+plate: QRF9J85
+layout: Mercosur
+corners: 528,309 645,308 645,348 530,349

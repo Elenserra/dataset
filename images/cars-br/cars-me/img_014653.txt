@@ -1,0 +1,4 @@
+type: car
+plate: PSG9F93
+layout: Mercosur
+corners: 859,324 993,321 995,365 859,369

@@ -1,0 +1,4 @@
+type: car
+plate: MTX4J18
+layout: Mercosur
+corners: 634,344 764,344 765,386 634,386

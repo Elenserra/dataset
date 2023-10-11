@@ -1,0 +1,4 @@
+type: car
+plate: ODS0H85
+layout: Mercosur
+corners: 730,157 808,157 809,181 731,182

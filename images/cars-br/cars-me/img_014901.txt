@@ -1,0 +1,4 @@
+type: car
+plate: EPY1E92
+layout: Mercosur
+corners: 691,328 823,336 820,378 691,371

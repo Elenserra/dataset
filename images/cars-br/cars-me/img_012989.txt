@@ -1,0 +1,4 @@
+type: car
+plate: ODA0I25
+layout: Mercosur
+corners: 699,256 814,257 815,293 700,293

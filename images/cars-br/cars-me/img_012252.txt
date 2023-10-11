@@ -1,0 +1,4 @@
+type: car
+plate: OZH2J26
+layout: Mercosur
+corners: 533,305 656,303 658,344 537,344

@@ -1,0 +1,4 @@
+type: car
+plate: MSS5A48
+layout: Mercosur
+corners: 504,347 638,343 640,388 506,391

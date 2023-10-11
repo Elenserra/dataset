@@ -1,0 +1,4 @@
+type: car
+plate: ODD1F66
+layout: Mercosur
+corners: 651,327 772,330 773,372 650,367

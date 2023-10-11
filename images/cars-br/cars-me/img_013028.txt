@@ -1,0 +1,4 @@
+type: car
+plate: MRX7I46
+layout: Mercosur
+corners: 698,334 823,336 823,376 700,374

@@ -1,0 +1,4 @@
+type: car
+plate: OVF3J74
+layout: Mercosur
+corners: 566,393 686,393 686,431 567,431

@@ -1,0 +1,4 @@
+type: car
+plate: QNN7I94
+layout: Mercosur
+corners: 619,419 764,423 765,470 621,466

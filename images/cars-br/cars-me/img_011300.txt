@@ -1,0 +1,4 @@
+type: car
+plate: KYR5B81
+layout: Mercosur
+corners: 605,219 712,219 712,257 605,254

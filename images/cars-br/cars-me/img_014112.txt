@@ -1,0 +1,4 @@
+type: car
+plate: DHY7F96
+layout: Mercosur
+corners: 759,371 897,370 900,417 760,416

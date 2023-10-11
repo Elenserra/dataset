@@ -1,0 +1,4 @@
+type: car
+plate: HNH2H28
+layout: Mercosur
+corners: 554,376 679,377 680,418 555,414

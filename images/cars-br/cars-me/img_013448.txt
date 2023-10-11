@@ -1,0 +1,4 @@
+type: car
+plate: PPI4E80
+layout: Mercosur
+corners: 705,201 819,204 818,242 703,240

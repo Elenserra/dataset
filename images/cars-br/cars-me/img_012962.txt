@@ -1,0 +1,4 @@
+type: car
+plate: ODM3F62
+layout: Mercosur
+corners: 675,332 796,333 797,373 679,371

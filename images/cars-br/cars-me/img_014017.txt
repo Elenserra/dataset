@@ -1,0 +1,4 @@
+type: car
+plate: OYG1D30
+layout: Mercosur
+corners: 748,361 881,358 883,403 748,402

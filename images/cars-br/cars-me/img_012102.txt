@@ -1,0 +1,4 @@
+type: car
+plate: KXB9A73
+layout: Mercosur
+corners: 480,404 611,403 613,444 483,445

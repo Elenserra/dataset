@@ -1,0 +1,4 @@
+type: car
+plate: FZX5G43
+layout: Mercosur
+corners: 538,361 681,371 679,417 540,407

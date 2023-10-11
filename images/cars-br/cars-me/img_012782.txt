@@ -1,0 +1,4 @@
+type: car
+plate: MSV3C83
+layout: Mercosur
+corners: 631,368 761,371 761,412 634,409

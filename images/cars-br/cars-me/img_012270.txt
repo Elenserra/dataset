@@ -1,0 +1,4 @@
+type: car
+plate: QRE5I20
+layout: Mercosur
+corners: 574,139 669,139 670,169 576,169

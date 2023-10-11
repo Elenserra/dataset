@@ -1,0 +1,4 @@
+type: car
+plate: MSN8A86
+layout: Mercosur
+corners: 512,336 637,337 640,380 514,378

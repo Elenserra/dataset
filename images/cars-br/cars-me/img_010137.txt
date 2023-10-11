@@ -1,0 +1,4 @@
+type: car
+plate: OYJ2E71
+layout: Mercosur
+corners: 564,399 687,399 688,440 565,441

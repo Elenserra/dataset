@@ -1,0 +1,4 @@
+type: car
+plate: MQN7J23
+layout: Mercosur
+corners: 810,340 943,338 945,382 810,384

@@ -1,0 +1,4 @@
+type: car
+plate: DRL3J77
+layout: Mercosur
+corners: 787,347 915,344 918,386 788,390

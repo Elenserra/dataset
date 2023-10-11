@@ -1,0 +1,4 @@
+type: car
+plate: FRC4J63
+layout: Mercosur
+corners: 759,56 836,56 837,82 760,83

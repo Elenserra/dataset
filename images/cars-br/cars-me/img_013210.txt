@@ -1,0 +1,4 @@
+type: car
+plate: QRE5I52
+layout: Mercosur
+corners: 646,307 778,308 778,351 648,349

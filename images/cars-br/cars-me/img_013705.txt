@@ -1,0 +1,4 @@
+type: car
+plate: MST8A16
+layout: Mercosur
+corners: 747,238 861,240 864,274 749,272

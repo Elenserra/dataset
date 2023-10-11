@@ -1,0 +1,4 @@
+type: car
+plate: OVJ7I71
+layout: Mercosur
+corners: 527,364 655,362 659,404 530,404

@@ -1,0 +1,4 @@
+type: car
+plate: HJO1J00
+layout: Mercosur
+corners: 537,337 664,338 667,379 540,376

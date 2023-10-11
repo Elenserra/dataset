@@ -1,0 +1,4 @@
+type: car
+plate: PUW9B25
+layout: Mercosur
+corners: 574,311 694,311 697,351 577,350

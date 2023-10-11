@@ -1,0 +1,4 @@
+type: car
+plate: JIH3A42
+layout: Mercosur
+corners: 471,337 604,337 605,383 472,381

@@ -1,0 +1,4 @@
+type: car
+plate: MQS5I51
+layout: Mercosur
+corners: 639,289 752,290 754,327 639,325

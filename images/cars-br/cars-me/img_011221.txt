@@ -1,0 +1,4 @@
+type: car
+plate: MSQ5A32
+layout: Mercosur
+corners: 532,346 656,347 658,388 534,385

@@ -1,0 +1,4 @@
+type: car
+plate: KVG4J02
+layout: Mercosur
+corners: 874,292 999,287 1002,329 874,332

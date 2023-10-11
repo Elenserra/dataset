@@ -1,0 +1,4 @@
+type: car
+plate: PPT6G57
+layout: Mercosur
+corners: 791,322 921,321 923,365 790,367

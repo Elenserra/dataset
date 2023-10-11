@@ -1,0 +1,4 @@
+type: car
+plate: PPO9E79
+layout: Mercosur
+corners: 499,297 623,295 626,333 504,334

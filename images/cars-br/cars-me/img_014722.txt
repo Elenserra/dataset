@@ -1,0 +1,4 @@
+type: car
+plate: OVI8C41
+layout: Mercosur
+corners: 700,345 828,345 830,386 702,385

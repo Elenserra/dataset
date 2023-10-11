@@ -1,0 +1,4 @@
+type: car
+plate: ODP8E25
+layout: Mercosur
+corners: 534,310 656,310 659,351 535,349

@@ -1,0 +1,4 @@
+type: car
+plate: MSN2G99
+layout: Mercosur
+corners: 680,281 796,282 796,323 679,320

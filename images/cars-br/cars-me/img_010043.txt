@@ -1,0 +1,4 @@
+type: car
+plate: PPD7J66
+layout: Mercosur
+corners: 612,389 738,389 739,430 613,430

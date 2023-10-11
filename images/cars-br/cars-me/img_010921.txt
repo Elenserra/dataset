@@ -1,0 +1,4 @@
+type: car
+plate: MTM7D42
+layout: Mercosur
+corners: 595,377 719,377 721,415 597,415

@@ -1,0 +1,4 @@
+type: car
+plate: BRQ7D45
+layout: Mercosur
+corners: 651,342 790,350 789,392 651,386

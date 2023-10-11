@@ -1,0 +1,4 @@
+type: car
+plate: IWJ1D98
+layout: Mercosur
+corners: 470,364 602,364 604,408 473,406

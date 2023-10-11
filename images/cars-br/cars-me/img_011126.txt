@@ -1,0 +1,4 @@
+type: car
+plate: PPV3C92
+layout: Mercosur
+corners: 575,389 696,388 700,428 575,428

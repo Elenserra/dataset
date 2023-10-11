@@ -1,0 +1,4 @@
+type: car
+plate: ODC1H18
+layout: Mercosur
+corners: 780,351 917,349 919,395 782,397

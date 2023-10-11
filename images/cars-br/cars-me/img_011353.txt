@@ -1,0 +1,4 @@
+type: car
+plate: EYW5F60
+layout: Mercosur
+corners: 480,384 609,387 609,432 481,428

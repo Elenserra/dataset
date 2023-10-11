@@ -1,0 +1,4 @@
+type: car
+plate: QRJ9D48
+layout: Mercosur
+corners: 786,316 916,314 918,356 787,358

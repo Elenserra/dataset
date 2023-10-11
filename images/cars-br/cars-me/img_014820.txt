@@ -1,0 +1,4 @@
+type: car
+plate: ODL3D11
+layout: Mercosur
+corners: 621,342 755,352 752,396 620,386

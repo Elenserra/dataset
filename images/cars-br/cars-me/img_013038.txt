@@ -1,0 +1,4 @@
+type: car
+plate: PWD4D84
+layout: Mercosur
+corners: 904,79 981,79 981,104 904,104

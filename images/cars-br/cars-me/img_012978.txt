@@ -1,0 +1,4 @@
+type: car
+plate: PXT7E76
+layout: Mercosur
+corners: 676,267 790,269 790,306 675,303

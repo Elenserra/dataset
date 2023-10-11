@@ -1,0 +1,4 @@
+type: car
+plate: QXP7D29
+layout: Mercosur
+corners: 535,384 660,385 662,426 537,426

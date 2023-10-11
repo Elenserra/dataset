@@ -1,0 +1,4 @@
+type: car
+plate: QRM4G03
+layout: Mercosur
+corners: 482,336 599,336 603,375 485,373

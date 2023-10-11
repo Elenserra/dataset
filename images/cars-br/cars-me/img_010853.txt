@@ -1,0 +1,4 @@
+type: car
+plate: OYF4D18
+layout: Mercosur
+corners: 526,413 647,414 648,452 527,451

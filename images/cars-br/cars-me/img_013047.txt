@@ -1,0 +1,4 @@
+type: car
+plate: ODK6H14
+layout: Mercosur
+corners: 633,228 753,230 755,268 638,264

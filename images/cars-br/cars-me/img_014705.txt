@@ -1,0 +1,4 @@
+type: car
+plate: QRL2F13
+layout: Mercosur
+corners: 828,238 945,238 945,277 828,277

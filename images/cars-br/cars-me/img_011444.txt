@@ -1,0 +1,4 @@
+type: car
+plate: HJJ3B83
+layout: Mercosur
+corners: 500,341 628,337 632,380 503,382

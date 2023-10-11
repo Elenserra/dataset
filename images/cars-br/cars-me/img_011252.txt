@@ -1,0 +1,4 @@
+type: car
+plate: MTZ9F49
+layout: Mercosur
+corners: 865,21 928,19 929,41 867,42

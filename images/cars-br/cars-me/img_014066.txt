@@ -1,0 +1,4 @@
+type: car
+plate: PPN7D51
+layout: Mercosur
+corners: 819,323 949,322 953,364 819,363

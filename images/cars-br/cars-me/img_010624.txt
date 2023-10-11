@@ -1,0 +1,4 @@
+type: car
+plate: QRG5D06
+layout: Mercosur
+corners: 507,401 635,402 639,442 509,442

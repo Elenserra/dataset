@@ -1,0 +1,4 @@
+type: car
+plate: QRF9D84
+layout: Mercosur
+corners: 519,414 643,416 645,457 519,453

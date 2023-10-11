@@ -1,0 +1,4 @@
+type: car
+plate: ODL5F27
+layout: Mercosur
+corners: 670,285 785,286 785,323 672,321

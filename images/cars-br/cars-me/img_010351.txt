@@ -1,0 +1,4 @@
+type: car
+plate: PPH2G21
+layout: Mercosur
+corners: 628,287 733,287 733,322 630,321

@@ -1,0 +1,4 @@
+type: car
+plate: PPN2E67
+layout: Mercosur
+corners: 335,471 487,473 491,519 342,519

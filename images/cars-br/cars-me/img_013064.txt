@@ -1,0 +1,4 @@
+type: car
+plate: MSL3A09
+layout: Mercosur
+corners: 619,326 743,334 743,374 621,368

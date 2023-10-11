@@ -1,0 +1,4 @@
+type: car
+plate: PPM7H27
+layout: Mercosur
+corners: 828,262 956,258 960,302 829,305

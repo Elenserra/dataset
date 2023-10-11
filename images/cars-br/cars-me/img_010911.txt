@@ -1,0 +1,4 @@
+type: car
+plate: ODA8I69
+layout: Mercosur
+corners: 604,342 717,343 719,378 605,378

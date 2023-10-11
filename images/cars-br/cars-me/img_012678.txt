@@ -1,0 +1,4 @@
+type: car
+plate: MTF9C22
+layout: Mercosur
+corners: 604,365 732,368 732,410 607,406

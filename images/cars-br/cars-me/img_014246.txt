@@ -1,0 +1,4 @@
+type: car
+plate: KLJ1A52
+layout: Mercosur
+corners: 822,316 954,312 957,357 825,361

@@ -1,0 +1,4 @@
+type: car
+plate: OCZ7E52
+layout: Mercosur
+corners: 475,436 606,440 608,485 476,480

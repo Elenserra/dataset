@@ -1,0 +1,4 @@
+type: car
+plate: MSJ7D59
+layout: Mercosur
+corners: 508,362 634,362 639,404 513,404

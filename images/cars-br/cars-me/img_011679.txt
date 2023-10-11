@@ -1,0 +1,4 @@
+type: car
+plate: PYN0A35
+layout: Mercosur
+corners: 696,221 790,219 791,250 697,251

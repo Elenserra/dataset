@@ -1,0 +1,4 @@
+type: car
+plate: QRD6D33
+layout: Mercosur
+corners: 744,266 857,267 858,302 745,302

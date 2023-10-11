@@ -1,0 +1,4 @@
+type: car
+plate: GQH4C51
+layout: Mercosur
+corners: 857,347 992,338 997,384 860,391

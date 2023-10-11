@@ -1,0 +1,4 @@
+type: car
+plate: HDV3H51
+layout: Mercosur
+corners: 855,345 990,340 992,386 857,389

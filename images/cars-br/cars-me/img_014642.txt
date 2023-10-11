@@ -1,0 +1,4 @@
+type: car
+plate: MQS3G92
+layout: Mercosur
+corners: 771,340 906,337 910,382 772,384

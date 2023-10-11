@@ -1,0 +1,4 @@
+type: car
+plate: PPN1F68
+layout: Mercosur
+corners: 793,352 927,349 930,394 793,395

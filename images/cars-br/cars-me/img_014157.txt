@@ -1,0 +1,4 @@
+type: car
+plate: QRK2F41
+layout: Mercosur
+corners: 899,261 1015,259 1018,298 902,300

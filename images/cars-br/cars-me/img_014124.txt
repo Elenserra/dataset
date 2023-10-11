@@ -1,0 +1,4 @@
+type: car
+plate: QRG2B77
+layout: Mercosur
+corners: 766,282 899,279 903,324 766,326

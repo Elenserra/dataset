@@ -1,0 +1,4 @@
+type: car
+plate: PPZ9B34
+layout: Mercosur
+corners: 513,389 636,391 638,430 513,429

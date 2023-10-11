@@ -1,0 +1,4 @@
+type: car
+plate: JJU1J09
+layout: Mercosur
+corners: 608,369 735,377 735,419 610,407

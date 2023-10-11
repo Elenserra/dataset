@@ -1,0 +1,4 @@
+type: car
+plate: KOX3I48
+layout: Mercosur
+corners: 758,249 873,245 877,285 758,288

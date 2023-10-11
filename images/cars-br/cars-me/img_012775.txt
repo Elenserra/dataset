@@ -1,0 +1,4 @@
+type: car
+plate: KUT4H38
+layout: Mercosur
+corners: 802,304 935,303 936,349 802,349

@@ -1,0 +1,4 @@
+type: car
+plate: MPB0C68
+layout: Mercosur
+corners: 547,399 675,401 676,444 546,442

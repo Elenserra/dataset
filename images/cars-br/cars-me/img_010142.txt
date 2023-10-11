@@ -1,0 +1,4 @@
+type: car
+plate: MQD6J75
+layout: Mercosur
+corners: 545,426 673,427 675,469 545,468

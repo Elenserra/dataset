@@ -1,0 +1,4 @@
+type: car
+plate: ODQ5F55
+layout: Mercosur
+corners: 790,341 923,337 927,380 792,385

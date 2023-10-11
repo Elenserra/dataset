@@ -1,0 +1,4 @@
+type: car
+plate: PPQ1H11
+layout: Mercosur
+corners: 741,317 870,318 870,360 742,360

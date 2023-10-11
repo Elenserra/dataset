@@ -1,0 +1,4 @@
+type: car
+plate: QRF6J24
+layout: Mercosur
+corners: 643,276 766,278 767,318 646,315

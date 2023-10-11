@@ -1,0 +1,4 @@
+type: car
+plate: QRE8A73
+layout: Mercosur
+corners: 542,360 659,360 661,397 543,397

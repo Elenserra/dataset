@@ -1,0 +1,4 @@
+type: car
+plate: PVG4H41
+layout: Mercosur
+corners: 688,329 818,330 819,373 689,370

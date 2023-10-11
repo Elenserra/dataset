@@ -1,0 +1,4 @@
+type: car
+plate: HZO9C38
+layout: Mercosur
+corners: 631,265 740,264 741,299 632,300

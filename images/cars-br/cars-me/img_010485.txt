@@ -1,0 +1,4 @@
+type: car
+plate: QRI5H50
+layout: Mercosur
+corners: 531,319 644,320 645,357 533,356

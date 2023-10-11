@@ -1,0 +1,4 @@
+type: car
+plate: PPX1B16
+layout: Mercosur
+corners: 543,407 674,407 676,449 545,449

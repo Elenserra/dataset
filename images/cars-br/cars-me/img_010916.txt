@@ -1,0 +1,4 @@
+type: car
+plate: PPL7D56
+layout: Mercosur
+corners: 550,385 672,385 673,424 552,424

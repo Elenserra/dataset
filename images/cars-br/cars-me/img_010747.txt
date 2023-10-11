@@ -1,0 +1,4 @@
+type: car
+plate: OYJ2G38
+layout: Mercosur
+corners: 642,320 749,320 750,353 643,353

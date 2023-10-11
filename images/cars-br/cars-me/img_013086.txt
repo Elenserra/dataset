@@ -1,0 +1,4 @@
+type: car
+plate: PPI2F32
+layout: Mercosur
+corners: 698,298 817,299 817,337 699,336

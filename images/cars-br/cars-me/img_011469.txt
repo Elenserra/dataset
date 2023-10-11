@@ -1,0 +1,4 @@
+type: car
+plate: OCY4B99
+layout: Mercosur
+corners: 491,374 618,374 620,417 493,414

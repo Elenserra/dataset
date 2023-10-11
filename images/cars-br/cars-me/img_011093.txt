@@ -1,0 +1,4 @@
+type: car
+plate: QRI7G14
+layout: Mercosur
+corners: 588,363 714,362 717,407 590,407

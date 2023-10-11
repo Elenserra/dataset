@@ -1,0 +1,4 @@
+type: car
+plate: MRA8F55
+layout: Mercosur
+corners: 815,346 948,346 950,388 815,388

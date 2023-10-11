@@ -1,0 +1,4 @@
+type: car
+plate: MSP6B30
+layout: Mercosur
+corners: 769,355 903,357 903,400 770,398

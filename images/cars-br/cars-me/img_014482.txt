@@ -1,0 +1,4 @@
+type: car
+plate: LQI7E51
+layout: Mercosur
+corners: 790,325 923,323 927,366 791,368

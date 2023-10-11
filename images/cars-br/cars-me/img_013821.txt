@@ -1,0 +1,4 @@
+type: car
+plate: MRH3I08
+layout: Mercosur
+corners: 1077,212 1155,212 1154,237 1077,236

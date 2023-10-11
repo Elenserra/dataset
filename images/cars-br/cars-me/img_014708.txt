@@ -1,0 +1,4 @@
+type: car
+plate: MRG8H88
+layout: Mercosur
+corners: 749,296 889,294 891,340 751,341

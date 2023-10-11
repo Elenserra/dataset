@@ -1,0 +1,4 @@
+type: car
+plate: PPC6J02
+layout: Mercosur
+corners: 595,371 722,374 723,416 596,411

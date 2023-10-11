@@ -1,0 +1,4 @@
+type: car
+plate: MTN8B36
+layout: Mercosur
+corners: 759,333 893,330 896,373 762,376

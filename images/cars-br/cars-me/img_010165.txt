@@ -1,0 +1,4 @@
+type: car
+plate: OCW3F41
+layout: Mercosur
+corners: 511,453 642,454 643,494 513,493

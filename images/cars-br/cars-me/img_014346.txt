@@ -1,0 +1,4 @@
+type: car
+plate: OVJ2H68
+layout: Mercosur
+corners: 830,353 964,350 966,393 832,394

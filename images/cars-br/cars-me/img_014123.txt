@@ -1,0 +1,4 @@
+type: car
+plate: QRG3J91
+layout: Mercosur
+corners: 729,313 858,310 862,353 732,355

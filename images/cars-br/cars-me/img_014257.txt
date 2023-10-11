@@ -1,0 +1,4 @@
+type: car
+plate: OCZ6A95
+layout: Mercosur
+corners: 964,147 1056,146 1056,178 964,179

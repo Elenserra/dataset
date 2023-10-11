@@ -1,0 +1,4 @@
+type: car
+plate: PPC4B61
+layout: Mercosur
+corners: 798,230 903,232 903,267 797,265

@@ -1,0 +1,4 @@
+type: car
+plate: LRL1C72
+layout: Mercosur
+corners: 668,321 799,323 799,366 668,366

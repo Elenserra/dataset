@@ -1,0 +1,4 @@
+type: car
+plate: OAY9J09
+layout: Mercosur
+corners: 654,215 756,217 758,249 653,248

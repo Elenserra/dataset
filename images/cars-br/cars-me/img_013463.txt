@@ -1,0 +1,4 @@
+type: car
+plate: MSM2B80
+layout: Mercosur
+corners: 699,278 816,280 816,317 699,316

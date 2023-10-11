@@ -1,0 +1,4 @@
+type: car
+plate: LTS8J63
+layout: Mercosur
+corners: 611,306 733,311 732,349 611,346

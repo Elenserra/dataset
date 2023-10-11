@@ -1,0 +1,4 @@
+type: car
+plate: QRI2D39
+layout: Mercosur
+corners: 506,303 631,305 632,346 506,346

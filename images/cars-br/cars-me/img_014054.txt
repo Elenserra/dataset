@@ -1,0 +1,4 @@
+type: car
+plate: QRK3G80
+layout: Mercosur
+corners: 997,119 1074,116 1077,143 997,144

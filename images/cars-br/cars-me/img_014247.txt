@@ -1,0 +1,4 @@
+type: car
+plate: KWI3G45
+layout: Mercosur
+corners: 955,211 1062,207 1064,244 957,245

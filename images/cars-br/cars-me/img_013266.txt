@@ -1,0 +1,4 @@
+type: car
+plate: FGQ8A31
+layout: Mercosur
+corners: 656,358 784,362 784,402 656,399

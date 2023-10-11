@@ -1,0 +1,4 @@
+type: car
+plate: RBA6C23
+layout: Mercosur
+corners: 668,303 785,304 786,343 666,340

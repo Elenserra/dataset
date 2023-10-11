@@ -1,0 +1,4 @@
+type: car
+plate: QRE2E62
+layout: Mercosur
+corners: 775,368 909,366 912,410 777,411

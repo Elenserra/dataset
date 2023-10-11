@@ -1,0 +1,4 @@
+type: car
+plate: LLC5E73
+layout: Mercosur
+corners: 809,143 903,151 902,182 808,174

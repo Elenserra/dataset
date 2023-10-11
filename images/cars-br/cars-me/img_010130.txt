@@ -1,0 +1,4 @@
+type: car
+plate: MTN1C90
+layout: Mercosur
+corners: 531,410 659,411 660,450 533,450

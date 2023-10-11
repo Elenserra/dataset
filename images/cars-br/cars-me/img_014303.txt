@@ -1,0 +1,4 @@
+type: car
+plate: ODF3J43
+layout: Mercosur
+corners: 837,326 970,326 973,369 838,369

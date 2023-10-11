@@ -1,0 +1,4 @@
+type: car
+plate: MSY0D77
+layout: Mercosur
+corners: 590,365 709,366 710,405 591,403

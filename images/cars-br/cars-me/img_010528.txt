@@ -1,0 +1,4 @@
+type: car
+plate: MRO1C22
+layout: Mercosur
+corners: 672,204 763,202 764,229 673,231

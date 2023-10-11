@@ -1,0 +1,4 @@
+type: car
+plate: PPK6G53
+layout: Mercosur
+corners: 502,321 628,323 631,364 501,364

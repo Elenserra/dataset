@@ -1,0 +1,4 @@
+type: car
+plate: MQX6A27
+layout: Mercosur
+corners: 799,313 926,310 930,353 800,355

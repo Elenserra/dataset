@@ -1,0 +1,4 @@
+type: car
+plate: PPK1C27
+layout: Mercosur
+corners: 506,312 627,311 629,350 508,352

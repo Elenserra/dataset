@@ -1,0 +1,4 @@
+type: car
+plate: PPC0E08
+layout: Mercosur
+corners: 538,365 654,367 655,404 541,402

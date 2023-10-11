@@ -1,0 +1,4 @@
+type: car
+plate: PPH3A72
+layout: Mercosur
+corners: 773,187 869,190 869,221 783,219

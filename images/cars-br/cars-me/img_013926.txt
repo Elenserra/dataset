@@ -1,0 +1,4 @@
+type: car
+plate: MTB2D58
+layout: Mercosur
+corners: 808,362 948,360 950,407 808,410

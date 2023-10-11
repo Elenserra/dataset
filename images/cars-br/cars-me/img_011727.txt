@@ -1,0 +1,4 @@
+type: car
+plate: ODL2J49
+layout: Mercosur
+corners: 197,577 369,584 378,637 204,630

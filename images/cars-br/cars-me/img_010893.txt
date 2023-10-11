@@ -1,0 +1,4 @@
+type: car
+plate: OVI0H54
+layout: Mercosur
+corners: 566,378 686,380 686,417 569,416

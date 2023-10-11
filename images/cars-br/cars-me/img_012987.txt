@@ -1,0 +1,4 @@
+type: car
+plate: MPW8E90
+layout: Mercosur
+corners: 634,343 757,345 758,384 634,380

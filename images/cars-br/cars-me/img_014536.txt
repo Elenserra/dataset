@@ -1,0 +1,4 @@
+type: car
+plate: DMQ1G17
+layout: Mercosur
+corners: 763,332 894,328 895,373 763,375

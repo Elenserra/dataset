@@ -1,0 +1,4 @@
+type: car
+plate: OYG1A47
+layout: Mercosur
+corners: 567,217 677,217 678,253 567,253

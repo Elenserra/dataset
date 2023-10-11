@@ -1,0 +1,4 @@
+type: car
+plate: IZP1B88
+layout: Mercosur
+corners: 596,276 720,278 722,320 596,318

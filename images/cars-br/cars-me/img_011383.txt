@@ -1,0 +1,4 @@
+type: car
+plate: QRF5F58
+layout: Mercosur
+corners: 550,368 675,368 677,412 551,411

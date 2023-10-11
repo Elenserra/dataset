@@ -1,0 +1,4 @@
+type: car
+plate: QRM9H75
+layout: Mercosur
+corners: 664,247 775,248 777,286 665,284

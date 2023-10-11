@@ -1,0 +1,4 @@
+type: car
+plate: ODI9A60
+layout: Mercosur
+corners: 704,288 821,291 821,329 704,326

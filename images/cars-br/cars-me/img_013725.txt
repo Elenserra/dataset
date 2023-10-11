@@ -1,0 +1,4 @@
+type: car
+plate: QRE4D82
+layout: Mercosur
+corners: 680,297 802,298 804,340 680,338

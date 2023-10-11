@@ -1,0 +1,4 @@
+type: car
+plate: CVE3D31
+layout: Mercosur
+corners: 454,384 585,385 588,431 455,428

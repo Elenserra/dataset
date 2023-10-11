@@ -1,0 +1,4 @@
+type: car
+plate: BAZ2E27
+layout: Mercosur
+corners: 826,312 954,310 959,352 827,354

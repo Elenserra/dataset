@@ -1,0 +1,4 @@
+type: car
+plate: MTQ9G82
+layout: Mercosur
+corners: 794,331 926,329 930,373 795,375

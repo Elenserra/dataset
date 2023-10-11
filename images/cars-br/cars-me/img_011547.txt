@@ -1,0 +1,4 @@
+type: car
+plate: NRH4J45
+layout: Mercosur
+corners: 544,388 668,389 671,431 546,430

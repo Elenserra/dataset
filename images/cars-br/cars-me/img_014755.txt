@@ -1,0 +1,4 @@
+type: car
+plate: OVL2G76
+layout: Mercosur
+corners: 787,387 926,389 928,435 790,433

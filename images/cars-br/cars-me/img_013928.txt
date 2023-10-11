@@ -1,0 +1,4 @@
+type: car
+plate: PPL3D44
+layout: Mercosur
+corners: 823,323 956,322 959,367 824,369

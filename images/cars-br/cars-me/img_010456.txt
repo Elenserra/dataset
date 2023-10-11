@@ -1,0 +1,4 @@
+type: car
+plate: OVE8D86
+layout: Mercosur
+corners: 854,88 919,88 919,109 854,110

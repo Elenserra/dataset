@@ -1,0 +1,4 @@
+type: car
+plate: PPN1G33
+layout: Mercosur
+corners: 787,270 910,267 913,310 790,312

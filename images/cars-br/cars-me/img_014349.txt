@@ -1,0 +1,4 @@
+type: car
+plate: PPS5F77
+layout: Mercosur
+corners: 671,324 800,323 801,370 670,370

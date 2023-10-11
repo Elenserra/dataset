@@ -1,0 +1,4 @@
+type: car
+plate: PZA0E51
+layout: Mercosur
+corners: 543,392 668,393 670,430 544,431

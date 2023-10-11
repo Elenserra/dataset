@@ -1,0 +1,4 @@
+type: car
+plate: OYF4H41
+layout: Mercosur
+corners: 735,287 866,285 869,329 735,330

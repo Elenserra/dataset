@@ -1,0 +1,4 @@
+type: car
+plate: PPC8B32
+layout: Mercosur
+corners: 790,297 915,296 917,336 792,338

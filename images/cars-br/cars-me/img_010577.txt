@@ -1,0 +1,4 @@
+type: car
+plate: MSK0D82
+layout: Mercosur
+corners: 660,273 762,274 763,308 659,307

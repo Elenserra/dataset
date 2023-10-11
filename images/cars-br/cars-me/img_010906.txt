@@ -1,0 +1,4 @@
+type: car
+plate: PXE9D61
+layout: Mercosur
+corners: 579,407 706,408 706,450 579,448

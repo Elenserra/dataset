@@ -1,0 +1,4 @@
+type: car
+plate: FYO6F35
+layout: Mercosur
+corners: 563,286 687,281 689,321 565,325

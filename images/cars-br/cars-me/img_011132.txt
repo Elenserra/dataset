@@ -1,0 +1,4 @@
+type: car
+plate: QRG4A67
+layout: Mercosur
+corners: 508,338 635,338 636,381 508,380

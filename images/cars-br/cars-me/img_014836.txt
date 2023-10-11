@@ -1,0 +1,4 @@
+type: car
+plate: PPM2C79
+layout: Mercosur
+corners: 716,337 853,346 851,391 716,382

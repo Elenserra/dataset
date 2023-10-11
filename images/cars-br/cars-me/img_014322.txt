@@ -1,0 +1,4 @@
+type: car
+plate: ERH9C18
+layout: Mercosur
+corners: 823,330 954,329 957,375 824,374

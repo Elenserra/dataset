@@ -1,0 +1,4 @@
+type: car
+plate: PUC1B69
+layout: Mercosur
+corners: 672,262 772,262 773,292 673,293

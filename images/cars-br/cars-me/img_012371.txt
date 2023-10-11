@@ -1,0 +1,4 @@
+type: car
+plate: OVF7E15
+layout: Mercosur
+corners: 568,401 699,405 700,447 569,442

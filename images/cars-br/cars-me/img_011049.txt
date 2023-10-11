@@ -1,0 +1,4 @@
+type: car
+plate: FIC5H05
+layout: Mercosur
+corners: 481,380 613,380 615,426 481,426

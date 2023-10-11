@@ -1,0 +1,4 @@
+type: car
+plate: ODQ5C77
+layout: Mercosur
+corners: 845,318 973,314 975,357 845,359

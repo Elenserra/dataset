@@ -1,0 +1,4 @@
+type: car
+plate: MPZ2A30
+layout: Mercosur
+corners: 582,294 705,292 707,331 584,333

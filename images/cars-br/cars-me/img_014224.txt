@@ -1,0 +1,4 @@
+type: car
+plate: MTZ8G91
+layout: Mercosur
+corners: 836,323 963,322 967,365 835,368

@@ -1,0 +1,4 @@
+type: car
+plate: OVJ8I28
+layout: Mercosur
+corners: 830,311 959,310 960,353 830,355

@@ -1,0 +1,4 @@
+type: car
+plate: OMW4F90
+layout: Mercosur
+corners: 595,416 748,425 748,476 595,466

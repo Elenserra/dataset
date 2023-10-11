@@ -1,0 +1,4 @@
+type: car
+plate: PPT6D95
+layout: Mercosur
+corners: 634,326 772,335 771,380 633,372

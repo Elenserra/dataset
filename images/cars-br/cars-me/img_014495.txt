@@ -1,0 +1,4 @@
+type: car
+plate: MTX0E31
+layout: Mercosur
+corners: 805,315 932,315 934,356 808,357

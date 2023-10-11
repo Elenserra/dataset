@@ -1,0 +1,4 @@
+type: car
+plate: QRB1A40
+layout: Mercosur
+corners: 426,360 562,364 565,410 427,407

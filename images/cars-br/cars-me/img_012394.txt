@@ -1,0 +1,4 @@
+type: car
+plate: MQO6J29
+layout: Mercosur
+corners: 696,367 822,370 823,412 697,409

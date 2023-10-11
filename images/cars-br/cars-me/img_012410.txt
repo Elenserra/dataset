@@ -1,0 +1,4 @@
+type: car
+plate: QRE6A34
+layout: Mercosur
+corners: 702,128 790,128 790,154 703,154

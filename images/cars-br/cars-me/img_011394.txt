@@ -1,0 +1,4 @@
+type: car
+plate: MSY2H42
+layout: Mercosur
+corners: 559,395 685,398 691,437 563,434

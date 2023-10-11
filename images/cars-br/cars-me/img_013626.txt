@@ -1,0 +1,4 @@
+type: car
+plate: LKW9I81
+layout: Mercosur
+corners: 635,298 762,301 765,343 637,342

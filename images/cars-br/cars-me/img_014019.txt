@@ -1,0 +1,4 @@
+type: car
+plate: ODH6I28
+layout: Mercosur
+corners: 797,378 940,379 940,426 800,426

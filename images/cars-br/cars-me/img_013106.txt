@@ -1,0 +1,4 @@
+type: car
+plate: MSI8C39
+layout: Mercosur
+corners: 652,322 776,324 777,365 654,362

@@ -1,0 +1,4 @@
+type: car
+plate: QRE0D90
+layout: Mercosur
+corners: 819,343 953,343 955,387 819,388

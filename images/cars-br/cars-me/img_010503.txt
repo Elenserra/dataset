@@ -1,0 +1,4 @@
+type: car
+plate: PPT0C87
+layout: Mercosur
+corners: 500,365 628,366 628,408 502,407

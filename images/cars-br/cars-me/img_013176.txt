@@ -1,0 +1,4 @@
+type: car
+plate: OVK2B77
+layout: Mercosur
+corners: 714,274 830,275 830,314 715,312

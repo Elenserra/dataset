@@ -1,0 +1,4 @@
+type: car
+plate: OYJ2B92
+layout: Mercosur
+corners: 676,211 779,209 782,242 676,244

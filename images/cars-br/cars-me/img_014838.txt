@@ -1,0 +1,4 @@
+type: car
+plate: PPU5D61
+layout: Mercosur
+corners: 629,341 766,350 765,396 628,386

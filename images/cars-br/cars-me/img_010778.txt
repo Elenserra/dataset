@@ -1,0 +1,4 @@
+type: car
+plate: QRH5H65
+layout: Mercosur
+corners: 566,346 687,348 688,385 567,384

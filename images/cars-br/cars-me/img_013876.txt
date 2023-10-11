@@ -1,0 +1,4 @@
+type: car
+plate: OGJ7F45
+layout: Mercosur
+corners: 723,274 848,273 850,316 725,316

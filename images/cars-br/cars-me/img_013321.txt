@@ -1,0 +1,4 @@
+type: car
+plate: QRH1D98
+layout: Mercosur
+corners: 668,219 782,221 782,260 669,258

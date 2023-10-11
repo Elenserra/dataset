@@ -1,0 +1,4 @@
+type: car
+plate: QMM0E07
+layout: Mercosur
+corners: 625,293 728,293 729,327 625,327

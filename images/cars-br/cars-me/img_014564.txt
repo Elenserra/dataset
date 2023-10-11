@@ -1,0 +1,4 @@
+type: car
+plate: QRH5J64
+layout: Mercosur
+corners: 834,284 960,283 961,325 834,326

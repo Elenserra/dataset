@@ -1,0 +1,4 @@
+type: car
+plate: QQU1H68
+layout: Mercosur
+corners: 399,391 520,395 524,435 400,431

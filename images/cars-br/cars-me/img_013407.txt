@@ -1,0 +1,4 @@
+type: car
+plate: DHX8I38
+layout: Mercosur
+corners: 598,342 724,344 725,387 599,384

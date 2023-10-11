@@ -1,0 +1,4 @@
+type: car
+plate: QRF1G27
+layout: Mercosur
+corners: 519,404 649,405 651,446 522,445

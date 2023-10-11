@@ -1,0 +1,4 @@
+type: car
+plate: OCW8I97
+layout: Mercosur
+corners: 809,340 941,340 942,383 809,382

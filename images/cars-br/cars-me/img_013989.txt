@@ -1,0 +1,4 @@
+type: car
+plate: OYH9H60
+layout: Mercosur
+corners: 807,337 940,334 942,379 806,381

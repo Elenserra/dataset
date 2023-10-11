@@ -1,0 +1,4 @@
+type: car
+plate: OYD8F13
+layout: Mercosur
+corners: 799,318 928,316 930,361 799,361

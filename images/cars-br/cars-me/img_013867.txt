@@ -1,0 +1,4 @@
+type: car
+plate: MQL6F25
+layout: Mercosur
+corners: 802,346 935,343 938,386 805,388

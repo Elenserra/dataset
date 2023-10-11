@@ -1,0 +1,4 @@
+type: car
+plate: LLW9H49
+layout: Mercosur
+corners: 844,320 974,319 976,362 846,361

@@ -1,0 +1,4 @@
+type: car
+plate: HMH1F04
+layout: Mercosur
+corners: 525,373 646,373 648,415 528,414

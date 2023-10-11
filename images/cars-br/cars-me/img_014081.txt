@@ -1,0 +1,4 @@
+type: car
+plate: ODP0F18
+layout: Mercosur
+corners: 782,359 916,357 919,403 784,402

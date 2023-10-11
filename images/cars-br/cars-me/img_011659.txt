@@ -1,0 +1,4 @@
+type: car
+plate: MWA4A64
+layout: Mercosur
+corners: 591,316 721,315 724,354 595,355

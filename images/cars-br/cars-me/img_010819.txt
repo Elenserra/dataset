@@ -1,0 +1,4 @@
+type: car
+plate: LNH9G59
+layout: Mercosur
+corners: 497,427 623,428 624,467 498,466

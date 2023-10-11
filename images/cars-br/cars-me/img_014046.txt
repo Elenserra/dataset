@@ -1,0 +1,4 @@
+type: car
+plate: OYK0G72
+layout: Mercosur
+corners: 688,281 823,278 828,324 690,325

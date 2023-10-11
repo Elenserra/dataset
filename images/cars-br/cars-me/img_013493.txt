@@ -1,0 +1,4 @@
+type: car
+plate: QRL8I22
+layout: Mercosur
+corners: 616,315 741,318 742,358 616,355

@@ -1,0 +1,4 @@
+type: car
+plate: PPD4B10
+layout: Mercosur
+corners: 672,325 799,328 799,370 673,366

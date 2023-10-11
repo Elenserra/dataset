@@ -1,0 +1,4 @@
+type: car
+plate: OVK1G80
+layout: Mercosur
+corners: 488,383 609,384 609,425 490,423

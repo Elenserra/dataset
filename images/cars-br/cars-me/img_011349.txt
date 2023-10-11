@@ -1,0 +1,4 @@
+type: car
+plate: MSA9G79
+layout: Mercosur
+corners: 565,368 695,369 694,412 565,412

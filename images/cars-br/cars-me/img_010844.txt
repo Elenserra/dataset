@@ -1,0 +1,4 @@
+type: car
+plate: PVH4H48
+layout: Mercosur
+corners: 511,414 637,415 638,456 512,454

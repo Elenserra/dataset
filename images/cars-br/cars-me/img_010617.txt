@@ -1,0 +1,4 @@
+type: car
+plate: QRG2I94
+layout: Mercosur
+corners: 507,418 639,420 640,463 510,461

@@ -1,0 +1,4 @@
+type: car
+plate: OCV6J28
+layout: Mercosur
+corners: 552,376 665,376 666,409 553,409

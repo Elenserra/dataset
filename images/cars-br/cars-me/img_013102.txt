@@ -1,0 +1,4 @@
+type: car
+plate: QRJ3J18
+layout: Mercosur
+corners: 634,359 765,362 765,405 636,402

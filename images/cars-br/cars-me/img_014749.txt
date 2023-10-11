@@ -1,0 +1,4 @@
+type: car
+plate: MSZ5G17
+layout: Mercosur
+corners: 792,331 926,330 926,373 795,374

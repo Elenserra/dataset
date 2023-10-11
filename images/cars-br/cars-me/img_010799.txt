@@ -1,0 +1,4 @@
+type: car
+plate: MTA6C01
+layout: Mercosur
+corners: 589,338 713,338 713,379 590,378

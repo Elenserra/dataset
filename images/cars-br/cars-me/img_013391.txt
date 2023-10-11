@@ -1,0 +1,4 @@
+type: car
+plate: PPD3B44
+layout: Mercosur
+corners: 757,256 870,257 871,292 759,291

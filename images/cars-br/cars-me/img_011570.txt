@@ -1,0 +1,4 @@
+type: car
+plate: KXC7F34
+layout: Mercosur
+corners: 546,375 676,375 678,417 545,417

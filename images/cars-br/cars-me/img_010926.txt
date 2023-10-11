@@ -1,0 +1,4 @@
+type: car
+plate: QRK7E99
+layout: Mercosur
+corners: 599,344 713,345 714,382 599,382

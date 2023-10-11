@@ -1,0 +1,4 @@
+type: car
+plate: MSZ8J48
+layout: Mercosur
+corners: 812,310 940,307 943,351 811,354

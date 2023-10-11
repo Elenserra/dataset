@@ -1,0 +1,4 @@
+type: car
+plate: MSJ4C70
+layout: Mercosur
+corners: 875,266 989,260 993,294 877,300

@@ -1,0 +1,4 @@
+type: car
+plate: PZR8A68
+layout: Mercosur
+corners: 860,138 934,137 934,163 860,163

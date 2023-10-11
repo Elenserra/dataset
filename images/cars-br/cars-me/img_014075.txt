@@ -1,0 +1,4 @@
+type: car
+plate: QRG3E56
+layout: Mercosur
+corners: 767,309 904,306 907,351 769,352

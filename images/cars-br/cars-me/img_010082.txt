@@ -1,0 +1,4 @@
+type: car
+plate: ODE9F64
+layout: Mercosur
+corners: 566,385 693,386 695,427 567,425

@@ -1,0 +1,4 @@
+type: car
+plate: QRK8E32
+layout: Mercosur
+corners: 632,305 758,308 758,350 632,346

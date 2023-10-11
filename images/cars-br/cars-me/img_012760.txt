@@ -1,0 +1,4 @@
+type: car
+plate: ORZ2J25
+layout: Mercosur
+corners: 606,304 733,304 732,347 608,345

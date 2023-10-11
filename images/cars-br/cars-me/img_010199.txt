@@ -1,0 +1,4 @@
+type: car
+plate: HIU3B81
+layout: Mercosur
+corners: 475,415 610,416 611,461 478,461

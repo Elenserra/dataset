@@ -1,0 +1,4 @@
+type: car
+plate: MSU6A75
+layout: Mercosur
+corners: 711,276 826,278 826,317 711,314

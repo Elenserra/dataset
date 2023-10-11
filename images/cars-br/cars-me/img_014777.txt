@@ -1,0 +1,4 @@
+type: car
+plate: MSP3I66
+layout: Mercosur
+corners: 621,311 761,320 760,367 621,356

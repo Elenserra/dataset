@@ -1,0 +1,4 @@
+type: car
+plate: MPP1F53
+layout: Mercosur
+corners: 644,269 747,266 750,299 646,302

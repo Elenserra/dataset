@@ -1,0 +1,4 @@
+type: car
+plate: MTA9E84
+layout: Mercosur
+corners: 636,241 750,240 751,278 636,278

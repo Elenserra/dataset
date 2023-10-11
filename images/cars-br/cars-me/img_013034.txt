@@ -1,0 +1,4 @@
+type: car
+plate: MRV1G11
+layout: Mercosur
+corners: 649,314 767,316 769,352 652,350

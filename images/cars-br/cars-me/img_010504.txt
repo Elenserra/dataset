@@ -1,0 +1,4 @@
+type: car
+plate: EGH9H47
+layout: Mercosur
+corners: 450,473 584,475 585,516 452,513

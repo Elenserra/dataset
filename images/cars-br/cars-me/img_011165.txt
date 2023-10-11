@@ -1,0 +1,4 @@
+type: car
+plate: FWL8I13
+layout: Mercosur
+corners: 494,401 622,402 624,443 497,440

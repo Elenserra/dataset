@@ -1,0 +1,4 @@
+type: car
+plate: QRE9I25
+layout: Mercosur
+corners: 532,389 657,388 658,427 534,427

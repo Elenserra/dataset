@@ -1,0 +1,4 @@
+type: car
+plate: ODQ9D01
+layout: Mercosur
+corners: 763,320 896,319 898,363 765,364

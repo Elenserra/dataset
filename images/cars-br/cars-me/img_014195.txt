@@ -1,0 +1,4 @@
+type: car
+plate: OYG5H67
+layout: Mercosur
+corners: 798,349 930,348 932,391 800,391

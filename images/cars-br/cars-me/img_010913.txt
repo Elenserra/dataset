@@ -1,0 +1,4 @@
+type: car
+plate: PXE9A29
+layout: Mercosur
+corners: 651,331 767,331 766,367 652,368

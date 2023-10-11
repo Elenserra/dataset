@@ -1,0 +1,4 @@
+type: car
+plate: PYX4J16
+layout: Mercosur
+corners: 526,386 659,387 659,430 527,429

@@ -1,0 +1,4 @@
+type: car
+plate: LLW4E50
+layout: Mercosur
+corners: 758,365 894,363 898,407 761,410

@@ -1,0 +1,4 @@
+type: car
+plate: QOO9B08
+layout: Mercosur
+corners: 575,332 689,332 690,367 576,368

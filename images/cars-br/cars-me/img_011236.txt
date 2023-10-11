@@ -1,0 +1,4 @@
+type: car
+plate: PPM1J55
+layout: Mercosur
+corners: 695,192 792,189 793,222 698,224

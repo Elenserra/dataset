@@ -1,0 +1,4 @@
+type: car
+plate: AZE3G20
+layout: Mercosur
+corners: 781,332 914,335 914,381 780,376

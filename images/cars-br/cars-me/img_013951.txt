@@ -1,0 +1,4 @@
+type: car
+plate: JQX6F45
+layout: Mercosur
+corners: 813,316 940,317 942,359 814,359

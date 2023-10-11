@@ -1,0 +1,4 @@
+type: car
+plate: FXK2F21
+layout: Mercosur
+corners: 812,325 941,323 943,366 814,367

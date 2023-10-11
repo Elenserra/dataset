@@ -1,0 +1,4 @@
+type: car
+plate: PLN7I35
+layout: Mercosur
+corners: 538,328 660,329 663,371 540,369

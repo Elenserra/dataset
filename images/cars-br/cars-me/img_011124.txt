@@ -1,0 +1,4 @@
+type: car
+plate: JRJ7E37
+layout: Mercosur
+corners: 568,316 695,318 698,360 570,357

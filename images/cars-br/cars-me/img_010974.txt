@@ -1,0 +1,4 @@
+type: car
+plate: ODG8B30
+layout: Mercosur
+corners: 656,296 760,294 762,327 657,329

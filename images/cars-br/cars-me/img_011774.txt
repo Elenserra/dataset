@@ -1,0 +1,4 @@
+type: car
+plate: ODM9C67
+layout: Mercosur
+corners: 602,375 723,377 726,417 604,414

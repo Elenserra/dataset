@@ -1,0 +1,4 @@
+type: car
+plate: PPW7B55
+layout: Mercosur
+corners: 793,358 926,355 930,400 795,399

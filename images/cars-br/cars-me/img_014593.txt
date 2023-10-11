@@ -1,0 +1,4 @@
+type: car
+plate: JVY2B77
+layout: Mercosur
+corners: 726,325 867,320 872,363 731,368

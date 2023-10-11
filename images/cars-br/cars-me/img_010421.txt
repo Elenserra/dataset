@@ -1,0 +1,4 @@
+type: car
+plate: QRF4G12
+layout: Mercosur
+corners: 673,224 771,223 771,255 674,256

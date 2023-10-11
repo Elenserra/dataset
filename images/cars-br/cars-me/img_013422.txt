@@ -1,0 +1,4 @@
+type: car
+plate: PPA3B28
+layout: Mercosur
+corners: 636,281 761,282 761,324 637,321

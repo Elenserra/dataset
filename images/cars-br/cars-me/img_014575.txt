@@ -1,0 +1,4 @@
+type: car
+plate: IVX7F25
+layout: Mercosur
+corners: 814,350 945,346 950,388 815,393

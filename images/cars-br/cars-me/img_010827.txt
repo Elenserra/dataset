@@ -1,0 +1,4 @@
+type: car
+plate: MSV0I56
+layout: Mercosur
+corners: 560,407 685,408 685,449 561,447

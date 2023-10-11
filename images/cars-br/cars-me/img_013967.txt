@@ -1,0 +1,4 @@
+type: car
+plate: QRL4G82
+layout: Mercosur
+corners: 777,322 908,321 912,363 779,365

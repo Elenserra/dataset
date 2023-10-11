@@ -1,0 +1,4 @@
+type: car
+plate: QRI9E70
+layout: Mercosur
+corners: 617,261 728,260 728,297 619,297

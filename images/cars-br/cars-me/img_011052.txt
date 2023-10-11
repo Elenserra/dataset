@@ -1,0 +1,4 @@
+type: car
+plate: MQR6B07
+layout: Mercosur
+corners: 790,346 925,342 927,386 790,389

@@ -1,0 +1,4 @@
+type: car
+plate: OYD6B25
+layout: Mercosur
+corners: 919,131 1008,127 1010,158 921,161

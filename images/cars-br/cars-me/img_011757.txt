@@ -1,0 +1,4 @@
+type: car
+plate: PPZ2J20
+layout: Mercosur
+corners: 522,330 647,334 648,376 522,373

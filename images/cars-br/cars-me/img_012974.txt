@@ -1,0 +1,4 @@
+type: car
+plate: ODA9F70
+layout: Mercosur
+corners: 692,314 814,315 815,354 694,354

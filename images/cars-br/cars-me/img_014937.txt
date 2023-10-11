@@ -1,0 +1,4 @@
+type: car
+plate: PPF6H18
+layout: Mercosur
+corners: 598,327 734,336 732,382 598,374

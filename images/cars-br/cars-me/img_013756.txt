@@ -1,0 +1,4 @@
+type: car
+plate: QRH7D94
+layout: Mercosur
+corners: 867,29 946,29 946,56 868,55

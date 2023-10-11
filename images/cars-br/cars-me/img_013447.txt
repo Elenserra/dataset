@@ -1,0 +1,4 @@
+type: car
+plate: MTU1I44
+layout: Mercosur
+corners: 658,308 783,310 783,355 657,351

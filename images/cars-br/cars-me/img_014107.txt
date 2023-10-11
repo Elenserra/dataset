@@ -1,0 +1,4 @@
+type: car
+plate: FFP2B85
+layout: Mercosur
+corners: 766,334 897,331 900,376 766,377

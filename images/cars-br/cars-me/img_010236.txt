@@ -1,0 +1,4 @@
+type: car
+plate: QRF3B07
+layout: Mercosur
+corners: 687,209 778,209 777,238 687,239

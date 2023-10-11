@@ -1,0 +1,4 @@
+type: car
+plate: PPU4G83
+layout: Mercosur
+corners: 793,303 924,299 927,344 792,347

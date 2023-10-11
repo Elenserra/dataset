@@ -1,0 +1,4 @@
+type: car
+plate: OYE4F45
+layout: Mercosur
+corners: 828,297 949,296 949,332 830,335

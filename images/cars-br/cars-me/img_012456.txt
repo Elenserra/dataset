@@ -1,0 +1,4 @@
+type: car
+plate: OCY5C93
+layout: Mercosur
+corners: 663,330 784,332 783,373 664,369

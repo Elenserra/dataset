@@ -1,0 +1,4 @@
+type: car
+plate: OYD4G31
+layout: Mercosur
+corners: 829,295 955,293 956,334 831,336

@@ -1,0 +1,4 @@
+type: car
+plate: HNF5J26
+layout: Mercosur
+corners: 713,313 836,314 837,356 715,353

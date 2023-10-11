@@ -1,0 +1,4 @@
+type: car
+plate: MQH1A02
+layout: Mercosur
+corners: 794,236 899,235 899,268 794,269

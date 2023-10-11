@@ -1,0 +1,4 @@
+type: car
+plate: PYG9J99
+layout: Mercosur
+corners: 545,354 674,355 676,397 547,396

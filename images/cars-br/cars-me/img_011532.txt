@@ -1,0 +1,4 @@
+type: car
+plate: QRF6H99
+layout: Mercosur
+corners: 540,309 658,309 660,350 540,351

@@ -1,0 +1,4 @@
+type: car
+plate: MTU9A42
+layout: Mercosur
+corners: 671,318 792,321 791,359 671,356

@@ -1,0 +1,4 @@
+type: car
+plate: OCZ2J46
+layout: Mercosur
+corners: 542,407 670,407 672,449 544,448

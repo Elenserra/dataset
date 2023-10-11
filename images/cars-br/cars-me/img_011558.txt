@@ -1,0 +1,4 @@
+type: car
+plate: FCY3J97
+layout: Mercosur
+corners: 509,382 636,384 636,427 511,424

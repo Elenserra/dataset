@@ -1,0 +1,4 @@
+type: car
+plate: PPE7H85
+layout: Mercosur
+corners: 778,356 913,354 917,400 781,400

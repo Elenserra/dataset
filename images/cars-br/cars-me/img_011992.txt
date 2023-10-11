@@ -1,0 +1,4 @@
+type: car
+plate: QRF1A66
+layout: Mercosur
+corners: 607,341 727,339 729,380 609,382

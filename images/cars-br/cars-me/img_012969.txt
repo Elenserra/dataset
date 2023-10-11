@@ -1,0 +1,4 @@
+type: car
+plate: QRG7G73
+layout: Mercosur
+corners: 656,350 782,354 782,393 657,390

@@ -1,0 +1,4 @@
+type: car
+plate: QRC9E14
+layout: Mercosur
+corners: 591,238 707,236 707,274 592,277

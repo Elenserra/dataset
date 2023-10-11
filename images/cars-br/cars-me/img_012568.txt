@@ -1,0 +1,4 @@
+type: car
+plate: KPE2A47
+layout: Mercosur
+corners: 816,199 918,199 917,233 817,232

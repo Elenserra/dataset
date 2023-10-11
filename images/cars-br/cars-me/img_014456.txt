@@ -1,0 +1,4 @@
+type: car
+plate: MTP1C03
+layout: Mercosur
+corners: 982,196 1079,193 1080,225 982,228

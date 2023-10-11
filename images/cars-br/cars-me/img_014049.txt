@@ -1,0 +1,4 @@
+type: car
+plate: MSM5H42
+layout: Mercosur
+corners: 775,343 908,344 910,389 775,389

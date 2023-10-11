@@ -1,0 +1,4 @@
+type: car
+plate: PPA1G90
+layout: Mercosur
+corners: 457,305 578,306 580,344 460,343

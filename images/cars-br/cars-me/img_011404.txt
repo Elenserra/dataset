@@ -1,0 +1,4 @@
+type: car
+plate: MRG2C10
+layout: Mercosur
+corners: 506,397 633,397 634,440 508,439

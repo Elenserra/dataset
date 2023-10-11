@@ -1,0 +1,4 @@
+type: car
+plate: FMA4B99
+layout: Mercosur
+corners: 664,312 792,313 794,356 665,355

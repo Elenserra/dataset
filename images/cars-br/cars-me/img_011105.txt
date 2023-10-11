@@ -1,0 +1,4 @@
+type: car
+plate: HLV1F04
+layout: Mercosur
+corners: 516,323 646,323 648,368 515,367

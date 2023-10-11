@@ -1,0 +1,4 @@
+type: car
+plate: OCY9D91
+layout: Mercosur
+corners: 875,170 965,171 965,199 876,200

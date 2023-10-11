@@ -1,0 +1,4 @@
+type: car
+plate: KYI8I45
+layout: Mercosur
+corners: 651,347 786,355 785,399 651,390

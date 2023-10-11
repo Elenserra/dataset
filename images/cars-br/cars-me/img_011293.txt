@@ -1,0 +1,4 @@
+type: car
+plate: QRC0I14
+layout: Mercosur
+corners: 501,398 634,400 638,441 503,442

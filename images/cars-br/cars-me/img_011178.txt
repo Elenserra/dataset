@@ -1,0 +1,4 @@
+type: car
+plate: MRC1F70
+layout: Mercosur
+corners: 603,402 729,402 730,440 605,441

@@ -1,0 +1,4 @@
+type: car
+plate: HOK5H41
+layout: Mercosur
+corners: 640,326 766,333 765,374 640,367

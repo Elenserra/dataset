@@ -1,0 +1,4 @@
+type: car
+plate: QRD5A25
+layout: Mercosur
+corners: 843,326 973,323 976,365 844,367

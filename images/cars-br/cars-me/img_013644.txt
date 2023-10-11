@@ -1,0 +1,4 @@
+type: car
+plate: QRL1C83
+layout: Mercosur
+corners: 578,267 708,269 711,313 579,311

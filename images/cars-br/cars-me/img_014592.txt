@@ -1,0 +1,4 @@
+type: car
+plate: MST9C17
+layout: Mercosur
+corners: 989,181 1088,179 1089,213 988,215

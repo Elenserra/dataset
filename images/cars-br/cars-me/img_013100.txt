@@ -1,0 +1,4 @@
+type: car
+plate: QRI2D78
+layout: Mercosur
+corners: 646,341 769,343 770,383 647,380

@@ -1,0 +1,4 @@
+type: car
+plate: QRK2J48
+layout: Mercosur
+corners: 646,268 748,268 749,301 647,302

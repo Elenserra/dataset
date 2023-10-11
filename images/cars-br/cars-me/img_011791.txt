@@ -1,0 +1,4 @@
+type: car
+plate: ODR1G32
+layout: Mercosur
+corners: 577,285 686,285 688,322 578,322

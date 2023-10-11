@@ -1,0 +1,4 @@
+type: car
+plate: RBA1I92
+layout: Mercosur
+corners: 564,253 692,256 694,300 564,298

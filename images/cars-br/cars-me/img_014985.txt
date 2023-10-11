@@ -1,0 +1,4 @@
+type: car
+plate: QRF2A03
+layout: Mercosur
+corners: 635,354 772,364 771,410 634,400

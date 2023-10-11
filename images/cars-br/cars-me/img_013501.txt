@@ -1,0 +1,4 @@
+type: car
+plate: PPL6E08
+layout: Mercosur
+corners: 696,304 822,305 823,347 696,345

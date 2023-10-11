@@ -1,0 +1,4 @@
+type: car
+plate: QOF2F07
+layout: Mercosur
+corners: 761,339 886,338 891,380 764,380

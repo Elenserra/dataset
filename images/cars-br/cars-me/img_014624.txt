@@ -1,0 +1,4 @@
+type: car
+plate: GKS7D42
+layout: Mercosur
+corners: 826,314 953,314 956,357 827,356

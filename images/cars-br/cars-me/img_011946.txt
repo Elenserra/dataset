@@ -1,0 +1,4 @@
+type: car
+plate: PPS2J74
+layout: Mercosur
+corners: 667,219 763,218 765,250 667,253

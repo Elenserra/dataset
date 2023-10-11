@@ -1,0 +1,4 @@
+type: car
+plate: MTZ4C23
+layout: Mercosur
+corners: 582,367 708,368 708,411 583,410

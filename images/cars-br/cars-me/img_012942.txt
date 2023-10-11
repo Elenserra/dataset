@@ -1,0 +1,4 @@
+type: car
+plate: LQY2F45
+layout: Mercosur
+corners: 633,330 754,332 754,371 634,370

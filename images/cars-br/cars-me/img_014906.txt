@@ -1,0 +1,4 @@
+type: car
+plate: LQQ4H80
+layout: Mercosur
+corners: 655,318 785,329 782,370 654,360

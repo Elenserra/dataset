@@ -1,0 +1,4 @@
+type: car
+plate: MQY4J84
+layout: Mercosur
+corners: 517,394 641,394 641,434 520,433

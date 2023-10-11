@@ -1,0 +1,4 @@
+type: car
+plate: QNC1B64
+layout: Mercosur
+corners: 463,352 595,353 598,397 463,394

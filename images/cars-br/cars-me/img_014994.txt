@@ -1,0 +1,4 @@
+type: car
+plate: MRK8C38
+layout: Mercosur
+corners: 647,364 786,372 783,419 646,410

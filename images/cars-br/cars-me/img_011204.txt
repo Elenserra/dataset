@@ -1,0 +1,4 @@
+type: car
+plate: HHZ3I47
+layout: Mercosur
+corners: 598,403 717,403 722,440 601,442

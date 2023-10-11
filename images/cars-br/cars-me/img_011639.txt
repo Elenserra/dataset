@@ -1,0 +1,4 @@
+type: car
+plate: MTS5D92
+layout: Mercosur
+corners: 560,406 686,405 687,450 561,449

@@ -1,0 +1,4 @@
+type: car
+plate: OYI3E43
+layout: Mercosur
+corners: 663,268 785,269 787,310 663,308

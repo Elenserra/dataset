@@ -1,0 +1,4 @@
+type: car
+plate: PPB0E63
+layout: Mercosur
+corners: 473,423 598,425 600,465 474,461

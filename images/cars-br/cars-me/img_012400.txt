@@ -1,0 +1,4 @@
+type: car
+plate: PPL1H66
+layout: Mercosur
+corners: 622,256 735,257 734,295 624,295

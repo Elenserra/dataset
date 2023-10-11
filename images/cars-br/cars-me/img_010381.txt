@@ -1,0 +1,4 @@
+type: car
+plate: PPL9G80
+layout: Mercosur
+corners: 535,393 661,395 662,437 536,435

@@ -1,0 +1,4 @@
+type: car
+plate: QRI8E86
+layout: Mercosur
+corners: 561,360 688,358 690,402 562,401

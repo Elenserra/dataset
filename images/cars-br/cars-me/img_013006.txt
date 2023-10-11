@@ -1,0 +1,4 @@
+type: car
+plate: PPE5G09
+layout: Mercosur
+corners: 769,220 875,222 874,257 770,254

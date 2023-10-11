@@ -1,0 +1,4 @@
+type: car
+plate: LTK3J00
+layout: Mercosur
+corners: 513,353 643,351 646,397 515,397

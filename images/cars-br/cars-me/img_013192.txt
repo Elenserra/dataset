@@ -1,0 +1,4 @@
+type: car
+plate: QRJ8B24
+layout: Mercosur
+corners: 586,328 713,331 714,372 588,370

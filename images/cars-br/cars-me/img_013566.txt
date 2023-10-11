@@ -1,0 +1,4 @@
+type: car
+plate: PPH0A18
+layout: Mercosur
+corners: 629,308 752,309 756,350 630,348

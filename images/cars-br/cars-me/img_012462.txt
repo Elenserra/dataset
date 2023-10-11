@@ -1,0 +1,4 @@
+type: car
+plate: EZG2G15
+layout: Mercosur
+corners: 863,112 938,113 938,138 863,137

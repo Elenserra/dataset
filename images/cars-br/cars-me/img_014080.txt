@@ -1,0 +1,4 @@
+type: car
+plate: MTB0C04
+layout: Mercosur
+corners: 789,290 918,285 922,329 791,329

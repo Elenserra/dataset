@@ -1,0 +1,4 @@
+type: car
+plate: PPT7G96
+layout: Mercosur
+corners: 817,308 949,305 951,348 819,351

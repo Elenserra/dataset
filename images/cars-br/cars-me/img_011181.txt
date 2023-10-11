@@ -1,0 +1,4 @@
+type: car
+plate: MTS8J39
+layout: Mercosur
+corners: 632,248 740,246 744,282 633,286

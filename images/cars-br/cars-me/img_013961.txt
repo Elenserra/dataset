@@ -1,0 +1,4 @@
+type: car
+plate: QRE5B17
+layout: Mercosur
+corners: 777,321 912,318 914,362 778,365

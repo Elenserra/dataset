@@ -1,0 +1,4 @@
+type: car
+plate: MTR8E82
+layout: Mercosur
+corners: 328,416 479,420 480,471 330,467

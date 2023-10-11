@@ -1,0 +1,4 @@
+type: car
+plate: MQP6H41
+layout: Mercosur
+corners: 773,331 905,332 907,373 775,372

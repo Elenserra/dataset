@@ -1,0 +1,4 @@
+type: car
+plate: PPA3F65
+layout: Mercosur
+corners: 492,377 623,378 625,422 493,422

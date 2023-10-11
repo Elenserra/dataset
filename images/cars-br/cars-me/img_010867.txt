@@ -1,0 +1,4 @@
+type: car
+plate: OCZ9C56
+layout: Mercosur
+corners: 476,350 604,349 605,391 477,391

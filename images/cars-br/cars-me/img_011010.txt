@@ -1,0 +1,4 @@
+type: car
+plate: OVH0C16
+layout: Mercosur
+corners: 556,321 686,323 691,363 558,363

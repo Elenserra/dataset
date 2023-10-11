@@ -1,0 +1,4 @@
+type: car
+plate: OCV8I88
+layout: Mercosur
+corners: 449,437 588,436 591,485 452,480

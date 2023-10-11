@@ -1,0 +1,4 @@
+type: car
+plate: KRY3E92
+layout: Mercosur
+corners: 799,341 929,338 932,382 801,382

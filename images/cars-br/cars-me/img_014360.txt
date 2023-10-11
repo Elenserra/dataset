@@ -1,0 +1,4 @@
+type: car
+plate: ODJ2E53
+layout: Mercosur
+corners: 856,283 972,280 976,318 858,319

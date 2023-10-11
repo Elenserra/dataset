@@ -1,0 +1,4 @@
+type: car
+plate: PPM2A37
+layout: Mercosur
+corners: 735,218 836,220 838,251 736,249

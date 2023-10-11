@@ -1,0 +1,4 @@
+type: car
+plate: KQQ9B51
+layout: Mercosur
+corners: 588,236 694,236 697,272 588,271

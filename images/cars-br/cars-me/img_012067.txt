@@ -1,0 +1,4 @@
+type: car
+plate: PPQ1A28
+layout: Mercosur
+corners: 495,386 628,387 631,431 495,428

@@ -1,0 +1,4 @@
+type: car
+plate: HEI3B13
+layout: Mercosur
+corners: 764,242 882,250 880,289 764,280

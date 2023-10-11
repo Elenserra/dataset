@@ -1,0 +1,4 @@
+type: car
+plate: OYF4B80
+layout: Mercosur
+corners: 801,334 929,328 934,371 802,374

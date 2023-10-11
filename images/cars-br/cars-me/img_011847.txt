@@ -1,0 +1,4 @@
+type: car
+plate: MSU6B51
+layout: Mercosur
+corners: 629,225 737,227 739,261 629,262

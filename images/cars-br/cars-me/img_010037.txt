@@ -1,0 +1,4 @@
+type: car
+plate: PPI7A95
+layout: Mercosur
+corners: 448,412 571,416 571,458 448,454

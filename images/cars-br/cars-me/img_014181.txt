@@ -1,0 +1,4 @@
+type: car
+plate: QNA6I95
+layout: Mercosur
+corners: 817,325 949,321 952,368 816,371

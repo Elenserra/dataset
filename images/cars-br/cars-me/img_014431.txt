@@ -1,0 +1,4 @@
+type: car
+plate: PPO4J62
+layout: Mercosur
+corners: 809,350 942,349 944,392 810,392

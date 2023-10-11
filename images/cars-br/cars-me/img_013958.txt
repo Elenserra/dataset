@@ -1,0 +1,4 @@
+type: car
+plate: MRS1A56
+layout: Mercosur
+corners: 755,357 886,354 891,398 756,400

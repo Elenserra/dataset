@@ -1,0 +1,4 @@
+type: car
+plate: OYH7G91
+layout: Mercosur
+corners: 500,462 633,464 635,508 501,506

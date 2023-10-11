@@ -1,0 +1,4 @@
+type: car
+plate: ODT7I40
+layout: Mercosur
+corners: 503,287 628,285 630,323 505,324

@@ -1,0 +1,4 @@
+type: car
+plate: QRI7G22
+layout: Mercosur
+corners: 660,347 803,356 803,403 661,393

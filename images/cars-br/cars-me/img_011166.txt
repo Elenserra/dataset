@@ -1,0 +1,4 @@
+type: car
+plate: ODL5C89
+layout: Mercosur
+corners: 407,435 559,436 564,486 410,482

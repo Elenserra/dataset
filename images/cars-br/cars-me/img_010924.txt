@@ -1,0 +1,4 @@
+type: car
+plate: GEW7H76
+layout: Mercosur
+corners: 550,395 672,393 674,431 552,432

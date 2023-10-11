@@ -1,0 +1,4 @@
+type: car
+plate: PYF0F32
+layout: Mercosur
+corners: 813,308 946,304 949,349 814,352

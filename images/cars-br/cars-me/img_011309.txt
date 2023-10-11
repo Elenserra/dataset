@@ -1,0 +1,4 @@
+type: car
+plate: QRB9F95
+layout: Mercosur
+corners: 602,293 719,293 721,335 602,332

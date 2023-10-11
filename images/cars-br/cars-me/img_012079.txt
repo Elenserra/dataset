@@ -1,0 +1,4 @@
+type: car
+plate: MSD4A76
+layout: Mercosur
+corners: 537,281 651,282 652,321 538,321

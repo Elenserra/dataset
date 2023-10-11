@@ -1,0 +1,4 @@
+type: car
+plate: MSS4B21
+layout: Mercosur
+corners: 699,179 797,180 797,211 698,211

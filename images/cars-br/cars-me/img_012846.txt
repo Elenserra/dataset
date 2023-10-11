@@ -1,0 +1,4 @@
+type: car
+plate: OWK3G07
+layout: Mercosur
+corners: 574,370 703,374 703,416 574,412

@@ -1,0 +1,4 @@
+type: car
+plate: PPT0B36
+layout: Mercosur
+corners: 797,316 929,314 932,358 799,357

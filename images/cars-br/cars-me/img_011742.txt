@@ -1,0 +1,4 @@
+type: car
+plate: QEP5A99
+layout: Mercosur
+corners: 563,317 687,317 688,361 564,362

@@ -1,0 +1,4 @@
+type: car
+plate: LLS8A92
+layout: Mercosur
+corners: 842,336 971,333 974,376 842,378

@@ -1,0 +1,4 @@
+type: car
+plate: MQH9D96
+layout: Mercosur
+corners: 530,305 647,303 649,341 532,342

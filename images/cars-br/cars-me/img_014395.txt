@@ -1,0 +1,4 @@
+type: car
+plate: KYJ7B87
+layout: Mercosur
+corners: 799,356 934,355 937,399 803,398

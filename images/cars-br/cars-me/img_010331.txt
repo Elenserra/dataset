@@ -1,0 +1,4 @@
+type: car
+plate: PPQ6F81
+layout: Mercosur
+corners: 581,370 703,371 704,411 583,409

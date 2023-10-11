@@ -1,0 +1,4 @@
+type: car
+plate: QRG6B53
+layout: Mercosur
+corners: 892,140 977,141 977,169 891,168

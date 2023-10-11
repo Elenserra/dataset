@@ -1,0 +1,4 @@
+type: car
+plate: IVE0I07
+layout: Mercosur
+corners: 761,186 859,188 858,220 759,219

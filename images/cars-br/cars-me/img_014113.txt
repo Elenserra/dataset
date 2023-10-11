@@ -1,0 +1,4 @@
+type: car
+plate: JSU3G64
+layout: Mercosur
+corners: 864,271 977,269 980,305 863,309

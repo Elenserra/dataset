@@ -1,0 +1,4 @@
+type: car
+plate: OVH4B11
+layout: Mercosur
+corners: 701,350 840,349 844,393 704,392

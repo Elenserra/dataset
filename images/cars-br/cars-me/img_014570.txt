@@ -1,0 +1,4 @@
+type: car
+plate: PPV1H22
+layout: Mercosur
+corners: 801,324 935,319 939,366 802,369

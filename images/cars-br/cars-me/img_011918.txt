@@ -1,0 +1,4 @@
+type: car
+plate: QRL6E53
+layout: Mercosur
+corners: 290,526 444,528 447,581 293,577

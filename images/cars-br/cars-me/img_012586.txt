@@ -1,0 +1,4 @@
+type: car
+plate: OYI1D92
+layout: Mercosur
+corners: 768,165 870,167 871,200 768,198

@@ -1,0 +1,4 @@
+type: car
+plate: MSS8C64
+layout: Mercosur
+corners: 562,403 699,411 701,456 563,446

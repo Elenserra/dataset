@@ -1,0 +1,4 @@
+type: car
+plate: QRH6D72
+layout: Mercosur
+corners: 642,343 775,352 775,396 642,386

@@ -1,0 +1,4 @@
+type: car
+plate: PLT9A36
+layout: Mercosur
+corners: 768,116 852,116 852,143 768,143

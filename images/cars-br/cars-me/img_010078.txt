@@ -1,0 +1,4 @@
+type: car
+plate: OCZ3C47
+layout: Mercosur
+corners: 512,381 635,383 637,422 515,420

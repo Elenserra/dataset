@@ -1,0 +1,4 @@
+type: car
+plate: MSW7I95
+layout: Mercosur
+corners: 860,312 992,309 994,353 861,357

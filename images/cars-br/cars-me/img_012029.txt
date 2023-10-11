@@ -1,0 +1,4 @@
+type: car
+plate: OWO8B03
+layout: Mercosur
+corners: 489,392 623,393 626,439 490,435

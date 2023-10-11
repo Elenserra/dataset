@@ -1,0 +1,4 @@
+type: car
+plate: OYI9A73
+layout: Mercosur
+corners: 839,303 964,300 967,342 838,345

@@ -1,0 +1,4 @@
+type: car
+plate: MSO7J81
+layout: Mercosur
+corners: 642,355 763,355 766,395 645,396

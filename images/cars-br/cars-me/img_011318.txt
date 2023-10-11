@@ -1,0 +1,4 @@
+type: car
+plate: ENT6I81
+layout: Mercosur
+corners: 523,345 647,343 648,389 524,389

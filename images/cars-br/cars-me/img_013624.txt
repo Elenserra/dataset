@@ -1,0 +1,4 @@
+type: car
+plate: PPW6A50
+layout: Mercosur
+corners: 660,286 783,287 787,329 660,328

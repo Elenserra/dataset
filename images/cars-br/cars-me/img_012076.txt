@@ -1,0 +1,4 @@
+type: car
+plate: MPK2C39
+layout: Mercosur
+corners: 523,326 644,327 645,368 523,367

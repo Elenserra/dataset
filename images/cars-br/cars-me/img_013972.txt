@@ -1,0 +1,4 @@
+type: car
+plate: KYY2I90
+layout: Mercosur
+corners: 743,382 881,379 885,425 742,427

@@ -1,0 +1,4 @@
+type: car
+plate: QNA7B16
+layout: Mercosur
+corners: 579,370 700,370 700,409 580,408

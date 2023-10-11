@@ -1,0 +1,4 @@
+type: car
+plate: EPY4A04
+layout: Mercosur
+corners: 724,191 810,191 810,220 725,221

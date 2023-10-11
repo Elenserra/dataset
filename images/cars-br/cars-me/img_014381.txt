@@ -1,0 +1,4 @@
+type: car
+plate: MRS0J61
+layout: Mercosur
+corners: 800,328 932,328 935,371 801,373

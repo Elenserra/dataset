@@ -1,0 +1,4 @@
+type: car
+plate: ODP3D20
+layout: Mercosur
+corners: 623,332 759,342 758,389 622,379

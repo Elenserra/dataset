@@ -1,0 +1,4 @@
+type: car
+plate: KWZ9D15
+layout: Mercosur
+corners: 653,363 792,374 791,421 652,409

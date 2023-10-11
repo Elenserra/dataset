@@ -1,0 +1,4 @@
+type: car
+plate: OVL9G16
+layout: Mercosur
+corners: 810,336 939,333 942,378 810,380

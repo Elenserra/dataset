@@ -1,0 +1,4 @@
+type: car
+plate: HGB5G16
+layout: Mercosur
+corners: 813,340 944,336 947,380 815,382

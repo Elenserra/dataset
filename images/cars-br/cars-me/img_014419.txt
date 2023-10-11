@@ -1,0 +1,4 @@
+type: car
+plate: PPF7J34
+layout: Mercosur
+corners: 805,335 939,332 943,374 805,376

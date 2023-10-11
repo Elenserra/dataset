@@ -1,0 +1,4 @@
+type: car
+plate: QRE7J60
+layout: Mercosur
+corners: 606,368 748,375 749,422 606,414

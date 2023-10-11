@@ -1,0 +1,4 @@
+type: car
+plate: DSR6I64
+layout: Mercosur
+corners: 554,366 679,366 680,408 555,408

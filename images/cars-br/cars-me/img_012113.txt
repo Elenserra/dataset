@@ -1,0 +1,4 @@
+type: car
+plate: QRL3C67
+layout: Mercosur
+corners: 523,351 649,351 650,393 525,392

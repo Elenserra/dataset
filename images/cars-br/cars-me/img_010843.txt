@@ -1,0 +1,4 @@
+type: car
+plate: QRC9D08
+layout: Mercosur
+corners: 596,388 718,389 719,427 598,425

@@ -1,0 +1,4 @@
+type: car
+plate: ODS9F22
+layout: Mercosur
+corners: 575,254 687,254 689,290 575,291

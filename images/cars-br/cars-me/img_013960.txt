@@ -1,0 +1,4 @@
+type: car
+plate: KAC6B94
+layout: Mercosur
+corners: 837,277 973,274 975,319 838,322

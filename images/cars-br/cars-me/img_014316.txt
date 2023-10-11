@@ -1,0 +1,4 @@
+type: car
+plate: QRI7C39
+layout: Mercosur
+corners: 735,300 866,299 869,342 736,343

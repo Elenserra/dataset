@@ -1,0 +1,4 @@
+type: car
+plate: MST1F09
+layout: Mercosur
+corners: 929,48 1007,48 1008,72 928,73

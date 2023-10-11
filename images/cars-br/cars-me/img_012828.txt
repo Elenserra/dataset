@@ -1,0 +1,4 @@
+type: car
+plate: QRJ7E75
+layout: Mercosur
+corners: 686,291 808,293 808,333 687,331

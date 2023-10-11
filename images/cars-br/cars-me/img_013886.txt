@@ -1,0 +1,4 @@
+type: car
+plate: GVG6J96
+layout: Mercosur
+corners: 765,272 897,269 902,309 769,313

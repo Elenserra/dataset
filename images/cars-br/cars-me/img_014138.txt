@@ -1,0 +1,4 @@
+type: car
+plate: OVF9I50
+layout: Mercosur
+corners: 864,292 993,287 995,329 865,333

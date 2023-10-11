@@ -1,0 +1,4 @@
+type: car
+plate: QRF9C18
+layout: Mercosur
+corners: 702,291 826,291 826,330 703,329

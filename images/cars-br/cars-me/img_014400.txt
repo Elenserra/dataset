@@ -1,0 +1,4 @@
+type: car
+plate: MRF4D33
+layout: Mercosur
+corners: 760,316 891,313 896,356 765,358

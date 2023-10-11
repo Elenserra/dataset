@@ -1,0 +1,4 @@
+type: car
+plate: OCV6H09
+layout: Mercosur
+corners: 998,124 1080,120 1082,147 1000,151

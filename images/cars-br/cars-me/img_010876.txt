@@ -1,0 +1,4 @@
+type: car
+plate: PPC6I49
+layout: Mercosur
+corners: 512,397 638,399 639,438 514,436

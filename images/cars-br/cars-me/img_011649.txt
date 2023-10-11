@@ -1,0 +1,4 @@
+type: car
+plate: MTS4D44
+layout: Mercosur
+corners: 651,243 757,242 759,278 652,279

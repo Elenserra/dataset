@@ -1,0 +1,4 @@
+type: car
+plate: LRA1F54
+layout: Mercosur
+corners: 548,381 668,381 668,418 548,418

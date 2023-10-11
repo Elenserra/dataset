@@ -1,0 +1,4 @@
+type: car
+plate: MQF3J74
+layout: Mercosur
+corners: 764,286 894,288 896,332 766,330

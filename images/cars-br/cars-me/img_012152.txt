@@ -1,0 +1,4 @@
+type: car
+plate: QRG6A93
+layout: Mercosur
+corners: 477,382 607,385 608,429 478,425

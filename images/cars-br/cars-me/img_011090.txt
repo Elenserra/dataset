@@ -1,0 +1,4 @@
+type: car
+plate: NXP3D79
+layout: Mercosur
+corners: 558,307 682,304 683,347 561,345

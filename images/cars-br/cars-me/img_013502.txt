@@ -1,0 +1,4 @@
+type: car
+plate: MTU7E00
+layout: Mercosur
+corners: 610,360 745,364 748,409 611,404

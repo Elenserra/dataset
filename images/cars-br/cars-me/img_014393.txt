@@ -1,0 +1,4 @@
+type: car
+plate: PCK7C81
+layout: Mercosur
+corners: 819,323 947,320 949,365 819,366

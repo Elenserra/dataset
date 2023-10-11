@@ -1,0 +1,4 @@
+type: car
+plate: QRF4I26
+layout: Mercosur
+corners: 813,128 901,128 901,159 814,159

@@ -1,0 +1,4 @@
+type: car
+plate: AWA2I26
+layout: Mercosur
+corners: 660,282 764,282 765,315 661,315

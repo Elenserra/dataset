@@ -1,0 +1,4 @@
+type: car
+plate: QRK5G45
+layout: Mercosur
+corners: 663,291 785,293 785,331 665,330

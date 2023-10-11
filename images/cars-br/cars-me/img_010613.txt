@@ -1,0 +1,4 @@
+type: car
+plate: LTV8H02
+layout: Mercosur
+corners: 792,365 931,363 935,408 795,410

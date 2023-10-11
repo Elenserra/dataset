@@ -1,0 +1,4 @@
+type: car
+plate: MPE6E54
+layout: Mercosur
+corners: 585,252 698,249 699,284 590,288

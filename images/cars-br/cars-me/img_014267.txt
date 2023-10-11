@@ -1,0 +1,4 @@
+type: car
+plate: QRL9H87
+layout: Mercosur
+corners: 703,391 849,390 852,437 707,438

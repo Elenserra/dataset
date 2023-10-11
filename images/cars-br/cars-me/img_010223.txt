@@ -1,0 +1,4 @@
+type: car
+plate: OCX1E32
+layout: Mercosur
+corners: 596,364 713,364 714,400 597,400

@@ -1,0 +1,4 @@
+type: car
+plate: OVE5E05
+layout: Mercosur
+corners: 689,330 819,337 819,381 688,373

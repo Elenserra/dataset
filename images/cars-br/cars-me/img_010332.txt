@@ -1,0 +1,4 @@
+type: car
+plate: OVN2F04
+layout: Mercosur
+corners: 494,337 622,337 623,379 493,380

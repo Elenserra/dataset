@@ -1,0 +1,4 @@
+type: car
+plate: OCW2B66
+layout: Mercosur
+corners: 779,323 912,317 914,364 779,367

@@ -1,0 +1,4 @@
+type: car
+plate: LNX6C16
+layout: Mercosur
+corners: 801,303 937,299 940,343 805,347

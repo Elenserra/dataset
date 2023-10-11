@@ -1,0 +1,4 @@
+type: car
+plate: KYC7H34
+layout: Mercosur
+corners: 608,336 720,336 720,372 609,371

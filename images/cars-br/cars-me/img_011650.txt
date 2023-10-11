@@ -1,0 +1,4 @@
+type: car
+plate: QGG4I36
+layout: Mercosur
+corners: 500,399 633,399 637,446 503,446

@@ -1,0 +1,4 @@
+type: car
+plate: MTB4B64
+layout: Mercosur
+corners: 482,376 599,377 601,417 484,413

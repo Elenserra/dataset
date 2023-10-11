@@ -1,0 +1,4 @@
+type: car
+plate: AZV6B03
+layout: Mercosur
+corners: 521,392 651,392 655,435 522,434

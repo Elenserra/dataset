@@ -1,0 +1,4 @@
+type: car
+plate: LKX9C62
+layout: Mercosur
+corners: 818,322 948,320 951,366 818,365

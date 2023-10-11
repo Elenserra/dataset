@@ -1,0 +1,4 @@
+type: car
+plate: LUS3A05
+layout: Mercosur
+corners: 546,346 670,344 672,385 546,386

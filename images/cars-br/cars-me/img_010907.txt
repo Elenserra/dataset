@@ -1,0 +1,4 @@
+type: car
+plate: OVF3E86
+layout: Mercosur
+corners: 566,368 684,369 684,409 567,408

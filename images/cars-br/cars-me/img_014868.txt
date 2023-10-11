@@ -1,0 +1,4 @@
+type: car
+plate: ODT8E20
+layout: Mercosur
+corners: 707,351 850,358 850,405 707,398

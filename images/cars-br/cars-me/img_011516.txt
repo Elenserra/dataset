@@ -1,0 +1,4 @@
+type: car
+plate: QRI3B19
+layout: Mercosur
+corners: 508,357 637,357 639,401 509,400

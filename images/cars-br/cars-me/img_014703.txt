@@ -1,0 +1,4 @@
+type: car
+plate: PPP4C93
+layout: Mercosur
+corners: 742,326 877,326 877,371 741,370

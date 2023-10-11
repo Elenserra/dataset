@@ -1,0 +1,4 @@
+type: car
+plate: QRK7E32
+layout: Mercosur
+corners: 522,384 645,386 645,425 522,423

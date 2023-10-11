@@ -1,0 +1,4 @@
+type: car
+plate: PPG7G60
+layout: Mercosur
+corners: 695,310 825,318 823,359 696,352

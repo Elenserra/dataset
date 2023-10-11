@@ -1,0 +1,4 @@
+type: car
+plate: ODI4J18
+layout: Mercosur
+corners: 797,350 926,347 931,390 799,392

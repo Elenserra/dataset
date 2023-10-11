@@ -1,0 +1,4 @@
+type: car
+plate: PPM1F97
+layout: Mercosur
+corners: 505,403 639,408 638,448 511,444

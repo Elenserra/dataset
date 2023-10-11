@@ -1,0 +1,4 @@
+type: car
+plate: OYH0I82
+layout: Mercosur
+corners: 579,357 702,358 703,399 579,398

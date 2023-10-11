@@ -1,0 +1,4 @@
+type: car
+plate: MRR5D60
+layout: Mercosur
+corners: 834,371 972,368 975,412 836,416

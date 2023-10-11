@@ -1,0 +1,4 @@
+type: car
+plate: ODR0D77
+layout: Mercosur
+corners: 460,403 586,404 587,449 461,444

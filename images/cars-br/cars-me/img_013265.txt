@@ -1,0 +1,4 @@
+type: car
+plate: PPF2A27
+layout: Mercosur
+corners: 695,268 807,271 808,307 696,304

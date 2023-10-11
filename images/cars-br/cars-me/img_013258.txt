@@ -1,0 +1,4 @@
+type: car
+plate: OXA4A92
+layout: Mercosur
+corners: 671,314 795,316 794,356 672,355

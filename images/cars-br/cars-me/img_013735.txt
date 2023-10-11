@@ -1,0 +1,4 @@
+type: car
+plate: GAX2G16
+layout: Mercosur
+corners: 810,153 902,154 904,185 810,184

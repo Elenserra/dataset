@@ -1,0 +1,4 @@
+type: car
+plate: QRI3G65
+layout: Mercosur
+corners: 536,379 660,382 661,424 538,422

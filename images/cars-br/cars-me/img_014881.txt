@@ -1,0 +1,4 @@
+type: car
+plate: MTW6G16
+layout: Mercosur
+corners: 583,387 724,397 723,444 583,434

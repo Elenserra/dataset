@@ -1,0 +1,4 @@
+type: car
+plate: PPH5F72
+layout: Mercosur
+corners: 512,362 641,361 644,405 514,405

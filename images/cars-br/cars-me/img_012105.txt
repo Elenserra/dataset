@@ -1,0 +1,4 @@
+type: car
+plate: NYP9C89
+layout: Mercosur
+corners: 520,400 649,402 650,447 520,443

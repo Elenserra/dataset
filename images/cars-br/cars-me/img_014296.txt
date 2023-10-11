@@ -1,0 +1,4 @@
+type: car
+plate: EIC9A75
+layout: Mercosur
+corners: 761,311 893,308 895,354 763,355

@@ -1,0 +1,4 @@
+type: car
+plate: OYE1G63
+layout: Mercosur
+corners: 516,407 640,407 641,447 518,446

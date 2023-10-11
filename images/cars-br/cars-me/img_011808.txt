@@ -1,0 +1,4 @@
+type: car
+plate: PPV3I89
+layout: Mercosur
+corners: 559,336 681,335 683,376 561,377

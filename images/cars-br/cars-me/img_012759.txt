@@ -1,0 +1,4 @@
+type: car
+plate: ODC4H37
+layout: Mercosur
+corners: 883,110 972,111 972,139 884,138

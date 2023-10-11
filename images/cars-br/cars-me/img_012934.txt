@@ -1,0 +1,4 @@
+type: car
+plate: MSC2C74
+layout: Mercosur
+corners: 564,262 677,264 677,302 563,300

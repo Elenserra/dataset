@@ -1,0 +1,4 @@
+type: car
+plate: DAJ2G64
+layout: Mercosur
+corners: 857,206 960,201 962,236 859,238

@@ -1,0 +1,4 @@
+type: car
+plate: OYF9G61
+layout: Mercosur
+corners: 537,329 665,329 667,371 536,371

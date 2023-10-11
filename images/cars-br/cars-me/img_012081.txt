@@ -1,0 +1,4 @@
+type: car
+plate: QRB0A55
+layout: Mercosur
+corners: 433,410 565,412 569,455 437,454

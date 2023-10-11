@@ -1,0 +1,4 @@
+type: car
+plate: QRL4E19
+layout: Mercosur
+corners: 458,309 583,307 586,350 461,351

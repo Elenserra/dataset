@@ -1,0 +1,4 @@
+type: car
+plate: QRK8B72
+layout: Mercosur
+corners: 431,386 555,389 556,429 433,426

@@ -1,0 +1,4 @@
+type: car
+plate: ODD5A78
+layout: Mercosur
+corners: 483,330 612,332 615,376 484,374

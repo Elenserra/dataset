@@ -1,0 +1,4 @@
+type: car
+plate: MQF1I15
+layout: Mercosur
+corners: 999,150 1083,149 1084,175 1000,177

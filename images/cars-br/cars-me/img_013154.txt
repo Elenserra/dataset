@@ -1,0 +1,4 @@
+type: car
+plate: MSO0B45
+layout: Mercosur
+corners: 958,61 1031,62 1031,86 958,85

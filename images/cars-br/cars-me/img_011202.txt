@@ -1,0 +1,4 @@
+type: car
+plate: QRI0I59
+layout: Mercosur
+corners: 574,320 691,320 695,359 576,358

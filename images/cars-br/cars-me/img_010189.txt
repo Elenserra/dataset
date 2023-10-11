@@ -1,0 +1,4 @@
+type: car
+plate: OYG8C87
+layout: Mercosur
+corners: 460,438 592,439 594,481 462,479

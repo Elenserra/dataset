@@ -1,0 +1,4 @@
+type: car
+plate: PPM1E53
+layout: Mercosur
+corners: 602,324 715,325 717,360 603,359

@@ -1,0 +1,4 @@
+type: car
+plate: MPG0E96
+layout: Mercosur
+corners: 651,367 786,367 787,408 657,408

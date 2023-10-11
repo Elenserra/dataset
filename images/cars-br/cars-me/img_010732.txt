@@ -1,0 +1,4 @@
+type: car
+plate: PKF4C22
+layout: Mercosur
+corners: 508,361 639,362 639,403 511,403

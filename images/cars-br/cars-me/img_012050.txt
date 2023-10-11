@@ -1,0 +1,4 @@
+type: car
+plate: OYJ4H48
+layout: Mercosur
+corners: 650,156 742,156 743,187 650,186

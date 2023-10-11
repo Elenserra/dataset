@@ -1,0 +1,4 @@
+type: car
+plate: MQX3I95
+layout: Mercosur
+corners: 678,251 791,251 792,287 680,288

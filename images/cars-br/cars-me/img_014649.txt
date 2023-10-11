@@ -1,0 +1,4 @@
+type: car
+plate: MSG8E67
+layout: Mercosur
+corners: 908,151 1005,147 1009,179 908,183

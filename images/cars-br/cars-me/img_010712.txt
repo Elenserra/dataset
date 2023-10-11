@@ -1,0 +1,4 @@
+type: car
+plate: NDW9I14
+layout: Mercosur
+corners: 672,330 778,330 778,363 673,363

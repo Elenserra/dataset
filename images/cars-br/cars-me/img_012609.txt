@@ -1,0 +1,4 @@
+type: car
+plate: PPP9H02
+layout: Mercosur
+corners: 640,261 758,263 759,301 641,300

@@ -1,0 +1,4 @@
+type: car
+plate: RBA6B40
+layout: Mercosur
+corners: 692,310 815,312 816,352 692,351

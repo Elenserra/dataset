@@ -1,0 +1,4 @@
+type: car
+plate: MSL6I37
+layout: Mercosur
+corners: 702,343 840,350 838,397 701,388

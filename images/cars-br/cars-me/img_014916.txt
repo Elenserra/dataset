@@ -1,0 +1,4 @@
+type: car
+plate: OYI4A06
+layout: Mercosur
+corners: 654,332 789,339 786,383 653,378

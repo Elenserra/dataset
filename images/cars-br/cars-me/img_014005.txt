@@ -1,0 +1,4 @@
+type: car
+plate: OYD0D42
+layout: Mercosur
+corners: 796,342 928,339 932,386 798,386

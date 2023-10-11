@@ -1,0 +1,4 @@
+type: car
+plate: KRF5G00
+layout: Mercosur
+corners: 491,361 621,362 623,404 492,405

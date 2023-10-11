@@ -1,0 +1,4 @@
+type: car
+plate: LRE9E48
+layout: Mercosur
+corners: 750,341 884,338 886,382 751,385

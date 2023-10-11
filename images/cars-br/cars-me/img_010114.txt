@@ -1,0 +1,4 @@
+type: car
+plate: QRG5E06
+layout: Mercosur
+corners: 385,479 532,481 535,531 388,527

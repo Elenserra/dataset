@@ -1,0 +1,4 @@
+type: car
+plate: OCZ9E33
+layout: Mercosur
+corners: 654,350 795,359 792,405 654,396

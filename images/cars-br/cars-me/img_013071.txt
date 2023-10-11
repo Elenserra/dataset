@@ -1,0 +1,4 @@
+type: car
+plate: ODR3E16
+layout: Mercosur
+corners: 683,288 806,288 806,328 684,328

@@ -1,0 +1,4 @@
+type: car
+plate: PPN1H87
+layout: Mercosur
+corners: 538,395 667,395 671,439 542,437

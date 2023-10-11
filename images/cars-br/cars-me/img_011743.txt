@@ -1,0 +1,4 @@
+type: car
+plate: NPV9I67
+layout: Mercosur
+corners: 590,320 723,321 723,365 591,362

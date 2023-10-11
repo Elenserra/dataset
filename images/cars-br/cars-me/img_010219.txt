@@ -1,0 +1,4 @@
+type: car
+plate: KDL5G01
+layout: Mercosur
+corners: 595,253 692,250 694,280 596,283

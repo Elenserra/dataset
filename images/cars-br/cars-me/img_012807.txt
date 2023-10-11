@@ -1,0 +1,4 @@
+type: car
+plate: KWH4J52
+layout: Mercosur
+corners: 880,155 973,155 974,182 880,183

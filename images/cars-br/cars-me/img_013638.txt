@@ -1,0 +1,4 @@
+type: car
+plate: OVI6G61
+layout: Mercosur
+corners: 696,297 826,298 825,341 699,341

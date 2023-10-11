@@ -1,0 +1,4 @@
+type: car
+plate: NYG7A80
+layout: Mercosur
+corners: 573,278 695,278 696,318 574,318

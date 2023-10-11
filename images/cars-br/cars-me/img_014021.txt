@@ -1,0 +1,4 @@
+type: car
+plate: QRH0D26
+layout: Mercosur
+corners: 1011,113 1093,110 1094,139 1012,141

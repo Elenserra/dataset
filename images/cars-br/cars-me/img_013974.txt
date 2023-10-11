@@ -1,0 +1,4 @@
+type: car
+plate: LSJ6F03
+layout: Mercosur
+corners: 821,333 954,333 957,378 821,377

@@ -1,0 +1,4 @@
+type: car
+plate: JES3G98
+layout: Mercosur
+corners: 665,335 784,339 784,369 665,364

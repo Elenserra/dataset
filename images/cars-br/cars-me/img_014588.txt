@@ -1,0 +1,4 @@
+type: car
+plate: ODL9F13
+layout: Mercosur
+corners: 787,345 921,343 922,387 788,389

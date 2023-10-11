@@ -1,0 +1,4 @@
+type: car
+plate: OVJ9C23
+layout: Mercosur
+corners: 536,409 667,411 668,453 538,451

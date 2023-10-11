@@ -1,0 +1,4 @@
+type: car
+plate: QRG8D25
+layout: Mercosur
+corners: 703,159 782,156 782,182 705,186

@@ -1,0 +1,4 @@
+type: car
+plate: PPN4A28
+layout: Mercosur
+corners: 750,293 881,291 886,336 754,339

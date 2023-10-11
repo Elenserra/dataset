@@ -1,0 +1,4 @@
+type: car
+plate: QRE1H96
+layout: Mercosur
+corners: 450,330 558,332 559,367 450,364

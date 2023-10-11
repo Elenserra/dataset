@@ -1,0 +1,4 @@
+type: car
+plate: MSC6F59
+layout: Mercosur
+corners: 488,402 627,404 630,448 491,446

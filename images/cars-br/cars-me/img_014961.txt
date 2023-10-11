@@ -1,0 +1,4 @@
+type: car
+plate: KZP1H91
+layout: Mercosur
+corners: 684,362 824,372 820,420 681,407

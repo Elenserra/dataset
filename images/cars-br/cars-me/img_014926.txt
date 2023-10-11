@@ -1,0 +1,4 @@
+type: car
+plate: LMU4B44
+layout: Mercosur
+corners: 597,261 730,268 730,312 597,306

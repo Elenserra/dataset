@@ -1,0 +1,4 @@
+type: car
+plate: QRK5D17
+layout: Mercosur
+corners: 800,353 931,351 934,394 802,395

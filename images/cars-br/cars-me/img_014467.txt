@@ -1,0 +1,4 @@
+type: car
+plate: MTD7A37
+layout: Mercosur
+corners: 808,289 939,287 941,330 807,333

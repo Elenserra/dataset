@@ -1,0 +1,4 @@
+type: car
+plate: QRK0C33
+layout: Mercosur
+corners: 628,239 727,240 728,273 628,272

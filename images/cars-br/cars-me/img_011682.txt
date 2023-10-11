@@ -1,0 +1,4 @@
+type: car
+plate: PPE9J10
+layout: Mercosur
+corners: 459,325 593,326 593,372 459,370

@@ -1,0 +1,4 @@
+type: car
+plate: ODR1F35
+layout: Mercosur
+corners: 698,261 814,263 814,303 698,300

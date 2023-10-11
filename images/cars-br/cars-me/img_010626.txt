@@ -1,0 +1,4 @@
+type: car
+plate: OVH4G32
+layout: Mercosur
+corners: 508,432 639,432 640,474 510,475

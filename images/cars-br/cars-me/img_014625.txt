@@ -1,0 +1,4 @@
+type: car
+plate: KQU7A84
+layout: Mercosur
+corners: 742,370 881,371 882,417 744,418

@@ -1,0 +1,4 @@
+type: car
+plate: PPQ7E40
+layout: Mercosur
+corners: 654,323 773,327 773,367 654,362

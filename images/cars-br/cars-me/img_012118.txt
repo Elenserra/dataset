@@ -1,0 +1,4 @@
+type: car
+plate: KWM9B19
+layout: Mercosur
+corners: 481,336 607,339 608,381 480,377

@@ -1,0 +1,4 @@
+type: car
+plate: LUM2J46
+layout: Mercosur
+corners: 989,110 1069,108 1072,136 991,139

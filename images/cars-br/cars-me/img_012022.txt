@@ -1,0 +1,4 @@
+type: car
+plate: JKK2D20
+layout: Mercosur
+corners: 533,334 664,331 667,372 535,375

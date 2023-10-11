@@ -1,0 +1,4 @@
+type: car
+plate: QRE7G36
+layout: Mercosur
+corners: 681,311 803,312 803,352 681,351

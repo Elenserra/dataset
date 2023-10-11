@@ -1,0 +1,4 @@
+type: car
+plate: QRK4C74
+layout: Mercosur
+corners: 709,170 799,169 801,199 710,200

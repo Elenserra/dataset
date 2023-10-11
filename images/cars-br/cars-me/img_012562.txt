@@ -1,0 +1,4 @@
+type: car
+plate: OCV8B01
+layout: Mercosur
+corners: 686,301 811,301 812,343 688,342

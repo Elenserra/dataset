@@ -1,0 +1,4 @@
+type: car
+plate: OVL3B36
+layout: Mercosur
+corners: 650,185 767,192 767,234 649,226

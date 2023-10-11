@@ -1,0 +1,4 @@
+type: car
+plate: LLI3F47
+layout: Mercosur
+corners: 548,345 670,347 671,389 549,387

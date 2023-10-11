@@ -1,0 +1,4 @@
+type: car
+plate: ODC6J62
+layout: Mercosur
+corners: 665,315 790,317 791,358 666,356

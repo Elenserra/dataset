@@ -1,0 +1,4 @@
+type: car
+plate: ODO4F34
+layout: Mercosur
+corners: 769,195 852,194 853,220 770,221

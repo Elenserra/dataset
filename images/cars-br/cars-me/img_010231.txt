@@ -1,0 +1,4 @@
+type: car
+plate: PQX6C83
+layout: Mercosur
+corners: 680,202 775,201 775,231 682,232

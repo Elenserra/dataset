@@ -1,0 +1,4 @@
+type: car
+plate: MFT6C53
+layout: Mercosur
+corners: 577,357 702,359 703,399 578,398

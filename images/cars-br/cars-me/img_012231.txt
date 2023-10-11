@@ -1,0 +1,4 @@
+type: car
+plate: OCZ4F68
+layout: Mercosur
+corners: 429,378 567,379 567,423 432,422

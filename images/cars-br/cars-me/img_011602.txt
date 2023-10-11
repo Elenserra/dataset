@@ -1,0 +1,4 @@
+type: car
+plate: DOG7I47
+layout: Mercosur
+corners: 587,294 695,294 698,330 590,329

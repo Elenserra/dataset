@@ -1,0 +1,4 @@
+type: car
+plate: ODB8E15
+layout: Mercosur
+corners: 492,376 621,375 625,417 495,417

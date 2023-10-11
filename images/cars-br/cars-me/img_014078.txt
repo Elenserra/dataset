@@ -1,0 +1,4 @@
+type: car
+plate: PXC8E44
+layout: Mercosur
+corners: 751,323 876,319 881,362 752,363

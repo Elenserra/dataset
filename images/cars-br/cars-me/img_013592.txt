@@ -1,0 +1,4 @@
+type: car
+plate: FCL1E95
+layout: Mercosur
+corners: 926,42 1001,41 1001,67 927,67

@@ -1,0 +1,4 @@
+type: car
+plate: PPH4H63
+layout: Mercosur
+corners: 679,359 824,361 825,410 681,408

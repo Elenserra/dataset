@@ -1,0 +1,4 @@
+type: car
+plate: MTY4I39
+layout: Mercosur
+corners: 778,396 914,397 916,442 780,442

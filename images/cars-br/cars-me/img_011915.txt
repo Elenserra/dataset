@@ -1,0 +1,4 @@
+type: car
+plate: KRY7I49
+layout: Mercosur
+corners: 551,342 679,342 680,384 552,384

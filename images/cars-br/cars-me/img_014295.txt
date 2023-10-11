@@ -1,0 +1,4 @@
+type: car
+plate: OVL4J68
+layout: Mercosur
+corners: 780,351 913,351 917,396 782,394

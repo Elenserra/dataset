@@ -1,0 +1,4 @@
+type: car
+plate: OVE9I84
+layout: Mercosur
+corners: 528,389 652,390 653,431 529,430

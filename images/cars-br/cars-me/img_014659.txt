@@ -1,0 +1,4 @@
+type: car
+plate: QRI3A74
+layout: Mercosur
+corners: 803,320 938,318 940,362 804,364

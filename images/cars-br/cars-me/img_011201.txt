@@ -1,0 +1,4 @@
+type: car
+plate: QRL7H70
+layout: Mercosur
+corners: 602,213 710,213 710,250 604,249

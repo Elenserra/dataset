@@ -1,0 +1,4 @@
+type: car
+plate: MOZ2G94
+layout: Mercosur
+corners: 572,378 689,379 690,417 573,415

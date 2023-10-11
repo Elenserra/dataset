@@ -1,0 +1,4 @@
+type: car
+plate: MPJ0I13
+layout: Mercosur
+corners: 606,243 716,242 719,277 608,279

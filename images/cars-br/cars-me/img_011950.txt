@@ -1,0 +1,4 @@
+type: car
+plate: PPR5D38
+layout: Mercosur
+corners: 562,390 689,389 691,430 563,432

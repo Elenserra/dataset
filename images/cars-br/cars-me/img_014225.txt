@@ -1,0 +1,4 @@
+type: car
+plate: RIO1J55
+layout: Mercosur
+corners: 975,127 1053,122 1054,148 975,153

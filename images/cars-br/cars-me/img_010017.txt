@@ -1,0 +1,4 @@
+type: car
+plate: QRF5C12
+layout: Mercosur
+corners: 541,302 650,300 652,336 545,338

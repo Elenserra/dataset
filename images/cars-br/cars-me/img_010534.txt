@@ -1,0 +1,4 @@
+type: car
+plate: ODM8F32
+layout: Mercosur
+corners: 433,460 568,462 568,505 434,503

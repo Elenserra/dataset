@@ -1,0 +1,4 @@
+type: car
+plate: MQZ0J68
+layout: Mercosur
+corners: 822,311 948,307 950,350 821,353

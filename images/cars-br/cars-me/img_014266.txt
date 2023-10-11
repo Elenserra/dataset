@@ -1,0 +1,4 @@
+type: car
+plate: QRB3I40
+layout: Mercosur
+corners: 770,322 902,320 906,363 771,363

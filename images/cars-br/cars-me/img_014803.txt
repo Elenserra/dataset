@@ -1,0 +1,4 @@
+type: car
+plate: PPK7C34
+layout: Mercosur
+corners: 620,351 754,358 753,405 619,397

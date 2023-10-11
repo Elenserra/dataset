@@ -1,0 +1,4 @@
+type: car
+plate: PPM1H66
+layout: Mercosur
+corners: 478,410 600,414 603,451 483,447

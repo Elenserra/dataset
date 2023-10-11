@@ -1,0 +1,4 @@
+type: car
+plate: PPJ5C74
+layout: Mercosur
+corners: 799,370 936,369 938,415 800,416

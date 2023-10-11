@@ -1,0 +1,4 @@
+type: car
+plate: OYF1J84
+layout: Mercosur
+corners: 579,370 700,369 702,411 579,411

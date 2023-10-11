@@ -1,0 +1,4 @@
+type: car
+plate: QRJ9B22
+layout: Mercosur
+corners: 591,229 691,229 692,264 592,263

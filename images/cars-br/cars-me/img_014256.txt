@@ -1,0 +1,4 @@
+type: car
+plate: QGJ4B00
+layout: Mercosur
+corners: 918,229 1021,228 1023,262 917,262

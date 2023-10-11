@@ -1,0 +1,4 @@
+type: car
+plate: PPV3H78
+layout: Mercosur
+corners: 539,385 659,386 659,422 544,422

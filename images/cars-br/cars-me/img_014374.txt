@@ -1,0 +1,4 @@
+type: car
+plate: MTP3D15
+layout: Mercosur
+corners: 818,302 946,300 948,343 818,346

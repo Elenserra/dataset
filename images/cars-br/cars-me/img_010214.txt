@@ -1,0 +1,4 @@
+type: car
+plate: QRG2E70
+layout: Mercosur
+corners: 665,251 760,251 760,280 666,281

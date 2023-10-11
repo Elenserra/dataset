@@ -1,0 +1,4 @@
+type: car
+plate: OYH8B89
+layout: Mercosur
+corners: 594,383 717,385 716,423 596,421

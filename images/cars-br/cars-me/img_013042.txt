@@ -1,0 +1,4 @@
+type: car
+plate: QRG5B59
+layout: Mercosur
+corners: 721,309 845,310 845,349 724,347

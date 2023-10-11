@@ -1,0 +1,4 @@
+type: car
+plate: ODF8J74
+layout: Mercosur
+corners: 709,225 804,223 805,254 709,256

@@ -1,0 +1,4 @@
+type: car
+plate: ODN3C38
+layout: Mercosur
+corners: 837,305 968,305 969,348 838,348

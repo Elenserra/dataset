@@ -1,0 +1,4 @@
+type: car
+plate: CSC7H94
+layout: Mercosur
+corners: 445,377 570,376 572,417 445,418

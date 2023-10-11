@@ -1,0 +1,4 @@
+type: car
+plate: ODL0B78
+layout: Mercosur
+corners: 523,381 651,382 653,425 526,424

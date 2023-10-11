@@ -1,0 +1,4 @@
+type: car
+plate: MTR6C53
+layout: Mercosur
+corners: 583,382 707,383 708,423 585,422

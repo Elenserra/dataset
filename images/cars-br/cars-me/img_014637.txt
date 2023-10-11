@@ -1,0 +1,4 @@
+type: car
+plate: MSK4C04
+layout: Mercosur
+corners: 776,409 912,408 915,451 779,453

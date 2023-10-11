@@ -1,0 +1,4 @@
+type: car
+plate: ODT0B23
+layout: Mercosur
+corners: 533,284 650,283 654,325 533,325

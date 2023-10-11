@@ -1,0 +1,4 @@
+type: car
+plate: QRG7J50
+layout: Mercosur
+corners: 534,306 657,304 658,344 537,346

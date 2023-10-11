@@ -1,0 +1,4 @@
+type: car
+plate: PLC5A00
+layout: Mercosur
+corners: 498,346 624,349 626,392 500,389

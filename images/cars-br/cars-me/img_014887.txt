@@ -1,0 +1,4 @@
+type: car
+plate: PPN3C34
+layout: Mercosur
+corners: 673,344 804,352 804,394 673,386

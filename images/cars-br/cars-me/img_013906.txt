@@ -1,0 +1,4 @@
+type: car
+plate: PPL7D98
+layout: Mercosur
+corners: 779,309 913,307 915,354 778,353

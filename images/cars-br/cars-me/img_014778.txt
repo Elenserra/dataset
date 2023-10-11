@@ -1,0 +1,4 @@
+type: car
+plate: PPY8J56
+layout: Mercosur
+corners: 653,358 786,367 785,411 653,403

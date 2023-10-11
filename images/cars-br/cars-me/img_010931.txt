@@ -1,0 +1,4 @@
+type: car
+plate: KXO2G72
+layout: Mercosur
+corners: 555,385 678,388 676,427 556,423

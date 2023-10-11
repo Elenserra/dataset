@@ -1,0 +1,4 @@
+type: car
+plate: NYF0H73
+layout: Mercosur
+corners: 680,323 806,325 806,365 683,362

@@ -1,0 +1,4 @@
+type: car
+plate: OCV5J42
+layout: Mercosur
+corners: 634,358 757,356 760,398 637,399

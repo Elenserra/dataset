@@ -1,0 +1,4 @@
+type: car
+plate: ODO8B63
+layout: Mercosur
+corners: 720,302 845,304 846,345 722,343

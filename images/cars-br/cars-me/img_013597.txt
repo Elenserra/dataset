@@ -1,0 +1,4 @@
+type: car
+plate: MPA1G27
+layout: Mercosur
+corners: 746,248 857,251 857,288 746,284

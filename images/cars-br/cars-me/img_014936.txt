@@ -1,0 +1,4 @@
+type: car
+plate: PPH0H07
+layout: Mercosur
+corners: 635,388 784,398 782,446 636,437

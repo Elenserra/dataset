@@ -1,0 +1,4 @@
+type: car
+plate: PAZ6G97
+layout: Mercosur
+corners: 568,336 691,338 691,377 570,375

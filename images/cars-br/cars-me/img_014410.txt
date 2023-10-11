@@ -1,0 +1,4 @@
+type: car
+plate: ODO1D76
+layout: Mercosur
+corners: 836,300 962,292 967,334 840,339

@@ -1,0 +1,4 @@
+type: car
+plate: OCZ7A25
+layout: Mercosur
+corners: 722,290 846,291 847,331 723,330

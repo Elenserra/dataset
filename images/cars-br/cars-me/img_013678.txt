@@ -1,0 +1,4 @@
+type: car
+plate: PPT2B56
+layout: Mercosur
+corners: 730,172 828,173 828,205 731,204

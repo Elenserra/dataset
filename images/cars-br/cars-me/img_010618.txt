@@ -1,0 +1,4 @@
+type: car
+plate: OCV8D18
+layout: Mercosur
+corners: 272,593 438,600 441,661 276,652

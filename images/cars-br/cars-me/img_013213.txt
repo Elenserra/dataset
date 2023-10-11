@@ -1,0 +1,4 @@
+type: car
+plate: ODE5D13
+layout: Mercosur
+corners: 668,312 793,314 793,354 669,352

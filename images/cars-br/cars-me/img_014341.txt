@@ -1,0 +1,4 @@
+type: car
+plate: OYD2D20
+layout: Mercosur
+corners: 760,338 892,337 896,382 760,382

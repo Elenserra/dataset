@@ -1,0 +1,4 @@
+type: car
+plate: PUZ1D38
+layout: Mercosur
+corners: 494,376 618,374 621,413 498,414

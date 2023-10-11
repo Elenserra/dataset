@@ -1,0 +1,4 @@
+type: car
+plate: FRN0A66
+layout: Mercosur
+corners: 793,264 927,259 931,305 796,308

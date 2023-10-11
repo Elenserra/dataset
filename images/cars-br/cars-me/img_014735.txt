@@ -1,0 +1,4 @@
+type: car
+plate: QRF1A60
+layout: Mercosur
+corners: 803,329 939,330 942,373 804,372

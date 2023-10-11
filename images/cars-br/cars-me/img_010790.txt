@@ -1,0 +1,4 @@
+type: car
+plate: BII9G66
+layout: Mercosur
+corners: 430,430 560,431 567,469 436,466

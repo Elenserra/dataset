@@ -1,0 +1,4 @@
+type: car
+plate: OVJ1H13
+layout: Mercosur
+corners: 411,494 567,502 568,556 411,546

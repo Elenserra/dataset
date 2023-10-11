@@ -1,0 +1,4 @@
+type: car
+plate: QRF9A53
+layout: Mercosur
+corners: 459,433 595,439 596,484 461,479

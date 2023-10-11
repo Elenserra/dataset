@@ -1,0 +1,4 @@
+type: car
+plate: MRE8B73
+layout: Mercosur
+corners: 553,272 665,272 667,310 554,310

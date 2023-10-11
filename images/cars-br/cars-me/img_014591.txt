@@ -1,0 +1,4 @@
+type: car
+plate: MRJ9I54
+layout: Mercosur
+corners: 820,332 953,327 956,372 821,378

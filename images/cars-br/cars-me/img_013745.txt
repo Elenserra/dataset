@@ -1,0 +1,4 @@
+type: car
+plate: QRH2F51
+layout: Mercosur
+corners: 551,400 689,404 692,451 552,444

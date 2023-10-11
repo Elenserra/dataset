@@ -1,0 +1,4 @@
+type: car
+plate: PPE2D07
+layout: Mercosur
+corners: 781,326 911,325 914,370 781,369

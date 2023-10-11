@@ -1,0 +1,4 @@
+type: car
+plate: ODJ5E24
+layout: Mercosur
+corners: 607,376 726,377 725,414 607,413

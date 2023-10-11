@@ -1,0 +1,4 @@
+type: car
+plate: MRM1H84
+layout: Mercosur
+corners: 492,404 612,405 614,443 494,443

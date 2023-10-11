@@ -1,0 +1,4 @@
+type: car
+plate: LBN5F18
+layout: Mercosur
+corners: 540,342 661,341 663,380 543,380

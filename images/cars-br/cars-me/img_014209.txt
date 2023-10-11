@@ -1,0 +1,4 @@
+type: car
+plate: MQR8B68
+layout: Mercosur
+corners: 769,190 881,187 883,224 769,225

@@ -1,0 +1,4 @@
+type: car
+plate: OBV2E63
+layout: Mercosur
+corners: 458,430 585,432 585,473 459,470

@@ -1,0 +1,4 @@
+type: car
+plate: ODF1B89
+layout: Mercosur
+corners: 816,332 945,331 949,374 816,375

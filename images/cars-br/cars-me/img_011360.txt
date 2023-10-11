@@ -1,0 +1,4 @@
+type: car
+plate: PPU4J94
+layout: Mercosur
+corners: 651,245 757,245 757,282 652,280

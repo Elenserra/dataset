@@ -1,0 +1,4 @@
+type: car
+plate: KPR7J02
+layout: Mercosur
+corners: 593,339 706,340 706,380 592,379

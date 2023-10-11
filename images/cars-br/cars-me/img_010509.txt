@@ -1,0 +1,4 @@
+type: car
+plate: QRI5E64
+layout: Mercosur
+corners: 531,370 658,370 661,410 533,410

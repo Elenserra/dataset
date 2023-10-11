@@ -1,0 +1,4 @@
+type: car
+plate: QRL9D95
+layout: Mercosur
+corners: 654,256 760,254 762,289 654,291

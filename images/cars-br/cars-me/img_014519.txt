@@ -1,0 +1,4 @@
+type: car
+plate: PPA1C19
+layout: Mercosur
+corners: 786,328 914,327 917,371 785,372

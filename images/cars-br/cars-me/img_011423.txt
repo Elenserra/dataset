@@ -1,0 +1,4 @@
+type: car
+plate: LNA9I14
+layout: Mercosur
+corners: 435,412 572,415 577,460 437,457

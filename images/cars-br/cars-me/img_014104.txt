@@ -1,0 +1,4 @@
+type: car
+plate: MSH1I00
+layout: Mercosur
+corners: 845,343 977,341 979,383 844,387

@@ -1,0 +1,4 @@
+type: car
+plate: MSP8H92
+layout: Mercosur
+corners: 773,371 912,371 914,417 773,417

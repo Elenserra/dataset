@@ -1,0 +1,4 @@
+type: car
+plate: MSJ8B87
+layout: Mercosur
+corners: 473,312 600,314 602,357 475,353

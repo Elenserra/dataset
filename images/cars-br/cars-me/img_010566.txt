@@ -1,0 +1,4 @@
+type: car
+plate: PUY0F60
+layout: Mercosur
+corners: 556,409 689,410 689,452 558,451

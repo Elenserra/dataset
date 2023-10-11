@@ -1,0 +1,4 @@
+type: car
+plate: PPN8A35
+layout: Mercosur
+corners: 607,402 734,402 735,441 610,441

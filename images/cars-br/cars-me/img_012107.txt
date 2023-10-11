@@ -1,0 +1,4 @@
+type: car
+plate: QRH0D96
+layout: Mercosur
+corners: 772,122 852,122 854,148 771,150

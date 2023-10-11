@@ -1,0 +1,4 @@
+type: car
+plate: OZR8A80
+layout: Mercosur
+corners: 286,452 432,457 437,509 288,503

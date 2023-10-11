@@ -1,0 +1,4 @@
+type: car
+plate: LQI8J14
+layout: Mercosur
+corners: 827,365 960,360 963,405 829,407

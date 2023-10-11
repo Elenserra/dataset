@@ -1,0 +1,4 @@
+type: car
+plate: OYG3J10
+layout: Mercosur
+corners: 444,345 575,344 578,387 446,387

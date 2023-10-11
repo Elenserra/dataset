@@ -1,0 +1,4 @@
+type: car
+plate: PPF3H10
+layout: Mercosur
+corners: 533,322 661,322 663,365 533,364

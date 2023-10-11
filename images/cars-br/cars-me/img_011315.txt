@@ -1,0 +1,4 @@
+type: car
+plate: QRK6A67
+layout: Mercosur
+corners: 580,253 695,253 696,292 582,291

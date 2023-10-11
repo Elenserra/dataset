@@ -1,0 +1,4 @@
+type: car
+plate: MTI4E47
+layout: Mercosur
+corners: 815,357 952,350 957,398 817,404

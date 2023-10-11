@@ -1,0 +1,4 @@
+type: car
+plate: PSN1B08
+layout: Mercosur
+corners: 481,415 613,416 618,459 484,455

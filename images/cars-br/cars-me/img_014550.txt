@@ -1,0 +1,4 @@
+type: car
+plate: QRJ9A84
+layout: Mercosur
+corners: 805,354 940,352 942,399 806,399

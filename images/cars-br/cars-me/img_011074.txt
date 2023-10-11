@@ -1,0 +1,4 @@
+type: car
+plate: JPW5C62
+layout: Mercosur
+corners: 397,462 539,464 546,507 402,505

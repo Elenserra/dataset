@@ -1,0 +1,4 @@
+type: car
+plate: PAF3G01
+layout: Mercosur
+corners: 608,288 736,293 739,336 609,331

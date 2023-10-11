@@ -1,0 +1,4 @@
+type: car
+plate: NFX1I33
+layout: Mercosur
+corners: 563,347 686,346 687,387 564,388

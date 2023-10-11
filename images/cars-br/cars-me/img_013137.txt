@@ -1,0 +1,4 @@
+type: car
+plate: MSY0G90
+layout: Mercosur
+corners: 672,379 794,382 797,421 675,416

@@ -1,0 +1,4 @@
+type: car
+plate: OUF5H90
+layout: Mercosur
+corners: 657,303 770,303 771,338 657,338

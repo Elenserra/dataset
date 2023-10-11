@@ -1,0 +1,4 @@
+type: car
+plate: OCW5I00
+layout: Mercosur
+corners: 545,380 668,380 669,421 546,421

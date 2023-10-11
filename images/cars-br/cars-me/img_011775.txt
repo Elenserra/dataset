@@ -1,0 +1,4 @@
+type: car
+plate: MVD5F55
+layout: Mercosur
+corners: 689,236 788,234 791,268 690,268

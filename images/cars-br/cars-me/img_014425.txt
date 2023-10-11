@@ -1,0 +1,4 @@
+type: car
+plate: FLI3J85
+layout: Mercosur
+corners: 758,331 899,327 903,374 761,376

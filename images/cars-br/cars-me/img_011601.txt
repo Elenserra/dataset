@@ -1,0 +1,4 @@
+type: car
+plate: AVA6C47
+layout: Mercosur
+corners: 541,395 669,398 668,441 540,436

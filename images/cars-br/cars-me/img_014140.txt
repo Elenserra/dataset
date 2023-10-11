@@ -1,0 +1,4 @@
+type: car
+plate: MTL0B20
+layout: Mercosur
+corners: 811,333 941,330 942,372 811,374

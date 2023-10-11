@@ -1,0 +1,4 @@
+type: car
+plate: QRH8E08
+layout: Mercosur
+corners: 842,264 960,263 963,303 843,303

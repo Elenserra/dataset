@@ -1,0 +1,4 @@
+type: car
+plate: MSM5E28
+layout: Mercosur
+corners: 785,401 918,399 922,444 788,442

@@ -1,0 +1,4 @@
+type: car
+plate: JPO4I60
+layout: Mercosur
+corners: 742,258 857,260 857,296 743,294

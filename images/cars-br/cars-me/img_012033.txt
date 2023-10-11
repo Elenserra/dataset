@@ -1,0 +1,4 @@
+type: car
+plate: OVF0A74
+layout: Mercosur
+corners: 410,464 553,468 558,514 414,511

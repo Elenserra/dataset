@@ -1,0 +1,4 @@
+type: car
+plate: MSO8H65
+layout: Mercosur
+corners: 835,314 961,310 963,352 837,354

@@ -1,0 +1,4 @@
+type: car
+plate: MQZ4A35
+layout: Mercosur
+corners: 662,324 787,323 790,364 663,364

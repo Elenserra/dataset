@@ -1,0 +1,4 @@
+type: car
+plate: ODT3E62
+layout: Mercosur
+corners: 843,131 931,132 932,160 844,161

@@ -1,0 +1,4 @@
+type: car
+plate: KYD5G31
+layout: Mercosur
+corners: 543,435 676,436 679,479 547,477

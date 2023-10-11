@@ -1,0 +1,4 @@
+type: car
+plate: PPS2B35
+layout: Mercosur
+corners: 971,115 1059,111 1062,141 973,144

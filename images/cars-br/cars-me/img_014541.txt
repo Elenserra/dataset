@@ -1,0 +1,4 @@
+type: car
+plate: ODD3A06
+layout: Mercosur
+corners: 820,337 947,336 950,378 822,380

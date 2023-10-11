@@ -1,0 +1,4 @@
+type: car
+plate: MRK7A18
+layout: Mercosur
+corners: 566,261 696,268 695,308 569,301

@@ -1,0 +1,4 @@
+type: car
+plate: PPV4A34
+layout: Mercosur
+corners: 581,387 703,387 704,427 583,426

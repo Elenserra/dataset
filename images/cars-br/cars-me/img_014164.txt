@@ -1,0 +1,4 @@
+type: car
+plate: MSW0I16
+layout: Mercosur
+corners: 814,332 946,328 948,373 816,374

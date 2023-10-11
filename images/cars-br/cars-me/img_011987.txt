@@ -1,0 +1,4 @@
+type: car
+plate: QRF0B12
+layout: Mercosur
+corners: 610,358 730,360 733,398 610,399

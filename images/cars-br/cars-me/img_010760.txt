@@ -1,0 +1,4 @@
+type: car
+plate: MPG9F21
+layout: Mercosur
+corners: 716,183 800,182 801,210 717,210

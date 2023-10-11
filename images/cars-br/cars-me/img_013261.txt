@@ -1,0 +1,4 @@
+type: car
+plate: OVI7J00
+layout: Mercosur
+corners: 722,291 837,291 838,327 723,327

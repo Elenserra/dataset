@@ -1,0 +1,4 @@
+type: car
+plate: PPZ0D40
+layout: Mercosur
+corners: 798,190 894,191 893,222 799,222

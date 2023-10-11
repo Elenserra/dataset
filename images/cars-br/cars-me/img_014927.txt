@@ -1,0 +1,4 @@
+type: car
+plate: PPU6A25
+layout: Mercosur
+corners: 663,342 805,350 803,396 663,387

@@ -1,0 +1,4 @@
+type: car
+plate: OYE8E43
+layout: Mercosur
+corners: 883,285 1002,285 1003,321 884,322

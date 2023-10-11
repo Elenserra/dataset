@@ -1,0 +1,4 @@
+type: car
+plate: PPS8E74
+layout: Mercosur
+corners: 805,316 938,314 941,360 808,361

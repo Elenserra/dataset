@@ -1,0 +1,4 @@
+type: car
+plate: QRG4A44
+layout: Mercosur
+corners: 664,331 801,336 801,379 664,374

@@ -1,0 +1,4 @@
+type: car
+plate: PZL2C24
+layout: Mercosur
+corners: 568,306 691,304 692,344 571,346

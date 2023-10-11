@@ -1,0 +1,4 @@
+type: car
+plate: QRG2A73
+layout: Mercosur
+corners: 538,400 663,399 664,439 538,439

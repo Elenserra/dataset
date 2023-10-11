@@ -1,0 +1,4 @@
+type: car
+plate: OVI0D16
+layout: Mercosur
+corners: 712,321 833,322 834,364 714,360

@@ -1,0 +1,4 @@
+type: car
+plate: NZT5A47
+layout: Mercosur
+corners: 954,139 1042,138 1044,167 954,168

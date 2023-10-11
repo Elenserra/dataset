@@ -1,0 +1,4 @@
+type: car
+plate: MRM9E43
+layout: Mercosur
+corners: 758,304 883,300 886,343 759,346

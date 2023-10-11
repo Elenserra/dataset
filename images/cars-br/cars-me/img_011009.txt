@@ -1,0 +1,4 @@
+type: car
+plate: OPL2C10
+layout: Mercosur
+corners: 429,361 554,363 555,404 429,401

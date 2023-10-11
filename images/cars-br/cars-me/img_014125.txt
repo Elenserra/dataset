@@ -1,0 +1,4 @@
+type: car
+plate: PVF5H37
+layout: Mercosur
+corners: 848,293 968,290 971,331 849,333

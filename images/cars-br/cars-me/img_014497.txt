@@ -1,0 +1,4 @@
+type: car
+plate: PPS4J57
+layout: Mercosur
+corners: 754,321 891,320 893,365 758,366

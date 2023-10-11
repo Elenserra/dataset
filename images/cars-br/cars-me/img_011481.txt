@@ -1,0 +1,4 @@
+type: car
+plate: QRL1H93
+layout: Mercosur
+corners: 545,347 674,348 675,390 546,388

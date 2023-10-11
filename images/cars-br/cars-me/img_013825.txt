@@ -1,0 +1,4 @@
+type: car
+plate: OYE8I28
+layout: Mercosur
+corners: 852,387 966,393 966,431 851,426

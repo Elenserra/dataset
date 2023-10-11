@@ -1,0 +1,4 @@
+type: car
+plate: MTV8I12
+layout: Mercosur
+corners: 522,427 649,426 651,465 524,467

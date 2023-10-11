@@ -1,0 +1,4 @@
+type: car
+plate: PPL7F22
+layout: Mercosur
+corners: 502,333 630,334 632,378 503,376

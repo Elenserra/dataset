@@ -1,0 +1,4 @@
+type: car
+plate: LSS9J31
+layout: Mercosur
+corners: 762,204 862,207 862,241 762,239

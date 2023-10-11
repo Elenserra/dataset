@@ -1,0 +1,4 @@
+type: car
+plate: OVF6C17
+layout: Mercosur
+corners: 572,381 694,381 694,419 573,419

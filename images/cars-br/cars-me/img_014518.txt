@@ -1,0 +1,4 @@
+type: car
+plate: MSR2J29
+layout: Mercosur
+corners: 824,330 952,329 954,370 825,371

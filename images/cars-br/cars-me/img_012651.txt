@@ -1,0 +1,4 @@
+type: car
+plate: MTV7B69
+layout: Mercosur
+corners: 656,303 774,306 774,343 657,339

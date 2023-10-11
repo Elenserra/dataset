@@ -1,0 +1,4 @@
+type: car
+plate: QNK8A16
+layout: Mercosur
+corners: 838,274 952,270 956,308 839,309

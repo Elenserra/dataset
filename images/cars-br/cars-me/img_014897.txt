@@ -1,0 +1,4 @@
+type: car
+plate: AWM7B83
+layout: Mercosur
+corners: 696,349 834,357 833,400 696,393

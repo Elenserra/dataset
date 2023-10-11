@@ -1,0 +1,4 @@
+type: car
+plate: MRR2H74
+layout: Mercosur
+corners: 582,426 715,434 714,475 584,466

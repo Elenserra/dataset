@@ -1,0 +1,4 @@
+type: car
+plate: HTQ8A68
+layout: Mercosur
+corners: 629,243 740,241 742,277 630,280

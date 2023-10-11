@@ -1,0 +1,4 @@
+type: car
+plate: QRC6H39
+layout: Mercosur
+corners: 466,385 600,385 603,428 468,428

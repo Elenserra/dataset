@@ -1,0 +1,4 @@
+type: car
+plate: QRF3A88
+layout: Mercosur
+corners: 504,410 637,414 638,458 507,453

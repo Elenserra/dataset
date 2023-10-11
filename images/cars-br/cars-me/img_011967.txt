@@ -1,0 +1,4 @@
+type: car
+plate: OYE0B98
+layout: Mercosur
+corners: 528,408 660,408 663,452 531,450

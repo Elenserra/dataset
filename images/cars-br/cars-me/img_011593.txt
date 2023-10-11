@@ -1,0 +1,4 @@
+type: car
+plate: QRE8E92
+layout: Mercosur
+corners: 516,353 635,354 636,395 516,393

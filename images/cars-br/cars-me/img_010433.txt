@@ -1,0 +1,4 @@
+type: car
+plate: QNK5F83
+layout: Mercosur
+corners: 715,254 810,254 811,283 716,284

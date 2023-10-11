@@ -1,0 +1,4 @@
+type: car
+plate: MST7G12
+layout: Mercosur
+corners: 730,179 817,182 819,211 729,210

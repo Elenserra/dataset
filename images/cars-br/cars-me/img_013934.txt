@@ -1,0 +1,4 @@
+type: car
+plate: PPK3I52
+layout: Mercosur
+corners: 783,306 907,306 908,347 784,349

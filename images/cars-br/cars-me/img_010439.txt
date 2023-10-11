@@ -1,0 +1,4 @@
+type: car
+plate: JPT5F74
+layout: Mercosur
+corners: 507,439 628,442 630,480 511,477

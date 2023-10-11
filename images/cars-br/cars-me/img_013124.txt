@@ -1,0 +1,4 @@
+type: car
+plate: ODO0E50
+layout: Mercosur
+corners: 707,365 832,366 833,405 710,403

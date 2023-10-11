@@ -1,0 +1,4 @@
+type: car
+plate: MST1I91
+layout: Mercosur
+corners: 614,321 740,324 740,367 613,364

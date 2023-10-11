@@ -1,0 +1,4 @@
+type: car
+plate: JHF7A69
+layout: Mercosur
+corners: 454,370 584,373 586,415 457,413

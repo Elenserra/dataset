@@ -1,0 +1,4 @@
+type: car
+plate: DFW7F88
+layout: Mercosur
+corners: 1053,115 1132,113 1134,140 1054,143

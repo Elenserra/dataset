@@ -1,0 +1,4 @@
+type: car
+plate: RBA1E21
+layout: Mercosur
+corners: 703,178 795,176 796,208 703,208

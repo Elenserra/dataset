@@ -1,0 +1,4 @@
+type: car
+plate: NZI4I77
+layout: Mercosur
+corners: 880,297 1010,293 1012,336 880,339

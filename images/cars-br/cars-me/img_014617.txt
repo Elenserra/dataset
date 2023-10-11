@@ -1,0 +1,4 @@
+type: car
+plate: KQF7F94
+layout: Mercosur
+corners: 736,367 869,363 872,407 738,411

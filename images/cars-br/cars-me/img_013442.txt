@@ -1,0 +1,4 @@
+type: car
+plate: QRL2C21
+layout: Mercosur
+corners: 691,306 811,309 813,349 690,346

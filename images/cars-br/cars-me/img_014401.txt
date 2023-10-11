@@ -1,0 +1,4 @@
+type: car
+plate: EZM5J88
+layout: Mercosur
+corners: 814,322 946,321 948,365 814,365

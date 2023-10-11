@@ -1,0 +1,4 @@
+type: car
+plate: QRI0F22
+layout: Mercosur
+corners: 682,186 781,187 781,219 682,219

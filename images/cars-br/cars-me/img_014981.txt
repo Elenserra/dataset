@@ -1,0 +1,4 @@
+type: car
+plate: MQC1E28
+layout: Mercosur
+corners: 538,243 673,247 676,292 542,288

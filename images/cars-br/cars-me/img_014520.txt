@@ -1,0 +1,4 @@
+type: car
+plate: MSY5G35
+layout: Mercosur
+corners: 959,181 1054,177 1056,210 958,213

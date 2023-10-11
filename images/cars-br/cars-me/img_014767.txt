@@ -1,0 +1,4 @@
+type: car
+plate: QRI1D44
+layout: Mercosur
+corners: 804,323 932,323 931,364 805,363

@@ -1,0 +1,4 @@
+type: car
+plate: QRI5H76
+layout: Mercosur
+corners: 678,245 787,246 789,283 679,282

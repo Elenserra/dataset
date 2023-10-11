@@ -1,0 +1,4 @@
+type: car
+plate: KPZ1E13
+layout: Mercosur
+corners: 767,264 904,264 904,308 768,307

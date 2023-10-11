@@ -1,0 +1,4 @@
+type: car
+plate: MSC2E35
+layout: Mercosur
+corners: 764,228 873,231 873,268 762,265

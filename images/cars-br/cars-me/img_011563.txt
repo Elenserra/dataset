@@ -1,0 +1,4 @@
+type: car
+plate: PYE2I10
+layout: Mercosur
+corners: 783,92 855,92 855,118 783,117

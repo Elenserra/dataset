@@ -1,0 +1,4 @@
+type: car
+plate: JPF8F85
+layout: Mercosur
+corners: 777,322 906,319 908,363 778,365

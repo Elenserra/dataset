@@ -1,0 +1,4 @@
+type: car
+plate: LTU4G53
+layout: Mercosur
+corners: 508,390 634,392 636,434 510,432

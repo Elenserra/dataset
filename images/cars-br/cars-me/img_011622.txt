@@ -1,0 +1,4 @@
+type: car
+plate: MTJ2F83
+layout: Mercosur
+corners: 598,397 723,398 726,437 601,435

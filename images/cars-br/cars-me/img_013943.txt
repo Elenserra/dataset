@@ -1,0 +1,4 @@
+type: car
+plate: MTL6A32
+layout: Mercosur
+corners: 797,358 933,355 935,401 799,403

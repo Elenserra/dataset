@@ -1,0 +1,4 @@
+type: car
+plate: OVF4F48
+layout: Mercosur
+corners: 488,353 614,358 618,398 492,394

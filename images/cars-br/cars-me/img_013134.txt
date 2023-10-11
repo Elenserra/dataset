@@ -1,0 +1,4 @@
+type: car
+plate: FLX7F62
+layout: Mercosur
+corners: 637,326 763,327 765,369 639,367

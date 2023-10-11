@@ -1,0 +1,4 @@
+type: car
+plate: MIL1E65
+layout: Mercosur
+corners: 770,308 902,307 906,353 770,354

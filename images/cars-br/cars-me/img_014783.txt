@@ -1,0 +1,4 @@
+type: car
+plate: PZZ6J47
+layout: Mercosur
+corners: 697,358 834,366 832,410 697,403

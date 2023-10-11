@@ -1,0 +1,4 @@
+type: car
+plate: OCZ5I05
+layout: Mercosur
+corners: 770,317 901,315 903,359 771,360

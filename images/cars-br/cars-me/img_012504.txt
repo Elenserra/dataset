@@ -1,0 +1,4 @@
+type: car
+plate: ODD8J69
+layout: Mercosur
+corners: 757,330 870,331 871,365 761,364

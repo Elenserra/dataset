@@ -1,0 +1,4 @@
+type: car
+plate: PWJ4C81
+layout: Mercosur
+corners: 782,331 918,327 922,372 784,375

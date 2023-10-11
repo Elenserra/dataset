@@ -1,0 +1,4 @@
+type: car
+plate: PZT3B62
+layout: Mercosur
+corners: 828,317 961,314 964,360 828,361

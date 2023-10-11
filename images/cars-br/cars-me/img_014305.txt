@@ -1,0 +1,4 @@
+type: car
+plate: NPK0A72
+layout: Mercosur
+corners: 803,333 934,330 938,369 806,373

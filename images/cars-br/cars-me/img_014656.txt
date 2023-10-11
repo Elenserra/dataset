@@ -1,0 +1,4 @@
+type: car
+plate: MQG7I26
+layout: Mercosur
+corners: 753,345 884,344 886,389 754,389

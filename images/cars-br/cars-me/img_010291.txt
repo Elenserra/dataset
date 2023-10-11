@@ -1,0 +1,4 @@
+type: car
+plate: ODI8D36
+layout: Mercosur
+corners: 682,257 776,257 777,290 681,289

@@ -1,0 +1,4 @@
+type: car
+plate: EKZ9A65
+layout: Mercosur
+corners: 697,406 835,414 835,458 696,450

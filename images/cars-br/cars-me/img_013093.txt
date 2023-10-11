@@ -1,0 +1,4 @@
+type: car
+plate: MTI2J43
+layout: Mercosur
+corners: 609,348 737,353 738,395 611,391

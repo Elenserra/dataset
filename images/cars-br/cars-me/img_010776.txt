@@ -1,0 +1,4 @@
+type: car
+plate: KRQ1D47
+layout: Mercosur
+corners: 537,443 670,444 672,486 539,485

@@ -1,0 +1,4 @@
+type: car
+plate: QDE3J92
+layout: Mercosur
+corners: 873,243 986,240 989,279 873,279

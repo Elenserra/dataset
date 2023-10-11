@@ -1,0 +1,4 @@
+type: car
+plate: OCW1I29
+layout: Mercosur
+corners: 823,314 958,311 961,356 825,359

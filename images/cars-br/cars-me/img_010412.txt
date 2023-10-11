@@ -1,0 +1,4 @@
+type: car
+plate: AQB8J89
+layout: Mercosur
+corners: 557,378 678,382 678,423 557,418

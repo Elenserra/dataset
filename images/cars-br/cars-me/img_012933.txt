@@ -1,0 +1,4 @@
+type: car
+plate: QRI3C78
+layout: Mercosur
+corners: 619,324 744,326 744,368 622,363

@@ -1,0 +1,4 @@
+type: car
+plate: KQO4I78
+layout: Mercosur
+corners: 774,312 902,311 904,359 774,361

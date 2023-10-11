@@ -1,0 +1,4 @@
+type: car
+plate: MSN6E01
+layout: Mercosur
+corners: 724,252 835,253 836,288 725,286

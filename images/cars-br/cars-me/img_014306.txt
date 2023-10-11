@@ -1,0 +1,4 @@
+type: car
+plate: ODL2I52
+layout: Mercosur
+corners: 808,322 939,320 940,364 809,364

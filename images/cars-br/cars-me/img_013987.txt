@@ -1,0 +1,4 @@
+type: car
+plate: QRL1J29
+layout: Mercosur
+corners: 823,321 952,318 956,360 825,365

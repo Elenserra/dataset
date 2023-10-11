@@ -1,0 +1,4 @@
+type: car
+plate: QRG1I51
+layout: Mercosur
+corners: 399,374 518,376 518,413 401,412

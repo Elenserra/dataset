@@ -1,0 +1,4 @@
+type: car
+plate: PPA1B98
+layout: Mercosur
+corners: 693,341 827,350 827,396 692,386

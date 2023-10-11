@@ -1,0 +1,4 @@
+type: car
+plate: QRK1B36
+layout: Mercosur
+corners: 558,338 678,339 679,377 559,376

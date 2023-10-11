@@ -1,0 +1,4 @@
+type: car
+plate: QRG6I80
+layout: Mercosur
+corners: 667,181 752,182 752,210 667,209

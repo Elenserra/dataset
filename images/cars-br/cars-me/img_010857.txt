@@ -1,0 +1,4 @@
+type: car
+plate: OZU2G67
+layout: Mercosur
+corners: 591,372 713,372 715,410 593,410

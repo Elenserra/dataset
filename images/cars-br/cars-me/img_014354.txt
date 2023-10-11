@@ -1,0 +1,4 @@
+type: car
+plate: OYH0I87
+layout: Mercosur
+corners: 763,367 897,365 901,408 764,407

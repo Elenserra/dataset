@@ -1,0 +1,4 @@
+type: car
+plate: PPW2F96
+layout: Mercosur
+corners: 650,390 797,400 797,451 651,440

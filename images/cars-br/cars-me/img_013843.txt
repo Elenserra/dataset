@@ -1,0 +1,4 @@
+type: car
+plate: MSP3E55
+layout: Mercosur
+corners: 836,327 968,324 969,367 838,368

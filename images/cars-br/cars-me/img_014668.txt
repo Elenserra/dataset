@@ -1,0 +1,4 @@
+type: car
+plate: MTD4J94
+layout: Mercosur
+corners: 723,351 855,350 858,393 725,395

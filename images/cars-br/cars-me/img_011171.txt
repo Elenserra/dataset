@@ -1,0 +1,4 @@
+type: car
+plate: ODL2F09
+layout: Mercosur
+corners: 547,340 669,339 671,380 549,380

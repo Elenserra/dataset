@@ -1,0 +1,4 @@
+type: car
+plate: NXO1G23
+layout: Mercosur
+corners: 800,292 926,288 928,330 801,334

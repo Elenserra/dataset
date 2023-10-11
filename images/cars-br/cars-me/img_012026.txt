@@ -1,0 +1,4 @@
+type: car
+plate: OYD7G50
+layout: Mercosur
+corners: 760,136 845,136 845,164 761,165

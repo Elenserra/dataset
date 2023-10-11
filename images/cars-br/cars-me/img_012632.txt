@@ -1,0 +1,4 @@
+type: car
+plate: PPV0I56
+layout: Mercosur
+corners: 622,333 748,336 749,378 622,374

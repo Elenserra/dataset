@@ -1,0 +1,4 @@
+type: car
+plate: OCV5G06
+layout: Mercosur
+corners: 747,211 852,215 853,248 747,247

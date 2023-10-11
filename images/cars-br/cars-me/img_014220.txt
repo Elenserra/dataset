@@ -1,0 +1,4 @@
+type: car
+plate: RIO0J17
+layout: Mercosur
+corners: 801,342 932,339 935,384 804,384

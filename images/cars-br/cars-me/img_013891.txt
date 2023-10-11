@@ -1,0 +1,4 @@
+type: car
+plate: MTU5B95
+layout: Mercosur
+corners: 817,310 943,308 946,350 819,352

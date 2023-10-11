@@ -1,0 +1,4 @@
+type: car
+plate: ODT2D32
+layout: Mercosur
+corners: 600,309 717,307 718,345 600,346

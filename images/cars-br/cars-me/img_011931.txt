@@ -1,0 +1,4 @@
+type: car
+plate: MTL6E22
+layout: Mercosur
+corners: 503,341 623,341 625,382 505,381

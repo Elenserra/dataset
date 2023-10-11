@@ -1,0 +1,4 @@
+type: car
+plate: MTT4B26
+layout: Mercosur
+corners: 779,317 901,316 904,358 778,359

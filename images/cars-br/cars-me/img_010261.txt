@@ -1,0 +1,4 @@
+type: car
+plate: PPJ7B04
+layout: Mercosur
+corners: 560,413 688,415 689,457 562,454

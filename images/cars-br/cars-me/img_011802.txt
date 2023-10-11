@@ -1,0 +1,4 @@
+type: car
+plate: QRB0I08
+layout: Mercosur
+corners: 670,210 769,209 770,242 672,242

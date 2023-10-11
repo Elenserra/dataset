@@ -1,0 +1,4 @@
+type: car
+plate: JSR8E54
+layout: Mercosur
+corners: 670,308 793,308 795,347 671,345

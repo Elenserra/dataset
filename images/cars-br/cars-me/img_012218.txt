@@ -1,0 +1,4 @@
+type: car
+plate: ODM2G44
+layout: Mercosur
+corners: 779,34 854,31 855,56 779,58

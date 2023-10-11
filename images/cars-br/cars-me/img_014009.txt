@@ -1,0 +1,4 @@
+type: car
+plate: KXN5G38
+layout: Mercosur
+corners: 798,325 932,324 934,369 798,371

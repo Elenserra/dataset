@@ -1,0 +1,4 @@
+type: car
+plate: QRG3H25
+layout: Mercosur
+corners: 439,341 570,342 571,386 440,385

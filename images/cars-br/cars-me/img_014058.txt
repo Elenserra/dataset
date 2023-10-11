@@ -1,0 +1,4 @@
+type: car
+plate: PPK7J67
+layout: Mercosur
+corners: 759,287 886,284 891,329 761,330

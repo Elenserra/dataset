@@ -1,0 +1,4 @@
+type: car
+plate: ODF1E87
+layout: Mercosur
+corners: 475,342 606,341 609,384 476,385

@@ -1,0 +1,4 @@
+type: car
+plate: PPO9I72
+layout: Mercosur
+corners: 710,275 831,278 832,319 711,316

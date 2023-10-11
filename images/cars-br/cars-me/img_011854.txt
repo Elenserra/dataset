@@ -1,0 +1,4 @@
+type: car
+plate: MPJ4J19
+layout: Mercosur
+corners: 507,376 636,375 638,419 508,417

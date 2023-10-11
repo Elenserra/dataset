@@ -1,0 +1,4 @@
+type: car
+plate: MSN2F28
+layout: Mercosur
+corners: 804,328 939,326 941,373 805,376

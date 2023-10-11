@@ -1,0 +1,4 @@
+type: car
+plate: OCZ4H19
+layout: Mercosur
+corners: 533,403 665,402 667,446 535,446

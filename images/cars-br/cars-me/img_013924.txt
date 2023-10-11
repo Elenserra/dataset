@@ -1,0 +1,4 @@
+type: car
+plate: OYJ5I41
+layout: Mercosur
+corners: 792,298 915,295 919,337 794,339

@@ -1,0 +1,4 @@
+type: car
+plate: ODP1G84
+layout: Mercosur
+corners: 777,361 912,362 914,405 778,406

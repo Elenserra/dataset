@@ -1,0 +1,4 @@
+type: car
+plate: HIM1J75
+layout: Mercosur
+corners: 525,335 648,332 651,371 529,374

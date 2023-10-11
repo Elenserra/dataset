@@ -1,0 +1,4 @@
+type: car
+plate: QRL9A89
+layout: Mercosur
+corners: 402,383 535,385 537,429 403,427

@@ -1,0 +1,4 @@
+type: car
+plate: ODS3B73
+layout: Mercosur
+corners: 619,338 745,340 747,380 621,378

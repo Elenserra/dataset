@@ -1,0 +1,4 @@
+type: car
+plate: OVJ9G95
+layout: Mercosur
+corners: 595,294 702,293 704,327 594,329

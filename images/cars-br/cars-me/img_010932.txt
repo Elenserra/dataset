@@ -1,0 +1,4 @@
+type: car
+plate: NYB3J77
+layout: Mercosur
+corners: 588,373 706,374 708,411 590,411

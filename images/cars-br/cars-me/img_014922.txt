@@ -1,0 +1,4 @@
+type: car
+plate: PPP7D29
+layout: Mercosur
+corners: 642,377 781,386 779,431 641,422

@@ -1,0 +1,4 @@
+type: car
+plate: MQN9I89
+layout: Mercosur
+corners: 795,325 928,323 931,368 796,368

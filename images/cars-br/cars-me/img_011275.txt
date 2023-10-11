@@ -1,0 +1,4 @@
+type: car
+plate: QRK6E02
+layout: Mercosur
+corners: 477,348 608,351 609,392 478,390

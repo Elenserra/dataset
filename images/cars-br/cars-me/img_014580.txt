@@ -1,0 +1,4 @@
+type: car
+plate: QRK5G48
+layout: Mercosur
+corners: 761,328 893,326 895,371 761,372

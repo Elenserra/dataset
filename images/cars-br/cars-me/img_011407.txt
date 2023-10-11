@@ -1,0 +1,4 @@
+type: car
+plate: PJJ8G19
+layout: Mercosur
+corners: 576,317 695,317 696,358 576,356

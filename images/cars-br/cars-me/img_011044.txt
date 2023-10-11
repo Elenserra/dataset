@@ -1,0 +1,4 @@
+type: car
+plate: QRD6B79
+layout: Mercosur
+corners: 493,377 620,378 621,422 494,421

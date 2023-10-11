@@ -1,0 +1,4 @@
+type: car
+plate: NDD4J67
+layout: Mercosur
+corners: 608,258 727,256 729,295 610,297

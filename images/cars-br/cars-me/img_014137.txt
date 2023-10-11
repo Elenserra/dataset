@@ -1,0 +1,4 @@
+type: car
+plate: ADW3A31
+layout: Mercosur
+corners: 747,373 882,369 887,419 748,420

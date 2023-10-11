@@ -1,0 +1,4 @@
+type: car
+plate: QBX5A91
+layout: Mercosur
+corners: 794,353 930,352 932,398 795,399

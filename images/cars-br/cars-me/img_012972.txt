@@ -1,0 +1,4 @@
+type: car
+plate: MTY3E84
+layout: Mercosur
+corners: 677,372 801,376 801,414 679,410

@@ -1,0 +1,4 @@
+type: car
+plate: OCZ2F56
+layout: Mercosur
+corners: 733,324 849,325 850,362 735,361

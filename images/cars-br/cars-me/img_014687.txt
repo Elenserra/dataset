@@ -1,0 +1,4 @@
+type: car
+plate: ODP6J15
+layout: Mercosur
+corners: 863,280 981,275 984,316 865,320

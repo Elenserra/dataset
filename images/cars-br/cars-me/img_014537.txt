@@ -1,0 +1,4 @@
+type: car
+plate: HIR4C78
+layout: Mercosur
+corners: 745,341 877,339 879,386 744,387

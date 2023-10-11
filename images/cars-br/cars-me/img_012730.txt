@@ -1,0 +1,4 @@
+type: car
+plate: PXR6A39
+layout: Mercosur
+corners: 728,266 850,267 850,308 729,307

@@ -1,0 +1,4 @@
+type: car
+plate: ODL9G75
+layout: Mercosur
+corners: 279,515 423,521 427,569 284,562

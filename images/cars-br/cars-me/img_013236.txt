@@ -1,0 +1,4 @@
+type: car
+plate: MSI8C67
+layout: Mercosur
+corners: 854,195 952,195 953,226 855,225

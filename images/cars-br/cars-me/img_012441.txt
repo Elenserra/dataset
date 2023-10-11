@@ -1,0 +1,4 @@
+type: car
+plate: QRG4F02
+layout: Mercosur
+corners: 394,412 532,416 533,465 396,460

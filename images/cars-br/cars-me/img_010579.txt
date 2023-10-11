@@ -1,0 +1,4 @@
+type: car
+plate: MRA3E49
+layout: Mercosur
+corners: 810,139 889,137 889,164 811,165

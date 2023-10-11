@@ -1,0 +1,4 @@
+type: car
+plate: QRM4I57
+layout: Mercosur
+corners: 622,342 748,344 752,385 622,384

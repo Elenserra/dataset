@@ -1,0 +1,4 @@
+type: car
+plate: FDF0J44
+layout: Mercosur
+corners: 892,121 974,123 975,151 892,149

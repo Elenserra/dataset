@@ -1,0 +1,4 @@
+type: car
+plate: OYF7J88
+layout: Mercosur
+corners: 634,299 760,301 761,344 633,341

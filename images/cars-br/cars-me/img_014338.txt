@@ -1,0 +1,4 @@
+type: car
+plate: QOG0B71
+layout: Mercosur
+corners: 823,341 950,337 951,380 825,382

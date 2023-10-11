@@ -1,0 +1,4 @@
+type: car
+plate: ODF1H05
+layout: Mercosur
+corners: 479,442 609,444 610,486 477,483

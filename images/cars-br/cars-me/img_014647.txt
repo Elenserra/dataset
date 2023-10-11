@@ -1,0 +1,4 @@
+type: car
+plate: PPI4J67
+layout: Mercosur
+corners: 802,304 925,302 928,343 806,343

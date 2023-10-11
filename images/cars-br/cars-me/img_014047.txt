@@ -1,0 +1,4 @@
+type: car
+plate: QRE2C57
+layout: Mercosur
+corners: 820,315 950,311 952,356 819,358

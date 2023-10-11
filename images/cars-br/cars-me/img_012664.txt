@@ -1,0 +1,4 @@
+type: car
+plate: QRD7G78
+layout: Mercosur
+corners: 688,244 806,245 807,282 690,280

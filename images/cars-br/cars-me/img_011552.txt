@@ -1,0 +1,4 @@
+type: car
+plate: OIL2H39
+layout: Mercosur
+corners: 482,321 607,322 610,364 484,362

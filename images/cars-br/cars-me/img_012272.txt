@@ -1,0 +1,4 @@
+type: car
+plate: QRE5I24
+layout: Mercosur
+corners: 472,212 579,210 579,245 473,246

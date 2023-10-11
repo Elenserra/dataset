@@ -1,0 +1,4 @@
+type: car
+plate: QRJ2G17
+layout: Mercosur
+corners: 684,326 811,327 812,367 685,367

@@ -1,0 +1,4 @@
+type: car
+plate: MTV8F76
+layout: Mercosur
+corners: 583,382 709,382 709,422 584,423

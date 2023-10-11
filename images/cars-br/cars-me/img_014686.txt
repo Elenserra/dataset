@@ -1,0 +1,4 @@
+type: car
+plate: QRE5E60
+layout: Mercosur
+corners: 867,318 993,315 994,359 866,359

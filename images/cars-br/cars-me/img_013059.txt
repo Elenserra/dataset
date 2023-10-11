@@ -1,0 +1,4 @@
+type: car
+plate: PPX7H51
+layout: Mercosur
+corners: 661,294 784,296 785,339 662,336

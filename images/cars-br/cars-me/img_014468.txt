@@ -1,0 +1,4 @@
+type: car
+plate: MTM3J73
+layout: Mercosur
+corners: 794,241 921,237 924,277 795,281

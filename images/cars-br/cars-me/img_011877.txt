@@ -1,0 +1,4 @@
+type: car
+plate: PPO2E03
+layout: Mercosur
+corners: 519,392 641,395 644,435 522,430

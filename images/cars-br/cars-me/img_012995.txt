@@ -1,0 +1,4 @@
+type: car
+plate: PPO8G81
+layout: Mercosur
+corners: 627,365 758,369 759,411 629,408

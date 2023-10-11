@@ -1,0 +1,4 @@
+type: car
+plate: PWD6D29
+layout: Mercosur
+corners: 810,334 944,332 946,375 811,377

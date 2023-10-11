@@ -1,0 +1,4 @@
+type: car
+plate: PPN6I11
+layout: Mercosur
+corners: 481,367 611,367 614,413 482,412

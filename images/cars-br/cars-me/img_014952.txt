@@ -1,0 +1,4 @@
+type: car
+plate: QOF2G84
+layout: Mercosur
+corners: 644,368 778,377 775,422 643,411

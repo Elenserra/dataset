@@ -1,0 +1,4 @@
+type: car
+plate: PLA5C88
+layout: Mercosur
+corners: 518,391 647,393 648,434 521,433

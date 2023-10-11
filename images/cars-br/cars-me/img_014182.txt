@@ -1,0 +1,4 @@
+type: car
+plate: OYG0H90
+layout: Mercosur
+corners: 752,275 885,273 888,318 755,319

@@ -1,0 +1,4 @@
+type: car
+plate: ODL1D74
+layout: Mercosur
+corners: 707,212 800,211 801,242 707,243

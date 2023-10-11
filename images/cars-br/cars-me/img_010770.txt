@@ -1,0 +1,4 @@
+type: car
+plate: OVL1H26
+layout: Mercosur
+corners: 682,206 771,206 772,235 683,236

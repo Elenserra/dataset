@@ -1,0 +1,4 @@
+type: car
+plate: OTP9J41
+layout: Mercosur
+corners: 538,298 660,299 663,340 539,339

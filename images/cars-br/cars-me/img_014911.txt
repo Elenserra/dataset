@@ -1,0 +1,4 @@
+type: car
+plate: MSY8I46
+layout: Mercosur
+corners: 695,339 826,347 826,391 695,382

@@ -1,0 +1,4 @@
+type: car
+plate: QII3D29
+layout: Mercosur
+corners: 672,338 804,337 806,383 673,382

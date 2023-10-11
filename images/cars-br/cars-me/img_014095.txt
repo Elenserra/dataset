@@ -1,0 +1,4 @@
+type: car
+plate: MSK8I28
+layout: Mercosur
+corners: 807,324 941,321 943,367 808,369

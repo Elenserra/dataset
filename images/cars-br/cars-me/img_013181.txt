@@ -1,0 +1,4 @@
+type: car
+plate: JSP4A34
+layout: Mercosur
+corners: 750,220 860,221 860,256 752,255

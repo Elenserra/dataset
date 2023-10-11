@@ -1,0 +1,4 @@
+type: car
+plate: QPT5D40
+layout: Mercosur
+corners: 501,357 629,357 631,398 504,398

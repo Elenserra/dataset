@@ -1,0 +1,4 @@
+type: car
+plate: QRE1I49
+layout: Mercosur
+corners: 518,361 638,362 639,401 519,400

@@ -1,0 +1,4 @@
+type: car
+plate: MQR8I92
+layout: Mercosur
+corners: 518,291 645,289 645,331 522,333

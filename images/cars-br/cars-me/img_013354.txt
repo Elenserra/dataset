@@ -1,0 +1,4 @@
+type: car
+plate: ODQ6G13
+layout: Mercosur
+corners: 654,316 778,319 779,359 656,356

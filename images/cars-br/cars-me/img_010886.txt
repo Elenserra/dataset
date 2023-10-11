@@ -1,0 +1,4 @@
+type: car
+plate: LLZ5G28
+layout: Mercosur
+corners: 582,381 704,382 704,422 582,421

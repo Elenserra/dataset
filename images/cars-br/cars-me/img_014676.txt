@@ -1,0 +1,4 @@
+type: car
+plate: PPE1J57
+layout: Mercosur
+corners: 787,351 922,350 925,394 787,396

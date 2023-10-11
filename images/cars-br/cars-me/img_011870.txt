@@ -1,0 +1,4 @@
+type: car
+plate: OPL4F63
+layout: Mercosur
+corners: 487,324 615,324 618,366 486,368

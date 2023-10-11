@@ -1,0 +1,4 @@
+type: car
+plate: MPN8B07
+layout: Mercosur
+corners: 770,355 902,352 906,394 773,396

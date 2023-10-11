@@ -1,0 +1,4 @@
+type: car
+plate: FLO0I76
+layout: Mercosur
+corners: 619,315 748,317 751,362 622,359

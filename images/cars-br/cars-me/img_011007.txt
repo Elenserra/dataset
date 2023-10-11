@@ -1,0 +1,4 @@
+type: car
+plate: PRT1C34
+layout: Mercosur
+corners: 341,502 484,508 490,556 345,550

@@ -1,0 +1,4 @@
+type: car
+plate: ODT9D99
+layout: Mercosur
+corners: 741,333 873,331 876,378 742,378

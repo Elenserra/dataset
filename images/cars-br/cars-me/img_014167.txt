@@ -1,0 +1,4 @@
+type: car
+plate: PPG5I27
+layout: Mercosur
+corners: 921,152 1011,149 1012,180 921,182

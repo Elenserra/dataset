@@ -1,0 +1,4 @@
+type: car
+plate: ODH4I44
+layout: Mercosur
+corners: 779,330 906,328 912,372 780,373

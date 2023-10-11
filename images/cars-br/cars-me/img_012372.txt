@@ -1,0 +1,4 @@
+type: car
+plate: MRP9H19
+layout: Mercosur
+corners: 521,345 648,347 648,391 525,386

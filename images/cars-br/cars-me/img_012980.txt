@@ -1,0 +1,4 @@
+type: car
+plate: QRK1B57
+layout: Mercosur
+corners: 728,286 849,288 849,327 728,325

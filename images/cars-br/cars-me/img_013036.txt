@@ -1,0 +1,4 @@
+type: car
+plate: ODF1H51
+layout: Mercosur
+corners: 730,312 858,311 858,352 732,352

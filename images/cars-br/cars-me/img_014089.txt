@@ -1,0 +1,4 @@
+type: car
+plate: MTS2C82
+layout: Mercosur
+corners: 767,341 904,339 906,384 769,385

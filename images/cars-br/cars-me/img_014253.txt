@@ -1,0 +1,4 @@
+type: car
+plate: ODO3E86
+layout: Mercosur
+corners: 797,346 931,343 935,388 799,390

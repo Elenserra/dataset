@@ -1,0 +1,4 @@
+type: car
+plate: OCW3D90
+layout: Mercosur
+corners: 700,326 821,329 822,368 701,365

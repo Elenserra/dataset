@@ -1,0 +1,4 @@
+type: car
+plate: DII9G64
+layout: Mercosur
+corners: 984,207 1086,205 1088,238 985,239

@@ -1,0 +1,4 @@
+type: car
+plate: OVF8A35
+layout: Mercosur
+corners: 871,232 983,231 983,267 872,267

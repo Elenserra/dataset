@@ -1,0 +1,4 @@
+type: car
+plate: KXO0G68
+layout: Mercosur
+corners: 530,271 652,270 654,312 533,314

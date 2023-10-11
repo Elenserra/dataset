@@ -1,0 +1,4 @@
+type: car
+plate: MSY7C03
+layout: Mercosur
+corners: 825,356 962,352 965,396 826,400

@@ -1,0 +1,4 @@
+type: car
+plate: MRX0D58
+layout: Mercosur
+corners: 510,439 642,440 643,484 511,483

@@ -1,0 +1,4 @@
+type: car
+plate: MRA6F62
+layout: Mercosur
+corners: 674,305 797,306 799,347 674,345

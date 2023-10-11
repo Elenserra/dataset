@@ -1,0 +1,4 @@
+type: car
+plate: QRK0G79
+layout: Mercosur
+corners: 631,331 774,339 773,386 632,376

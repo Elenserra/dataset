@@ -1,0 +1,4 @@
+type: car
+plate: OAT3A07
+layout: Mercosur
+corners: 402,367 537,366 544,409 404,409

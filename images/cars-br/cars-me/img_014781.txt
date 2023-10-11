@@ -1,0 +1,4 @@
+type: car
+plate: EPN6E03
+layout: Mercosur
+corners: 662,390 793,399 793,439 662,431

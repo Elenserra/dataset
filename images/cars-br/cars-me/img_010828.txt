@@ -1,0 +1,4 @@
+type: car
+plate: OYI2F74
+layout: Mercosur
+corners: 515,397 642,398 642,439 516,438

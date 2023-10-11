@@ -1,0 +1,4 @@
+type: car
+plate: KPP3I27
+layout: Mercosur
+corners: 588,308 700,307 701,345 590,345

@@ -1,0 +1,4 @@
+type: car
+plate: QRE1I85
+layout: Mercosur
+corners: 573,359 693,361 693,399 574,397

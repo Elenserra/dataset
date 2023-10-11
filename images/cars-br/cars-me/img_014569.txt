@@ -1,0 +1,4 @@
+type: car
+plate: PPN8A78
+layout: Mercosur
+corners: 716,352 845,351 848,394 716,396

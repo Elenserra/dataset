@@ -1,0 +1,4 @@
+type: car
+plate: PPF0G25
+layout: Mercosur
+corners: 542,343 674,342 677,384 543,382

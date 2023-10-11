@@ -1,0 +1,4 @@
+type: car
+plate: MQN5H92
+layout: Mercosur
+corners: 669,314 797,317 797,360 669,357

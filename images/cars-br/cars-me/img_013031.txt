@@ -1,0 +1,4 @@
+type: car
+plate: MTU7F39
+layout: Mercosur
+corners: 672,256 790,259 790,299 674,296

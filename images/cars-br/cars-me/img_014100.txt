@@ -1,0 +1,4 @@
+type: car
+plate: OYH1B02
+layout: Mercosur
+corners: 828,288 948,286 951,328 828,329

@@ -1,0 +1,4 @@
+type: car
+plate: QRE3D65
+layout: Mercosur
+corners: 515,408 647,409 647,452 517,450

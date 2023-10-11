@@ -1,0 +1,4 @@
+type: car
+plate: MQM8I31
+layout: Mercosur
+corners: 830,317 956,315 960,356 831,357

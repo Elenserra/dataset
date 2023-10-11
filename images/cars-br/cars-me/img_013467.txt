@@ -1,0 +1,4 @@
+type: car
+plate: PPJ8F18
+layout: Mercosur
+corners: 845,94 928,94 929,123 845,122

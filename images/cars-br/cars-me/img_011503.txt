@@ -1,0 +1,4 @@
+type: car
+plate: PQK6I84
+layout: Mercosur
+corners: 535,319 658,318 661,358 536,359

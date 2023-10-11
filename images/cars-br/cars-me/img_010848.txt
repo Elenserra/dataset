@@ -1,0 +1,4 @@
+type: car
+plate: MPT8A99
+layout: Mercosur
+corners: 677,267 776,267 776,300 677,298

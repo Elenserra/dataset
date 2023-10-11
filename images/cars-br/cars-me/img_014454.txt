@@ -1,0 +1,4 @@
+type: car
+plate: QRL1E05
+layout: Mercosur
+corners: 801,339 933,337 936,379 804,381

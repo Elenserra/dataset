@@ -1,0 +1,4 @@
+type: car
+plate: KOU1I82
+layout: Mercosur
+corners: 843,335 970,333 971,376 844,376

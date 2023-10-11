@@ -1,0 +1,4 @@
+type: car
+plate: QRG2E17
+layout: Mercosur
+corners: 813,357 949,355 951,398 814,402

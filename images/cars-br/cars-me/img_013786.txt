@@ -1,0 +1,4 @@
+type: car
+plate: PPW1B06
+layout: Mercosur
+corners: 646,170 755,171 755,210 647,209

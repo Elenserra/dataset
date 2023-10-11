@@ -1,0 +1,4 @@
+type: car
+plate: QRC0B98
+layout: Mercosur
+corners: 316,427 458,432 460,481 318,476

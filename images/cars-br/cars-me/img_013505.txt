@@ -1,0 +1,4 @@
+type: car
+plate: ODK1A28
+layout: Mercosur
+corners: 855,78 933,77 933,103 856,103

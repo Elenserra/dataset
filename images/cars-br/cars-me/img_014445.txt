@@ -1,0 +1,4 @@
+type: car
+plate: PPD7B60
+layout: Mercosur
+corners: 838,310 969,307 970,352 839,353

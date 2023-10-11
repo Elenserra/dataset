@@ -1,0 +1,4 @@
+type: car
+plate: OVH9J79
+layout: Mercosur
+corners: 471,439 605,441 605,488 471,483

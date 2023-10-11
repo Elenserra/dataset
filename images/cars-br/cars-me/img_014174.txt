@@ -1,0 +1,4 @@
+type: car
+plate: JNU3C07
+layout: Mercosur
+corners: 817,334 943,333 946,374 816,375

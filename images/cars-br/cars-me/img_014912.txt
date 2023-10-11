@@ -1,0 +1,4 @@
+type: car
+plate: AGN7I24
+layout: Mercosur
+corners: 652,362 791,369 791,417 652,407

@@ -1,0 +1,4 @@
+type: car
+plate: JJK1H90
+layout: Mercosur
+corners: 574,399 704,395 704,439 576,440

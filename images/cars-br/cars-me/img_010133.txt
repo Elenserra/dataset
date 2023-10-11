@@ -1,0 +1,4 @@
+type: car
+plate: NYV6E71
+layout: Mercosur
+corners: 535,392 661,392 663,434 535,434

@@ -1,0 +1,4 @@
+type: car
+plate: PPO8G23
+layout: Mercosur
+corners: 867,257 984,254 986,294 867,297

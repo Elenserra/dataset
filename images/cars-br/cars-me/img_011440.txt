@@ -1,0 +1,4 @@
+type: car
+plate: ODQ0C97
+layout: Mercosur
+corners: 868,58 932,56 933,80 868,81

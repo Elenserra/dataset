@@ -1,0 +1,4 @@
+type: car
+plate: QRI6G43
+layout: Mercosur
+corners: 677,306 806,310 806,354 678,349

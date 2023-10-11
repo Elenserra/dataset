@@ -1,0 +1,4 @@
+type: car
+plate: QRE8C46
+layout: Mercosur
+corners: 808,337 941,335 942,380 808,381

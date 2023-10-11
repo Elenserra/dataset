@@ -1,0 +1,4 @@
+type: car
+plate: QRB2E49
+layout: Mercosur
+corners: 778,327 913,325 917,372 777,373

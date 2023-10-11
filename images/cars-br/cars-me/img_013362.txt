@@ -1,0 +1,4 @@
+type: car
+plate: QRH8F19
+layout: Mercosur
+corners: 720,155 816,157 815,188 721,187

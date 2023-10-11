@@ -1,0 +1,4 @@
+type: car
+plate: MPI3H57
+layout: Mercosur
+corners: 545,343 665,342 668,383 547,382

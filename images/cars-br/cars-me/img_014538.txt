@@ -1,0 +1,4 @@
+type: car
+plate: PPG2I00
+layout: Mercosur
+corners: 795,333 928,331 930,377 795,378

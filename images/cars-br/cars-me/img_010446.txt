@@ -1,0 +1,4 @@
+type: car
+plate: MQP3E60
+layout: Mercosur
+corners: 770,168 855,167 855,196 771,196

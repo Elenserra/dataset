@@ -1,0 +1,4 @@
+type: car
+plate: QRJ0I44
+layout: Mercosur
+corners: 779,290 904,289 905,330 780,331

@@ -1,0 +1,4 @@
+type: car
+plate: MTE0I91
+layout: Mercosur
+corners: 589,358 705,359 705,395 589,395

@@ -1,0 +1,4 @@
+type: car
+plate: PPW7D46
+layout: Mercosur
+corners: 989,116 1073,113 1075,142 990,144

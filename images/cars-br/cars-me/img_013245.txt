@@ -1,0 +1,4 @@
+type: car
+plate: ODH4A87
+layout: Mercosur
+corners: 725,265 837,268 836,305 725,302

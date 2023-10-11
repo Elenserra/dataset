@@ -1,0 +1,4 @@
+type: car
+plate: FOU3I88
+layout: Mercosur
+corners: 811,351 944,352 945,395 812,393

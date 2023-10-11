@@ -1,0 +1,4 @@
+type: car
+plate: OCZ3B77
+layout: Mercosur
+corners: 563,389 686,390 688,429 565,428

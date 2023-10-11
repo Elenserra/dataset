@@ -1,0 +1,4 @@
+type: car
+plate: MQF6J43
+layout: Mercosur
+corners: 678,353 803,355 805,393 680,389

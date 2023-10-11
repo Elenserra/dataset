@@ -1,0 +1,4 @@
+type: car
+plate: EQV6H43
+layout: Mercosur
+corners: 543,403 672,402 672,443 544,445

@@ -1,0 +1,4 @@
+type: car
+plate: MQT6G34
+layout: Mercosur
+corners: 938,218 1045,216 1047,250 939,254

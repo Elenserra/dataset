@@ -1,0 +1,4 @@
+type: car
+plate: JLX7D24
+layout: Mercosur
+corners: 721,341 847,345 848,387 721,381

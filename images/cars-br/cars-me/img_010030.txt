@@ -1,0 +1,4 @@
+type: car
+plate: MTY6D88
+layout: Mercosur
+corners: 542,402 669,401 670,440 544,440

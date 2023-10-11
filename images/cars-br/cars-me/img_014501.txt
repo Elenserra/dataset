@@ -1,0 +1,4 @@
+type: car
+plate: KWK2C59
+layout: Mercosur
+corners: 790,303 918,301 919,345 790,345

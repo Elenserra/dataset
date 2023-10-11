@@ -1,0 +1,4 @@
+type: car
+plate: PYW3H94
+layout: Mercosur
+corners: 824,321 959,317 962,361 824,364

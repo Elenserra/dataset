@@ -1,0 +1,4 @@
+type: car
+plate: ODN5E19
+layout: Mercosur
+corners: 532,340 661,339 666,382 532,384

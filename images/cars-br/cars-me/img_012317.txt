@@ -1,0 +1,4 @@
+type: car
+plate: PPM0F57
+layout: Mercosur
+corners: 495,252 606,252 606,288 496,289

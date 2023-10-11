@@ -1,0 +1,4 @@
+type: car
+plate: PPL5H00
+layout: Mercosur
+corners: 695,317 830,316 832,362 696,362

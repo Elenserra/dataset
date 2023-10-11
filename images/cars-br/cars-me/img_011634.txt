@@ -1,0 +1,4 @@
+type: car
+plate: PPI1H61
+layout: Mercosur
+corners: 482,376 615,376 619,424 485,421

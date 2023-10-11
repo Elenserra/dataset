@@ -1,0 +1,4 @@
+type: car
+plate: PPG2C97
+layout: Mercosur
+corners: 416,539 579,547 579,603 419,593

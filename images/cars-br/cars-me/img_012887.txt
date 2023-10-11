@@ -1,0 +1,4 @@
+type: car
+plate: QRE6C30
+layout: Mercosur
+corners: 718,107 800,107 800,135 718,135

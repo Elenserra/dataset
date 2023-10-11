@@ -1,0 +1,4 @@
+type: car
+plate: MST6H14
+layout: Mercosur
+corners: 812,299 943,297 944,340 812,342

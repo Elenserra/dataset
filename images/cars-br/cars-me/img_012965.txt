@@ -1,0 +1,4 @@
+type: car
+plate: MSY6G18
+layout: Mercosur
+corners: 653,291 769,293 770,331 654,329

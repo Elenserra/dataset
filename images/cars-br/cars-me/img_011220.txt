@@ -1,0 +1,4 @@
+type: car
+plate: AYB1C25
+layout: Mercosur
+corners: 469,343 598,345 601,390 470,387

@@ -1,0 +1,4 @@
+type: car
+plate: MSV0G47
+layout: Mercosur
+corners: 748,255 859,258 859,293 750,291

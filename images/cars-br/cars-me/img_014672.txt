@@ -1,0 +1,4 @@
+type: car
+plate: FOB7A60
+layout: Mercosur
+corners: 830,330 964,328 966,371 833,372

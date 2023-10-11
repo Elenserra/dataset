@@ -1,0 +1,4 @@
+type: car
+plate: PPB0A29
+layout: Mercosur
+corners: 582,280 703,280 704,319 583,320

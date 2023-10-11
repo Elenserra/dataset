@@ -1,0 +1,4 @@
+type: car
+plate: QRH7D08
+layout: Mercosur
+corners: 928,15 997,15 997,37 928,38

@@ -1,0 +1,4 @@
+type: car
+plate: OXK5J38
+layout: Mercosur
+corners: 782,335 916,336 918,379 782,379

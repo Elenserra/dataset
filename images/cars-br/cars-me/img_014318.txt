@@ -1,0 +1,4 @@
+type: car
+plate: FVK7I71
+layout: Mercosur
+corners: 846,321 979,319 981,364 848,366

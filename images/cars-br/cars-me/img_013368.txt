@@ -1,0 +1,4 @@
+type: car
+plate: QRH2J76
+layout: Mercosur
+corners: 678,274 797,275 797,314 679,312

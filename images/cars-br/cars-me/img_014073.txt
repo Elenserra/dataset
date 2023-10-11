@@ -1,0 +1,4 @@
+type: car
+plate: QRF0J94
+layout: Mercosur
+corners: 736,302 869,300 872,346 738,347

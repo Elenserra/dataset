@@ -1,0 +1,4 @@
+type: car
+plate: PPZ2F57
+layout: Mercosur
+corners: 466,407 595,409 600,450 470,445

@@ -1,0 +1,4 @@
+type: car
+plate: KVU8A43
+layout: Mercosur
+corners: 816,315 945,313 947,355 817,356

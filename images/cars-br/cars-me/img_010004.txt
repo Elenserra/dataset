@@ -1,0 +1,4 @@
+type: car
+plate: QRF3J90
+layout: Mercosur
+corners: 926,252 1030,252 1030,285 926,286

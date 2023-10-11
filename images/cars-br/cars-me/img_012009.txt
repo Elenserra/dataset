@@ -1,0 +1,4 @@
+type: car
+plate: QRM4A16
+layout: Mercosur
+corners: 528,358 653,358 656,398 529,399

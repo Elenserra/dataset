@@ -1,0 +1,4 @@
+type: car
+plate: PPE8J60
+layout: Mercosur
+corners: 791,317 921,313 923,356 793,361

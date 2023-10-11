@@ -1,0 +1,4 @@
+type: car
+plate: PPF7A40
+layout: Mercosur
+corners: 499,290 613,293 614,331 500,327

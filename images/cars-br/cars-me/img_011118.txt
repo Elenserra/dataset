@@ -1,0 +1,4 @@
+type: car
+plate: QRK1A22
+layout: Mercosur
+corners: 497,313 619,315 620,357 497,354

@@ -1,0 +1,4 @@
+type: car
+plate: KAZ5C55
+layout: Mercosur
+corners: 745,320 870,320 875,359 747,358

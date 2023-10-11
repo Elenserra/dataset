@@ -1,0 +1,4 @@
+type: car
+plate: PAF3G70
+layout: Mercosur
+corners: 926,6 997,6 997,29 926,31

@@ -1,0 +1,4 @@
+type: car
+plate: HLO4F36
+layout: Mercosur
+corners: 738,163 837,160 838,194 738,195

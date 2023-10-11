@@ -1,0 +1,4 @@
+type: car
+plate: OCV4D46
+layout: Mercosur
+corners: 500,389 619,389 621,426 501,427

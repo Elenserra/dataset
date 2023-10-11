@@ -1,0 +1,4 @@
+type: car
+plate: PPY2C39
+layout: Mercosur
+corners: 827,103 914,103 914,132 827,132

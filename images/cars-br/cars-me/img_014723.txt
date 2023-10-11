@@ -1,0 +1,4 @@
+type: car
+plate: PPS8G99
+layout: Mercosur
+corners: 855,269 977,269 977,306 857,306

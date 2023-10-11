@@ -1,0 +1,4 @@
+type: car
+plate: LQA5D52
+layout: Mercosur
+corners: 739,216 852,215 854,250 741,251

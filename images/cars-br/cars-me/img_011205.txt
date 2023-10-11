@@ -1,0 +1,4 @@
+type: car
+plate: QRE5D80
+layout: Mercosur
+corners: 505,311 618,314 621,352 506,353

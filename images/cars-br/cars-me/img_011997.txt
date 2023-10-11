@@ -1,0 +1,4 @@
+type: car
+plate: OUZ1J06
+layout: Mercosur
+corners: 734,192 823,191 823,220 734,221

@@ -1,0 +1,4 @@
+type: car
+plate: HEQ4E66
+layout: Mercosur
+corners: 695,314 817,319 817,357 695,354

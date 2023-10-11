@@ -1,0 +1,4 @@
+type: car
+plate: PPC4C66
+layout: Mercosur
+corners: 835,330 968,330 970,374 836,374

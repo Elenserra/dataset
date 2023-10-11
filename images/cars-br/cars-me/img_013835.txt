@@ -1,0 +1,4 @@
+type: car
+plate: QRE2A11
+layout: Mercosur
+corners: 614,359 754,360 756,409 617,407

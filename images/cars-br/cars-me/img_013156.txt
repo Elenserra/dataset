@@ -1,0 +1,4 @@
+type: car
+plate: MTA4H86
+layout: Mercosur
+corners: 753,265 868,266 869,303 755,302

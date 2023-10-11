@@ -1,0 +1,4 @@
+type: car
+plate: HZW3D83
+layout: Mercosur
+corners: 362,330 489,327 493,365 367,367

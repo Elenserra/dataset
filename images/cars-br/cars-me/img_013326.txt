@@ -1,0 +1,4 @@
+type: car
+plate: MSI3G87
+layout: Mercosur
+corners: 653,308 777,310 778,352 654,350

@@ -1,0 +1,4 @@
+type: car
+plate: QRK9F12
+layout: Mercosur
+corners: 774,314 908,311 910,357 777,358

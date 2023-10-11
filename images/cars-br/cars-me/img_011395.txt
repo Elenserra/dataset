@@ -1,0 +1,4 @@
+type: car
+plate: PPQ9C30
+layout: Mercosur
+corners: 697,148 784,148 784,178 697,178

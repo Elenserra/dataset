@@ -1,0 +1,4 @@
+type: car
+plate: QRE7D29
+layout: Mercosur
+corners: 675,297 793,298 794,337 676,333

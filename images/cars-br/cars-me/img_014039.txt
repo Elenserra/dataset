@@ -1,0 +1,4 @@
+type: car
+plate: OYF8C78
+layout: Mercosur
+corners: 816,326 954,324 956,373 817,372

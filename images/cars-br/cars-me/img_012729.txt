@@ -1,0 +1,4 @@
+type: car
+plate: ODF4A12
+layout: Mercosur
+corners: 656,334 786,335 787,379 657,377

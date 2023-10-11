@@ -1,0 +1,4 @@
+type: car
+plate: OLQ5F47
+layout: Mercosur
+corners: 495,341 626,344 628,385 496,381

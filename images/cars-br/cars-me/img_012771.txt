@@ -1,0 +1,4 @@
+type: car
+plate: PPD4D87
+layout: Mercosur
+corners: 655,322 776,325 776,365 655,360

@@ -1,0 +1,4 @@
+type: car
+plate: PZV9G52
+layout: Mercosur
+corners: 776,359 907,354 910,397 778,401

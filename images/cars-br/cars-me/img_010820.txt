@@ -1,0 +1,4 @@
+type: car
+plate: OVF8D73
+layout: Mercosur
+corners: 343,513 486,520 484,567 343,559

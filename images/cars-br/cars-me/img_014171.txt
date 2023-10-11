@@ -1,0 +1,4 @@
+type: car
+plate: ODT4B08
+layout: Mercosur
+corners: 838,330 968,328 971,373 838,375

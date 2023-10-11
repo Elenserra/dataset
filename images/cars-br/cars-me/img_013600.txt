@@ -1,0 +1,4 @@
+type: car
+plate: QRI6A63
+layout: Mercosur
+corners: 582,280 706,282 709,323 582,321

@@ -1,0 +1,4 @@
+type: car
+plate: PPL2J95
+layout: Mercosur
+corners: 636,302 753,306 753,345 637,341

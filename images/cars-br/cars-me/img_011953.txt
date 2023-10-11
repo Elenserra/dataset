@@ -1,0 +1,4 @@
+type: car
+plate: OVI1C96
+layout: Mercosur
+corners: 566,424 695,424 698,465 568,465

@@ -1,0 +1,4 @@
+type: car
+plate: QRF4J30
+layout: Mercosur
+corners: 720,102 795,101 797,125 721,128

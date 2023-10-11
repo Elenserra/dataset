@@ -1,0 +1,4 @@
+type: car
+plate: OUJ1D89
+layout: Mercosur
+corners: 774,323 904,322 906,363 776,365

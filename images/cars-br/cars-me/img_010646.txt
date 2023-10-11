@@ -1,0 +1,4 @@
+type: car
+plate: QRJ5A42
+layout: Mercosur
+corners: 744,158 825,158 826,184 745,184

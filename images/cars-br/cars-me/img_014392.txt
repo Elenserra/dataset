@@ -1,0 +1,4 @@
+type: car
+plate: EVE2B50
+layout: Mercosur
+corners: 720,330 855,330 859,374 722,374

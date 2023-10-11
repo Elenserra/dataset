@@ -1,0 +1,4 @@
+type: car
+plate: GUP7I58
+layout: Mercosur
+corners: 650,295 759,295 760,331 650,330

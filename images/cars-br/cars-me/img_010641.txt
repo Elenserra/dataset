@@ -1,0 +1,4 @@
+type: car
+plate: OVE2E99
+layout: Mercosur
+corners: 516,405 640,406 640,444 516,443

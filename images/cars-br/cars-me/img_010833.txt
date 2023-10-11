@@ -1,0 +1,4 @@
+type: car
+plate: HNS0J87
+layout: Mercosur
+corners: 546,441 677,441 680,479 548,480

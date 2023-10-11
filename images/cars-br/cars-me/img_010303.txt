@@ -1,0 +1,4 @@
+type: car
+plate: PZC5A89
+layout: Mercosur
+corners: 663,308 774,308 775,345 663,345

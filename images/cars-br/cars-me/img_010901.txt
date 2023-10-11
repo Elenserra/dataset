@@ -1,0 +1,4 @@
+type: car
+plate: LRX3H93
+layout: Mercosur
+corners: 523,378 643,379 643,416 524,414

@@ -1,0 +1,4 @@
+type: car
+plate: PPA3A09
+layout: Mercosur
+corners: 705,290 827,290 828,330 704,330

@@ -1,0 +1,4 @@
+type: car
+plate: LRZ4C98
+layout: Mercosur
+corners: 783,371 917,370 921,414 784,415

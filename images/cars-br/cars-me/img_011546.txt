@@ -1,0 +1,4 @@
+type: car
+plate: MTR7C95
+layout: Mercosur
+corners: 580,401 704,401 708,442 578,441

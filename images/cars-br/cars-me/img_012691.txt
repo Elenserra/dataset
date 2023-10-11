@@ -1,0 +1,4 @@
+type: car
+plate: QRF1C91
+layout: Mercosur
+corners: 882,108 965,109 965,137 882,137

@@ -1,0 +1,4 @@
+type: car
+plate: OCW1G33
+layout: Mercosur
+corners: 579,315 697,318 698,357 580,354

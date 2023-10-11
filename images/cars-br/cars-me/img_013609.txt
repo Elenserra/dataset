@@ -1,0 +1,4 @@
+type: car
+plate: DPX2D21
+layout: Mercosur
+corners: 740,258 861,260 862,300 740,297

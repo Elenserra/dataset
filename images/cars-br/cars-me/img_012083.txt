@@ -1,0 +1,4 @@
+type: car
+plate: OKV9E51
+layout: Mercosur
+corners: 503,329 632,329 634,372 503,371

@@ -1,0 +1,4 @@
+type: car
+plate: MRX0D92
+layout: Mercosur
+corners: 774,367 917,367 919,414 775,414

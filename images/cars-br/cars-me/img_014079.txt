@@ -1,0 +1,4 @@
+type: car
+plate: PPN5D89
+layout: Mercosur
+corners: 863,300 988,295 991,338 862,339

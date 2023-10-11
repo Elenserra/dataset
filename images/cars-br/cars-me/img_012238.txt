@@ -1,0 +1,4 @@
+type: car
+plate: PPJ2A86
+layout: Mercosur
+corners: 477,327 610,326 611,369 481,369

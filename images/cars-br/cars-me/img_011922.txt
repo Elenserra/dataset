@@ -1,0 +1,4 @@
+type: car
+plate: LUN8F53
+layout: Mercosur
+corners: 718,159 804,158 806,187 718,188

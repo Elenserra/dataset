@@ -1,0 +1,4 @@
+type: car
+plate: ODR6G96
+layout: Mercosur
+corners: 540,327 669,327 671,371 543,371

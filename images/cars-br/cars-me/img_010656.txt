@@ -1,0 +1,4 @@
+type: car
+plate: QRG9I29
+layout: Mercosur
+corners: 624,337 733,336 734,370 626,371

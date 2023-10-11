@@ -1,0 +1,4 @@
+type: car
+plate: EYU5C20
+layout: Mercosur
+corners: 763,279 899,275 903,321 764,325

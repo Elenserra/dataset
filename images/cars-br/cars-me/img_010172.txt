@@ -1,0 +1,4 @@
+type: car
+plate: PPP4B24
+layout: Mercosur
+corners: 552,407 681,407 683,449 554,449

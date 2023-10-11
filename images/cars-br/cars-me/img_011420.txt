@@ -1,0 +1,4 @@
+type: car
+plate: LQS9H46
+layout: Mercosur
+corners: 454,424 584,427 586,469 455,465

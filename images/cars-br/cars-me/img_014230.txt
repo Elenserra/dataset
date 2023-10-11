@@ -1,0 +1,4 @@
+type: car
+plate: OVE4C82
+layout: Mercosur
+corners: 1006,122 1085,119 1086,146 1006,149

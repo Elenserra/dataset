@@ -1,0 +1,4 @@
+type: car
+plate: QRE0I28
+layout: Mercosur
+corners: 546,309 671,308 673,349 548,347

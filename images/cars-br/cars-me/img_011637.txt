@@ -1,0 +1,4 @@
+type: car
+plate: QRM4F79
+layout: Mercosur
+corners: 564,293 682,293 684,333 565,334

@@ -1,0 +1,4 @@
+type: car
+plate: PPE2I19
+layout: Mercosur
+corners: 514,397 648,400 649,444 513,440

@@ -1,0 +1,4 @@
+type: car
+plate: KQK7H61
+layout: Mercosur
+corners: 637,330 746,332 748,364 639,363

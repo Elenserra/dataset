@@ -1,0 +1,4 @@
+type: car
+plate: QRH7B74
+layout: Mercosur
+corners: 679,200 773,198 773,229 680,232

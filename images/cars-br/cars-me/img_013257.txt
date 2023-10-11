@@ -1,0 +1,4 @@
+type: car
+plate: MSB7J14
+layout: Mercosur
+corners: 634,349 762,351 762,392 634,391

@@ -1,0 +1,4 @@
+type: car
+plate: PPN2C23
+layout: Mercosur
+corners: 636,316 759,318 759,358 636,355
