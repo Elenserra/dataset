@@ -1,0 +1,4 @@
+type: car
+plate: MQK1036
+layout: Brazilian
+corners: 811,329 943,325 944,371 810,374

@@ -1,0 +1,4 @@
+type: car
+plate: OUW2684
+layout: Brazilian
+corners: 928,212 1035,209 1037,243 931,246

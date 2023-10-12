@@ -1,0 +1,4 @@
+type: car
+plate: ODL2849
+layout: Brazilian
+corners: 562,399 686,400 687,440 562,440

@@ -1,0 +1,4 @@
+type: car
+plate: MSU5968
+layout: Brazilian
+corners: 753,320 880,319 883,363 756,363

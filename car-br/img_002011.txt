@@ -1,0 +1,4 @@
+type: car
+plate: OVH8494
+layout: Brazilian
+corners: 571,243 666,243 667,276 571,276
