@@ -1,0 +1,4 @@
+type: car
+plate: GWQ6575
+layout: Brazilian
+corners: 526,430 657,433 658,478 527,475

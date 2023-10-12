@@ -1,0 +1,4 @@
+type: car
+plate: KXX5595
+layout: Brazilian
+corners: 517,409 645,409 647,453 519,452

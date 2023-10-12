@@ -1,0 +1,4 @@
+type: car
+plate: LRY9368
+layout: Brazilian
+corners: 784,341 918,342 918,387 784,386

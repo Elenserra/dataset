@@ -1,0 +1,4 @@
+type: car
+plate: EZV8786
+layout: Brazilian
+corners: 450,358 581,357 588,398 453,400

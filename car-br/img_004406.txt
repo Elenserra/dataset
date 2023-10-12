@@ -1,0 +1,4 @@
+type: car
+plate: OYI4952
+layout: Brazilian
+corners: 791,360 927,355 932,403 794,403

@@ -1,0 +1,4 @@
+type: car
+plate: MRF7840
+layout: Brazilian
+corners: 689,267 792,267 793,304 690,303

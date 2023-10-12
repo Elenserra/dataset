@@ -1,0 +1,4 @@
+type: car
+plate: PPQ7354
+layout: Brazilian
+corners: 537,384 658,385 660,424 540,424

@@ -1,0 +1,4 @@
+type: car
+plate: MQN3586
+layout: Brazilian
+corners: 953,196 1058,194 1059,231 952,234

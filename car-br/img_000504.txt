@@ -1,0 +1,4 @@
+type: car
+plate: OYJ9740
+layout: Brazilian
+corners: 605,395 731,395 733,436 608,437

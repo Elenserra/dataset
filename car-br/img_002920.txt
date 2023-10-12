@@ -1,0 +1,4 @@
+type: car
+plate: PPP9312
+layout: Brazilian
+corners: 795,176 891,178 892,211 796,209

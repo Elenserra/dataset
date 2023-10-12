@@ -1,0 +1,4 @@
+type: car
+plate: PPF0655
+layout: Brazilian
+corners: 686,348 817,350 821,393 687,391

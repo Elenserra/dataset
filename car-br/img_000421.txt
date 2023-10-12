@@ -1,0 +1,4 @@
+type: car
+plate: MQM8730
+layout: Brazilian
+corners: 520,422 651,424 652,470 519,468

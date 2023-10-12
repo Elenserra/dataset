@@ -1,0 +1,4 @@
+type: car
+plate: PPH1418
+layout: Brazilian
+corners: 789,357 928,354 930,399 791,402

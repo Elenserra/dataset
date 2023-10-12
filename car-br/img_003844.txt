@@ -1,0 +1,4 @@
+type: car
+plate: MSI3444
+layout: Brazilian
+corners: 856,344 989,344 993,386 858,386

@@ -1,0 +1,4 @@
+type: car
+plate: MTC2892
+layout: Brazilian
+corners: 804,335 935,333 938,379 803,380

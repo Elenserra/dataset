@@ -1,0 +1,4 @@
+type: car
+plate: PPU7654
+layout: Brazilian
+corners: 891,168 998,164 1002,203 891,205

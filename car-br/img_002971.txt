@@ -1,0 +1,4 @@
+type: car
+plate: PPB1525
+layout: Brazilian
+corners: 974,34 1040,33 1042,56 975,57

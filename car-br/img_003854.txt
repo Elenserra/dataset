@@ -1,0 +1,4 @@
+type: car
+plate: GWH3453
+layout: Brazilian
+corners: 787,333 917,331 921,375 789,378

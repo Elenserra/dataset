@@ -1,0 +1,4 @@
+type: car
+plate: ODG3992
+layout: Brazilian
+corners: 672,270 793,271 795,311 672,310

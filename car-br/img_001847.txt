@@ -1,0 +1,4 @@
+type: car
+plate: OYJ7768
+layout: Brazilian
+corners: 770,134 849,133 850,161 771,162

@@ -1,0 +1,4 @@
+type: car
+plate: PPG1685
+layout: Brazilian
+corners: 674,250 775,248 775,283 674,286

@@ -1,0 +1,4 @@
+type: car
+plate: QNA0174
+layout: Brazilian
+corners: 832,316 957,314 960,358 833,359

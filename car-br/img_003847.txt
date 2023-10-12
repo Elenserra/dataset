@@ -1,0 +1,4 @@
+type: car
+plate: OCZ5621
+layout: Brazilian
+corners: 793,315 920,314 922,357 793,357

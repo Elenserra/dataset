@@ -1,0 +1,4 @@
+type: car
+plate: KNZ6408
+layout: Brazilian
+corners: 707,407 851,406 854,456 707,457

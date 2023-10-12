@@ -1,0 +1,4 @@
+type: car
+plate: OYF9110
+layout: Brazilian
+corners: 478,422 609,422 609,468 480,465

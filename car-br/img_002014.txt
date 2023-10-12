@@ -1,0 +1,4 @@
+type: car
+plate: MSV2851
+layout: Brazilian
+corners: 562,373 684,375 685,417 562,414

@@ -1,0 +1,4 @@
+type: car
+plate: QRB3288
+layout: Brazilian
+corners: 834,325 968,323 971,369 834,371

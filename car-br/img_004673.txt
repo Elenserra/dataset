@@ -1,0 +1,4 @@
+type: car
+plate: OMB5597
+layout: Brazilian
+corners: 735,296 870,291 876,335 738,339

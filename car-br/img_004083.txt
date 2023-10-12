@@ -1,0 +1,4 @@
+type: car
+plate: PPB8254
+layout: Brazilian
+corners: 828,334 960,331 964,375 829,378

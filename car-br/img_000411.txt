@@ -1,0 +1,4 @@
+type: car
+plate: PPX4010
+layout: Brazilian
+corners: 575,406 706,408 706,451 575,450

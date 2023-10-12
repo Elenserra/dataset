@@ -1,0 +1,4 @@
+type: car
+plate: PVK1625
+layout: Brazilian
+corners: 694,353 830,352 832,400 694,399
