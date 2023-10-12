@@ -1,4 +1,0 @@
-type: car
-plate: PPR4F54
-layout: Mercosur
-corners: 529,380 651,382 652,424 531,421

@@ -1,4 +1,0 @@
-type: car
-plate: ODN2E68
-layout: Mercosur
-corners: 475,300 601,302 603,343 478,342

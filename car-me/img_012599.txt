@@ -1,4 +1,0 @@
-type: car
-plate: MSD8F29
-layout: Mercosur
-corners: 657,321 783,326 785,367 661,361

@@ -1,4 +1,0 @@
-type: car
-plate: QRF6I99
-layout: Mercosur
-corners: 441,380 567,381 570,424 443,424

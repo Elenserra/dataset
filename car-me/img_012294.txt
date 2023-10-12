@@ -1,4 +1,0 @@
-type: car
-plate: ODR7G05
-layout: Mercosur
-corners: 793,34 867,32 867,54 794,57

@@ -1,4 +1,0 @@
-type: car
-plate: LSU5A61
-layout: Mercosur
-corners: 679,213 776,212 778,244 681,245

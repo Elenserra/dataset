@@ -1,4 +1,0 @@
-type: car
-plate: ATT1E29
-layout: Mercosur
-corners: 920,62 989,63 989,85 920,84

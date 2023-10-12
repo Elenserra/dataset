@@ -1,4 +1,0 @@
-type: car
-plate: QRE6F01
-layout: Mercosur
-corners: 476,350 597,353 599,394 477,391

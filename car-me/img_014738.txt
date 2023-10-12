@@ -1,4 +1,0 @@
-type: car
-plate: AOH6I15
-layout: Mercosur
-corners: 850,313 972,314 972,352 852,352

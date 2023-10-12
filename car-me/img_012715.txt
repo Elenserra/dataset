@@ -1,4 +1,0 @@
-type: car
-plate: QRF5A40
-layout: Mercosur
-corners: 694,229 810,231 811,268 694,268

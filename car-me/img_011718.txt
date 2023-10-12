@@ -1,4 +1,0 @@
-type: car
-plate: KRT3D92
-layout: Mercosur
-corners: 610,288 725,287 728,327 612,327

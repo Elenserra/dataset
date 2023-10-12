@@ -1,4 +1,0 @@
-type: car
-plate: OYK6J35
-layout: Mercosur
-corners: 643,326 769,327 768,370 644,368

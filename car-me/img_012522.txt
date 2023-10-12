@@ -1,4 +1,0 @@
-type: car
-plate: NGU7C30
-layout: Mercosur
-corners: 661,312 779,315 779,351 662,348

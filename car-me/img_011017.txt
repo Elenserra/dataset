@@ -1,4 +1,0 @@
-type: car
-plate: OMF2G09
-layout: Mercosur
-corners: 458,352 591,353 594,397 457,395

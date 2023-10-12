@@ -1,4 +1,0 @@
-type: car
-plate: QRK9G31
-layout: Mercosur
-corners: 517,332 628,331 631,368 518,369

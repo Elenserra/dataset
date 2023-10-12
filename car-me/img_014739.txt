@@ -1,4 +1,0 @@
-type: car
-plate: ODO9G61
-layout: Mercosur
-corners: 773,316 903,316 903,360 774,359

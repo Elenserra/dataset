@@ -1,4 +1,0 @@
-type: car
-plate: OYE4A60
-layout: Mercosur
-corners: 483,321 610,321 612,366 483,364

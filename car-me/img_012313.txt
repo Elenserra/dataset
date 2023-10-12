@@ -1,4 +1,0 @@
-type: car
-plate: HPW6I86
-layout: Mercosur
-corners: 656,177 761,175 762,209 658,210

@@ -1,4 +1,0 @@
-type: car
-plate: LSC4B83
-layout: Mercosur
-corners: 597,332 733,340 733,385 598,378

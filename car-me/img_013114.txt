@@ -1,4 +1,0 @@
-type: car
-plate: PYX8G14
-layout: Mercosur
-corners: 669,319 794,322 794,362 669,360

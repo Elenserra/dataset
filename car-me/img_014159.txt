@@ -1,4 +1,0 @@
-type: car
-plate: MTH7B31
-layout: Mercosur
-corners: 937,225 1042,223 1045,259 937,260

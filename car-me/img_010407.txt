@@ -1,4 +1,0 @@
-type: car
-plate: QRE6J41
-layout: Mercosur
-corners: 387,398 518,398 520,442 392,442

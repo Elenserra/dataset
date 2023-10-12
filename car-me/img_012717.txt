@@ -1,4 +1,0 @@
-type: car
-plate: ODE2E62
-layout: Mercosur
-corners: 657,339 782,342 782,382 656,378

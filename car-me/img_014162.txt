@@ -1,4 +1,0 @@
-type: car
-plate: KRV5J97
-layout: Mercosur
-corners: 830,284 953,281 956,320 832,324

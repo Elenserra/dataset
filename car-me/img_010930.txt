@@ -1,4 +1,0 @@
-type: car
-plate: HEF0G69
-layout: Mercosur
-corners: 615,360 725,361 725,395 616,394
