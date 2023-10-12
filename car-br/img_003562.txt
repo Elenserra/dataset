@@ -1,0 +1,4 @@
+type: car
+plate: AMY4727
+layout: Brazilian
+corners: 807,344 926,340 930,382 808,383

@@ -1,0 +1,4 @@
+type: car
+plate: ODF4532
+layout: Brazilian
+corners: 566,349 680,350 680,389 567,390

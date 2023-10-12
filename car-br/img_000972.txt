@@ -1,0 +1,4 @@
+type: car
+plate: PPQ1327
+layout: Brazilian
+corners: 434,431 566,433 566,481 435,477

@@ -1,0 +1,4 @@
+type: car
+plate: ODK8819
+layout: Brazilian
+corners: 782,355 918,353 922,401 784,402

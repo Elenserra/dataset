@@ -1,0 +1,4 @@
+type: car
+plate: MSX6699
+layout: Brazilian
+corners: 550,404 674,406 674,447 551,446

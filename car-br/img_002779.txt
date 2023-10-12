@@ -1,0 +1,4 @@
+type: car
+plate: MTG8276
+layout: Brazilian
+corners: 628,327 757,329 760,373 629,372

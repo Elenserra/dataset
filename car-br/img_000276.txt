@@ -1,0 +1,4 @@
+type: car
+plate: ODP1456
+layout: Brazilian
+corners: 463,490 596,490 599,532 464,530

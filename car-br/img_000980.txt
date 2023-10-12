@@ -1,0 +1,4 @@
+type: car
+plate: MSR4148
+layout: Brazilian
+corners: 556,370 681,372 680,416 555,414

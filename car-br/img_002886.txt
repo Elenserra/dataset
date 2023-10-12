@@ -1,0 +1,4 @@
+type: car
+plate: MTZ6794
+layout: Brazilian
+corners: 588,325 711,328 715,369 592,365

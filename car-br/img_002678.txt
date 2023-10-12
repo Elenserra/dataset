@@ -1,0 +1,4 @@
+type: car
+plate: MTW7394
+layout: Brazilian
+corners: 790,147 883,149 882,181 791,178

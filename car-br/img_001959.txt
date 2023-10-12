@@ -1,0 +1,4 @@
+type: car
+plate: MPY1784
+layout: Brazilian
+corners: 674,222 769,222 769,254 674,254

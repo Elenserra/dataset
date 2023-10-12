@@ -1,0 +1,4 @@
+type: car
+plate: ODS5401
+layout: Brazilian
+corners: 440,367 571,368 573,413 442,412

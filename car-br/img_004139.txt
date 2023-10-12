@@ -1,0 +1,4 @@
+type: car
+plate: ODE6505
+layout: Brazilian
+corners: 775,259 909,256 913,302 777,304

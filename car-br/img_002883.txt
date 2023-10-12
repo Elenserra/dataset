@@ -1,0 +1,4 @@
+type: car
+plate: OCX7051
+layout: Brazilian
+corners: 606,334 739,336 739,379 609,378

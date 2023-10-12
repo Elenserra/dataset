@@ -1,0 +1,4 @@
+type: car
+plate: ODT6137
+layout: Brazilian
+corners: 637,298 757,300 757,341 639,339

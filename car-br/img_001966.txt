@@ -1,0 +1,4 @@
+type: car
+plate: ODR5846
+layout: Brazilian
+corners: 464,299 585,300 586,341 465,340

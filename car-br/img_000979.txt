@@ -1,0 +1,4 @@
+type: car
+plate: MTX9353
+layout: Brazilian
+corners: 459,449 590,451 593,496 461,492

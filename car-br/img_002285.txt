@@ -1,0 +1,4 @@
+type: car
+plate: OVL2647
+layout: Brazilian
+corners: 703,126 796,124 798,155 706,158

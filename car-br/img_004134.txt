@@ -1,0 +1,4 @@
+type: car
+plate: PPV7203
+layout: Brazilian
+corners: 717,312 853,310 856,358 718,360

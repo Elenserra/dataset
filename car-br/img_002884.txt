@@ -1,0 +1,4 @@
+type: car
+plate: OVE2120
+layout: Brazilian
+corners: 782,151 874,152 873,185 782,183

@@ -1,0 +1,4 @@
+type: car
+plate: ODF0494
+layout: Brazilian
+corners: 762,331 893,329 897,372 762,372

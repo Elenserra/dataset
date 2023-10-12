@@ -1,0 +1,4 @@
+type: car
+plate: JHI6642
+layout: Brazilian
+corners: 506,264 634,260 637,305 508,308

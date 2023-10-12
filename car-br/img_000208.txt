@@ -1,0 +1,4 @@
+type: car
+plate: MSW1014
+layout: Brazilian
+corners: 618,381 730,381 732,418 619,416

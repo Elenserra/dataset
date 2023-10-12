@@ -1,0 +1,4 @@
+type: car
+plate: MTR5212
+layout: Brazilian
+corners: 851,310 983,308 985,353 851,355

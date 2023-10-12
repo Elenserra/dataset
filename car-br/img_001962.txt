@@ -1,0 +1,4 @@
+type: car
+plate: IXJ5450
+layout: Brazilian
+corners: 544,395 673,396 673,439 544,438

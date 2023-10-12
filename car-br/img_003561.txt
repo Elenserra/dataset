@@ -1,0 +1,4 @@
+type: car
+plate: ODK0944
+layout: Brazilian
+corners: 740,321 869,321 873,365 742,365

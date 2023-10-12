@@ -1,0 +1,4 @@
+type: car
+plate: PPW2922
+layout: Brazilian
+corners: 529,345 644,346 644,385 530,384

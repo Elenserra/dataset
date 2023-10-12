@@ -1,0 +1,4 @@
+type: car
+plate: KRX4658
+layout: Brazilian
+corners: 492,291 599,290 602,325 495,327

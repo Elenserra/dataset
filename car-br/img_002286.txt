@@ -1,0 +1,4 @@
+type: car
+plate: LCL4337
+layout: Brazilian
+corners: 331,446 456,448 461,490 335,489

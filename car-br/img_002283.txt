@@ -1,0 +1,4 @@
+type: car
+plate: MTQ1391
+layout: Brazilian
+corners: 470,293 595,292 598,334 474,335

@@ -1,0 +1,4 @@
+type: car
+plate: ODP4433
+layout: Brazilian
+corners: 581,398 707,400 707,443 581,441

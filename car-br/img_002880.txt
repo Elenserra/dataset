@@ -1,0 +1,4 @@
+type: car
+plate: MSB8495
+layout: Brazilian
+corners: 659,319 785,317 788,363 660,363
