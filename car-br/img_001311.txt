@@ -1,0 +1,4 @@
+type: car
+plate: OZX5111
+layout: Brazilian
+corners: 557,384 687,385 687,432 558,430

@@ -1,0 +1,4 @@
+type: car
+plate: MQW7902
+layout: Brazilian
+corners: 813,287 944,285 946,328 816,329

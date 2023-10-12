@@ -1,0 +1,4 @@
+type: car
+plate: LSE4561
+layout: Brazilian
+corners: 709,325 842,324 845,372 710,371

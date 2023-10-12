@@ -1,0 +1,4 @@
+type: car
+plate: MQY8942
+layout: Brazilian
+corners: 650,322 781,328 780,373 649,366
