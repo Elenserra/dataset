@@ -1,0 +1,4 @@
+type: car
+plate: OYE7503
+layout: Brazilian
+corners: 938,137 1027,134 1029,165 940,168

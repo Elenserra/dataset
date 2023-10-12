@@ -1,0 +1,4 @@
+type: car
+plate: ODJ6199
+layout: Brazilian
+corners: 591,389 714,391 714,431 592,429

@@ -1,0 +1,4 @@
+type: car
+plate: ODL6484
+layout: Brazilian
+corners: 836,318 967,316 971,358 838,362

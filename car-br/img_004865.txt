@@ -1,0 +1,4 @@
+type: car
+plate: OYJ8359
+layout: Brazilian
+corners: 895,224 1007,222 1008,261 897,262

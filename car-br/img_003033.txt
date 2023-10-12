@@ -1,0 +1,4 @@
+type: car
+plate: OVH4054
+layout: Brazilian
+corners: 709,296 834,294 835,337 710,337

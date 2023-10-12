@@ -1,0 +1,4 @@
+type: car
+plate: MQM8267
+layout: Brazilian
+corners: 714,258 836,254 842,296 717,299

@@ -1,0 +1,4 @@
+type: car
+plate: MPU1861
+layout: Brazilian
+corners: 571,342 684,343 685,383 572,382

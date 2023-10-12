@@ -1,0 +1,4 @@
+type: car
+plate: LOO2541
+layout: Brazilian
+corners: 685,403 823,402 826,450 687,446

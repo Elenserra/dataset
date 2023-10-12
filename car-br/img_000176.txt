@@ -1,0 +1,4 @@
+type: car
+plate: PPX0155
+layout: Brazilian
+corners: 599,404 729,402 729,445 600,446

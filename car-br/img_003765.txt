@@ -1,0 +1,4 @@
+type: car
+plate: MTT9429
+layout: Brazilian
+corners: 841,305 971,302 974,345 841,350

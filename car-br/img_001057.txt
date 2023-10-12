@@ -1,0 +1,4 @@
+type: car
+plate: MPJ5725
+layout: Brazilian
+corners: 570,388 696,388 695,432 570,431

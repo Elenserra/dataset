@@ -1,0 +1,4 @@
+type: car
+plate: MTV1729
+layout: Brazilian
+corners: 600,398 725,398 725,439 601,439

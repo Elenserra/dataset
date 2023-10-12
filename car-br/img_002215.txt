@@ -1,0 +1,4 @@
+type: car
+plate: MTN9652
+layout: Brazilian
+corners: 496,420 632,421 633,468 498,466

@@ -1,0 +1,4 @@
+type: car
+plate: PPZ2450
+layout: Brazilian
+corners: 772,324 904,323 906,370 770,369

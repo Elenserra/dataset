@@ -1,0 +1,4 @@
+type: car
+plate: PVD7277
+layout: Brazilian
+corners: 846,302 978,297 981,342 850,345

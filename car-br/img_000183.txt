@@ -1,0 +1,4 @@
+type: car
+plate: MST9967
+layout: Brazilian
+corners: 878,304 1003,301 1005,342 880,345

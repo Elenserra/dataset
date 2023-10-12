@@ -1,0 +1,4 @@
+type: car
+plate: MPI6793
+layout: Brazilian
+corners: 853,352 986,346 991,391 854,397

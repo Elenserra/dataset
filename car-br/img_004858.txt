@@ -1,0 +1,4 @@
+type: car
+plate: MSO4987
+layout: Brazilian
+corners: 812,343 945,338 949,382 814,388

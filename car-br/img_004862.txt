@@ -1,0 +1,4 @@
+type: car
+plate: QRB7356
+layout: Brazilian
+corners: 1066,56 1133,53 1134,76 1065,78

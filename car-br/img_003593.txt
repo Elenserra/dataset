@@ -1,0 +1,4 @@
+type: car
+plate: PPY8837
+layout: Brazilian
+corners: 796,313 930,314 931,358 797,357

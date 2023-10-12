@@ -1,0 +1,4 @@
+type: car
+plate: MSZ7325
+layout: Brazilian
+corners: 863,128 955,128 955,159 864,158

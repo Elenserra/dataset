@@ -1,0 +1,4 @@
+type: car
+plate: MQL9741
+layout: Brazilian
+corners: 673,301 796,303 798,345 674,343

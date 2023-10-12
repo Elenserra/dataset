@@ -1,0 +1,4 @@
+type: car
+plate: MPX3238
+layout: Brazilian
+corners: 836,327 971,325 973,372 836,373

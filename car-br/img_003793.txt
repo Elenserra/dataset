@@ -1,0 +1,4 @@
+type: car
+plate: HGQ8164
+layout: Brazilian
+corners: 691,255 809,252 815,293 698,295

@@ -1,0 +1,4 @@
+type: car
+plate: MSW9578
+layout: Brazilian
+corners: 578,397 702,398 702,442 578,440

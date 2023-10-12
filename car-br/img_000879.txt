@@ -1,0 +1,4 @@
+type: car
+plate: PPT8629
+layout: Brazilian
+corners: 563,353 686,354 687,398 565,398

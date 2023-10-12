@@ -1,0 +1,4 @@
+type: car
+plate: ODR3127
+layout: Brazilian
+corners: 590,310 717,312 720,354 592,351

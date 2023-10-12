@@ -1,0 +1,4 @@
+type: car
+plate: ODS4362
+layout: Brazilian
+corners: 594,291 711,291 712,333 595,333
