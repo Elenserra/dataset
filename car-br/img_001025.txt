@@ -1,0 +1,4 @@
+type: car
+plate: PPE8367
+layout: Brazilian
+corners: 521,400 647,402 648,445 523,444

@@ -1,0 +1,4 @@
+type: car
+plate: ODB9830
+layout: Brazilian
+corners: 481,369 609,371 611,413 483,411

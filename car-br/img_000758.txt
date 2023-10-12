@@ -1,0 +1,4 @@
+type: car
+plate: KXL1868
+layout: Brazilian
+corners: 496,429 626,431 628,475 498,474

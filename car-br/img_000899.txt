@@ -1,0 +1,4 @@
+type: car
+plate: MQS4940
+layout: Brazilian
+corners: 550,419 679,420 682,464 554,463

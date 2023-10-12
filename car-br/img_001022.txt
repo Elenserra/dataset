@@ -1,0 +1,4 @@
+type: car
+plate: PPL8112
+layout: Brazilian
+corners: 524,377 643,378 645,418 525,416

@@ -1,0 +1,4 @@
+type: car
+plate: QRD3012
+layout: Brazilian
+corners: 880,1 946,1 947,22 880,22

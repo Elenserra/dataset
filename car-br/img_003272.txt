@@ -1,0 +1,4 @@
+type: car
+plate: QRB5219
+layout: Brazilian
+corners: 584,311 706,315 710,357 584,355

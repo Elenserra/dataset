@@ -1,0 +1,4 @@
+type: car
+plate: MSO6822
+layout: Brazilian
+corners: 903,241 1015,239 1017,279 903,279

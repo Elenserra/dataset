@@ -1,0 +1,4 @@
+type: car
+plate: MTF6518
+layout: Brazilian
+corners: 609,313 723,313 724,354 609,354

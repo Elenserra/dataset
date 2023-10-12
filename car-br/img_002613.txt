@@ -1,0 +1,4 @@
+type: car
+plate: PPW5066
+layout: Brazilian
+corners: 626,331 753,334 753,376 628,374

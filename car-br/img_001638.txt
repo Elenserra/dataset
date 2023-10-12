@@ -1,0 +1,4 @@
+type: car
+plate: MSM0612
+layout: Brazilian
+corners: 550,411 677,409 680,450 550,453

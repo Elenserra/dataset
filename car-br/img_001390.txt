@@ -1,0 +1,4 @@
+type: car
+plate: KWI1052
+layout: Brazilian
+corners: 730,204 824,202 824,234 730,235

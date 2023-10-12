@@ -1,0 +1,4 @@
+type: car
+plate: QRB7802
+layout: Brazilian
+corners: 851,301 978,299 981,345 853,346

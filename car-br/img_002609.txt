@@ -1,0 +1,4 @@
+type: car
+plate: QHL7752
+layout: Brazilian
+corners: 913,45 984,45 985,70 913,70

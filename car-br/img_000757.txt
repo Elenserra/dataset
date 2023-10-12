@@ -1,0 +1,4 @@
+type: car
+plate: OYE5236
+layout: Brazilian
+corners: 491,428 618,429 619,473 493,471

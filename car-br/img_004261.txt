@@ -1,0 +1,4 @@
+type: car
+plate: OVE1383
+layout: Brazilian
+corners: 776,362 914,360 917,408 778,409

@@ -1,0 +1,4 @@
+type: car
+plate: PPX9828
+layout: Brazilian
+corners: 472,410 595,411 596,452 473,452

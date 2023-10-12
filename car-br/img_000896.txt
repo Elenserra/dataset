@@ -1,0 +1,4 @@
+type: car
+plate: ODQ6589
+layout: Brazilian
+corners: 491,424 619,423 621,469 494,469

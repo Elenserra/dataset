@@ -1,0 +1,4 @@
+type: car
+plate: PPW3670
+layout: Brazilian
+corners: 280,478 428,479 430,528 281,528

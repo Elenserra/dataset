@@ -1,0 +1,4 @@
+type: car
+plate: MPM7061
+layout: Brazilian
+corners: 539,420 668,424 668,467 541,464

@@ -1,0 +1,4 @@
+type: car
+plate: ODS3398
+layout: Brazilian
+corners: 612,299 744,300 747,345 614,343

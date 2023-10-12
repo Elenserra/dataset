@@ -1,0 +1,4 @@
+type: car
+plate: FGZ5317
+layout: Brazilian
+corners: 824,342 961,340 962,386 824,389

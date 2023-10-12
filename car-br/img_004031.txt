@@ -1,0 +1,4 @@
+type: car
+plate: OKD8127
+layout: Brazilian
+corners: 948,145 1041,142 1043,174 949,177

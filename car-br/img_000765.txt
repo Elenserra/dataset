@@ -1,0 +1,4 @@
+type: car
+plate: ODT5253
+layout: Brazilian
+corners: 589,386 710,386 711,425 589,426

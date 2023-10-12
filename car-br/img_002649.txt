@@ -1,0 +1,4 @@
+type: car
+plate: PPW6911
+layout: Brazilian
+corners: 731,286 851,287 854,330 733,328

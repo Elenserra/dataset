@@ -1,0 +1,4 @@
+type: car
+plate: OVE1875
+layout: Brazilian
+corners: 611,316 724,316 725,356 612,356

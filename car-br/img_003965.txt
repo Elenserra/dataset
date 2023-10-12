@@ -1,0 +1,4 @@
+type: car
+plate: PXH8632
+layout: Brazilian
+corners: 842,255 958,253 960,292 842,294

@@ -1,0 +1,4 @@
+type: car
+plate: ODA0811
+layout: Brazilian
+corners: 528,380 652,383 654,424 530,422

@@ -1,0 +1,4 @@
+type: car
+plate: MRO1902
+layout: Brazilian
+corners: 1063,126 1143,123 1145,148 1064,150

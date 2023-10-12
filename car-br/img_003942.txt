@@ -1,0 +1,4 @@
+type: car
+plate: QNF1284
+layout: Brazilian
+corners: 965,172 1062,169 1064,202 965,206

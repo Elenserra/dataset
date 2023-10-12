@@ -1,0 +1,4 @@
+type: car
+plate: ODF7199
+layout: Brazilian
+corners: 465,471 602,473 603,521 466,520

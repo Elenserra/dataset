@@ -1,0 +1,4 @@
+type: car
+plate: AZL7075
+layout: Brazilian
+corners: 536,392 661,392 663,435 537,434

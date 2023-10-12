@@ -1,0 +1,4 @@
+type: car
+plate: ODS3207
+layout: Brazilian
+corners: 529,388 655,389 656,432 529,431

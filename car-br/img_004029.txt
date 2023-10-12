@@ -1,0 +1,4 @@
+type: car
+plate: OQL2458
+layout: Brazilian
+corners: 985,163 1080,160 1082,193 985,195

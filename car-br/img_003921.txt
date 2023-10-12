@@ -1,0 +1,4 @@
+type: car
+plate: ODD9240
+layout: Brazilian
+corners: 891,231 997,229 1000,266 893,267

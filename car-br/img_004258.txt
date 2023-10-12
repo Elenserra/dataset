@@ -1,0 +1,4 @@
+type: car
+plate: PPH2633
+layout: Brazilian
+corners: 754,387 899,385 905,433 756,436

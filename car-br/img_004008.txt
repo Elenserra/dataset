@@ -1,0 +1,4 @@
+type: car
+plate: LQA1738
+layout: Brazilian
+corners: 812,396 944,392 948,436 813,437

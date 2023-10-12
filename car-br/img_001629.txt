@@ -1,0 +1,4 @@
+type: car
+plate: PPZ9135
+layout: Brazilian
+corners: 702,255 803,255 804,291 702,291

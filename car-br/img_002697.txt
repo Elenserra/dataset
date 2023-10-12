@@ -1,0 +1,4 @@
+type: car
+plate: FCO3908
+layout: Brazilian
+corners: 641,335 764,337 767,378 643,375

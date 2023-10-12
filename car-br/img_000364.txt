@@ -1,0 +1,4 @@
+type: car
+plate: MSI3690
+layout: Brazilian
+corners: 538,336 647,336 648,374 539,373

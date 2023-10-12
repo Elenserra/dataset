@@ -1,0 +1,4 @@
+type: car
+plate: OYD8087
+layout: Brazilian
+corners: 579,392 705,392 708,435 580,436

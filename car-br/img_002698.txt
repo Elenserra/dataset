@@ -1,0 +1,4 @@
+type: car
+plate: PPB4021
+layout: Brazilian
+corners: 591,288 707,293 708,335 591,329

@@ -1,0 +1,4 @@
+type: car
+plate: ODQ3672
+layout: Brazilian
+corners: 516,413 655,416 653,466 516,463

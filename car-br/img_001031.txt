@@ -1,0 +1,4 @@
+type: car
+plate: PPG6086
+layout: Brazilian
+corners: 374,592 533,596 534,652 376,646

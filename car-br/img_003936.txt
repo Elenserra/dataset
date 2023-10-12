@@ -1,0 +1,4 @@
+type: car
+plate: HBZ7660
+layout: Brazilian
+corners: 860,238 972,235 975,271 861,274

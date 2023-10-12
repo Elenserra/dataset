@@ -1,0 +1,4 @@
+type: car
+plate: ODF0135
+layout: Brazilian
+corners: 495,425 622,424 626,466 498,466

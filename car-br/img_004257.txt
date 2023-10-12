@@ -1,0 +1,4 @@
+type: car
+plate: MSM0040
+layout: Brazilian
+corners: 790,398 921,394 926,434 793,436

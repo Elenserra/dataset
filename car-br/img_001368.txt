@@ -1,0 +1,4 @@
+type: car
+plate: ODG2504
+layout: Brazilian
+corners: 511,351 636,352 636,396 511,394

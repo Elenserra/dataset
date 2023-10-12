@@ -1,0 +1,4 @@
+type: car
+plate: MTZ1099
+layout: Brazilian
+corners: 738,335 868,328 874,373 743,378

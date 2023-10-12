@@ -1,0 +1,4 @@
+type: car
+plate: MQT9188
+layout: Brazilian
+corners: 529,417 657,417 659,462 529,462

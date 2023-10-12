@@ -1,0 +1,4 @@
+type: car
+plate: MRT4757
+layout: Brazilian
+corners: 748,336 880,335 882,383 748,382

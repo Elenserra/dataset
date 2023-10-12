@@ -1,0 +1,4 @@
+type: car
+plate: OVF8538
+layout: Brazilian
+corners: 790,356 926,352 929,397 792,400

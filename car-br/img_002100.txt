@@ -1,0 +1,4 @@
+type: car
+plate: MTL7677
+layout: Brazilian
+corners: 756,145 840,146 840,175 756,175

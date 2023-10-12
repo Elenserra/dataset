@@ -1,0 +1,4 @@
+type: car
+plate: PPS1972
+layout: Brazilian
+corners: 1012,105 1093,101 1095,130 1013,132

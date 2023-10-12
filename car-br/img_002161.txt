@@ -1,0 +1,4 @@
+type: car
+plate: PPV5021
+layout: Brazilian
+corners: 541,402 664,404 665,443 541,441

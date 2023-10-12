@@ -1,0 +1,4 @@
+type: car
+plate: PPD0847
+layout: Brazilian
+corners: 549,424 680,426 689,454 559,449

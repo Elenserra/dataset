@@ -1,0 +1,4 @@
+type: car
+plate: ABH2224
+layout: Brazilian
+corners: 762,186 875,182 880,221 762,225

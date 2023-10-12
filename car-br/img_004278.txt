@@ -1,0 +1,4 @@
+type: car
+plate: ODC3575
+layout: Brazilian
+corners: 740,244 857,239 863,278 744,282

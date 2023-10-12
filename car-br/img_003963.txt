@@ -1,0 +1,4 @@
+type: car
+plate: MTD6476
+layout: Brazilian
+corners: 948,205 1054,200 1055,237 949,240

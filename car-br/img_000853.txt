@@ -1,0 +1,4 @@
+type: car
+plate: MQQ9406
+layout: Brazilian
+corners: 614,338 728,338 730,378 616,376

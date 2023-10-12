@@ -1,0 +1,4 @@
+type: car
+plate: PPX0617
+layout: Brazilian
+corners: 556,382 687,381 688,427 557,428

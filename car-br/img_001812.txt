@@ -1,0 +1,4 @@
+type: car
+plate: ODD7980
+layout: Brazilian
+corners: 837,61 906,61 906,85 837,85

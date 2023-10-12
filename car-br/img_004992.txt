@@ -1,0 +1,4 @@
+type: car
+plate: LPN5716
+layout: Brazilian
+corners: 638,337 767,347 766,390 635,379

@@ -1,0 +1,4 @@
+type: car
+plate: OVL7912
+layout: Brazilian
+corners: 530,382 657,382 658,428 531,428

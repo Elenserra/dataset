@@ -1,0 +1,4 @@
+type: car
+plate: MTI4098
+layout: Brazilian
+corners: 926,227 1035,226 1037,262 926,264

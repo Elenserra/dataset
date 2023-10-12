@@ -1,0 +1,4 @@
+type: car
+plate: ODR2164
+layout: Brazilian
+corners: 749,235 872,234 875,279 749,280
