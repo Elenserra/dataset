@@ -1,0 +1,4 @@
+type: car
+plate: QRH6G15
+layout: Mercosur
+corners: 809,171 904,171 903,202 810,201

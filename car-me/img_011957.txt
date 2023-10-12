@@ -1,0 +1,4 @@
+type: car
+plate: MTX3C51
+layout: Mercosur
+corners: 531,384 653,385 654,423 533,423

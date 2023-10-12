@@ -1,0 +1,4 @@
+type: car
+plate: PPN5F67
+layout: Mercosur
+corners: 724,323 860,332 858,378 723,370

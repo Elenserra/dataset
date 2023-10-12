@@ -1,0 +1,4 @@
+type: car
+plate: OVH8G50
+layout: Mercosur
+corners: 645,283 786,289 788,335 645,328

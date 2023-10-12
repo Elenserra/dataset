@@ -1,0 +1,4 @@
+type: car
+plate: ODK5H01
+layout: Mercosur
+corners: 579,396 705,396 704,435 581,436

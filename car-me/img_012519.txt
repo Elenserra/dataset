@@ -1,0 +1,4 @@
+type: car
+plate: FUR9C33
+layout: Mercosur
+corners: 667,314 787,318 788,356 668,353

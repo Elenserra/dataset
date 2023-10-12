@@ -1,0 +1,4 @@
+type: car
+plate: ODR1G41
+layout: Mercosur
+corners: 630,363 765,365 767,409 630,407

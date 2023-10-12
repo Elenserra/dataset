@@ -1,0 +1,4 @@
+type: car
+plate: PLQ0E07
+layout: Mercosur
+corners: 570,264 683,267 684,304 570,302
