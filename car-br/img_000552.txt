@@ -1,0 +1,4 @@
+type: car
+plate: MTG5739
+layout: Brazilian
+corners: 533,399 660,400 662,445 532,443

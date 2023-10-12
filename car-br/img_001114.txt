@@ -1,0 +1,4 @@
+type: car
+plate: HLU5868
+layout: Brazilian
+corners: 670,278 770,278 772,311 673,312

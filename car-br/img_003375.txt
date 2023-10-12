@@ -1,0 +1,4 @@
+type: car
+plate: PPP2841
+layout: Brazilian
+corners: 916,80 996,80 996,105 916,106

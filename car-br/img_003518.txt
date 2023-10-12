@@ -1,0 +1,4 @@
+type: car
+plate: MQK5111
+layout: Brazilian
+corners: 812,290 932,288 934,330 812,331

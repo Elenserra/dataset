@@ -1,0 +1,4 @@
+type: car
+plate: QOH1158
+layout: Brazilian
+corners: 643,293 753,293 754,332 644,331

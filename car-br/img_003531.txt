@@ -1,0 +1,4 @@
+type: car
+plate: PPM7718
+layout: Brazilian
+corners: 802,329 933,331 934,374 802,373

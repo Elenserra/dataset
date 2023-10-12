@@ -1,0 +1,4 @@
+type: car
+plate: OQF9803
+layout: Brazilian
+corners: 786,242 904,237 909,278 789,281

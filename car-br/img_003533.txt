@@ -1,0 +1,4 @@
+type: car
+plate: PPO5136
+layout: Brazilian
+corners: 815,324 945,321 947,364 815,366

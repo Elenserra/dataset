@@ -1,0 +1,4 @@
+type: car
+plate: OVE8718
+layout: Brazilian
+corners: 704,303 827,304 830,345 706,344

@@ -1,0 +1,4 @@
+type: car
+plate: MTS5428
+layout: Brazilian
+corners: 523,441 655,441 657,486 525,486

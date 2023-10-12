@@ -1,0 +1,4 @@
+type: car
+plate: OOX5557
+layout: Brazilian
+corners: 873,156 981,154 984,192 872,194

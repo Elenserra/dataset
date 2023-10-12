@@ -1,0 +1,4 @@
+type: car
+plate: MTT4404
+layout: Brazilian
+corners: 753,285 881,282 886,328 756,329

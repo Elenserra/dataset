@@ -1,0 +1,4 @@
+type: car
+plate: OYD7019
+layout: Brazilian
+corners: 923,239 1038,235 1040,275 923,278

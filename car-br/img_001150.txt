@@ -1,0 +1,4 @@
+type: car
+plate: QNI6388
+layout: Brazilian
+corners: 564,363 687,365 687,406 564,404

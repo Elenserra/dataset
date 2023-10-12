@@ -1,0 +1,4 @@
+type: car
+plate: MTQ5314
+layout: Brazilian
+corners: 824,307 950,305 952,347 827,349

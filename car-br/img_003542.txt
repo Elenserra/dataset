@@ -1,0 +1,4 @@
+type: car
+plate: ODQ6958
+layout: Brazilian
+corners: 771,284 893,281 897,323 772,325
