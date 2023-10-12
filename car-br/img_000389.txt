@@ -1,0 +1,4 @@
+type: car
+plate: PPW4661
+layout: Brazilian
+corners: 621,356 741,358 743,398 622,399

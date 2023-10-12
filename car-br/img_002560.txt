@@ -1,0 +1,4 @@
+type: car
+plate: MTS4094
+layout: Brazilian
+corners: 538,327 664,332 665,375 537,369

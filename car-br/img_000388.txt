@@ -1,0 +1,4 @@
+type: car
+plate: ODS7423
+layout: Brazilian
+corners: 784,301 925,298 927,345 787,349

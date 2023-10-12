@@ -1,0 +1,4 @@
+type: car
+plate: MTT0714
+layout: Brazilian
+corners: 691,192 783,192 785,223 691,225

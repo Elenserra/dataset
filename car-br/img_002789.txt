@@ -1,0 +1,4 @@
+type: car
+plate: MTW7816
+layout: Brazilian
+corners: 928,76 1007,76 1007,102 930,104

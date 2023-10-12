@@ -1,0 +1,4 @@
+type: car
+plate: QRC0723
+layout: Brazilian
+corners: 627,298 749,300 750,343 629,340

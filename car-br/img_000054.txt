@@ -1,0 +1,4 @@
+type: car
+plate: OXG8134
+layout: Brazilian
+corners: 561,419 683,421 684,455 562,453

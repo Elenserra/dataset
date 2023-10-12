@@ -1,0 +1,4 @@
+type: car
+plate: JSV4493
+layout: Brazilian
+corners: 521,415 642,417 643,459 521,455
