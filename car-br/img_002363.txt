@@ -1,0 +1,4 @@
+type: car
+plate: MSN6401
+layout: Brazilian
+corners: 755,45 833,43 834,71 756,73

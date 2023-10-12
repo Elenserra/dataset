@@ -1,0 +1,4 @@
+type: car
+plate: OCW1462
+layout: Brazilian
+corners: 925,230 1036,227 1040,264 925,267

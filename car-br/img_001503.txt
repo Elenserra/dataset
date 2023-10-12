@@ -1,0 +1,4 @@
+type: car
+plate: PPX5175
+layout: Brazilian
+corners: 519,376 641,376 641,417 519,416

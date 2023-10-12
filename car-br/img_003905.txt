@@ -1,0 +1,4 @@
+type: car
+plate: PWD8817
+layout: Brazilian
+corners: 839,320 970,319 974,362 842,363

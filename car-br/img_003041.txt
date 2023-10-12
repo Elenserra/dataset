@@ -1,0 +1,4 @@
+type: car
+plate: PPX2707
+layout: Brazilian
+corners: 729,302 846,304 845,344 730,341

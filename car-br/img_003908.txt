@@ -1,0 +1,4 @@
+type: car
+plate: QUA4474
+layout: Brazilian
+corners: 762,346 896,346 898,392 762,391

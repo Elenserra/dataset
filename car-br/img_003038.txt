@@ -1,0 +1,4 @@
+type: car
+plate: PPT9635
+layout: Brazilian
+corners: 600,314 724,316 725,358 601,356

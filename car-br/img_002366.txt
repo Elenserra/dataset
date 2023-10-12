@@ -1,0 +1,4 @@
+type: car
+plate: MTY0257
+layout: Brazilian
+corners: 477,396 608,396 614,439 483,440

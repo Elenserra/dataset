@@ -1,0 +1,4 @@
+type: car
+plate: QOX9943
+layout: Brazilian
+corners: 798,328 934,326 937,373 797,375

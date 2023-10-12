@@ -1,0 +1,4 @@
+type: car
+plate: KSV3325
+layout: Brazilian
+corners: 587,218 679,219 680,246 587,245
