@@ -1,0 +1,4 @@
+type: car
+plate: MSI5428
+layout: Brazilian
+corners: 673,286 778,285 780,324 673,323

@@ -1,0 +1,4 @@
+type: car
+plate: MQF1914
+layout: Brazilian
+corners: 519,438 651,439 652,482 520,479

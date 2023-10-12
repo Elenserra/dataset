@@ -1,0 +1,4 @@
+type: car
+plate: PPV7130
+layout: Brazilian
+corners: 430,407 553,407 554,451 431,451

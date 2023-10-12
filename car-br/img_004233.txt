@@ -1,0 +1,4 @@
+type: car
+plate: KNT0215
+layout: Brazilian
+corners: 817,333 954,329 956,375 819,379

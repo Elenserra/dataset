@@ -1,0 +1,4 @@
+type: car
+plate: QQY3281
+layout: Brazilian
+corners: 800,306 930,302 933,347 801,351

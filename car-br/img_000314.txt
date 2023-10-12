@@ -1,0 +1,4 @@
+type: car
+plate: MTB8406
+layout: Brazilian
+corners: 767,159 848,158 849,185 768,186

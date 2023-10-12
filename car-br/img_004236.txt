@@ -1,0 +1,4 @@
+type: car
+plate: PPG5817
+layout: Brazilian
+corners: 797,340 929,336 933,382 797,384

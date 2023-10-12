@@ -1,0 +1,4 @@
+type: car
+plate: MTE5192
+layout: Brazilian
+corners: 628,357 747,356 749,397 630,396

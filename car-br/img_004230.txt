@@ -1,0 +1,4 @@
+type: car
+plate: OVI9903
+layout: Brazilian
+corners: 763,184 882,180 887,222 766,226
