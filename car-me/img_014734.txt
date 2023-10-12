@@ -1,0 +1,4 @@
+type: car
+plate: MQS4B71
+layout: Mercosur
+corners: 820,335 955,334 956,379 821,380

@@ -1,0 +1,4 @@
+type: car
+plate: OVK6E51
+layout: Mercosur
+corners: 542,406 667,409 667,450 542,447

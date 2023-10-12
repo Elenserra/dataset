@@ -1,0 +1,4 @@
+type: car
+plate: QRF1G53
+layout: Mercosur
+corners: 512,379 643,379 644,421 515,419

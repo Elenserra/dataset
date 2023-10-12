@@ -1,0 +1,4 @@
+type: car
+plate: QRF5J18
+layout: Mercosur
+corners: 480,347 608,349 610,391 480,390

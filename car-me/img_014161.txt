@@ -1,0 +1,4 @@
+type: car
+plate: PVD4I28
+layout: Mercosur
+corners: 805,345 937,341 939,383 807,388

@@ -1,0 +1,4 @@
+type: car
+plate: KQT6C16
+layout: Mercosur
+corners: 628,230 742,229 743,267 629,267
