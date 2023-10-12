@@ -1,0 +1,4 @@
+type: car
+plate: ODR3892
+layout: Brazilian
+corners: 783,99 869,101 869,131 783,128

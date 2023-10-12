@@ -1,0 +1,4 @@
+type: car
+plate: MTQ6892
+layout: Brazilian
+corners: 496,384 620,385 621,428 497,427

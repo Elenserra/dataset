@@ -1,0 +1,4 @@
+type: car
+plate: PPW6580
+layout: Brazilian
+corners: 464,353 586,353 587,395 465,396

@@ -1,0 +1,4 @@
+type: car
+plate: ODF4653
+layout: Brazilian
+corners: 629,306 754,309 755,351 629,346

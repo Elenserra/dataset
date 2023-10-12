@@ -1,0 +1,4 @@
+type: car
+plate: OCZ7125
+layout: Brazilian
+corners: 800,313 927,312 928,356 799,354

@@ -1,0 +1,4 @@
+type: car
+plate: MTX0171
+layout: Brazilian
+corners: 701,244 817,245 819,284 701,283

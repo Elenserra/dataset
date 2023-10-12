@@ -1,0 +1,4 @@
+type: car
+plate: ODH1374
+layout: Brazilian
+corners: 679,303 807,305 807,348 679,346

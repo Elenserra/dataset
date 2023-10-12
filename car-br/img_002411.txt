@@ -1,0 +1,4 @@
+type: car
+plate: ODG3968
+layout: Brazilian
+corners: 398,303 522,304 527,346 403,347

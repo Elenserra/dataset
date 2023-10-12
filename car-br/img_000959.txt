@@ -1,0 +1,4 @@
+type: car
+plate: HHZ5833
+layout: Brazilian
+corners: 523,416 655,418 656,464 525,462

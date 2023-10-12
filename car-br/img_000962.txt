@@ -1,0 +1,4 @@
+type: car
+plate: MSG4296
+layout: Brazilian
+corners: 485,392 610,397 610,442 484,437

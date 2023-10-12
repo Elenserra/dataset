@@ -1,0 +1,4 @@
+type: car
+plate: PPX4048
+layout: Brazilian
+corners: 680,289 800,289 803,329 682,329

@@ -1,0 +1,4 @@
+type: car
+plate: MSS7130
+layout: Brazilian
+corners: 850,326 981,321 985,366 852,370

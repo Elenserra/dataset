@@ -1,0 +1,4 @@
+type: car
+plate: ODA0774
+layout: Brazilian
+corners: 311,520 464,524 467,576 316,569

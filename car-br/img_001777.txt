@@ -1,0 +1,4 @@
+type: car
+plate: PPQ8138
+layout: Brazilian
+corners: 601,367 723,368 725,411 602,410

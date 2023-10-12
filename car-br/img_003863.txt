@@ -1,0 +1,4 @@
+type: car
+plate: ODH6111
+layout: Brazilian
+corners: 800,280 925,277 929,320 802,322

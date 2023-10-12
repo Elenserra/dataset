@@ -1,0 +1,4 @@
+type: car
+plate: PPP4907
+layout: Brazilian
+corners: 513,294 639,289 646,334 517,337

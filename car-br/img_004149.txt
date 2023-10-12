@@ -1,0 +1,4 @@
+type: car
+plate: LTI1936
+layout: Brazilian
+corners: 809,320 947,319 950,366 810,366

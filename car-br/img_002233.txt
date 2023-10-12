@@ -1,0 +1,4 @@
+type: car
+plate: APE6012
+layout: Brazilian
+corners: 536,385 656,385 657,425 536,425

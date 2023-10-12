@@ -1,0 +1,4 @@
+type: car
+plate: MSF9531
+layout: Brazilian
+corners: 635,339 740,340 741,377 636,376

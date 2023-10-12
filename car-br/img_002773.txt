@@ -1,0 +1,4 @@
+type: car
+plate: PPP7519
+layout: Brazilian
+corners: 592,346 718,350 719,395 594,390

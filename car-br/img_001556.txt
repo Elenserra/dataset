@@ -1,0 +1,4 @@
+type: car
+plate: MPJ4590
+layout: Brazilian
+corners: 739,188 831,188 831,222 740,222

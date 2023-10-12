@@ -1,0 +1,4 @@
+type: car
+plate: HAE8372
+layout: Brazilian
+corners: 807,348 945,347 947,394 809,394

@@ -1,0 +1,4 @@
+type: car
+plate: MTZ8387
+layout: Brazilian
+corners: 542,267 665,264 666,307 545,308

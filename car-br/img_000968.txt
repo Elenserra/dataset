@@ -1,0 +1,4 @@
+type: car
+plate: PPE6570
+layout: Brazilian
+corners: 549,390 673,390 673,430 549,430

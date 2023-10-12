@@ -1,0 +1,4 @@
+type: car
+plate: OVE5896
+layout: Brazilian
+corners: 548,402 666,397 669,435 552,440

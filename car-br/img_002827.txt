@@ -1,0 +1,4 @@
+type: car
+plate: QRD7267
+layout: Brazilian
+corners: 808,201 914,200 914,234 810,235

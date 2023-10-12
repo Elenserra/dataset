@@ -1,0 +1,4 @@
+type: car
+plate: PPC6864
+layout: Brazilian
+corners: 674,236 770,235 771,270 673,270

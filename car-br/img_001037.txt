@@ -1,0 +1,4 @@
+type: car
+plate: ODE3578
+layout: Brazilian
+corners: 401,505 548,509 548,564 400,558

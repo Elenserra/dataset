@@ -1,0 +1,4 @@
+type: car
+plate: ODC7888
+layout: Brazilian
+corners: 860,266 986,264 991,304 861,308

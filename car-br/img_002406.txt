@@ -1,0 +1,4 @@
+type: car
+plate: ODR2913
+layout: Brazilian
+corners: 514,289 639,288 640,330 515,331

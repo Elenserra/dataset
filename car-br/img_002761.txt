@@ -1,0 +1,4 @@
+type: car
+plate: OVI1809
+layout: Brazilian
+corners: 434,367 582,373 587,420 437,414

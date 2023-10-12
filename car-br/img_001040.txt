@@ -1,0 +1,4 @@
+type: car
+plate: QPZ1364
+layout: Brazilian
+corners: 593,416 722,414 723,456 594,459

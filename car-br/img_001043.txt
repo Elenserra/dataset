@@ -1,0 +1,4 @@
+type: car
+plate: MTX5944
+layout: Brazilian
+corners: 512,383 634,382 636,427 513,426

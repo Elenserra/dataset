@@ -1,0 +1,4 @@
+type: car
+plate: MTU0486
+layout: Brazilian
+corners: 525,346 650,346 651,391 528,393

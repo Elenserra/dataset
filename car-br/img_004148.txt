@@ -1,0 +1,4 @@
+type: car
+plate: MQX1753
+layout: Brazilian
+corners: 786,353 925,350 924,399 784,399

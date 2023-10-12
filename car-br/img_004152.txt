@@ -1,0 +1,4 @@
+type: car
+plate: MQO2575
+layout: Brazilian
+corners: 803,333 936,330 939,376 807,377

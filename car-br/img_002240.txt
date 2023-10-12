@@ -1,0 +1,4 @@
+type: car
+plate: ODF5714
+layout: Brazilian
+corners: 547,392 677,394 678,438 548,437

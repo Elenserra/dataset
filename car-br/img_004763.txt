@@ -1,0 +1,4 @@
+type: car
+plate: DWG2047
+layout: Brazilian
+corners: 794,332 927,326 932,369 797,376
