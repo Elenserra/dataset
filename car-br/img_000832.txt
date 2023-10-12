@@ -1,0 +1,4 @@
+type: car
+plate: MSS6605
+layout: Brazilian
+corners: 626,317 742,315 743,356 627,358

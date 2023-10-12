@@ -1,0 +1,4 @@
+type: car
+plate: MTU9220
+layout: Brazilian
+corners: 535,394 666,400 665,446 536,440

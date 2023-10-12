@@ -1,0 +1,4 @@
+type: car
+plate: QRB2218
+layout: Brazilian
+corners: 583,343 714,346 716,391 586,385

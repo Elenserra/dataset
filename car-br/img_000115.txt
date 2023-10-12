@@ -1,0 +1,4 @@
+type: car
+plate: PPW2110
+layout: Brazilian
+corners: 396,375 533,374 535,422 397,422

@@ -1,0 +1,4 @@
+type: car
+plate: MSR6511
+layout: Brazilian
+corners: 485,417 625,423 624,471 486,465

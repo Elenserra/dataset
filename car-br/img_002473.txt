@@ -1,0 +1,4 @@
+type: car
+plate: MQN2715
+layout: Brazilian
+corners: 496,206 611,205 615,242 499,245
