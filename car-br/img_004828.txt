@@ -1,0 +1,4 @@
+type: car
+plate: JPK1756
+layout: Brazilian
+corners: 808,362 943,361 947,407 811,406

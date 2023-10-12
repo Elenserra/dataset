@@ -1,0 +1,4 @@
+type: car
+plate: PPX4854
+layout: Brazilian
+corners: 524,422 650,421 653,462 526,462

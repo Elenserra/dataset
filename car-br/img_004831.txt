@@ -1,0 +1,4 @@
+type: car
+plate: MSB7504
+layout: Brazilian
+corners: 916,275 1034,270 1038,309 918,311

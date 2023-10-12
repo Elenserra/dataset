@@ -1,0 +1,4 @@
+type: car
+plate: ODP9089
+layout: Brazilian
+corners: 977,116 1058,110 1061,139 978,143

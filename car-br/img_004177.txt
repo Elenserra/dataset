@@ -1,0 +1,4 @@
+type: car
+plate: MRM0738
+layout: Brazilian
+corners: 821,320 953,319 956,364 822,364

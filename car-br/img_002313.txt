@@ -1,0 +1,4 @@
+type: car
+plate: PPS4192
+layout: Brazilian
+corners: 629,135 724,134 726,167 629,168

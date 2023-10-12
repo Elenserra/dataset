@@ -1,0 +1,4 @@
+type: car
+plate: EEF7005
+layout: Brazilian
+corners: 499,298 610,299 611,335 500,337

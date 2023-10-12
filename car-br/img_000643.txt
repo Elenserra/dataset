@@ -1,0 +1,4 @@
+type: car
+plate: PPP5117
+layout: Brazilian
+corners: 594,277 704,279 704,319 595,317

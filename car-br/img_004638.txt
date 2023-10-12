@@ -1,0 +1,4 @@
+type: car
+plate: ODD1478
+layout: Brazilian
+corners: 775,318 911,316 915,362 778,366

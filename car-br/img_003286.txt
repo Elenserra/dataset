@@ -1,0 +1,4 @@
+type: car
+plate: ODQ9376
+layout: Brazilian
+corners: 850,63 933,63 933,89 850,87

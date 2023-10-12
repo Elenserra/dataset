@@ -1,0 +1,4 @@
+type: car
+plate: LKK5089
+layout: Brazilian
+corners: 788,228 907,225 911,267 789,269

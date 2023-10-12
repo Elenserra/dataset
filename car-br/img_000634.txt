@@ -1,0 +1,4 @@
+type: car
+plate: MTL9713
+layout: Brazilian
+corners: 764,205 854,203 855,232 766,235

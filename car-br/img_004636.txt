@@ -1,0 +1,4 @@
+type: car
+plate: MTP3636
+layout: Brazilian
+corners: 845,306 970,304 972,342 848,345

@@ -1,0 +1,4 @@
+type: car
+plate: MTX2491
+layout: Brazilian
+corners: 883,263 1002,261 1002,300 884,301

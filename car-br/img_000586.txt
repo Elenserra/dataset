@@ -1,0 +1,4 @@
+type: car
+plate: PPE0122
+layout: Brazilian
+corners: 711,145 786,145 787,171 711,170

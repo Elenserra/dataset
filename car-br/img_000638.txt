@@ -1,0 +1,4 @@
+type: car
+plate: ODE2467
+layout: Brazilian
+corners: 544,378 664,379 664,419 546,419

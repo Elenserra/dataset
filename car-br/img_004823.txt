@@ -1,0 +1,4 @@
+type: car
+plate: PPR6221
+layout: Brazilian
+corners: 816,278 934,274 938,314 817,319

@@ -1,0 +1,4 @@
+type: car
+plate: EGK9741
+layout: Brazilian
+corners: 955,181 1048,177 1050,209 957,213

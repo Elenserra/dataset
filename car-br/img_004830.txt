@@ -1,0 +1,4 @@
+type: car
+plate: OCV5772
+layout: Brazilian
+corners: 825,278 950,275 953,318 826,322
