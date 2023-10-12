@@ -1,0 +1,4 @@
+type: car
+plate: MRZ7550
+layout: Brazilian
+corners: 552,406 681,408 683,450 552,448

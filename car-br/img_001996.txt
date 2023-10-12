@@ -1,0 +1,4 @@
+type: car
+plate: JQX6295
+layout: Brazilian
+corners: 570,399 693,400 694,442 570,441

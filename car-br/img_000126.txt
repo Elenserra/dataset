@@ -1,0 +1,4 @@
+type: car
+plate: PPF3006
+layout: Brazilian
+corners: 681,247 776,247 777,280 682,281

@@ -1,0 +1,4 @@
+type: car
+plate: MSA3310
+layout: Brazilian
+corners: 384,457 535,459 538,509 387,508

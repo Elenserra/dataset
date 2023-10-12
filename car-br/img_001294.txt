@@ -1,0 +1,4 @@
+type: car
+plate: QQF7965
+layout: Brazilian
+corners: 634,285 739,284 740,319 635,319

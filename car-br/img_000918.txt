@@ -1,0 +1,4 @@
+type: car
+plate: OCX1974
+layout: Brazilian
+corners: 552,368 679,367 680,413 553,413

@@ -1,0 +1,4 @@
+type: car
+plate: QMQ1271
+layout: Brazilian
+corners: 751,175 833,175 833,202 750,202

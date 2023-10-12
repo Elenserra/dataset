@@ -1,0 +1,4 @@
+type: car
+plate: MRD4897
+layout: Brazilian
+corners: 559,393 679,393 682,432 562,434

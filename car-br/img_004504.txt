@@ -1,0 +1,4 @@
+type: car
+plate: MRW0862
+layout: Brazilian
+corners: 795,328 928,328 928,375 794,375

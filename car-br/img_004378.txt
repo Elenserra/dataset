@@ -1,0 +1,4 @@
+type: car
+plate: MTC2963
+layout: Brazilian
+corners: 862,337 994,333 999,375 865,382

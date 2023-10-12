@@ -1,0 +1,4 @@
+type: car
+plate: PPN8958
+layout: Brazilian
+corners: 779,327 914,327 916,373 780,374

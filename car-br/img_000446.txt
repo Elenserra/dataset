@@ -1,0 +1,4 @@
+type: car
+plate: OVJ2050
+layout: Brazilian
+corners: 596,348 712,346 713,382 598,386

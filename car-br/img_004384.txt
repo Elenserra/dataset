@@ -1,0 +1,4 @@
+type: car
+plate: QNL5207
+layout: Brazilian
+corners: 771,319 902,318 904,364 770,365

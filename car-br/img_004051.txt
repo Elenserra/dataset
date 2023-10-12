@@ -1,0 +1,4 @@
+type: car
+plate: OVE3767
+layout: Brazilian
+corners: 905,245 1019,242 1021,280 906,285

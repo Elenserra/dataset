@@ -1,0 +1,4 @@
+type: car
+plate: OVL4336
+layout: Brazilian
+corners: 529,398 654,397 654,444 528,444

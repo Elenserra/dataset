@@ -1,0 +1,4 @@
+type: car
+plate: MSE1441
+layout: Brazilian
+corners: 827,333 960,330 963,376 831,378

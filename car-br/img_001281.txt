@@ -1,0 +1,4 @@
+type: car
+plate: MRQ2842
+layout: Brazilian
+corners: 570,415 698,414 698,455 571,456

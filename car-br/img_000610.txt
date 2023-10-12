@@ -1,0 +1,4 @@
+type: car
+plate: ODJ7768
+layout: Brazilian
+corners: 540,364 663,364 664,403 542,403

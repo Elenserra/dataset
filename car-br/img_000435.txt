@@ -1,0 +1,4 @@
+type: car
+plate: MTP3805
+layout: Brazilian
+corners: 459,391 584,386 591,425 461,431

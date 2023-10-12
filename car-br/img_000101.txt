@@ -1,0 +1,4 @@
+type: car
+plate: PPN6370
+layout: Brazilian
+corners: 698,214 787,213 788,243 699,244

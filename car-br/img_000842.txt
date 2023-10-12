@@ -1,0 +1,4 @@
+type: car
+plate: MSU5802
+layout: Brazilian
+corners: 618,350 737,349 737,389 619,391

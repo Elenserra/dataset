@@ -1,0 +1,4 @@
+type: car
+plate: MRO9366
+layout: Brazilian
+corners: 651,294 752,293 753,326 651,327

@@ -1,0 +1,4 @@
+type: car
+plate: MQL2242
+layout: Brazilian
+corners: 790,215 905,210 909,249 792,253

@@ -1,0 +1,4 @@
+type: car
+plate: NYD7092
+layout: Brazilian
+corners: 493,414 619,414 621,453 494,452

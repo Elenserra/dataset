@@ -1,0 +1,4 @@
+type: car
+plate: ELM5697
+layout: Brazilian
+corners: 792,372 927,371 933,418 795,419

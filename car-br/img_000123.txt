@@ -1,0 +1,4 @@
+type: car
+plate: OCZ5887
+layout: Brazilian
+corners: 739,153 824,149 827,178 741,183

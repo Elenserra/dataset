@@ -1,0 +1,4 @@
+type: car
+plate: OYK5217
+layout: Brazilian
+corners: 546,302 658,301 660,338 547,338

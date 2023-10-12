@@ -1,0 +1,4 @@
+type: car
+plate: MSK3813
+layout: Brazilian
+corners: 518,396 642,397 642,439 518,437

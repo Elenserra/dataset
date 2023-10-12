@@ -1,0 +1,4 @@
+type: car
+plate: PPJ8058
+layout: Brazilian
+corners: 539,383 661,383 662,425 539,424

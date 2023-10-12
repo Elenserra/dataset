@@ -1,0 +1,4 @@
+type: car
+plate: ODS2861
+layout: Brazilian
+corners: 431,413 552,412 555,451 434,452

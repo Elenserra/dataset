@@ -1,0 +1,4 @@
+type: car
+plate: ODA4357
+layout: Brazilian
+corners: 576,380 700,381 700,421 576,421

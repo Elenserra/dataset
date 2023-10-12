@@ -1,0 +1,4 @@
+type: car
+plate: PPM7665
+layout: Brazilian
+corners: 805,341 940,340 942,388 803,386

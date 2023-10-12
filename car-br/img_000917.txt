@@ -1,0 +1,4 @@
+type: car
+plate: MSU6818
+layout: Brazilian
+corners: 518,386 645,386 645,433 519,433

@@ -1,0 +1,4 @@
+type: car
+plate: MSR0391
+layout: Brazilian
+corners: 804,336 936,331 940,375 803,380

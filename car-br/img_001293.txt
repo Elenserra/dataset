@@ -1,0 +1,4 @@
+type: car
+plate: OYI4587
+layout: Brazilian
+corners: 754,171 840,171 840,200 754,200

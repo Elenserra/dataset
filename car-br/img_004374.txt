@@ -1,0 +1,4 @@
+type: car
+plate: ODQ2390
+layout: Brazilian
+corners: 764,343 896,343 900,389 763,390
