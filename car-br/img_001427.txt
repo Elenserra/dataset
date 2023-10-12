@@ -1,0 +1,4 @@
+type: car
+plate: MQN5440
+layout: Brazilian
+corners: 501,347 628,345 631,385 504,384

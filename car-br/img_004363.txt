@@ -1,0 +1,4 @@
+type: car
+plate: MST6645
+layout: Brazilian
+corners: 769,315 899,312 901,358 771,359

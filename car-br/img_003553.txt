@@ -1,0 +1,4 @@
+type: car
+plate: MTO4906
+layout: Brazilian
+corners: 729,357 861,359 864,404 730,402

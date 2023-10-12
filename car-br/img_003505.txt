@@ -1,0 +1,4 @@
+type: car
+plate: PPN6011
+layout: Brazilian
+corners: 740,333 871,330 877,376 743,376

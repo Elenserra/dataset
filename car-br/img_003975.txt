@@ -1,0 +1,4 @@
+type: car
+plate: MTC9474
+layout: Brazilian
+corners: 787,360 921,359 925,405 789,404

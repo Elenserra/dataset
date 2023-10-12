@@ -1,0 +1,4 @@
+type: car
+plate: MSS1325
+layout: Brazilian
+corners: 822,320 955,316 959,363 824,365

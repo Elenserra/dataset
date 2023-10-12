@@ -1,0 +1,4 @@
+type: car
+plate: KXS4485
+layout: Brazilian
+corners: 837,271 955,268 960,309 838,311

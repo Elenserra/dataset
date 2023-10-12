@@ -1,0 +1,4 @@
+type: car
+plate: MPM9202
+layout: Brazilian
+corners: 695,328 821,328 824,368 699,367

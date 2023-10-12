@@ -1,0 +1,4 @@
+type: car
+plate: CVP8930
+layout: Brazilian
+corners: 953,196 1047,192 1050,224 954,228

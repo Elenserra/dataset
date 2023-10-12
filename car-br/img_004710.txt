@@ -1,0 +1,4 @@
+type: car
+plate: PXO4810
+layout: Brazilian
+corners: 746,228 870,225 872,268 747,267

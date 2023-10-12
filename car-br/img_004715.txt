@@ -1,0 +1,4 @@
+type: car
+plate: QWS7978
+layout: Brazilian
+corners: 958,175 1050,172 1053,206 960,209

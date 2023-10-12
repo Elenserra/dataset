@@ -1,0 +1,4 @@
+type: car
+plate: OYX4758
+layout: Brazilian
+corners: 537,390 656,388 659,428 540,429

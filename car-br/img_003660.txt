@@ -1,0 +1,4 @@
+type: car
+plate: MTA1883
+layout: Brazilian
+corners: 816,329 944,328 945,371 816,372

@@ -1,0 +1,4 @@
+type: car
+plate: PLB1104
+layout: Brazilian
+corners: 742,158 833,159 834,190 744,189

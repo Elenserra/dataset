@@ -1,0 +1,4 @@
+type: car
+plate: MSG0818
+layout: Brazilian
+corners: 843,451 987,436 984,487 838,509

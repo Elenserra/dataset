@@ -1,0 +1,4 @@
+type: car
+plate: ODT7297
+layout: Brazilian
+corners: 491,336 618,337 618,382 491,381

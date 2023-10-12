@@ -1,0 +1,4 @@
+type: car
+plate: PPK4295
+layout: Brazilian
+corners: 455,439 593,440 595,488 456,487

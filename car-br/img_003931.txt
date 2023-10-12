@@ -1,0 +1,4 @@
+type: car
+plate: OYK5541
+layout: Brazilian
+corners: 812,304 940,302 943,347 814,347

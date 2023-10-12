@@ -1,0 +1,4 @@
+type: car
+plate: ODS3004
+layout: Brazilian
+corners: 493,387 619,388 621,431 495,430

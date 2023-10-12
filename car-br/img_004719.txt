@@ -1,0 +1,4 @@
+type: car
+plate: OVE9064
+layout: Brazilian
+corners: 827,356 960,356 963,399 827,399

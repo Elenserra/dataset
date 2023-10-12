@@ -1,0 +1,4 @@
+type: car
+plate: OVE9965
+layout: Brazilian
+corners: 666,343 797,346 798,386 667,384

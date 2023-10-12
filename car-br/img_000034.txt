@@ -1,0 +1,4 @@
+type: car
+plate: OYK6852
+layout: Brazilian
+corners: 528,380 650,380 650,422 528,421

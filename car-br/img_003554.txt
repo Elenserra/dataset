@@ -1,0 +1,4 @@
+type: car
+plate: LQK5731
+layout: Brazilian
+corners: 801,315 934,313 936,360 802,360

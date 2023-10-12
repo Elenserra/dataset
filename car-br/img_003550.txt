@@ -1,0 +1,4 @@
+type: car
+plate: PPV6702
+layout: Brazilian
+corners: 729,337 871,333 874,379 732,383

@@ -1,0 +1,4 @@
+type: car
+plate: QOZ6776
+layout: Brazilian
+corners: 728,265 844,258 853,293 734,298

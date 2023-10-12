@@ -1,0 +1,4 @@
+type: car
+plate: LMB7722
+layout: Brazilian
+corners: 310,585 467,590 471,646 315,640

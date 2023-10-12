@@ -1,0 +1,4 @@
+type: car
+plate: MQY8742
+layout: Brazilian
+corners: 695,357 827,353 831,398 698,400

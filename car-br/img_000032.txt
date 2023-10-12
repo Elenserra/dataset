@@ -1,0 +1,4 @@
+type: car
+plate: ENP0573
+layout: Brazilian
+corners: 468,371 585,373 586,410 468,408

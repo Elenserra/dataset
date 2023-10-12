@@ -1,0 +1,4 @@
+type: car
+plate: MSX4286
+layout: Brazilian
+corners: 823,338 956,336 960,379 824,381
