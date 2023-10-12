@@ -1,0 +1,4 @@
+type: car
+plate: LTY7A53
+layout: Mercosur
+corners: 576,267 691,267 693,305 577,305
