@@ -1,0 +1,4 @@
+type: car
+plate: PPT9261
+layout: Brazilian
+corners: 593,372 724,377 727,423 593,417

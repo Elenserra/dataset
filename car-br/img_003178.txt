@@ -1,0 +1,4 @@
+type: car
+plate: PPL8682
+layout: Brazilian
+corners: 786,64 872,62 872,93 787,94

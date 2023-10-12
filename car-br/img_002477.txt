@@ -1,0 +1,4 @@
+type: car
+plate: PPX0920
+layout: Brazilian
+corners: 450,288 571,286 571,332 452,331

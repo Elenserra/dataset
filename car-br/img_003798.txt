@@ -1,0 +1,4 @@
+type: car
+plate: KVI5131
+layout: Brazilian
+corners: 782,324 914,319 918,362 785,367

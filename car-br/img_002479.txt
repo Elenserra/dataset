@@ -1,0 +1,4 @@
+type: car
+plate: OYK7386
+layout: Brazilian
+corners: 681,128 773,123 776,154 683,159

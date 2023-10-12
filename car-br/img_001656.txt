@@ -1,0 +1,4 @@
+type: car
+plate: ODE9783
+layout: Brazilian
+corners: 404,467 542,472 543,519 405,511

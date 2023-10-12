@@ -1,0 +1,4 @@
+type: car
+plate: MTV1770
+layout: Brazilian
+corners: 523,401 649,400 650,447 524,447

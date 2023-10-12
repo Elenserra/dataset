@@ -1,0 +1,4 @@
+type: car
+plate: MTW5627
+layout: Brazilian
+corners: 778,430 914,432 919,475 779,473

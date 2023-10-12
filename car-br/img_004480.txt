@@ -1,0 +1,4 @@
+type: car
+plate: MRJ7440
+layout: Brazilian
+corners: 704,323 823,323 829,361 709,360

@@ -1,0 +1,4 @@
+type: car
+plate: LTK8343
+layout: Brazilian
+corners: 709,264 832,262 836,307 711,307

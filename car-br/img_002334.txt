@@ -1,0 +1,4 @@
+type: car
+plate: MRZ5980
+layout: Brazilian
+corners: 537,278 645,280 646,317 539,314

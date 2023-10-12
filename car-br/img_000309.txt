@@ -1,0 +1,4 @@
+type: car
+plate: QRC6790
+layout: Brazilian
+corners: 533,396 662,397 662,440 536,437

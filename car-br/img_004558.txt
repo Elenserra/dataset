@@ -1,0 +1,4 @@
+type: car
+plate: QRB0987
+layout: Brazilian
+corners: 803,326 936,326 936,369 804,369

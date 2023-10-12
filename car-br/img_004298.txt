@@ -1,0 +1,4 @@
+type: car
+plate: LPD1908
+layout: Brazilian
+corners: 864,292 992,291 994,335 863,336

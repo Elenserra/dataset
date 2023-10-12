@@ -1,0 +1,4 @@
+type: car
+plate: QRC9718
+layout: Brazilian
+corners: 994,123 1073,120 1074,148 995,150

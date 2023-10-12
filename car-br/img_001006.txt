@@ -1,0 +1,4 @@
+type: car
+plate: QOZ5157
+layout: Brazilian
+corners: 577,369 702,369 703,412 579,411

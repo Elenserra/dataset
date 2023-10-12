@@ -1,0 +1,4 @@
+type: car
+plate: PPT0211
+layout: Brazilian
+corners: 776,338 913,336 914,384 777,385

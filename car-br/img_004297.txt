@@ -1,0 +1,4 @@
+type: car
+plate: OCV8772
+layout: Brazilian
+corners: 931,291 1054,285 1055,322 933,329

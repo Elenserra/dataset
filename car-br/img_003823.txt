@@ -1,0 +1,4 @@
+type: car
+plate: PXU7775
+layout: Brazilian
+corners: 797,312 926,310 928,354 797,356

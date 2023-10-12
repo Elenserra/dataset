@@ -1,0 +1,4 @@
+type: car
+plate: ODT4813
+layout: Brazilian
+corners: 484,316 610,315 616,356 487,357

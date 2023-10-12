@@ -1,0 +1,4 @@
+type: car
+plate: LBI7719
+layout: Brazilian
+corners: 591,306 718,302 721,346 594,350

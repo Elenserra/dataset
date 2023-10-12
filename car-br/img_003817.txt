@@ -1,0 +1,4 @@
+type: car
+plate: OYJ1470
+layout: Brazilian
+corners: 787,311 913,310 916,354 786,355

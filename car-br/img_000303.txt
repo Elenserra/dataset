@@ -1,0 +1,4 @@
+type: car
+plate: MQU6023
+layout: Brazilian
+corners: 519,452 653,454 657,495 524,495

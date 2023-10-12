@@ -1,0 +1,4 @@
+type: car
+plate: LQP3298
+layout: Brazilian
+corners: 833,295 964,295 967,340 834,339

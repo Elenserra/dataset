@@ -1,0 +1,4 @@
+type: car
+plate: MPB0290
+layout: Brazilian
+corners: 507,339 623,338 625,374 508,374

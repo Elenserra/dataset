@@ -1,0 +1,4 @@
+type: car
+plate: PVJ1062
+layout: Brazilian
+corners: 672,141 781,142 781,179 672,178

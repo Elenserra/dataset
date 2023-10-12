@@ -1,0 +1,4 @@
+type: car
+plate: PPS6642
+layout: Brazilian
+corners: 557,403 689,401 689,446 559,448

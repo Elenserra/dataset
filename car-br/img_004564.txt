@@ -1,0 +1,4 @@
+type: car
+plate: PPQ4874
+layout: Brazilian
+corners: 767,353 901,350 904,395 769,398

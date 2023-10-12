@@ -1,0 +1,4 @@
+type: car
+plate: PPY5459
+layout: Brazilian
+corners: 840,237 957,233 960,271 841,275

@@ -1,0 +1,4 @@
+type: car
+plate: GFU9590
+layout: Brazilian
+corners: 407,440 542,439 544,487 409,487

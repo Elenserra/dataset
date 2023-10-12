@@ -1,0 +1,4 @@
+type: car
+plate: HXN0555
+layout: Brazilian
+corners: 729,264 858,260 861,305 729,307

@@ -1,0 +1,4 @@
+type: car
+plate: OYF4483
+layout: Brazilian
+corners: 789,320 919,318 920,364 788,364

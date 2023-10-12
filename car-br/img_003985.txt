@@ -1,0 +1,4 @@
+type: car
+plate: PPY9517
+layout: Brazilian
+corners: 837,308 963,306 966,347 838,349

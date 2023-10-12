@@ -1,0 +1,4 @@
+type: car
+plate: MSV3053
+layout: Brazilian
+corners: 779,347 913,344 916,390 780,390

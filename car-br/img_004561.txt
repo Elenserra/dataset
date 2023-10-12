@@ -1,0 +1,4 @@
+type: car
+plate: PPQ2622
+layout: Brazilian
+corners: 787,356 923,353 924,400 790,401

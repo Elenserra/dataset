@@ -1,0 +1,4 @@
+type: car
+plate: MTV9329
+layout: Brazilian
+corners: 789,341 920,338 926,377 792,380

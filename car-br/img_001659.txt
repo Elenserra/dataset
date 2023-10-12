@@ -1,0 +1,4 @@
+type: car
+plate: GVL3401
+layout: Brazilian
+corners: 552,405 666,406 666,445 552,445

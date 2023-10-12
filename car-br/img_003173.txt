@@ -1,0 +1,4 @@
+type: car
+plate: QRB2775
+layout: Brazilian
+corners: 599,348 736,350 738,395 599,395

@@ -1,0 +1,4 @@
+type: car
+plate: OCW1800
+layout: Brazilian
+corners: 506,401 635,402 637,447 507,445

@@ -1,0 +1,4 @@
+type: car
+plate: PPB5250
+layout: Brazilian
+corners: 804,55 868,53 869,75 803,77
