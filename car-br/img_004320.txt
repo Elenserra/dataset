@@ -1,0 +1,4 @@
+type: car
+plate: OYK2732
+layout: Brazilian
+corners: 781,318 910,315 914,359 782,360

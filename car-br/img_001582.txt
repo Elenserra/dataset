@@ -1,0 +1,4 @@
+type: car
+plate: PPC6858
+layout: Brazilian
+corners: 752,160 834,160 835,187 752,187

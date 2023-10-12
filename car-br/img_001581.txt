@@ -1,0 +1,4 @@
+type: car
+plate: GVP0415
+layout: Brazilian
+corners: 922,88 1007,83 1008,111 923,115

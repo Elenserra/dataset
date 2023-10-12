@@ -1,0 +1,4 @@
+type: car
+plate: QRB2990
+layout: Brazilian
+corners: 808,312 936,307 940,350 810,353

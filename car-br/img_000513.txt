@@ -1,0 +1,4 @@
+type: car
+plate: PPZ2997
+layout: Brazilian
+corners: 510,332 618,333 618,369 508,367

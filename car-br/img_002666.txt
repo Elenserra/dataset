@@ -1,0 +1,4 @@
+type: car
+plate: MPJ5666
+layout: Brazilian
+corners: 732,295 849,296 850,335 731,333

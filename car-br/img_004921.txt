@@ -1,0 +1,4 @@
+type: car
+plate: PPI9364
+layout: Brazilian
+corners: 873,239 991,239 992,278 874,279

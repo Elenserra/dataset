@@ -1,0 +1,4 @@
+type: car
+plate: DCZ8412
+layout: Brazilian
+corners: 728,287 842,289 841,327 728,324

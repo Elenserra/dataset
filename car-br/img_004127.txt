@@ -1,0 +1,4 @@
+type: car
+plate: ODI2320
+layout: Brazilian
+corners: 822,321 949,319 952,364 823,366

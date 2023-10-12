@@ -1,0 +1,4 @@
+type: car
+plate: OVH0550
+layout: Brazilian
+corners: 498,316 621,312 625,355 500,357

@@ -1,0 +1,4 @@
+type: car
+plate: PPW6229
+layout: Brazilian
+corners: 585,323 693,324 694,361 585,361

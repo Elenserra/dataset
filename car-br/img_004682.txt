@@ -1,0 +1,4 @@
+type: car
+plate: ODB2144
+layout: Brazilian
+corners: 873,280 990,278 991,320 873,319

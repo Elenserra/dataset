@@ -1,0 +1,4 @@
+type: car
+plate: MQJ1804
+layout: Brazilian
+corners: 875,265 998,261 1000,304 877,308

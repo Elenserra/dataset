@@ -1,0 +1,4 @@
+type: car
+plate: NRJ4919
+layout: Brazilian
+corners: 949,191 1049,189 1050,224 949,226

@@ -1,0 +1,4 @@
+type: car
+plate: PPZ8485
+layout: Brazilian
+corners: 764,67 841,67 842,94 765,93

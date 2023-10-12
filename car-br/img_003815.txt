@@ -1,0 +1,4 @@
+type: car
+plate: MTW3134
+layout: Brazilian
+corners: 833,303 955,301 958,344 832,344

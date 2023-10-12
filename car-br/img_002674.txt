@@ -1,0 +1,4 @@
+type: car
+plate: PPP6853
+layout: Brazilian
+corners: 900,10 967,10 969,33 901,33

@@ -1,0 +1,4 @@
+type: car
+plate: QIP2359
+layout: Brazilian
+corners: 686,167 801,163 806,204 688,207

@@ -1,0 +1,4 @@
+type: car
+plate: EAT3002
+layout: Brazilian
+corners: 792,390 927,369 938,417 798,435

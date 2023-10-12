@@ -1,0 +1,4 @@
+type: car
+plate: MQR8619
+layout: Brazilian
+corners: 560,393 686,391 686,436 560,435

@@ -1,0 +1,4 @@
+type: car
+plate: OCV0179
+layout: Brazilian
+corners: 832,314 964,309 969,352 833,358

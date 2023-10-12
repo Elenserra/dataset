@@ -1,0 +1,4 @@
+type: car
+plate: ODO2347
+layout: Brazilian
+corners: 737,224 861,220 865,261 739,264
