@@ -1,0 +1,4 @@
+type: car
+plate: DIS4700
+layout: Brazilian
+corners: 763,159 846,159 846,187 764,186

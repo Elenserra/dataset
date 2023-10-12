@@ -1,0 +1,4 @@
+type: car
+plate: PPY4766
+layout: Brazilian
+corners: 499,382 634,385 636,433 500,430

@@ -1,0 +1,4 @@
+type: car
+plate: MST3293
+layout: Brazilian
+corners: 1036,147 1126,144 1128,174 1037,179

@@ -1,0 +1,4 @@
+type: car
+plate: DAM5437
+layout: Brazilian
+corners: 423,496 556,499 560,539 429,536

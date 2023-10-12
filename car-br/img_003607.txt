@@ -1,0 +1,4 @@
+type: car
+plate: KWD7660
+layout: Brazilian
+corners: 802,341 936,337 939,381 804,383

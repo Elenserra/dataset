@@ -1,0 +1,4 @@
+type: car
+plate: ODL5490
+layout: Brazilian
+corners: 529,347 653,347 653,388 529,387

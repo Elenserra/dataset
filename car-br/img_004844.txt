@@ -1,0 +1,4 @@
+type: car
+plate: DTC3082
+layout: Brazilian
+corners: 720,339 849,336 855,379 722,379

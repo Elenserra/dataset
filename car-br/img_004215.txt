@@ -1,0 +1,4 @@
+type: car
+plate: CVL7311
+layout: Brazilian
+corners: 789,349 927,348 928,395 792,392

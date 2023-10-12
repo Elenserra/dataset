@@ -1,0 +1,4 @@
+type: car
+plate: EBA9320
+layout: Brazilian
+corners: 795,395 925,394 926,438 796,436

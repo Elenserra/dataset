@@ -1,0 +1,4 @@
+type: car
+plate: OVE7082
+layout: Brazilian
+corners: 794,335 929,334 930,381 795,382

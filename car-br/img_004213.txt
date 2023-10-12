@@ -1,0 +1,4 @@
+type: car
+plate: QRD1400
+layout: Brazilian
+corners: 858,245 974,242 977,284 859,286

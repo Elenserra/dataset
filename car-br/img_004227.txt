@@ -1,0 +1,4 @@
+type: car
+plate: MQO9036
+layout: Brazilian
+corners: 770,342 904,339 906,385 771,388

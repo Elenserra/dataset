@@ -1,0 +1,4 @@
+type: car
+plate: PPU6946
+layout: Brazilian
+corners: 561,411 685,410 688,456 561,456

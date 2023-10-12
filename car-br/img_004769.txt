@@ -1,0 +1,4 @@
+type: car
+plate: OVF2793
+layout: Brazilian
+corners: 752,358 891,359 896,404 751,405

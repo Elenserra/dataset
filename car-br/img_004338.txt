@@ -1,0 +1,4 @@
+type: car
+plate: PPY4621
+layout: Brazilian
+corners: 841,259 955,255 959,295 842,298

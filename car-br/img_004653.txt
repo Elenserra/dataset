@@ -1,0 +1,4 @@
+type: car
+plate: MTJ6615
+layout: Brazilian
+corners: 790,361 922,360 923,404 791,404

@@ -1,0 +1,4 @@
+type: car
+plate: OYH6794
+layout: Brazilian
+corners: 1014,74 1096,71 1098,101 1015,103

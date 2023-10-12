@@ -1,0 +1,4 @@
+type: car
+plate: MTN7357
+layout: Brazilian
+corners: 868,312 989,309 994,347 869,349

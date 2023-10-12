@@ -1,0 +1,4 @@
+type: car
+plate: KHI8394
+layout: Brazilian
+corners: 825,264 946,259 952,298 829,304

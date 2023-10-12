@@ -1,0 +1,4 @@
+type: car
+plate: MTE7551
+layout: Brazilian
+corners: 827,324 959,323 960,369 825,368

@@ -1,0 +1,4 @@
+type: car
+plate: ODG3184
+layout: Brazilian
+corners: 852,237 974,227 980,268 856,276

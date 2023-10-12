@@ -1,0 +1,4 @@
+type: car
+plate: IPR2535
+layout: Brazilian
+corners: 744,342 877,341 877,387 743,386

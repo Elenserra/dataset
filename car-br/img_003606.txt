@@ -1,0 +1,4 @@
+type: car
+plate: PPD1009
+layout: Brazilian
+corners: 804,314 931,311 936,356 805,357

@@ -1,0 +1,4 @@
+type: car
+plate: PKZ5789
+layout: Brazilian
+corners: 791,325 928,320 933,368 792,371

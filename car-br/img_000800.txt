@@ -1,0 +1,4 @@
+type: car
+plate: MTQ2673
+layout: Brazilian
+corners: 509,420 639,421 641,465 511,464

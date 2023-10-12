@@ -1,0 +1,4 @@
+type: car
+plate: JLM4459
+layout: Brazilian
+corners: 513,372 643,371 644,412 513,411

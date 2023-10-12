@@ -1,0 +1,4 @@
+type: car
+plate: MQQ7117
+layout: Brazilian
+corners: 800,342 932,341 936,387 802,387

@@ -1,0 +1,4 @@
+type: car
+plate: OXH8910
+layout: Brazilian
+corners: 770,307 907,303 910,347 774,351

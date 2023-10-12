@@ -1,0 +1,4 @@
+type: car
+plate: ODP3128
+layout: Brazilian
+corners: 781,325 913,322 915,368 781,369

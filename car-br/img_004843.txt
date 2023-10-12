@@ -1,0 +1,4 @@
+type: car
+plate: MQU1198
+layout: Brazilian
+corners: 879,262 994,258 997,298 879,301

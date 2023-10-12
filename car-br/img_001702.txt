@@ -1,0 +1,4 @@
+type: car
+plate: PPG7664
+layout: Brazilian
+corners: 485,428 612,429 614,471 487,469

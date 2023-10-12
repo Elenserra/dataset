@@ -1,0 +1,4 @@
+type: car
+plate: MTW4485
+layout: Brazilian
+corners: 547,375 675,374 675,420 547,420

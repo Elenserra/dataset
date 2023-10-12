@@ -1,0 +1,4 @@
+type: car
+plate: LUY4689
+layout: Brazilian
+corners: 753,299 890,297 894,344 756,345
