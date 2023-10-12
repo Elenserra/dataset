@@ -1,0 +1,4 @@
+type: car
+plate: PPD0706
+layout: Brazilian
+corners: 873,293 1000,289 1003,333 876,335

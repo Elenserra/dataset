@@ -1,0 +1,4 @@
+type: car
+plate: MSD0588
+layout: Brazilian
+corners: 827,332 954,329 957,372 828,375

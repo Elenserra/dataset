@@ -1,0 +1,4 @@
+type: car
+plate: GPX8181
+layout: Brazilian
+corners: 538,424 653,424 656,461 541,459

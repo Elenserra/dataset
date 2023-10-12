@@ -1,0 +1,4 @@
+type: car
+plate: ODE8151
+layout: Brazilian
+corners: 609,290 713,292 715,328 608,327

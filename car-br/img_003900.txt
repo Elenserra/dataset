@@ -1,0 +1,4 @@
+type: car
+plate: OVJ1856
+layout: Brazilian
+corners: 836,299 963,296 965,341 837,342

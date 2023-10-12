@@ -1,0 +1,4 @@
+type: car
+plate: OYD0023
+layout: Brazilian
+corners: 597,324 728,327 728,372 598,370

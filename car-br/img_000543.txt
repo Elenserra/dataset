@@ -1,0 +1,4 @@
+type: car
+plate: ODT7146
+layout: Brazilian
+corners: 423,403 544,404 544,447 421,446

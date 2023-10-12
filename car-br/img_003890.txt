@@ -1,0 +1,4 @@
+type: car
+plate: QRC7367
+layout: Brazilian
+corners: 903,239 1016,235 1021,272 906,276

@@ -1,0 +1,4 @@
+type: car
+plate: OVL2797
+layout: Brazilian
+corners: 529,389 656,388 658,431 531,431

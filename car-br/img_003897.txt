@@ -1,0 +1,4 @@
+type: car
+plate: HEJ3855
+layout: Brazilian
+corners: 708,345 841,345 844,391 710,391
