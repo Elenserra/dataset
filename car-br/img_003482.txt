@@ -1,0 +1,4 @@
+type: car
+plate: MST3381
+layout: Brazilian
+corners: 832,301 962,298 963,342 833,344

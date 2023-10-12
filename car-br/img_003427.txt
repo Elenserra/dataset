@@ -1,0 +1,4 @@
+type: car
+plate: PPB5741
+layout: Brazilian
+corners: 559,326 682,328 682,372 558,369
