@@ -1,4 +1,0 @@
-type: car
-plate: LPJ9270
-layout: Brazilian
-corners: 982,168 1067,164 1071,193 984,195
