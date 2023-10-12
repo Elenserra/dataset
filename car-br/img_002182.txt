@@ -1,0 +1,4 @@
+type: car
+plate: PPG6212
+layout: Brazilian
+corners: 770,356 907,342 907,387 769,408

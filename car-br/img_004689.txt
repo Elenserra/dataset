@@ -1,0 +1,4 @@
+type: car
+plate: QQZ6491
+layout: Brazilian
+corners: 849,320 974,316 976,359 850,362

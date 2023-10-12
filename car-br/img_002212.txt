@@ -1,0 +1,4 @@
+type: car
+plate: ODR1856
+layout: Brazilian
+corners: 795,110 872,109 872,137 795,137

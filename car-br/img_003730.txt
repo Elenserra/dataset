@@ -1,0 +1,4 @@
+type: car
+plate: PPH4574
+layout: Brazilian
+corners: 780,331 914,330 916,376 781,377

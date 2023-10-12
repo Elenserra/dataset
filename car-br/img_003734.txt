@@ -1,0 +1,4 @@
+type: car
+plate: KVW1516
+layout: Brazilian
+corners: 749,337 875,334 878,378 749,381

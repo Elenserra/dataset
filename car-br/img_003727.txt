@@ -1,0 +1,4 @@
+type: car
+plate: MQQ5553
+layout: Brazilian
+corners: 760,330 889,324 891,368 763,373

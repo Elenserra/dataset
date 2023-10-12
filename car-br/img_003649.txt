@@ -1,0 +1,4 @@
+type: car
+plate: MTR2201
+layout: Brazilian
+corners: 827,312 957,313 959,358 827,356

@@ -1,0 +1,4 @@
+type: car
+plate: MQE4494
+layout: Brazilian
+corners: 522,379 659,377 661,422 526,423

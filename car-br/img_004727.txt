@@ -1,0 +1,4 @@
+type: car
+plate: PPE4786
+layout: Brazilian
+corners: 873,343 1002,340 1004,385 873,385

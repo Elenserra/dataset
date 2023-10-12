@@ -1,0 +1,4 @@
+type: car
+plate: LOX2217
+layout: Brazilian
+corners: 838,334 973,332 977,376 840,377

@@ -1,0 +1,4 @@
+type: car
+plate: PPE2584
+layout: Brazilian
+corners: 792,260 926,257 928,302 794,303

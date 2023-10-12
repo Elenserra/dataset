@@ -1,0 +1,4 @@
+type: car
+plate: ODS3662
+layout: Brazilian
+corners: 549,408 679,407 680,450 549,450

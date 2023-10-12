@@ -1,0 +1,4 @@
+type: car
+plate: PPE5629
+layout: Brazilian
+corners: 833,327 968,325 969,369 834,371

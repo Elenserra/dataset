@@ -1,0 +1,4 @@
+type: car
+plate: KNN3997
+layout: Brazilian
+corners: 735,348 868,344 874,390 740,392

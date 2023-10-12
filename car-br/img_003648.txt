@@ -1,0 +1,4 @@
+type: car
+plate: MSH4776
+layout: Brazilian
+corners: 895,252 1013,250 1015,291 896,294

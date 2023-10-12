@@ -1,0 +1,4 @@
+type: car
+plate: PPH8232
+layout: Brazilian
+corners: 740,241 855,236 859,278 742,280

@@ -1,0 +1,4 @@
+type: car
+plate: ODF2480
+layout: Brazilian
+corners: 847,312 977,309 980,353 850,356

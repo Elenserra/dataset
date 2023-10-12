@@ -1,0 +1,4 @@
+type: car
+plate: MTS3698
+layout: Brazilian
+corners: 842,291 960,290 964,330 844,330

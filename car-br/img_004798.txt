@@ -1,0 +1,4 @@
+type: car
+plate: MPE6414
+layout: Brazilian
+corners: 844,328 965,320 969,361 848,370

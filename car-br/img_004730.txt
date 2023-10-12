@@ -1,0 +1,4 @@
+type: car
+plate: JNK9908
+layout: Brazilian
+corners: 857,266 971,264 972,304 858,306

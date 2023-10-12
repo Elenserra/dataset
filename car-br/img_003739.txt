@@ -1,0 +1,4 @@
+type: car
+plate: PPJ1029
+layout: Brazilian
+corners: 882,222 992,221 992,257 883,257

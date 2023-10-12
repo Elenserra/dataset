@@ -1,0 +1,4 @@
+type: car
+plate: MQG0481
+layout: Brazilian
+corners: 806,340 933,336 939,379 811,379

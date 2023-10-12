@@ -1,0 +1,4 @@
+type: car
+plate: PZL5312
+layout: Brazilian
+corners: 786,319 916,316 920,362 787,364

@@ -1,0 +1,4 @@
+type: car
+plate: MTK4892
+layout: Brazilian
+corners: 793,382 923,383 923,426 794,425

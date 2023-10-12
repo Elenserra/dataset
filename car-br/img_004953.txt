@@ -1,0 +1,4 @@
+type: car
+plate: OYF2053
+layout: Brazilian
+corners: 844,332 980,330 982,375 846,375

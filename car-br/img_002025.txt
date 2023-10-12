@@ -1,0 +1,4 @@
+type: car
+plate: OVL6085
+layout: Brazilian
+corners: 464,405 588,406 589,450 465,448

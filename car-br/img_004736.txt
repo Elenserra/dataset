@@ -1,0 +1,4 @@
+type: car
+plate: QUZ4957
+layout: Brazilian
+corners: 959,196 1065,194 1068,231 959,234
