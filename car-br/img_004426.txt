@@ -1,0 +1,4 @@
+type: car
+plate: MPH3380
+layout: Brazilian
+corners: 725,214 833,214 835,251 726,251

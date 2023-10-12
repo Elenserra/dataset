@@ -1,0 +1,4 @@
+type: car
+plate: PPS8319
+layout: Brazilian
+corners: 566,340 681,340 681,382 566,381

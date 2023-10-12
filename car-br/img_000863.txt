@@ -1,0 +1,4 @@
+type: car
+plate: MSY0949
+layout: Brazilian
+corners: 583,369 706,370 706,414 582,411

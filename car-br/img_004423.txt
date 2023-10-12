@@ -1,0 +1,4 @@
+type: car
+plate: KRF8880
+layout: Brazilian
+corners: 833,331 968,329 972,377 835,379

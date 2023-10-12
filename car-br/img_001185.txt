@@ -1,0 +1,4 @@
+type: car
+plate: ODR7608
+layout: Brazilian
+corners: 534,291 654,292 654,333 535,331

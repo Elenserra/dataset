@@ -1,0 +1,4 @@
+type: car
+plate: MRP2989
+layout: Brazilian
+corners: 611,236 711,235 712,270 612,271

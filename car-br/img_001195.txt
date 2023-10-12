@@ -1,0 +1,4 @@
+type: car
+plate: MTZ2747
+layout: Brazilian
+corners: 649,330 765,328 765,367 649,368

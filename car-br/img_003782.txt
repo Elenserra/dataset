@@ -1,0 +1,4 @@
+type: car
+plate: MSU6045
+layout: Brazilian
+corners: 789,337 929,333 932,375 790,380

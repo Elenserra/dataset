@@ -1,0 +1,4 @@
+type: car
+plate: FHP2402
+layout: Brazilian
+corners: 836,321 965,318 971,361 838,362

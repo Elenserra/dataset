@@ -1,0 +1,4 @@
+type: car
+plate: MTS0495
+layout: Brazilian
+corners: 828,161 908,159 909,187 829,188

@@ -1,0 +1,4 @@
+type: car
+plate: PPJ0865
+layout: Brazilian
+corners: 839,79 905,78 905,101 840,101

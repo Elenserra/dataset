@@ -1,0 +1,4 @@
+type: car
+plate: PVU3264
+layout: Brazilian
+corners: 711,313 836,314 835,354 713,355

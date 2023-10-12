@@ -1,0 +1,4 @@
+type: car
+plate: LQH6516
+layout: Brazilian
+corners: 773,333 903,330 909,374 773,375

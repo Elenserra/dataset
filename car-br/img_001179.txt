@@ -1,0 +1,4 @@
+type: car
+plate: BBI7290
+layout: Brazilian
+corners: 609,416 737,415 739,460 610,459

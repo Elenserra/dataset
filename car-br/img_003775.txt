@@ -1,0 +1,4 @@
+type: car
+plate: ODK7860
+layout: Brazilian
+corners: 827,319 960,317 962,362 828,364

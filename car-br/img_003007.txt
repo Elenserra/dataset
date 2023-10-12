@@ -1,0 +1,4 @@
+type: car
+plate: MRV6732
+layout: Brazilian
+corners: 781,345 916,341 919,385 784,389

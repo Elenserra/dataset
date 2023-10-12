@@ -1,0 +1,4 @@
+type: car
+plate: MTT9964
+layout: Brazilian
+corners: 789,314 920,311 922,356 791,357

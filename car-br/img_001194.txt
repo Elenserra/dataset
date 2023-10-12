@@ -1,0 +1,4 @@
+type: car
+plate: MTD3867
+layout: Brazilian
+corners: 570,292 667,293 668,326 570,325

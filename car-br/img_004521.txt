@@ -1,0 +1,4 @@
+type: car
+plate: OVI4236
+layout: Brazilian
+corners: 764,332 887,329 892,373 766,374

@@ -1,0 +1,4 @@
+type: car
+plate: PPL4793
+layout: Brazilian
+corners: 544,426 674,428 674,474 544,474

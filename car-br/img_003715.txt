@@ -1,0 +1,4 @@
+type: car
+plate: MSG6917
+layout: Brazilian
+corners: 750,327 884,326 888,372 752,373

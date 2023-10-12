@@ -1,0 +1,4 @@
+type: car
+plate: MTB2142
+layout: Brazilian
+corners: 604,237 727,238 728,282 608,279

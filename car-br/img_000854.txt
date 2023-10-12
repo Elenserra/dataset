@@ -1,0 +1,4 @@
+type: car
+plate: MTS0837
+layout: Brazilian
+corners: 553,409 677,410 678,452 553,451

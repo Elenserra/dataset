@@ -1,0 +1,4 @@
+type: car
+plate: MTY1461
+layout: Brazilian
+corners: 835,337 965,335 968,381 837,381

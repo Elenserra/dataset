@@ -1,0 +1,4 @@
+type: car
+plate: QRB8790
+layout: Brazilian
+corners: 912,207 1016,206 1019,242 913,244

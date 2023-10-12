@@ -1,0 +1,4 @@
+type: car
+plate: OYK4303
+layout: Brazilian
+corners: 601,312 709,312 710,348 601,347

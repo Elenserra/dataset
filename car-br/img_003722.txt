@@ -1,0 +1,4 @@
+type: car
+plate: ODE3260
+layout: Brazilian
+corners: 792,334 919,330 923,374 792,377

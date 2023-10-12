@@ -1,0 +1,4 @@
+type: car
+plate: QUM6264
+layout: Brazilian
+corners: 754,192 857,193 858,227 756,225

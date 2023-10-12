@@ -1,0 +1,4 @@
+type: car
+plate: MRY6685
+layout: Brazilian
+corners: 397,338 530,338 529,385 398,385

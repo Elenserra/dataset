@@ -1,0 +1,4 @@
+type: car
+plate: ODO0250
+layout: Brazilian
+corners: 505,312 632,307 635,351 509,355

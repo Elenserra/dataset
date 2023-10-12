@@ -1,0 +1,4 @@
+type: car
+plate: PPM2271
+layout: Brazilian
+corners: 903,73 978,73 979,98 905,98

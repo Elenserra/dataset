@@ -1,0 +1,4 @@
+type: car
+plate: QOC6984
+layout: Brazilian
+corners: 818,334 952,331 955,378 821,379

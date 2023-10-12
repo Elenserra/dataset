@@ -1,0 +1,4 @@
+type: car
+plate: PWF6163
+layout: Brazilian
+corners: 533,334 657,334 659,377 535,378

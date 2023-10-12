@@ -1,0 +1,4 @@
+type: car
+plate: ODH0105
+layout: Brazilian
+corners: 418,320 548,315 553,354 426,361

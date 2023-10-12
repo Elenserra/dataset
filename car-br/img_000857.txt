@@ -1,0 +1,4 @@
+type: car
+plate: MTQ6935
+layout: Brazilian
+corners: 547,362 670,364 671,407 548,404

@@ -1,0 +1,4 @@
+type: car
+plate: PPW6404
+layout: Brazilian
+corners: 703,322 827,324 826,361 705,360

@@ -1,0 +1,4 @@
+type: car
+plate: PPG5552
+layout: Brazilian
+corners: 739,138 841,138 842,173 741,173

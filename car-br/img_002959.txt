@@ -1,0 +1,4 @@
+type: car
+plate: POU5490
+layout: Brazilian
+corners: 672,328 798,332 796,376 671,373

@@ -1,0 +1,4 @@
+type: car
+plate: MTW8186
+layout: Brazilian
+corners: 760,362 900,359 905,405 763,407

@@ -1,0 +1,4 @@
+type: car
+plate: NXA2424
+layout: Brazilian
+corners: 513,467 643,468 646,511 516,510

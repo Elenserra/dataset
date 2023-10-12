@@ -1,0 +1,4 @@
+type: car
+plate: KET5921
+layout: Brazilian
+corners: 764,331 861,328 862,370 765,371
