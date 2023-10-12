@@ -1,0 +1,4 @@
+type: car
+plate: HTF7448
+layout: Brazilian
+corners: 659,309 772,309 774,347 661,347

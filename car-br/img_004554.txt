@@ -1,0 +1,4 @@
+type: car
+plate: LQO4887
+layout: Brazilian
+corners: 891,166 988,164 990,197 891,199

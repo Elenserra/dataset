@@ -1,0 +1,4 @@
+type: car
+plate: MSF8623
+layout: Brazilian
+corners: 637,214 767,211 773,255 640,257

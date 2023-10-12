@@ -1,0 +1,4 @@
+type: car
+plate: MTD5159
+layout: Brazilian
+corners: 640,332 757,334 758,374 641,371

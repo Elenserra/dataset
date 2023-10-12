@@ -1,0 +1,4 @@
+type: car
+plate: MSN0594
+layout: Brazilian
+corners: 480,366 597,366 597,405 481,404

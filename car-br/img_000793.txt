@@ -1,0 +1,4 @@
+type: car
+plate: QQI4716
+layout: Brazilian
+corners: 518,405 642,404 642,446 519,446

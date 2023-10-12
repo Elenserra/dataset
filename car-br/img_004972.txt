@@ -1,0 +1,4 @@
+type: car
+plate: GWV3995
+layout: Brazilian
+corners: 773,358 907,363 908,407 774,401

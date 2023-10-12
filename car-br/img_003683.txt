@@ -1,0 +1,4 @@
+type: car
+plate: LLW1513
+layout: Brazilian
+corners: 716,341 858,337 860,385 717,388

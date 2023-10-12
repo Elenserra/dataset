@@ -1,0 +1,4 @@
+type: car
+plate: OZF8163
+layout: Brazilian
+corners: 983,105 1063,103 1064,130 984,132

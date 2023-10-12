@@ -1,0 +1,4 @@
+type: car
+plate: MQX4784
+layout: Brazilian
+corners: 775,280 897,288 894,330 774,322

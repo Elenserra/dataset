@@ -1,0 +1,4 @@
+type: car
+plate: MTX5977
+layout: Brazilian
+corners: 529,294 647,296 648,336 531,333

@@ -1,0 +1,4 @@
+type: car
+plate: PPY0939
+layout: Brazilian
+corners: 1001,112 1080,109 1082,137 1002,139

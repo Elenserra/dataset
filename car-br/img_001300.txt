@@ -1,0 +1,4 @@
+type: car
+plate: OVK4839
+layout: Brazilian
+corners: 500,435 634,435 634,481 501,480

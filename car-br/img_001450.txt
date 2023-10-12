@@ -1,0 +1,4 @@
+type: car
+plate: OYF6232
+layout: Brazilian
+corners: 607,245 705,244 706,278 607,277

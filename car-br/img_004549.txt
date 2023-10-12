@@ -1,0 +1,4 @@
+type: car
+plate: OVE9192
+layout: Brazilian
+corners: 791,327 921,325 925,371 792,374

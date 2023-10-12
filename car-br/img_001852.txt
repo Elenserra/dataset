@@ -1,0 +1,4 @@
+type: car
+plate: HCR1994
+layout: Brazilian
+corners: 504,387 630,389 632,434 505,429

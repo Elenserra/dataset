@@ -1,0 +1,4 @@
+type: car
+plate: BQS6540
+layout: Brazilian
+corners: 713,232 801,231 801,261 713,260

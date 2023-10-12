@@ -1,0 +1,4 @@
+type: car
+plate: PPW2943
+layout: Brazilian
+corners: 542,409 670,411 671,453 542,452

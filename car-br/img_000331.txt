@@ -1,0 +1,4 @@
+type: car
+plate: ODT9984
+layout: Brazilian
+corners: 573,334 695,332 696,373 574,375

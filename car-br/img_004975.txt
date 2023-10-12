@@ -1,0 +1,4 @@
+type: car
+plate: QOV4888
+layout: Brazilian
+corners: 633,339 768,347 768,394 634,385

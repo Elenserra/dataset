@@ -1,0 +1,4 @@
+type: car
+plate: OYG5374
+layout: Brazilian
+corners: 688,235 784,234 784,268 689,268

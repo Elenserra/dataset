@@ -1,0 +1,4 @@
+type: car
+plate: QUP3961
+layout: Brazilian
+corners: 827,257 939,255 943,294 828,296

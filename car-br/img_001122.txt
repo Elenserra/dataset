@@ -1,0 +1,4 @@
+type: car
+plate: OCZ0909
+layout: Brazilian
+corners: 383,531 530,541 529,592 382,582

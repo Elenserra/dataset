@@ -1,0 +1,4 @@
+type: car
+plate: OQR4867
+layout: Brazilian
+corners: 353,425 479,426 480,469 354,467

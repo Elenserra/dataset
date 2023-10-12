@@ -1,0 +1,4 @@
+type: car
+plate: QRB2150
+layout: Brazilian
+corners: 766,156 846,156 846,183 766,184

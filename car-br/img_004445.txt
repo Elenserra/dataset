@@ -1,0 +1,4 @@
+type: car
+plate: MTB4490
+layout: Brazilian
+corners: 767,215 885,213 886,254 766,255

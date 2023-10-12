@@ -1,0 +1,4 @@
+type: car
+plate: LUP5138
+layout: Brazilian
+corners: 577,356 695,356 696,394 578,393

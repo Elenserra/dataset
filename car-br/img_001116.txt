@@ -1,0 +1,4 @@
+type: car
+plate: OCW3711
+layout: Brazilian
+corners: 657,228 752,229 753,261 658,261

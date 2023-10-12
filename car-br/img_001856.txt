@@ -1,0 +1,4 @@
+type: car
+plate: MQV6554
+layout: Brazilian
+corners: 546,334 674,334 673,379 546,378
