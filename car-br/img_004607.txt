@@ -1,0 +1,4 @@
+type: car
+plate: PPT2998
+layout: Brazilian
+corners: 673,375 818,372 821,423 674,424

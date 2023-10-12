@@ -1,0 +1,4 @@
+type: car
+plate: PPM3001
+layout: Brazilian
+corners: 612,352 741,356 743,401 613,395

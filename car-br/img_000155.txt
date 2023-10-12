@@ -1,0 +1,4 @@
+type: car
+plate: OYJ6834
+layout: Brazilian
+corners: 512,409 633,408 635,450 512,450

@@ -1,0 +1,4 @@
+type: car
+plate: MTP0404
+layout: Brazilian
+corners: 818,258 957,255 960,303 818,305

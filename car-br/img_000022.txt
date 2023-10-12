@@ -1,0 +1,4 @@
+type: car
+plate: HBL9124
+layout: Brazilian
+corners: 478,421 602,422 603,463 479,461

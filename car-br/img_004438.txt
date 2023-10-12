@@ -1,0 +1,4 @@
+type: car
+plate: JIC8378
+layout: Brazilian
+corners: 778,302 913,298 915,343 778,346

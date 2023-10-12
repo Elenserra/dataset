@@ -1,0 +1,4 @@
+type: car
+plate: PPT7651
+layout: Brazilian
+corners: 550,393 673,393 672,433 549,431
