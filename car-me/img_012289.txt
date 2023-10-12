@@ -1,0 +1,4 @@
+type: car
+plate: QRG9J17
+layout: Mercosur
+corners: 324,462 472,466 475,514 329,510

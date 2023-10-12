@@ -1,0 +1,4 @@
+type: car
+plate: NSB1I07
+layout: Mercosur
+corners: 486,432 617,434 616,476 487,474

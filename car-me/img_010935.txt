@@ -1,0 +1,4 @@
+type: car
+plate: HHZ3I13
+layout: Mercosur
+corners: 535,442 657,444 659,483 539,481

@@ -1,0 +1,4 @@
+type: car
+plate: QRF4I15
+layout: Mercosur
+corners: 809,312 932,312 933,352 809,352

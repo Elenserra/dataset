@@ -1,0 +1,4 @@
+type: car
+plate: MTX9D59
+layout: Mercosur
+corners: 575,368 702,370 700,410 576,408
