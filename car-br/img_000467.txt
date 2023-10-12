@@ -1,0 +1,4 @@
+type: car
+plate: MTV8249
+layout: Brazilian
+corners: 511,378 632,380 633,421 511,420

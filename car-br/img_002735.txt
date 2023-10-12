@@ -1,0 +1,4 @@
+type: car
+plate: PPR3512
+layout: Brazilian
+corners: 685,331 810,333 813,374 688,373

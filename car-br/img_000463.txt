@@ -1,0 +1,4 @@
+type: car
+plate: PPO8297
+layout: Brazilian
+corners: 675,243 776,243 775,276 676,278

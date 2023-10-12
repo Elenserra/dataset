@@ -1,0 +1,4 @@
+type: car
+plate: PPM2800
+layout: Brazilian
+corners: 815,311 950,307 954,353 815,356

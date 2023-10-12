@@ -1,0 +1,4 @@
+type: car
+plate: OVF6363
+layout: Brazilian
+corners: 681,270 800,271 800,313 684,309

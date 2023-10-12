@@ -1,0 +1,4 @@
+type: car
+plate: GAY6020
+layout: Brazilian
+corners: 501,343 621,343 622,385 501,385

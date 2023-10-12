@@ -1,0 +1,4 @@
+type: car
+plate: MTS3127
+layout: Brazilian
+corners: 856,158 953,157 954,191 857,191

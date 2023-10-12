@@ -1,0 +1,4 @@
+type: car
+plate: MQP3776
+layout: Brazilian
+corners: 660,335 788,341 789,383 662,377

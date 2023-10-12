@@ -1,0 +1,4 @@
+type: car
+plate: AEH6622
+layout: Brazilian
+corners: 709,367 845,364 848,408 711,410

@@ -1,0 +1,4 @@
+type: car
+plate: PPW2480
+layout: Brazilian
+corners: 506,409 639,409 640,457 508,456

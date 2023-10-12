@@ -1,0 +1,4 @@
+type: car
+plate: PPA7825
+layout: Brazilian
+corners: 982,113 1063,110 1065,138 982,140

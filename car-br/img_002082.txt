@@ -1,0 +1,4 @@
+type: car
+plate: OYE1719
+layout: Brazilian
+corners: 847,102 917,102 917,125 847,126
