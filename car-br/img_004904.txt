@@ -1,0 +1,4 @@
+type: car
+plate: MSO3703
+layout: Brazilian
+corners: 888,47 979,45 981,77 890,77

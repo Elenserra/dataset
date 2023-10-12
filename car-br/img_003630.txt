@@ -1,0 +1,4 @@
+type: car
+plate: OYG3856
+layout: Brazilian
+corners: 838,316 965,316 967,357 840,358

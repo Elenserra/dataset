@@ -1,0 +1,4 @@
+type: car
+plate: HBZ5720
+layout: Brazilian
+corners: 926,246 1039,242 1040,283 927,286

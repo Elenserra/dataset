@@ -1,0 +1,4 @@
+type: car
+plate: ODC9360
+layout: Brazilian
+corners: 748,330 882,326 887,369 750,372

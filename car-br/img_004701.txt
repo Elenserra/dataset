@@ -1,0 +1,4 @@
+type: car
+plate: MSU7019
+layout: Brazilian
+corners: 886,234 999,231 1001,272 888,275

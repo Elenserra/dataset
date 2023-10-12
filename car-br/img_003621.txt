@@ -1,0 +1,4 @@
+type: car
+plate: ODP4300
+layout: Brazilian
+corners: 719,284 854,283 856,329 720,328

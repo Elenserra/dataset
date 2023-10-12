@@ -1,0 +1,4 @@
+type: car
+plate: PPD6907
+layout: Brazilian
+corners: 814,315 947,313 950,359 816,361

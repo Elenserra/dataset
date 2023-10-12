@@ -1,0 +1,4 @@
+type: car
+plate: EFV5471
+layout: Brazilian
+corners: 720,251 834,249 837,282 723,284

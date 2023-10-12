@@ -1,0 +1,4 @@
+type: car
+plate: ODR2347
+layout: Brazilian
+corners: 585,347 714,345 715,390 585,390

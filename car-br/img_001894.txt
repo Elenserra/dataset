@@ -1,0 +1,4 @@
+type: car
+plate: QON7387
+layout: Brazilian
+corners: 808,81 874,80 874,103 808,103

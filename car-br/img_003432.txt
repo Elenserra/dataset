@@ -1,0 +1,4 @@
+type: car
+plate: PPC9436
+layout: Brazilian
+corners: 902,70 981,71 981,98 903,98

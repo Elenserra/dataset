@@ -1,0 +1,4 @@
+type: car
+plate: MSN9329
+layout: Brazilian
+corners: 394,400 515,404 516,448 394,444

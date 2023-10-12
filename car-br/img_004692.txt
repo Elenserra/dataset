@@ -1,0 +1,4 @@
+type: car
+plate: CZA6440
+layout: Brazilian
+corners: 812,315 943,312 945,356 814,357

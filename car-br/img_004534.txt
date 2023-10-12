@@ -1,0 +1,4 @@
+type: car
+plate: MTW3833
+layout: Brazilian
+corners: 998,24 1068,21 1070,46 1000,48

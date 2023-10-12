@@ -1,0 +1,4 @@
+type: car
+plate: PPO6441
+layout: Brazilian
+corners: 840,262 963,260 965,302 840,305

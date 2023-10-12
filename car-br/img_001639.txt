@@ -1,0 +1,4 @@
+type: car
+plate: ODE1235
+layout: Brazilian
+corners: 574,347 702,348 703,392 573,390

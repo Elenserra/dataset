@@ -1,0 +1,4 @@
+type: car
+plate: OYJ3918
+layout: Brazilian
+corners: 447,408 580,410 581,447 448,446

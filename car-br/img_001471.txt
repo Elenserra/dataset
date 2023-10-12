@@ -1,0 +1,4 @@
+type: car
+plate: MRZ3529
+layout: Brazilian
+corners: 534,374 660,375 660,418 534,418

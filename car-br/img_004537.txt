@@ -1,0 +1,4 @@
+type: car
+plate: PPX0709
+layout: Brazilian
+corners: 1067,69 1134,67 1136,91 1067,93

@@ -1,0 +1,4 @@
+type: car
+plate: MTS5534
+layout: Brazilian
+corners: 890,140 983,136 986,167 892,171

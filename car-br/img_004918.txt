@@ -1,0 +1,4 @@
+type: car
+plate: PYC1933
+layout: Brazilian
+corners: 959,93 1044,89 1047,117 960,121

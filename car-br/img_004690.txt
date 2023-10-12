@@ -1,0 +1,4 @@
+type: car
+plate: PPD4235
+layout: Brazilian
+corners: 1032,88 1106,88 1108,113 1032,114

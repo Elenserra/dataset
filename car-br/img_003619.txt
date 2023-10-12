@@ -1,0 +1,4 @@
+type: car
+plate: QRD6529
+layout: Brazilian
+corners: 784,332 920,328 923,375 785,375

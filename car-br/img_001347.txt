@@ -1,0 +1,4 @@
+type: car
+plate: MPT0582
+layout: Brazilian
+corners: 911,204 1015,202 1015,234 912,236

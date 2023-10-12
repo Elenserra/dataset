@@ -1,0 +1,4 @@
+type: car
+plate: PPP9897
+layout: Brazilian
+corners: 685,226 780,226 780,260 685,260

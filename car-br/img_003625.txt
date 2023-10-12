@@ -1,0 +1,4 @@
+type: car
+plate: MSK0430
+layout: Brazilian
+corners: 784,276 890,275 891,310 784,310

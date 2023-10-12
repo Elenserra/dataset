@@ -1,0 +1,4 @@
+type: car
+plate: PPY2857
+layout: Brazilian
+corners: 842,222 960,218 964,257 844,261

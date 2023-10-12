@@ -1,0 +1,4 @@
+type: car
+plate: PPN4120
+layout: Brazilian
+corners: 937,198 1036,195 1038,231 936,233

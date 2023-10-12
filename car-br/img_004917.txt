@@ -1,0 +1,4 @@
+type: car
+plate: ODA7867
+layout: Brazilian
+corners: 1022,127 1110,123 1111,153 1023,156

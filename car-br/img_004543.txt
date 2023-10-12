@@ -1,0 +1,4 @@
+type: car
+plate: OYJ5374
+layout: Brazilian
+corners: 776,321 908,319 910,364 776,365

@@ -1,0 +1,4 @@
+type: car
+plate: MTS4169
+layout: Brazilian
+corners: 827,381 959,381 961,423 828,424

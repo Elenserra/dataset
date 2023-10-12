@@ -1,0 +1,4 @@
+type: car
+plate: PPG0223
+layout: Brazilian
+corners: 559,378 682,379 681,419 559,417
