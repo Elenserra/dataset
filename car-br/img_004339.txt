@@ -1,0 +1,4 @@
+type: car
+plate: PPU2348
+layout: Brazilian
+corners: 787,218 895,214 901,245 793,247

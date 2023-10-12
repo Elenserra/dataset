@@ -1,0 +1,4 @@
+type: car
+plate: NQP2386
+layout: Brazilian
+corners: 1003,135 1097,132 1099,164 1004,165

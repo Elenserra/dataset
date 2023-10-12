@@ -1,0 +1,4 @@
+type: car
+plate: ODM6350
+layout: Brazilian
+corners: 825,150 919,150 921,182 826,182

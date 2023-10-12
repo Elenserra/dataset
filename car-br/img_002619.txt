@@ -1,0 +1,4 @@
+type: car
+plate: OVF7767
+layout: Brazilian
+corners: 862,153 958,155 957,188 862,186

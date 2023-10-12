@@ -1,0 +1,4 @@
+type: car
+plate: HNX8299
+layout: Brazilian
+corners: 494,372 623,373 624,414 495,413

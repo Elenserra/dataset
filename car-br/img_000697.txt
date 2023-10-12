@@ -1,0 +1,4 @@
+type: car
+plate: NZT9498
+layout: Brazilian
+corners: 514,376 639,379 643,422 518,419
