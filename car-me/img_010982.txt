@@ -1,0 +1,4 @@
+type: car
+plate: MQD8H53
+layout: Mercosur
+corners: 586,407 714,408 715,447 589,446

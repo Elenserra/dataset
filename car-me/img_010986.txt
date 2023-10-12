@@ -1,0 +1,4 @@
+type: car
+plate: ODB7H71
+layout: Mercosur
+corners: 449,400 575,402 576,440 453,437

@@ -1,0 +1,4 @@
+type: car
+plate: ODQ3G38
+layout: Mercosur
+corners: 803,339 937,337 940,381 804,384

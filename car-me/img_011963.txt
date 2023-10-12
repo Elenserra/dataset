@@ -1,0 +1,4 @@
+type: car
+plate: QRE2A44
+layout: Mercosur
+corners: 431,330 557,331 561,372 432,371

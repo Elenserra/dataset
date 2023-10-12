@@ -1,0 +1,4 @@
+type: car
+plate: PPP5C23
+layout: Mercosur
+corners: 673,305 796,306 796,347 676,345

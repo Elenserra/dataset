@@ -1,0 +1,4 @@
+type: car
+plate: PPY0I10
+layout: Mercosur
+corners: 472,349 603,349 606,394 474,392

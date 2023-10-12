@@ -1,0 +1,4 @@
+type: car
+plate: DPJ4B01
+layout: Mercosur
+corners: 611,322 724,321 728,357 613,356

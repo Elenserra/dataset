@@ -1,0 +1,4 @@
+type: car
+plate: ODN9J18
+layout: Mercosur
+corners: 599,335 730,337 731,379 602,376
