@@ -1,0 +1,4 @@
+type: car
+plate: BCD2302
+layout: Brazilian
+corners: 517,431 647,427 653,473 519,477

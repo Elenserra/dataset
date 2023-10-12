@@ -1,0 +1,4 @@
+type: car
+plate: PPZ3525
+layout: Brazilian
+corners: 520,433 648,434 648,477 521,474

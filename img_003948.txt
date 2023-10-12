@@ -1,0 +1,4 @@
+type: car
+plate: OYK3724
+layout: Brazilian
+corners: 867,194 977,188 982,225 870,230

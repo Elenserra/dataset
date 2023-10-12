@@ -1,0 +1,4 @@
+type: car
+plate: KRN5890
+layout: Brazilian
+corners: 920,164 1013,161 1017,193 922,196

@@ -1,0 +1,4 @@
+type: car
+plate: ODR4806
+layout: Brazilian
+corners: 972,69 1053,68 1056,97 973,97

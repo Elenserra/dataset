@@ -1,0 +1,4 @@
+type: car
+plate: FAZ6945
+layout: Brazilian
+corners: 828,271 951,269 953,310 830,312

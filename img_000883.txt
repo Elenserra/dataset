@@ -1,0 +1,4 @@
+type: car
+plate: MSF4013
+layout: Brazilian
+corners: 587,407 714,406 715,451 588,450

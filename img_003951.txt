@@ -1,0 +1,4 @@
+type: car
+plate: MOX9885
+layout: Brazilian
+corners: 781,348 910,348 914,393 782,391

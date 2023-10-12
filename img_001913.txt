@@ -1,0 +1,4 @@
+type: car
+plate: MPO7261
+layout: Brazilian
+corners: 698,284 825,281 831,317 703,318

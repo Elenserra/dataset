@@ -1,0 +1,4 @@
+type: car
+plate: OVL7699
+layout: Brazilian
+corners: 856,312 988,308 991,354 858,357

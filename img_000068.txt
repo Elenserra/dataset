@@ -1,0 +1,4 @@
+type: car
+plate: MRG9742
+layout: Brazilian
+corners: 582,419 708,415 712,458 585,461

@@ -1,0 +1,4 @@
+type: car
+plate: MSA7262
+layout: Brazilian
+corners: 513,405 640,407 641,450 513,450

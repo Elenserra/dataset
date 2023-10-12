@@ -1,0 +1,4 @@
+type: car
+plate: OPT5840
+layout: Brazilian
+corners: 439,461 578,463 577,512 438,509

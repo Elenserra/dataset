@@ -1,0 +1,4 @@
+type: car
+plate: ODD1433
+layout: Brazilian
+corners: 520,344 641,344 643,386 520,385

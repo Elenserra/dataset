@@ -1,0 +1,4 @@
+type: car
+plate: OYI6109
+layout: Brazilian
+corners: 757,351 894,347 899,393 760,397

@@ -1,0 +1,4 @@
+type: car
+plate: LME8233
+layout: Brazilian
+corners: 904,224 1006,221 1008,258 904,259

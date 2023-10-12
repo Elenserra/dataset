@@ -1,0 +1,4 @@
+type: car
+plate: PPV5029
+layout: Brazilian
+corners: 771,322 908,319 910,370 772,369

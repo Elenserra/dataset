@@ -1,0 +1,4 @@
+type: car
+plate: MPF4454
+layout: Brazilian
+corners: 564,429 687,427 689,465 567,466

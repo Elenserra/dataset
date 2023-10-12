@@ -1,0 +1,4 @@
+type: car
+plate: MTE1360
+layout: Brazilian
+corners: 572,372 692,374 692,415 572,412

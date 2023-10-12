@@ -1,0 +1,4 @@
+type: car
+plate: PPR5071
+layout: Brazilian
+corners: 564,392 688,392 688,432 564,431

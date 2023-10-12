@@ -1,0 +1,4 @@
+type: car
+plate: AKE0129
+layout: Brazilian
+corners: 523,477 647,478 647,518 523,517

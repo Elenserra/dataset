@@ -1,0 +1,4 @@
+type: car
+plate: MTE1664
+layout: Brazilian
+corners: 603,403 727,401 728,444 603,445

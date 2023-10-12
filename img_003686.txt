@@ -1,0 +1,4 @@
+type: car
+plate: ODC5618
+layout: Brazilian
+corners: 842,340 975,338 980,382 842,384

@@ -1,0 +1,4 @@
+type: car
+plate: PPN3181
+layout: Brazilian
+corners: 518,426 653,429 652,477 519,473

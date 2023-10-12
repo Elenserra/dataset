@@ -1,0 +1,4 @@
+type: car
+plate: PPF8122
+layout: Brazilian
+corners: 553,408 682,407 685,450 555,451

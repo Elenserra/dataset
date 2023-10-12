@@ -1,0 +1,4 @@
+type: car
+plate: PPN7168
+layout: Brazilian
+corners: 522,385 646,384 647,426 521,426

@@ -1,0 +1,4 @@
+type: car
+plate: EQT0490
+layout: Brazilian
+corners: 754,212 872,210 877,249 757,252

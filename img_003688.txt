@@ -1,0 +1,4 @@
+type: car
+plate: OYF8679
+layout: Brazilian
+corners: 763,345 897,342 900,387 765,389

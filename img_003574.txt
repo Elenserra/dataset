@@ -1,0 +1,4 @@
+type: car
+plate: ODC0003
+layout: Brazilian
+corners: 776,275 910,271 914,316 779,319

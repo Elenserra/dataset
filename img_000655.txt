@@ -1,0 +1,4 @@
+type: car
+plate: KRQ3553
+layout: Brazilian
+corners: 780,150 888,146 889,181 782,185

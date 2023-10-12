@@ -1,0 +1,4 @@
+type: car
+plate: QQA4798
+layout: Brazilian
+corners: 816,331 951,329 954,373 819,372

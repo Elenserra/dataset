@@ -1,0 +1,4 @@
+type: car
+plate: NVR2465
+layout: Brazilian
+corners: 866,202 968,201 969,237 865,237

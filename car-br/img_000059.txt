@@ -1,0 +1,4 @@
+type: car
+plate: ODF4990
+layout: Brazilian
+corners: 530,405 652,406 653,446 530,443
