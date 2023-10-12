@@ -1,0 +1,4 @@
+type: car
+plate: MTW3255
+layout: Brazilian
+corners: 581,398 710,399 710,443 581,442

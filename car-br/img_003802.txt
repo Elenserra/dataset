@@ -1,0 +1,4 @@
+type: car
+plate: LOR8767
+layout: Brazilian
+corners: 794,316 929,316 929,362 795,362

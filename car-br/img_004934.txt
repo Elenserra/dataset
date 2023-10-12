@@ -1,0 +1,4 @@
+type: car
+plate: ODI4446
+layout: Brazilian
+corners: 973,178 1071,174 1073,206 975,210

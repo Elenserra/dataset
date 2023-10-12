@@ -1,0 +1,4 @@
+type: car
+plate: PPG0978
+layout: Brazilian
+corners: 521,300 648,298 649,342 522,343

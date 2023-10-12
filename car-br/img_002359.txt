@@ -1,0 +1,4 @@
+type: car
+plate: PUA1686
+layout: Brazilian
+corners: 494,318 621,318 624,361 497,361

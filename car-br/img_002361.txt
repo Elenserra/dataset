@@ -1,0 +1,4 @@
+type: car
+plate: KOO9144
+layout: Brazilian
+corners: 446,366 578,366 582,412 448,410

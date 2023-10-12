@@ -1,0 +1,4 @@
+type: car
+plate: PPG1492
+layout: Brazilian
+corners: 788,355 925,352 929,398 788,400

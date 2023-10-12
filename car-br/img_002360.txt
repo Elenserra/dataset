@@ -1,0 +1,4 @@
+type: car
+plate: MQS2638
+layout: Brazilian
+corners: 565,319 696,313 699,357 569,364

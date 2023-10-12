@@ -1,0 +1,4 @@
+type: car
+plate: QPB2262
+layout: Brazilian
+corners: 746,251 863,246 867,283 751,287

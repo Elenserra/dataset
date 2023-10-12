@@ -1,0 +1,4 @@
+type: car
+plate: ODC7574
+layout: Brazilian
+corners: 554,299 682,297 684,341 557,343

@@ -1,0 +1,4 @@
+type: car
+plate: MPD8424
+layout: Brazilian
+corners: 1006,120 1089,116 1090,145 1007,148

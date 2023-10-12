@@ -1,0 +1,4 @@
+type: car
+plate: QPO9898
+layout: Brazilian
+corners: 1092,75 1165,73 1166,98 1092,100
