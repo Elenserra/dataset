@@ -1,0 +1,4 @@
+type: car
+plate: KPL1606
+layout: Brazilian
+corners: 688,111 777,110 779,142 688,142

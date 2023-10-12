@@ -1,0 +1,4 @@
+type: car
+plate: PPU5870
+layout: Brazilian
+corners: 683,337 822,345 819,394 682,386

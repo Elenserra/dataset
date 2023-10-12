@@ -1,0 +1,4 @@
+type: car
+plate: PPK2695
+layout: Brazilian
+corners: 630,258 756,260 756,302 632,300

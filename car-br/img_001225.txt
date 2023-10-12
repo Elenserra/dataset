@@ -1,0 +1,4 @@
+type: car
+plate: OYJ3909
+layout: Brazilian
+corners: 751,101 825,100 825,126 751,127

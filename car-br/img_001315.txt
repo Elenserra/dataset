@@ -1,0 +1,4 @@
+type: car
+plate: PPC7852
+layout: Brazilian
+corners: 874,249 987,247 987,283 875,285

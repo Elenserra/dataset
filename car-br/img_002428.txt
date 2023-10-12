@@ -1,0 +1,4 @@
+type: car
+plate: ODE6294
+layout: Brazilian
+corners: 387,339 517,342 520,386 388,383

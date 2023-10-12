@@ -1,0 +1,4 @@
+type: car
+plate: ODL9707
+layout: Brazilian
+corners: 738,336 870,336 872,378 739,380

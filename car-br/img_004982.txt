@@ -1,0 +1,4 @@
+type: car
+plate: MSN9156
+layout: Brazilian
+corners: 694,336 828,345 827,390 693,379

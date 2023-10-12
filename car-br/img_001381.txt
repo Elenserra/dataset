@@ -1,0 +1,4 @@
+type: car
+plate: OCW3401
+layout: Brazilian
+corners: 556,420 688,420 689,464 556,465

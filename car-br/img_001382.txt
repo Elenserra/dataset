@@ -1,0 +1,4 @@
+type: car
+plate: JPM4675
+layout: Brazilian
+corners: 487,386 614,386 614,428 488,428

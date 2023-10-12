@@ -1,0 +1,4 @@
+type: car
+plate: PUU8574
+layout: Brazilian
+corners: 591,335 723,343 723,390 593,382

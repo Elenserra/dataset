@@ -1,0 +1,4 @@
+type: car
+plate: MSB1993
+layout: Brazilian
+corners: 632,310 741,310 742,347 634,346

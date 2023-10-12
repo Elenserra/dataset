@@ -1,0 +1,4 @@
+type: car
+plate: MSI1682
+layout: Brazilian
+corners: 820,348 954,347 958,394 821,394

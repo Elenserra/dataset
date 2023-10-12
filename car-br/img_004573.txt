@@ -1,0 +1,4 @@
+type: car
+plate: MTT3179
+layout: Brazilian
+corners: 817,332 949,330 952,377 815,377

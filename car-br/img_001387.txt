@@ -1,0 +1,4 @@
+type: car
+plate: OVF8199
+layout: Brazilian
+corners: 566,397 688,398 688,439 567,437
