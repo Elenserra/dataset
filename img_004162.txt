@@ -1,0 +1,4 @@
+type: car
+plate: KMN5130
+layout: Brazilian
+corners: 799,296 936,291 940,340 802,343

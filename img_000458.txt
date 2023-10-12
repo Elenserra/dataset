@@ -1,0 +1,4 @@
+type: car
+plate: MSP0900
+layout: Brazilian
+corners: 416,429 545,429 548,476 418,476

@@ -1,0 +1,4 @@
+type: car
+plate: MSB4766
+layout: Brazilian
+corners: 597,338 716,338 716,380 597,379
