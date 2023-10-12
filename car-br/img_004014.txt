@@ -1,0 +1,4 @@
+type: car
+plate: PPD0143
+layout: Brazilian
+corners: 821,251 942,249 945,289 821,291

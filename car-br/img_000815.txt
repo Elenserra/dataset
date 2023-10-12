@@ -1,0 +1,4 @@
+type: car
+plate: OYE8828
+layout: Brazilian
+corners: 448,391 572,390 574,433 451,433

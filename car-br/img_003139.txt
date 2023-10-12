@@ -1,0 +1,4 @@
+type: car
+plate: ODH4015
+layout: Brazilian
+corners: 603,309 728,312 727,354 604,352

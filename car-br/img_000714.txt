@@ -1,0 +1,4 @@
+type: car
+plate: OYI5319
+layout: Brazilian
+corners: 681,257 780,255 781,289 683,290

@@ -1,0 +1,4 @@
+type: car
+plate: MQF4179
+layout: Brazilian
+corners: 939,122 1018,119 1020,147 940,148

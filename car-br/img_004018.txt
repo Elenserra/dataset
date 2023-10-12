@@ -1,0 +1,4 @@
+type: car
+plate: OYD9503
+layout: Brazilian
+corners: 772,351 907,348 909,390 775,394

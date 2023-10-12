@@ -1,0 +1,4 @@
+type: car
+plate: MTN9701
+layout: Brazilian
+corners: 652,337 787,342 787,386 654,383

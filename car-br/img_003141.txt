@@ -1,0 +1,4 @@
+type: car
+plate: PPP2642
+layout: Brazilian
+corners: 569,336 697,339 698,381 569,378

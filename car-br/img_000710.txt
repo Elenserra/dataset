@@ -1,0 +1,4 @@
+type: car
+plate: QRD1576
+layout: Brazilian
+corners: 536,419 668,419 668,465 537,463

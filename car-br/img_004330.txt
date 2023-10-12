@@ -1,0 +1,4 @@
+type: car
+plate: KOX5667
+layout: Brazilian
+corners: 700,353 830,350 837,393 701,395

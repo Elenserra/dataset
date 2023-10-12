@@ -1,0 +1,4 @@
+type: car
+plate: QPW4094
+layout: Brazilian
+corners: 766,338 903,334 906,378 766,382

@@ -1,0 +1,4 @@
+type: car
+plate: QRC9801
+layout: Brazilian
+corners: 543,407 671,408 672,453 544,452
