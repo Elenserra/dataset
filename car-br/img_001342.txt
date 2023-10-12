@@ -1,0 +1,4 @@
+type: car
+plate: GOW7229
+layout: Brazilian
+corners: 451,329 577,329 578,369 452,369

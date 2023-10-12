@@ -1,0 +1,4 @@
+type: car
+plate: PPX8276
+layout: Brazilian
+corners: 568,382 693,382 695,425 569,425

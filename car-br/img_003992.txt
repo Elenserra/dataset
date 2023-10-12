@@ -1,0 +1,4 @@
+type: car
+plate: MPM0766
+layout: Brazilian
+corners: 727,368 859,362 866,404 731,409

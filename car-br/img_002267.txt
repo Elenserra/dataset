@@ -1,0 +1,4 @@
+type: car
+plate: PKI3355
+layout: Brazilian
+corners: 442,367 560,367 560,409 442,409

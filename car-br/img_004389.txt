@@ -1,0 +1,4 @@
+type: car
+plate: ODQ1283
+layout: Brazilian
+corners: 794,336 926,333 930,377 796,380

@@ -1,0 +1,4 @@
+type: car
+plate: ODF8239
+layout: Brazilian
+corners: 474,321 592,321 593,360 475,360

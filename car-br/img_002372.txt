@@ -1,0 +1,4 @@
+type: car
+plate: LPF4692
+layout: Brazilian
+corners: 600,145 697,142 700,175 601,178

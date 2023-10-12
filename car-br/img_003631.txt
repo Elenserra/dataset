@@ -1,0 +1,4 @@
+type: car
+plate: MTY3272
+layout: Brazilian
+corners: 802,279 930,273 932,317 802,322

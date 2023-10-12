@@ -1,0 +1,4 @@
+type: car
+plate: OYE7272
+layout: Brazilian
+corners: 750,273 887,268 892,311 755,314

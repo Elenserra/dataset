@@ -1,0 +1,4 @@
+type: car
+plate: MPO3605
+layout: Brazilian
+corners: 844,314 966,309 968,349 844,353

@@ -1,0 +1,4 @@
+type: car
+plate: ELQ6596
+layout: Brazilian
+corners: 576,395 697,395 699,437 575,436

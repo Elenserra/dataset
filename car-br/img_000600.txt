@@ -1,0 +1,4 @@
+type: car
+plate: JHS7566
+layout: Brazilian
+corners: 484,373 611,371 615,416 485,418

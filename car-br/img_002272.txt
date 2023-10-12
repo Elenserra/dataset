@@ -1,0 +1,4 @@
+type: car
+plate: PPH5379
+layout: Brazilian
+corners: 818,121 892,121 892,147 818,147

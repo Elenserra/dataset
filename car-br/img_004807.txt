@@ -1,0 +1,4 @@
+type: car
+plate: PPU1196
+layout: Brazilian
+corners: 989,218 1096,215 1100,253 991,255

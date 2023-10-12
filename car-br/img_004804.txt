@@ -1,0 +1,4 @@
+type: car
+plate: MQO8460
+layout: Brazilian
+corners: 871,317 998,312 1003,354 874,358

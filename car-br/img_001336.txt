@@ -1,0 +1,4 @@
+type: car
+plate: MSR1117
+layout: Brazilian
+corners: 489,408 614,409 614,453 489,451

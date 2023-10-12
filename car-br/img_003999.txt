@@ -1,0 +1,4 @@
+type: car
+plate: PPD1718
+layout: Brazilian
+corners: 865,273 987,272 989,314 866,314

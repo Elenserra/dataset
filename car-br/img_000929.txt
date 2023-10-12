@@ -1,0 +1,4 @@
+type: car
+plate: MPL6953
+layout: Brazilian
+corners: 536,408 664,408 664,451 536,450

@@ -1,0 +1,4 @@
+type: car
+plate: PPW2400
+layout: Brazilian
+corners: 593,326 713,327 714,368 595,367

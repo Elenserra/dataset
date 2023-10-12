@@ -1,0 +1,4 @@
+type: car
+plate: ODK0482
+layout: Brazilian
+corners: 629,334 741,334 742,370 631,371

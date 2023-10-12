@@ -1,0 +1,4 @@
+type: car
+plate: OVI1745
+layout: Brazilian
+corners: 850,316 986,312 988,358 851,361

@@ -1,0 +1,4 @@
+type: car
+plate: OYK1804
+layout: Brazilian
+corners: 782,346 919,346 922,393 783,391

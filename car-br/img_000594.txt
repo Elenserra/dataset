@@ -1,0 +1,4 @@
+type: car
+plate: MPM5666
+layout: Brazilian
+corners: 555,412 680,411 682,449 556,450

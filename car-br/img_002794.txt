@@ -1,0 +1,4 @@
+type: car
+plate: PPO1167
+layout: Brazilian
+corners: 598,283 712,281 713,320 599,322

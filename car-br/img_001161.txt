@@ -1,0 +1,4 @@
+type: car
+plate: MSX7576
+layout: Brazilian
+corners: 634,289 737,288 738,324 635,325

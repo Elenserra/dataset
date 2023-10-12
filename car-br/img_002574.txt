@@ -1,0 +1,4 @@
+type: car
+plate: PPW7557
+layout: Brazilian
+corners: 587,391 718,396 720,446 590,442

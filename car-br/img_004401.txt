@@ -1,0 +1,4 @@
+type: car
+plate: MSY7148
+layout: Brazilian
+corners: 770,343 903,342 907,389 770,387

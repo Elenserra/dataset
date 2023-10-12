@@ -1,0 +1,4 @@
+type: car
+plate: EVZ7529
+layout: Brazilian
+corners: 579,398 697,398 698,436 580,435

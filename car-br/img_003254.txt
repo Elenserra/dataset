@@ -1,0 +1,4 @@
+type: car
+plate: ODN5899
+layout: Brazilian
+corners: 1041,619 1211,593 1206,650 1033,683

@@ -1,0 +1,4 @@
+type: car
+plate: ELB8864
+layout: Brazilian
+corners: 567,336 680,337 681,375 568,374

@@ -1,0 +1,4 @@
+type: car
+plate: CRY7237
+layout: Brazilian
+corners: 716,315 839,312 842,356 718,359

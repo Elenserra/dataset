@@ -1,0 +1,4 @@
+type: car
+plate: EUP5500
+layout: Brazilian
+corners: 995,123 1077,119 1079,146 996,148

@@ -1,0 +1,4 @@
+type: car
+plate: HCQ3053
+layout: Brazilian
+corners: 588,385 713,385 713,427 589,427

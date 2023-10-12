@@ -1,0 +1,4 @@
+type: car
+plate: PPL5238
+layout: Brazilian
+corners: 477,420 601,421 606,463 480,462

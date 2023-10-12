@@ -1,0 +1,4 @@
+type: car
+plate: QQE2608
+layout: Brazilian
+corners: 509,563 679,566 684,629 510,623

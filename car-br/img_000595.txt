@@ -1,0 +1,4 @@
+type: car
+plate: PPZ0595
+layout: Brazilian
+corners: 558,377 682,379 684,422 560,421

@@ -1,0 +1,4 @@
+type: car
+plate: MQI4385
+layout: Brazilian
+corners: 779,196 896,191 899,233 781,236

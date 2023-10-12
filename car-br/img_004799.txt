@@ -1,0 +1,4 @@
+type: car
+plate: KZH5179
+layout: Brazilian
+corners: 876,256 990,253 994,293 879,296

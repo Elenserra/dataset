@@ -1,0 +1,4 @@
+type: car
+plate: ODL9687
+layout: Brazilian
+corners: 1052,82 1125,81 1128,106 1052,107

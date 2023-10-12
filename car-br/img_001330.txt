@@ -1,0 +1,4 @@
+type: car
+plate: PPQ8660
+layout: Brazilian
+corners: 642,238 751,237 752,273 643,272

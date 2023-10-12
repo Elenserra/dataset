@@ -1,0 +1,4 @@
+type: car
+plate: LRW8742
+layout: Brazilian
+corners: 955,203 1058,201 1060,235 955,237

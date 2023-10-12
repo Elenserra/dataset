@@ -1,0 +1,4 @@
+type: car
+plate: PPO5990
+layout: Brazilian
+corners: 635,307 741,307 742,345 635,343

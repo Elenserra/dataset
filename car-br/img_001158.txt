@@ -1,0 +1,4 @@
+type: car
+plate: MRZ2093
+layout: Brazilian
+corners: 606,335 720,334 721,373 607,373
